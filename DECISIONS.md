@@ -1,6 +1,6 @@
 # DECISIONS.md
 
-Your evidence of judgement. Every time you keep, change or reject something the AI produced that ends up in your project, it goes here. Claude adds entries when it notices a decision and asks you why. You can add one any time with `/decide`.
+Your evidence of judgement. Claude adds an entry when a decision happens (the three triggers are in `CLAUDE.md`, rule 2) and asks you why. One entry per working session. You can add one any time with `/decide`.
 
 Over the year this becomes the record of what was yours.
 

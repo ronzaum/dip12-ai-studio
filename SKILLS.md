@@ -22,6 +22,8 @@ A skill is a markdown file of instructions you run with `/name`. It makes a task
 | `/artifact` | Turns work into a one-page visual in `outputs/`, styled by `TASTE.md`. | New for this course |
 | `/decide` | Logs what AI gave vs what you chose, and why. | New for this course |
 | `/familiar` | Searches your Familiar screen history. | From Familiar (third party) |
+| `/superpower` | Three ways to make what you're building better without making it bigger. | Ron's (`superman`), adapted |
+| `/caveman` | Shorter replies, fewer tokens. On by default in lite. Say `normal mode` to switch off. | Third party (Julius Brussee, MIT) |
 
 **The loop:** `/explore` → `/gather` → `/consult` → `/artifact` → `/decide` → `/commit`
 **For bigger tasks:** `/explore` → `/create-plan` → `/execute` → `/review`
@@ -68,7 +70,6 @@ These come with Claude (Anthropic). Use them by asking in plain words.
 
 | Skill | Use it for |
 |---|---|
-| `skill-creator` | **Writing your own skills.** Start here when you notice you've done a task three times. |
 | `deep-research` | Thorough research across many sources, written up as a report. |
 | `import-memory` | Bring what ChatGPT or another assistant knows about you into Claude. |
 | `pdf`, `docx`, `pptx`, `xlsx` | Read and make PDF, Word, PowerPoint and Excel files. |
@@ -78,7 +79,7 @@ These come with Claude (Anthropic). Use them by asking in plain words.
 ## WRITE YOUR OWN
 
 1. Notice a task you repeat (e.g. "turn my week's photos into a progress page").
-2. Ask: `Use skill-creator to help me write a skill for <task>.`
-3. Save it in `.claude/skills/<name>/SKILL.md`.
+2. `/explore` it: what goes in, what comes out, where it goes wrong by hand.
+3. `/create-plan` the skill. Save it as `.claude/skills/<name>/SKILL.md` and add a row to the table above.
 4. Run it three times. Fix what went wrong each time.
 5. Share it with someone in the unit. Their version will be different. That's the point.

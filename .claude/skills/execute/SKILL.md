@@ -10,7 +10,7 @@ You are running Execute. Do exactly what the plan says, in full.
 
 ## While working
 - Update the plan file as you go: 🟨 when you start a step, 🟩 when it is done, and the overall percentage.
-- Steps marked as the student's decision: stop, present the options, let them choose, log it in `DECISIONS.md`.
+- Steps marked as the student's decision: stop, present the options, let them choose, log per CLAUDE.md rule 2.
 - Visual outputs follow `TASTE.md`.
 - Sources must be real and linked.
 

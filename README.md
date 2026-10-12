@@ -82,6 +82,8 @@ Choose **3 texts, 3 institutions, 3 experts** that can guide your project. Then 
 
 **Many chats at once.** Open a second chat in the same folder and give it a different job: one gathers, one reviews. They share the repo, not the conversation.
 
+**Short replies.** Claude answers tersely here by default to save tokens (Caveman lite, see `SKILLS.md`). Say `normal mode` to switch it off.
+
 ---
 
 ## RULES
@@ -99,7 +101,7 @@ Choose **3 texts, 3 institutions, 3 experts** that can guide your project. Then 
 | Folder | What goes in |
 |---|---|
 | `project/` | `brief.md`, plus `design/`, `site/`, `research/`, `book/` (weekly photos of your physical research book) |
-| `expertise/` | `INDEX.md` (your 3/3/3), `texts/`, `institutions/`, `experts/`, `sources/` (raw material) |
+| `expertise/` | `INDEX.md` (your 3/3/3), `texts/`, `institutions/`, `experts/`, `sources/` (raw material). `README.md` there says how to add one |
 | `sessions/` | Saved `/consult` sessions |
 | `outputs/` | Visual pages made with `/artifact` |
 | `plans/` | Plans made with `/create-plan` |

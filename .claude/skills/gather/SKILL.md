@@ -13,7 +13,7 @@ Read `project/brief.md` and `expertise/INDEX.md`. Ask what they want to gather n
 - Propose 6 to 10 candidates for the category, each real and checkable, with one line on why it fits *this* project and a link.
 - Cover the brief's three areas where relevant: **design** (materials, tools, fabrication, craft, details), **theory and knowledge** (books, institutions, people), **practice** (how people work: architects, but also artists, designers, performers, activists).
 - Favour precise over famous. Say what each one adds that the others don't.
-- Ask the student to pick. Add their picks to the longlist in `expertise/INDEX.md`. Log the choice in `DECISIONS.md`.
+- Ask the student to pick. Add their picks to the longlist in `expertise/INDEX.md`. Log per CLAUDE.md rule 2 (one entry for this session).
 
 ## Step 2b: Material for one source
 For the chosen name:

@@ -25,7 +25,7 @@ Describe the page in five lines: title, lead sentence, sections, any diagram or 
 - Prints to A4. Stacks on a phone.
 
 ## Step 5: Show and iterate
-Open it: `open outputs/<file>.html` (Mac) or `start outputs\<file>.html` (Windows). Ask what to change. When they're happy, offer `/decide` for the choices they made and `/commit`.
+Open it: `open outputs/<file>.html` (Mac) or `start outputs\<file>.html` (Windows). Ask what to change. When they're happy, log the layout choices per CLAUDE.md rule 2 and offer `/commit`.
 
 ## Rules
 - Fewer, better. If the page needs scrolling to make its point, cut.

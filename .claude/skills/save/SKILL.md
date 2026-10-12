@@ -30,5 +30,5 @@ Concrete actions, not reflections.
 ## Step 2: Write and save
 - Dense, no padding. Every idea attributed.
 - "Where I landed" must reflect what the student said, not your synthesis.
-- Save as `sessions/YYYY-MM-DD-<slug>.md`. Confirm the path.
-- Add any decisions to `DECISIONS.md`.
+- Save as `sessions/YYYY-MM-DD-<slug>.md`. If `/consult` left a `draft` file for this session, overwrite it; never make a second file. Confirm the path.
+- Add decisions per CLAUDE.md rule 2.

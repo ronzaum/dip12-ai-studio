@@ -16,7 +16,7 @@ The student's working environment for the whole year: brief, sources, experts, r
 | The project in the student's words | `project/brief.md` |
 | Design, site, research material | `project/design/`, `project/site/`, `project/research/` |
 | Photos of the physical research book | `project/book/` |
-| The 3 texts, 3 institutions, 3 experts | `expertise/INDEX.md` plus one file each in `expertise/texts/`, `expertise/institutions/`, `expertise/experts/` |
+| The 3 texts, 3 institutions, 3 experts | `expertise/INDEX.md` plus one file each in `expertise/texts/`, `expertise/institutions/`, `expertise/experts/`. How to add one: `expertise/README.md` |
 | Raw source material (transcripts, notes, excerpts) | `expertise/sources/<source-slug>/` |
 | Saved consult sessions | `sessions/` |
 | Visual outputs | `outputs/` |
@@ -25,13 +25,23 @@ The student's working environment for the whole year: brief, sources, experts, r
 
 ## Working rules
 1. **Gather, Decide, Account.** You gather, compile and analyse. The student decides. Every output says which part was yours and which was theirs.
-2. **Log decisions.** A decision is any time the student keeps, changes or rejects something you produced that ends up in the project: a source chosen, a direction taken, a text kept, an image picked. When one happens, append an entry to `DECISIONS.md` (format is in that file) and ask the student one short question: why? Use their words, not yours.
+2. **Log decisions.** Append an entry to `DECISIONS.md` (format is in that file) when any of these happens:
+   - a file is written or changed with content you proposed (a source card, a brief edit, a page)
+   - the student picks from options you offered (a shortlist, layouts, directions)
+   - the student rejects something you proposed after discussion and takes another route
+
+   Not a decision: exploring in chat, fixing typos or formatting, re-running the same thing.
+
+   One entry per working session, grouping the picks made in it. Ask the student one short question: why? Use their words, not yours.
 3. **Never invent sources.** Every text, institution, expert, quote or figure must be real and checkable. Give a link or a full reference. If you are not sure something exists, say so and mark it `unverified`.
 4. **Attribute.** When an idea comes from one of their sources, name the source.
 5. **Taste over volume.** Fewer, sharper options. No generic design advice. No filler.
 6. **Visuals follow `TASTE.md`.** Any page, diagram or artifact you make uses it.
 7. **Privacy.** No passwords, no confidential material, no full copyrighted books in the repo. Notes, short quotes and links are fine.
 8. **Ask, don't assume.** If a request is ambiguous, ask before making anything.
+9. **Keep `SKILLS.md` current.** When a skill is added to `.claude/skills/`, add a row to `SKILLS.md`: name, what it does, origin.
+10. **Reply style: Caveman lite**, per `.claude/skills/caveman/SKILL.md`. Switch off when the student says `normal mode`. Always normal for email drafts and anything the student will paste elsewhere.
+11. **Book photos get a markdown.** When a photo lands in `project/book/`, write `project/book/YYYY-MM-DD-NN.md` next to it: what is on the spread, what changed since the last one, one open question for the tutorial.
 
 ## Skills
 Run with `/name`. Listed in `SKILLS.md`. The core loop: `/explore` → `/gather` → `/consult` → `/artifact` → `/decide` → `/commit`.
