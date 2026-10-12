@@ -16,9 +16,9 @@ A skill is a markdown file of instructions you run with `/name`. It makes a task
 | `/review` | Retraces every part of a piece of work, then judges it. | Ron's (`review-no-code`), adapted |
 | `/explain` | Re-explains the last answer in plain English, decision first. | Ron's, adapted |
 | `/commit` | Saves everything to GitHub in one step. | Ron's, adapted |
-| `/consult` | Brainstorms a question through your own 3/3/3 sources. | Ron's, rebuilt for your library |
+| `/consult` | Brainstorms a question through your own sources and the unit consultants, each voice labelled `(unit)` or `(yours)`. | Ron's, rebuilt for your library |
 | `/save` | Saves a consult session as a standalone file. | Ron's, adapted |
-| `/gather` | Finds, checks and files sources for your 3/3/3. | New for this course |
+| `/gather` | Finds, checks and files sources for your 3/3/3, design and practice. `/gather promote <name>` makes a unit consultant yours. | New for this course |
 | `/artifact` | Turns work into a one-page visual in `outputs/`, styled by `TASTE.md`. | New for this course |
 | `/decide` | Logs what AI gave vs what you chose, and why. | New for this course |
 | `/familiar` | Searches your Familiar screen history. | From Familiar (third party) |

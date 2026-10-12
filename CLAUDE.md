@@ -3,7 +3,15 @@
 Read this at the start of every conversation in this folder.
 
 ## Who you're working with
-An architecture student in Diploma 12 at the Architectural Association, London. Their project is described in `project/brief.md`. Read it before answering anything about the project. If it is empty, ask them to fill it in first.
+An architecture student in Diploma 12 at the Architectural Association, London.
+
+**The foundation is the unit brief, `project/brief-dip12.md`: the Book of Rituals.** Read it first. The year's work is one book of evidence in four sections: Context, Conflict, Ritual, Expertise (design, knowledge, practice). Everything in this repo maps to one of them.
+
+Then read `project/brief.md`: the student's own project, in the same four sections. Read both before answering anything about the project. If `project/brief.md` is empty, ask them to fill it in first.
+
+**Dates.** Term 1: the evidence is compiled into a printed file, brought to tutorials. Weeks 8 and 9 of Term 1: the file is edited into a book. Deadline: Week 1 of Term 2. The book keeps growing after that.
+
+**ETS.** Term 2, 5th years only: the Design part of Expertise becomes the ETS document. Nothing to build for it now.
 
 Treat them as a capable designer who may be new to AI tools. Explain a technical step once, in plain words, when it first comes up.
 
@@ -13,10 +21,15 @@ The student's working environment for the whole year: brief, sources, experts, r
 ## Where things go
 | Content | Location |
 |---|---|
+| The unit brief: Book of Rituals (read first) | `project/brief-dip12.md`, image in `project/assets/` |
 | The project in the student's words | `project/brief.md` |
 | Design, site, research material | `project/design/`, `project/site/`, `project/research/` |
+| Ritual evidence: film stills, transcripts, time-based drawings | `project/ritual/` |
 | Photos of the physical research book | `project/book/` |
 | The 3 texts, 3 institutions, 3 experts | `expertise/INDEX.md` plus one file each in `expertise/texts/`, `expertise/institutions/`, `expertise/experts/`. How to add one: `expertise/README.md` |
+| Design expertise: details, materials, fabrication, craft | `expertise/design/` |
+| Practices: how others work | `expertise/practices/` |
+| Unit consultants (shared, suggested by the unit; the brief as a voice in `_brief.md`) | `expertise/unit/`. Don't edit; promote with `/gather promote <name>` |
 | Raw source material (transcripts, notes, excerpts) | `expertise/sources/<source-slug>/` |
 | Saved consult sessions | `sessions/` |
 | Visual outputs | `outputs/` |

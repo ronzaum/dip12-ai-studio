@@ -100,8 +100,8 @@ Choose **3 texts, 3 institutions, 3 experts** that can guide your project. Then 
 
 | Folder | What goes in |
 |---|---|
-| `project/` | `brief.md`, plus `design/`, `site/`, `research/`, `book/` (weekly photos of your physical research book) |
-| `expertise/` | `INDEX.md` (your 3/3/3), `texts/`, `institutions/`, `experts/`, `sources/` (raw material). `README.md` there says how to add one |
+| `project/` | `brief-dip12.md` (the unit brief: Book of Rituals, read first), `brief.md` (your project), plus `design/`, `site/`, `research/`, `ritual/` (film stills, transcripts, time-based drawings), `book/` (weekly photos of your physical research book) |
+| `expertise/` | `INDEX.md` (your list), `texts/`, `institutions/`, `experts/` (your 3/3/3), `design/` (details, materials, craft), `practices/` (how others work), `unit/` (consultants the unit suggests, shared), `sources/` (raw material). `README.md` there says how to add one |
 | `sessions/` | Saved `/consult` sessions |
 | `outputs/` | Visual pages made with `/artifact` |
 | `plans/` | Plans made with `/create-plan` |
