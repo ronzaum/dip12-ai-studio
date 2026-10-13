@@ -1,0 +1,965 @@
+Source: Yi-Fu Tuan, 'Folklore and Place: Four Themes', plenary address at an American Folklore Society annual meeting (the meeting year is not stated in the captions; the introducer refers to his 1998 book Escapism as new); YouTube upload by the AFS 2017-06-13
+URL: https://www.youtube.com/watch?v=OSJfs0fQnJg
+Fetched: 2026-10-12 via yt-dlp --skip-download --write-auto-sub --write-sub --sub-lang en --sub-format vtt, then vtt2txt.py (YouTube auto-captions: no punctuation, errors possible)
+
+[00:00:10] David Stanley if he would come to the
+[00:00:13] podium to introduce our plenary speaker
+[00:00:25] thanks Mike good evening
+[00:00:28] I'd like to join the other Utahns
+[00:00:32] in welcoming you to Salt Lake City into
+[00:00:35] the state of Utah there are 30 odd
+[00:00:48] folklorists working in the state this is
+[00:00:49] the first meeting of the American
+[00:00:52] folklore Society held in Utah since 1978
+[00:00:55] and apparently you understand why we'd
+[00:00:58] like to welcome especially those of you
+[00:01:00] who are attending AFS for the first time
+[00:01:03] and our international colleagues from
+[00:01:06] around the world meetings of this kind
+[00:01:09] always have some unsung heroes who have
+[00:01:11] worked hard and long behind the scenes
+[00:01:14] to make things happen and in that regard
+[00:01:16] I'd like to recognize the three
+[00:01:19] folklorists from the folk arts program
+[00:01:21] of the Utah Arts Council Carole Edison
+[00:01:35] and also Randy Williams from Utah State
+[00:01:35] University
+[00:01:37] [Applause]
+[00:01:44] for their incredible hard work and their
+[00:01:46] contributions to the pre-conference
+[00:01:49] tours which many of you enjoyed today
+[00:01:51] the entertainment and dining guide is
+[00:01:54] their work the Saturday night dinner and
+[00:01:57] dance and many other local arrangements
+[00:01:59] the theme for this year's conference is
+[00:02:02] folklore in the cultural landscape Utah
+[00:02:05] is not only the repository of a long
+[00:02:07] history of folklore collection and
+[00:02:10] scholarship it's also a state with a lot
+[00:02:13] of landscape cultural and otherwise of a
+[00:02:16] most remarkable diversity and those of
+[00:02:19] you who went on the tours today know
+[00:02:22] what I mean in keeping with that theme
+[00:02:25] I'm privileged to introduce tonight
+[00:02:28] dr. yi Liu Tuan professor emeritus of
+[00:02:29] geography at the University of
+[00:02:32] wisconsin-madison a scholar who has
+[00:02:35] written extensively on sense of place
+[00:02:40] ideas of space landscape and culture dr.
+[00:02:43] Tuan is an appropriate and indeed
+[00:02:45] inevitable choice for our meeting for
+[00:02:48] many other reasons as well though often
+[00:02:51] classed as a cultural geographer it is
+[00:02:53] far more accurate to describe him as a
+[00:02:56] humanistic geographer and in that
+[00:02:58] respect he has much in common with
+[00:03:01] folklorists in his disenchantment with
+[00:03:03] distant disciplinary boundaries and
+[00:03:06] their consequent limitations of human
+[00:03:10] inquiry his breadth of interests
+[00:03:13] overlaps many of ours as well cultural
+[00:03:17] symbolism ethnocentrism the sacred and
+[00:03:19] the mythical the phenomenology of the
+[00:03:22] body and of human experience the dynamic
+[00:03:25] tension between individual creativity
+[00:03:29] and commitment to community as the
+[00:03:31] titles of his nearly twenty books attest
+[00:03:34] his wealth of interests and concerns
+[00:03:36] ranges well beyond the sometimes
+[00:03:39] narrowly constructed dialectic of nature
+[00:03:42] and culture to address fundamental human
+[00:03:47] issues aesthetics perception personality
+[00:03:52] morality identity and spirituality one
+[00:03:53] of his most influential books
+[00:03:55] particularly for environmental
+[00:03:58] historians philosophers and folklorists
+[00:04:02] is topophilia subtitled a study of
+[00:04:04] environmental perception attitudes and
+[00:04:08] values its successors space in place the
+[00:04:10] perspective of experience demonstrates
+[00:04:13] dr. guan's adventuresome and
+[00:04:16] individualistic approach in evaluating
+[00:04:18] the interactions of human perception and
+[00:04:23] experience in his 1998 work escapism he
+[00:04:25] advances the uncommon and startling
+[00:04:28] notion that human cultural expressions
+[00:04:30] including ritual festival and
+[00:04:34] storytelling are forms of escapism from
+[00:04:37] nature from its uncertainties and its
+[00:04:41] threats this work escapism will be
+[00:04:43] discussed at the annual text and
+[00:04:45] community forum to be held tomorrow at
+[00:04:50] 3:30 p.m. in the Wyoming room in these
+[00:04:52] and other works dr. Tuan has
+[00:04:55] investigated the relationship of humans
+[00:04:58] to their pets animal pets but also human
+[00:05:02] pets and intriguingly in organic ones in
+[00:05:05] addition to the symbolism of foodways
+[00:05:08] the notion of home beyond the simplistic
+[00:05:10] notions of shelter and calm and comfort
+[00:05:14] the affective bond between people and
+[00:05:16] place or setting as he said in toto
+[00:05:19] philia even the human constructions of
+[00:05:24] heaven hell and the good life he has
+[00:05:25] been recognized for his achievements by
+[00:05:27] many professional organizations
+[00:05:29] including the Association of American
+[00:05:31] Geographers the American Geographical
+[00:05:34] Society the International geographical
+[00:05:36] union and the Phi Beta Kappa society not
+[00:05:39] to mention several honorary degrees and
+[00:05:42] two collections of essays recently
+[00:05:45] published in his honor his wide-ranging
+[00:05:46] knowledge of fields ranging from
+[00:05:49] landscape architecture to urban planning
+[00:05:52] to contemporary theology to literature
+[00:05:55] to environmental studies combined with
+[00:05:55] lucid
+[00:06:00] and remarkably witty writing style have
+[00:06:01] established him as an influential
+[00:06:03] scholar in a dozen different disciplines
+[00:06:06] the complexity of his thought and the
+[00:06:09] multitude of his influences have led him
+[00:06:11] inexorably to fundamental human
+[00:06:14] questions of self community and locale
+[00:06:18] as he wrote in the epilogue to space in
+[00:06:21] place his ultimate goal is to quote
+[00:06:24] increase the burden of awareness in
+[00:06:26] common with the thrust of humanistic
+[00:06:30] enterprise his talk tonight is entitled
+[00:06:32] folklore in place for themes
+[00:06:35] please welcome to this AFS meeting dr.
+[00:07:05] I was naturalized a citizen of the
+[00:07:10] United States in 1973 and in 1975 I went
+[00:07:14] to Australia as a Fulbright and before I
+[00:07:16] started on the trip to Australia got
+[00:07:19] this letter from the State Department
+[00:07:22] asking me to be sure to behave well
+[00:07:27] because I now represent the USA so I
+[00:07:32] went to Australia and this was 1975 and
+[00:07:36] there was a reception of Australian
+[00:07:40] academics and I was the outsider
+[00:07:45] I was the fulbrighter and the identity
+[00:07:47] in the reception the destruction
+[00:07:50] discussion got me very heated since this
+[00:07:53] the Vietnam War was still armed and
+[00:07:56] Australia academics were strongly here
+[00:08:00] empty Vietnam War so they got more and
+[00:08:03] more heated finally they saw me and one
+[00:08:06] of them kept me and pointed at me and
+[00:08:10] said the cobbles you Americans
+[00:08:17] and I quickly look behind and fool me I
+[00:08:20] mean I'm a telling this story because
+[00:08:22] dr. Stanley is very generous
+[00:08:34] I'm honored to be asked to address a
+[00:08:38] convention of American folklore not
+[00:08:42] being a folklorist myself I thought that
+[00:08:46] one service I can usefully perform is to
+[00:08:49] pose certain questions naive in both
+[00:08:52] content and phrasing that no real
+[00:08:52] scholar
+[00:08:57] of folklore would want to pose questions
+[00:09:00] that for all their obvious 'no stew the
+[00:09:02] elders of the discipline may be
+[00:09:05] overlooked by younger scholars swamped
+[00:09:07] by the intellectual challenges of the
+[00:09:11] day I have four questions or theme in
+[00:09:15] mind first what is the relationship
+[00:09:18] between a genre of storytelling and a
+[00:09:21] unit of land for example between
+[00:09:26] folklore and landscape second we know
+[00:09:30] that fear a common element in the
+[00:09:32] experiencing of place in earlier times
+[00:09:37] has diminished in our time and so the
+[00:09:40] question is well that shadow of fear
+[00:09:45] eventually disappear altogether third
+[00:09:50] what is the moral content in folklore
+[00:09:54] what is the ethical aspiration in folk
+[00:09:59] society fourth and last human beings
+[00:10:02] everywhere and in all times speak easily
+[00:10:07] of an emotional bond between them and
+[00:10:11] external reality what if the bond is an
+[00:10:17] illusion we start then with the
+[00:10:19] relationship between a Yahner of
+[00:10:23] storytelling and a unit of land which
+[00:10:23] forces
+[00:10:27] convention is folklore and cultural
+[00:10:30] landscape as a geographer I'm somewhat
+[00:10:34] surprised by the coupling for I would
+[00:10:37] have thought that folklore and place is
+[00:10:41] more precise but this may be a
+[00:10:43] consequence of my ill informed
+[00:10:47] understanding of the word folklore and
+[00:10:51] my better informed understanding of the
+[00:10:56] world landscape folklore to me is the
+[00:11:00] law of non literate or simulator 't folk
+[00:11:04] who live in the penumbra of great cities
+[00:11:08] the study came about when in the 19th
+[00:11:13] century scholars realize that rich oral
+[00:11:15] tradition in the countryside was
+[00:11:18] threatened by the products of commercial
+[00:11:22] card culture that spilled false from the
+[00:11:27] cities the law of stories that scholars
+[00:11:30] collected from Hamlet's villages and
+[00:11:34] rheumatic camps showed a false intimate
+[00:11:37] involvement with a particular locality
+[00:11:42] or region which is what I mean by place
+[00:11:45] what are the intimacy's of place
+[00:11:49] it is uncritical immersion home for
+[00:11:52] example is truly home when it is an
+[00:11:55] all-encompassing video not something out
+[00:11:59] there that one looks at in the places it
+[00:12:01] is an outcome of the use of the
+[00:12:04] proximate senses of touch smell and
+[00:12:07] taste rather than after distant senses
+[00:12:11] of hearing inside it is an effect of
+[00:12:14] people working close together on the
+[00:12:18] land their bodies touch their sweat
+[00:12:18] intermingles
+[00:12:22] to need separate identities into group
+[00:12:29] identity a group self place is universal
+[00:12:33] landscape by contrast is a special take
+[00:12:36] on place that is far from being
+[00:12:36] universal
+[00:12:41] only two civilizations European and
+[00:12:44] Chinese have independently developed and
+[00:12:48] embraced it then what is landscape
+[00:12:50] although the word originally meant a
+[00:12:54] legally defined unit of land is it's
+[00:12:56] come to mean a view of scenery
+[00:12:59] contemplated from a point above ground
+[00:12:59] level
+[00:13:04] unlike place or millio landscape is
+[00:13:07] primarily a construction of the dominant
+[00:13:11] sense of sight to see far in will one
+[00:13:14] needs to stand on a prominence and make
+[00:13:18] sure that one side lines are not blocked
+[00:13:22] who might want to do so who would enjoy
+[00:13:25] a visual composition of village hills
+[00:13:29] and valleys answer a single person of
+[00:13:32] leisure in artistic inclination or at
+[00:13:34] most its work group of like-minded
+[00:13:38] persons with time and leisure on their
+[00:13:43] hands and not I would think hard-working
+[00:13:48] folk a view can be captured in art as in
+[00:13:52] landscape painting the painting of a
+[00:13:54] view necessarily tries to depict what is
+[00:13:58] seen rather than what is conceived what
+[00:14:00] is seen is a perspective of
+[00:14:03] three-dimensional world a world with
+[00:14:07] depth that the viewer feels he can enter
+[00:14:12] what did people feel first attempt at
+[00:14:15] the faithful depiction of a view when
+[00:14:18] did landscape painting first come into
+[00:14:22] being classical antiquity already had
+[00:14:24] landscape painting on its garden walls
+[00:14:28] to open up space but the art form
+[00:14:32] disappeared it was revived around 1400
+[00:14:36] when people became dissatisfied was very
+[00:14:39] symbolic understanding of the sort they
+[00:14:43] had in the Middle Ages and committed Li
+[00:14:46] a growing desire to know what it was
+[00:14:50] actually like to be present at say the
+[00:14:50] LA
+[00:14:53] supper sitting at the right hand of the
+[00:14:57] Lord or accompany him on the dusty road
+[00:15:01] to Golgotha people wanted paintings and
+[00:15:04] drawings to help them in that
+[00:15:06] understanding in that if you like
+[00:15:09] illusion and they wanted their stories
+[00:15:13] to be able to do that - to go beyond
+[00:15:15] legend and hagiography
+[00:15:21] to something truer to life as landscape
+[00:15:25] painting gained popularity storytelling
+[00:15:28] change is style to include ones that
+[00:15:30] offer the more personal viewpoint a
+[00:15:33] fuller exposition of the psychology of
+[00:15:38] the characters medieval romances mutated
+[00:15:42] into 17th and 18th century novels both
+[00:15:45] exhibited what might be called a plot
+[00:15:48] their narrative lines point to a climax
+[00:15:52] or resolution in the future in this
+[00:15:55] respect they resemble landscape painting
+[00:15:59] in that it too was and is
+[00:16:02] characteristically directional the lines
+[00:16:05] of perspective guiding the line guiding
+[00:16:07] the eye to a promising patch of blue sky
+[00:16:13] or a church spire in the distance as
+[00:16:16] distinct from the romance and the novel
+[00:16:19] the epic is focused even more on an
+[00:16:23] individual hero or our small group of
+[00:16:27] encrypted people think of Lawrence of
+[00:16:29] Arabia or the pioneer settlers of the
+[00:16:33] American West they pursued their
+[00:16:36] respective quests against the landscape
+[00:16:40] so huge that they can seem empty or
+[00:16:46] abstract folklore is anchored in place
+[00:16:50] or locality the romance in the novel by
+[00:16:54] contrast a setting landscape an Evoque
+[00:16:58] landscape which unlike place opens up to
+[00:17:02] a horizon an effect of this openness to
+[00:17:03] a horizon
+[00:17:06] and a sense of possibility it produces
+[00:17:09] is that the people in your landscape are
+[00:17:13] subject to xmas fear and moved rather
+[00:17:17] than to harsher constraints I'm tempted
+[00:17:19] to say that the novel and the short
+[00:17:23] story our studies of atmosphere and mood
+[00:17:26] those of people into oven with those of
+[00:17:30] landscape atmosphere is the quality of
+[00:17:34] landscape a physical phenomenon it is
+[00:17:37] yet imbued with subjective meaning made
+[00:17:39] evident by such common epithets as
+[00:17:44] gloomy cheerful and sad mood is more
+[00:17:48] closely identified with human beings
+[00:17:52] moves they and they alone human beings
+[00:17:56] alone truly have moved neither I surmise
+[00:18:01] is prominent in folklore nor do I see
+[00:18:03] them as characteristic features of the
+[00:18:07] epic in epic the forces that heroes in
+[00:18:09] hearings confront tend to be
+[00:18:13] overpowering either violently hostile as
+[00:18:16] in a raging blizzard or wolf of the
+[00:18:19] rampage or utter indifference as the
+[00:18:22] blind stare of sand in stone that taunts
+[00:18:26] travellers dying of thirst
+[00:18:30] constable painted landscapes and I can
+[00:18:33] imagine them as settings for a novel or
+[00:18:38] story turn on by control painted
+[00:18:42] turbulent nature and I can imagine his
+[00:18:46] seascapes as the inspiration behind the
+[00:18:56] to return to folk and folklore the folks
+[00:18:59] that scholars have studied though they
+[00:19:02] lived in the country were part of a
+[00:19:06] larger world that included the city a
+[00:19:10] country folks law was therefore likely
+[00:19:13] to include elements drawn from the works
+[00:19:28] these works opened up their space making
+[00:19:30] their lives less place bond and
+[00:19:35] claustrophobic in Europe that larger
+[00:19:39] world was Christianity and so two tales
+[00:19:42] of spirits and demons that haunted the
+[00:19:46] local place was in Rouen a law of
+[00:19:49] greater scope one that featured a drama
+[00:19:52] of salvation played out on the stage of
+[00:19:57] heaven earth and hell in this regard the
+[00:20:00] world's depicted by folklores and
+[00:20:02] ethnographers differ
+[00:20:06] unlike folklores as nog refers tended to
+[00:20:10] study isolated people who lived beyond
+[00:20:13] the influence of great cities people who
+[00:20:16] were untouched by Christianity or any
+[00:20:20] other great religious tradition their
+[00:20:24] law may nevertheless be two-tiered a
+[00:20:27] lower layer of spirits that interacted
+[00:20:30] with people in their daily wrongs in the
+[00:20:34] more remote cosmic layer the structure
+[00:20:36] of which to give one example was
+[00:20:40] famously told by the Oglala Sioux Black
+[00:20:44] Elk pointing to the four ribbons hanging
+[00:20:47] on the stem of his sacred pipe he
+[00:20:50] explained in a code these are the four
+[00:20:53] quarters of the universe the black one
+[00:20:55] is for the West or the sunder beings
+[00:20:58] live to send us rain the white one is
+[00:21:02] for the north when it comes to breed
+[00:21:05] white cleansing wind the red one is for
+[00:21:09] the east when springs delight in for the
+[00:21:11] morning star lists to give men wisdom
+[00:21:14] the yellow is for the south whence comes
+[00:21:19] summer and the power to grow the upper
+[00:21:22] or cosmic lair of the Oglala Sioux shows
+[00:21:25] a stability and grandeur that the lower
+[00:21:28] layer based on experience with the
+[00:21:30] difficulties of daily life
+[00:21:36] cannot and does not have my second theme
+[00:21:42] is fear in a haunted world people in the
+[00:21:44] past had to struggle hard to make a
+[00:21:47] living their world constantly haunted
+[00:21:52] thread of nature was full of uncertainty
+[00:21:54] one way to cope with it was to tell
+[00:21:59] stories these even as they reduced fear
+[00:22:05] also revealed its extent we in modern
+[00:22:08] society easily forget the pervasiveness
+[00:22:12] of the sphere in the countryside we
+[00:22:16] forget for various reasons and under
+[00:22:20] various influences including the subtle
+[00:22:23] influence of impressionist paintings
+[00:22:27] that seductively show us a peaceful
+[00:22:30] world of village palms haystacks and
+[00:22:35] gentle folk picnicking on the grass such
+[00:22:39] art can induce endemic fantasies among
+[00:22:43] the boudoir see as to what life was
+[00:22:46] really like for those who lived close to
+[00:22:50] the soil consider France a civilized
+[00:22:54] part of Europe in the 1900s the
+[00:22:58] historian Eugen Weber wrote in a quote
+[00:23:01] everything was a fearsome or fantastic
+[00:23:06] potent the buzzing of insects announced
+[00:23:09] a ghostly hunt the ribbons of mist above
+[00:23:12] the marshes were mysterious drivers of
+[00:23:16] claws newly pruned Elms shadows or haze
+[00:23:20] turned into sinister fancies the
+[00:23:23] moonlight was crowded with goblins
+[00:23:29] sprites elf in whorls and bogeyman
+[00:23:31] before the First World War
+[00:23:36] fountains wells in Springs were a wide
+[00:23:41] spread cult in rural France so much so
+[00:23:43] that some fountains of high
+[00:23:47] repute must have looked like again to
+[00:23:51] quote weber japanese temple growth with
+[00:23:54] what if rags ribbons in articles of
+[00:23:58] clothing draped over them and over all
+[00:24:05] what of the united states the brave new
+[00:24:08] world founded by the fellow of followers
+[00:24:12] of the enlightenment as recently as the
+[00:24:16] 1940s bad Woodsman in the ozarks listing
+[00:24:21] in in omen filled places some wouldn't
+[00:24:24] drive down a road if they saw a little
+[00:24:27] horror wind on it for to do so could
+[00:24:31] bring bad luck others buried the
+[00:24:34] entrails of a black hen under the house
+[00:24:38] on january 6th or 12th night to protect
+[00:24:40] their house against destruction by
+[00:24:44] lightning or fire in the remote hills
+[00:24:47] and hollows of Tennessee or Kentucky
+[00:24:51] ghosts and witches were in the 1920s and
+[00:24:54] 30s as much a part of a living tradition
+[00:24:57] as dying in one's own home and
+[00:25:01] maintaining the family graveyard a
+[00:25:04] country lane or covered bridge so
+[00:25:07] picturesque to the passing tourists on a
+[00:25:10] sunny day could seem threatening to the
+[00:25:13] men trotting home as the shadows
+[00:25:20] deepened without dog haunted Ness has
+[00:25:23] diminished in the Western world will it
+[00:25:25] disappear one day
+[00:25:29] well a time calm when ghost stories seem
+[00:25:33] suitable only as backdrop for children
+[00:25:37] to do trick-or-treat all become merely
+[00:25:41] occasions for college students to hug
+[00:25:43] their dates and scream as in the Rocky
+[00:25:46] Horror Picture Show
+[00:25:50] I don't think so my only experience
+[00:25:54] opposes the idea that it is human to
+[00:25:58] feel however rarely the touch of Clemmy
+[00:26:02] fingers beyond the grave before I
+[00:26:05] proceed further let me say that I am an
+[00:26:10] admirer of modern science and that I
+[00:26:12] tend to look down on beliefs and
+[00:26:15] practices that do not fall under its
+[00:26:20] scope true I may still bear the scars of
+[00:26:23] ghost stories told me as a child in
+[00:26:26] China I then list in fear of shadows
+[00:26:30] beneath the stairs but when I moved to
+[00:26:32] the west and grew to manhood among
+[00:26:36] technological marvels I put away
+[00:26:41] childish fears but have I is it even
+[00:26:47] possible to eradicate them totally in
+[00:26:50] 1918 or thereabout
+[00:26:53] I as a faculty member of the University
+[00:26:57] of Minnesota occupied in office on the
+[00:27:01] fifth floor of a tall building every day
+[00:27:04] in almost every other night I worked in
+[00:27:05] my office
+[00:27:07] some nights on Sundays and public
+[00:27:11] holidays I was the only one in the
+[00:27:13] building for I could see from the
+[00:27:16] courtyard outside that only my office
+[00:27:23] had its lights on one cold December day
+[00:27:27] I stepped out of the building and almost
+[00:27:32] stepped on a coarse broad face up on the
+[00:27:37] ice-covered pavement later I learned
+[00:27:41] that she was a secretary who worked two
+[00:27:44] floors above mine and that she had
+[00:27:48] committed suicide I continued to work at
+[00:27:52] night on Christmas Eve of that year I
+[00:27:58] was as usual alone in the unnatural
+[00:28:00] silence silent
+[00:28:02] except for the sound of the elevator
+[00:28:05] sliding up and down the well of the
+[00:28:05] building
+[00:28:10] I couldn't rid myself of the image of
+[00:28:15] the stiff white face and it's hello of
+[00:28:21] blood-stained yellow hair I said at my
+[00:28:26] desk try to write but my attention was
+[00:28:28] gripped by the sucking sound of the
+[00:28:35] moving elevator 20 feet or so away it
+[00:28:37] stopped on my floor
+[00:28:45] I heard the doors open my blood turned
+[00:28:49] to ice water as I waited for the
+[00:28:49] inevitable
+[00:28:57] ever since that fright I refrain from
+[00:29:04] staying late in my office of course I'm
+[00:29:08] busy work days when the building throned
+[00:29:11] with students I could laugh at the
+[00:29:14] tricks of my limbic brain nevertheless
+[00:29:17] for me that blend Lee more than building
+[00:29:20] power is always vulnerable to invasion
+[00:29:25] by denizens from another world the good
+[00:29:28] that came out of this experience is that
+[00:29:31] I now have a better appreciation of the
+[00:29:34] spirit infested world into which people
+[00:29:39] once lived it goes without saying that
+[00:29:43] even in that world the haunting was
+[00:29:45] restricted to certain hours and
+[00:29:48] occasions most of the day we may assume
+[00:29:51] that people were too busy making the
+[00:29:54] living digging clawing planting and
+[00:29:56] harvesting minding the children in
+[00:29:59] quarreling with neighbors perhaps only
+[00:30:02] at night and during Twilight hours when
+[00:30:05] harsh descended upon the earth that the
+[00:30:09] certain uncanny Park took over even so
+[00:30:11] dealing with it could be surprisingly
+[00:30:11] matter-of-fact
+[00:30:17] to take again the ozarks there one tied
+[00:30:20] ribbons to a tree to appease its spirit
+[00:30:24] bury the entrails of a black hen to
+[00:30:26] ensure that lightning did not strike
+[00:30:29] one's house was alert not too close at
+[00:30:32] gate that stood open made sure that one
+[00:30:34] did not leave a neighbor's house by the
+[00:30:37] same doors of which one entered and so
+[00:30:41] all people negotiated with the
+[00:30:44] supernatural as I did with the natural
+[00:30:48] and the social by following rules these
+[00:30:51] were numerous and could seem onerous to
+[00:30:54] the modern mind in time they became
+[00:30:57] routine and manageable although there
+[00:31:00] was always the anxiety that one mark
+[00:31:02] might have unwittingly broken a rule
+[00:31:07] with dire consequence that was the extra
+[00:31:10] burden a burden beyond the natural and
+[00:31:13] the social we should be glad to have
+[00:31:21] left behind my third theme is the moral
+[00:31:26] content of stories to broach it I need
+[00:31:30] to return to the harshness of life
+[00:31:33] folklore is a constant reminder of this
+[00:31:36] harshness of having to cope with the
+[00:31:39] nature that often acted unpredictably
+[00:31:43] and is seldom generous to survive
+[00:31:47] endless trolls must be attended to hard
+[00:31:51] work is therefore a necessity not a
+[00:31:56] virtue in France folk tales of the old
+[00:32:00] regime as one scholar put it in our code
+[00:32:03] constantly show parents laboring in the
+[00:32:05] fields while the children gather would
+[00:32:11] guard sheep fetch water spin wool or beg
+[00:32:15] far from condemning the exploitation of
+[00:32:19] child labor parents could sound
+[00:32:23] indignant when it does not occur faced
+[00:32:27] with a query in difficult life at home
+[00:32:30] some try to escape it by taking to the
+[00:32:35] road the road is thus not a rule
+[00:32:38] it does not promise gold at the end of
+[00:32:41] the rainbow people are pushed onto it
+[00:32:45] the fortunate few travel as journeyman
+[00:32:48] picking up jobs as I came the vast
+[00:32:52] majority stumble about as beggars
+[00:32:55] another means of escape is through
+[00:33:00] fantasy how touching the motors folklore
+[00:33:04] fantasies can be when dreams come true
+[00:33:07] the hero is left in the well stocked
+[00:33:12] barnyard rather than in never-never land
+[00:33:16] magic wands or rings are plentiful in
+[00:33:19] the French folklore but the best they
+[00:33:24] have to offer is food and if they are
+[00:33:28] truly powerful not just any food but a
+[00:33:32] side of mutton pork or beef that one can
+[00:33:39] think once teeth into today's men and
+[00:33:42] women in reaction against what they
+[00:33:45] consider to be the coldness and
+[00:33:49] impersonality of their world tend to
+[00:33:53] romanticize the past evoke the ideally
+[00:33:56] images of village life the latest
+[00:33:59] exemplar of which being the middle-earth
+[00:34:02] of the hobbits in the movie The Lord of
+[00:34:08] the Rings but real folktales often kill
+[00:34:12] quite another story not niceness
+[00:34:16] but nastiness may be the order of the
+[00:34:21] day neighbors are presumed to be hostile
+[00:34:24] and may be witches you should never
+[00:34:27] discuss your affairs in front of them or
+[00:34:30] let them know in case you acquire sudden
+[00:34:33] wealth by some stroke of magic for they
+[00:34:35] will denounce you as seeds if they fail
+[00:34:39] to steal it themselves
+[00:34:43] the story love pooping shows how an
+[00:34:45] orphan girl learns the lesson of
+[00:34:49] mistrust the girl receives a magic doll
+[00:34:53] which excretes gold whenever she says
+[00:34:57] crack crack my little rag doll before
+[00:35:00] long she has bought several chickens in
+[00:35:04] the car and invites the neighbors in one
+[00:35:07] of them pretends to fall asleep by the
+[00:35:11] fire and runs off with the doll as soon
+[00:35:13] as the girl goes to bed
+[00:35:18] but when she says the magic words it
+[00:35:24] craps real crap all over him so he
+[00:35:28] throws it on the dung heap then one day
+[00:35:31] when he is doing some wrapping of his
+[00:35:36] own it reaches up and bites him he
+[00:35:39] cannot pry it loose from his derriere
+[00:35:43] until the girl arrives reclaims her
+[00:35:54] although folklore tales don't actually
+[00:35:58] preach selfishness they show that good
+[00:36:01] deeds are not always rewarded and that
+[00:36:05] moreover refraining refraining from
+[00:36:08] doing good might be necessary to achieve
+[00:36:12] one's goal as for example in the story
+[00:36:15] of a hero who escaped with the princess
+[00:36:19] only because he refuses to help a beggar
+[00:36:24] drowning in a lake fantasy abound in
+[00:36:28] folktales as does realism but the
+[00:36:30] realism is restricted to human
+[00:36:33] relationships and does not extend for
+[00:36:37] lack of scientific understanding to the
+[00:36:39] many relationships that exist between
+[00:36:48] reading about folks who lived in the
+[00:36:51] 19th century and earlier I have wondered
+[00:36:56] how one tale that of Christianity fitted
+[00:37:01] in surely not well for the Gospels are
+[00:37:05] fundamentally stories of hope and of
+[00:37:09] virtual rewarded even if the path to the
+[00:37:13] reward is full of Psalms and what about
+[00:37:16] the Sermon on the Mount for people
+[00:37:20] soaked in the harsh realism of human
+[00:37:23] relationship how strange it is to be
+[00:37:27] told that if someone asks you for your
+[00:37:27] shirt
+[00:37:31] you should also let him have your coat
+[00:37:33] I'd like to know what part of the
+[00:37:36] Christian story French peasants of the
+[00:37:40] old regime were able to accept and what
+[00:37:43] part they automatically rejected as
+[00:37:49] altogether to country to experience
+[00:37:52] plenitude in heaven and suffering in
+[00:37:55] hell particularly if the retribution
+[00:37:58] were coupled with the idea of revenge
+[00:38:03] probably ran a bell but what about
+[00:38:07] exhortations to superhuman charity in
+[00:38:10] early modern times the message of the
+[00:38:12] Gospels still formed a backwards
+[00:38:16] Horus scene and tattered for thinking
+[00:38:18] about right and wrong goodness and its
+[00:38:23] reward in all layers of society did any
+[00:38:26] part of the message irradiate the
+[00:38:29] peasants world was a warm glow bringing
+[00:38:32] a fleeting gladness a real sense of
+[00:38:38] possibility into their lives stories
+[00:38:43] inevitably carry a moral message one of
+[00:38:47] cunning and mistrust in some folktales
+[00:38:49] one of goodness and its ultimate
+[00:38:53] recompense in some modern fairy tales
+[00:38:57] one of moral ambiguity and the virtual
+[00:38:57] discernment
+[00:39:00] in some of the greatest novels of the
+[00:39:03] 19th century those written for example
+[00:39:05] by Dickens
+[00:39:09] labelled Dostoevsky and Tolstoy it is a
+[00:39:13] simplification but not a mistake to say
+[00:39:15] that Dickens shows us the face of human
+[00:39:18] decency in the midst of bitter economic
+[00:39:22] and social realities flow Bell immunizes
+[00:39:26] us against the in energies of Buju our
+[00:39:26] lives
+[00:39:30] Dostoevsky depicts societies that
+[00:39:32] however mundane or brutal nevertheless
+[00:39:37] allow spiritual integration Tolstoy like
+[00:39:40] his great predecessor Homer celebrates
+[00:39:43] life nature in the world notwithstanding
+[00:39:48] their wards and horrors words have power
+[00:39:51] the stories that we are constantly
+[00:39:54] telling one another alter our moral
+[00:39:58] compass however slightly cynical stories
+[00:40:01] make us a little more cynical stories of
+[00:40:04] heroism in virtual because a little
+[00:40:07] braver a little more willing to smile at
+[00:40:09] the bag lady
+[00:40:13] slowly Lea written narratives inclined
+[00:40:16] us to sloppiness well written ones to
+[00:40:19] seeing the truth in the right word maybe
+[00:40:23] a moral choice with words will create
+[00:40:26] ourselves and our relationships to
+[00:40:31] people nature in artifacts there appears
+[00:40:34] to exist however a peculiar bias in all
+[00:40:38] psychology namely words directed to the
+[00:40:42] negatives of life slender in hatred
+[00:40:45] cruelty in horror have a firmer grip on
+[00:40:49] our imagination than words directed to
+[00:40:52] the positives of life praise and
+[00:40:56] celebration contentment and joy acts of
+[00:41:02] courage and compassion a single tragic
+[00:41:02] event
+[00:41:07] the woman's suicide in a campus building
+[00:41:11] has altered my perception of it
+[00:41:15] my sense of ease in it can a single good
+[00:41:20] event to the same and what might that be
+[00:41:24] even a casually told ghost story can
+[00:41:27] make me wonder in the darkness of night
+[00:41:31] in our lonely road whether there is an
+[00:41:35] unwelcome guest wrapped in this shroud
+[00:41:37] in the backseat of my car
+[00:41:41] as for sunny stories of happiness and
+[00:41:45] virtue will they be able to make me
+[00:41:47] smile feel good about places or
+[00:41:51] landscapes in which they are set strange
+[00:41:55] isn't it that I a fairly rational man
+[00:41:59] should take ghost stories seriously and
+[00:42:04] yet be dismissive of stories about good
+[00:42:07] people and good deeds as somehow
+[00:42:14] sentimental vacuous or unreal but I
+[00:42:18] exaggerate I would like to offer two
+[00:42:21] stories that have affected my view of
+[00:42:24] landscape in a positive way
+[00:42:29] the first gives it a warm glow the
+[00:42:35] second an aura of holiness one July day
+[00:42:40] in 1667 Samuel Pepys and his friends
+[00:42:45] went for a stroll up the Epsom Downs
+[00:42:48] they met there a shepherd and his little
+[00:42:52] boy the boy was reading the Bible to his
+[00:42:52] father
+[00:42:57] Pettis made the boy read to him and was
+[00:43:01] charmed by his eager force tongue the
+[00:43:04] children usually read the visitors
+[00:43:08] complimented a father who his chest
+[00:43:11] swelling with pride blessed God for his
+[00:43:15] young sons I'm not sure I understand
+[00:43:19] quite an event that happened almost 350
+[00:43:22] years ago and recorded matter-of-factly
+[00:43:24] by Pettis in his diary
+[00:43:28] should cast for me a warm and permanent
+[00:43:31] glow I will always see absum dance
+[00:43:34] through the lens of the Shepherd and his
+[00:43:41] boy the second story is taken from the
+[00:43:45] novel the philosophers pupil by Iris
+[00:43:50] Murdoch for young men sorry for young
+[00:43:52] people were picnicking somewhere in
+[00:43:56] southern England near the coast one of
+[00:43:59] them known for his good voice was
+[00:44:03] persuaded to sing and he sang Blake's
+[00:44:07] beautiful anthem and did those feet in
+[00:44:10] ancient time walk upon England's
+[00:44:13] mountain green and was the holy Lamb of
+[00:44:17] God on England's Pleasant pastures scene
+[00:44:20] and the countenance divine shine upon
+[00:44:26] our clouded Hills I don't understand the
+[00:44:29] poem said Haiti after they had
+[00:44:33] congratulated the sinner why is he
+[00:44:37] asking did those feet it's a poem said
+[00:44:40] Tom it doesn't have to mean anything
+[00:44:43] exact it is a sort of rhetorical
+[00:44:43] question
+[00:44:49] he's just imagining Christ here but
+[00:44:51] perhaps he was here said the singer
+[00:44:54] after all there's that legend what
+[00:44:58] legend said Tom that Christ was here
+[00:45:03] where yes in England as a child he came
+[00:45:06] here as a child with his uncle Joseph of
+[00:45:10] Arimathea who was a king merchants did
+[00:45:15] he Christ here it is a legend have you
+[00:45:16] heard it
+[00:45:21] no but it's wonderful said Tom suddenly
+[00:45:24] transported and you could be true frenzy
+[00:45:28] Christ here walking on our field it is
+[00:45:30] so oh it's so beautiful
+[00:45:33] and it's great you came with this uncle
+[00:45:37] Joseph of Arimathea as a child oh that
+[00:45:38] makes me so happy
+[00:45:42] I must go I must run what fool
+[00:45:45] I must tell somebody a must pass the
+[00:45:49] news on oh I'm so pleased I must run and
+[00:45:51] run with these words
+[00:45:54] Tom voted overwhelmed the low pass of
+[00:45:57] the war and ran across the ruling
+[00:45:59] terrorists littered with broken stone
+[00:46:02] lived to the grass and began to run away
+[00:46:07] as fast as he could toward the sea I
+[00:46:10] read this passage in the novel several
+[00:46:13] times each time I was made heavy by it
+[00:46:16] like Tom England will never again be
+[00:46:20] quite the same for me how do I explain
+[00:46:20] his power
+[00:46:24] the beauty of Blake's poem images of
+[00:46:26] young people at leisure
+[00:46:30] Tom's boyish enthusiasm all have
+[00:46:32] contributed to my good feeling which
+[00:46:36] then spills over to the landscape but
+[00:46:39] without doubt it is also the power of
+[00:46:43] the legend itself the idea that a child
+[00:46:46] who is no less the holy Lamb of God has
+[00:46:49] worked walked with his uncle on
+[00:46:58] England's green pastures I now turn to
+[00:47:01] my fourth and last theme indifference
+[00:47:06] the world's fundamental indifference I
+[00:47:10] believe should always be at the back of
+[00:47:13] our mind when we talk of relationships
+[00:47:16] those between people and those between
+[00:47:19] people on the one hand and on the other
+[00:47:23] plants animals inanimate objects
+[00:47:28] including places and landscapes by
+[00:47:31] relationship I'm not thinking of
+[00:47:33] physical ones that are the subject
+[00:47:37] matter of ecological signs the fact that
+[00:47:40] people feed off the flesh of animals who
+[00:47:42] in turn feed off other animals and
+[00:47:46] plants though am i concerned with the
+[00:47:49] emotions of higher animals those are
+[00:47:52] fear anger in the faction
+[00:47:55] that surge force is a compete fight and
+[00:47:58] mate take care of their young and bound
+[00:48:02] with one another in common tasks rather
+[00:48:05] erase a question that is applicable only
+[00:48:11] to humans it is this when we humans feel
+[00:48:16] intimacy with another being does it rest
+[00:48:20] a real mutuality real communication and
+[00:48:23] understanding or is it all form an
+[00:48:29] illusion where they're not do without we
+[00:48:33] grant being alone disconnected from all
+[00:48:36] that surrounds us to a certain mutual
+[00:48:39] sympathy an ability to stand in the
+[00:48:43] other person's shoes is possible if we
+[00:48:45] live in the same place and speak the
+[00:48:50] same language but note that even in that
+[00:48:54] favorable circumstance we instinctively
+[00:48:57] recognize the fragility of human
+[00:49:00] exchange by narrowing our topics of
+[00:49:03] conversation to the weather and other
+[00:49:08] trivialities plunge deeper speak or to
+[00:49:11] insights and feelings and when we will
+[00:49:14] find ourselves confronted by
+[00:49:18] disagreement and hostility worse than
+[00:49:21] that worse than even disagreement in
+[00:49:25] hostility which after all imply a degree
+[00:49:28] of attentiveness is the sheer lack of
+[00:49:35] interest sheer indifference mutual
+[00:49:38] understanding below arousal superficial
+[00:49:41] level is highly tenuous a works of
+[00:49:45] fiction which thrive on social miscues
+[00:49:48] can hardly exist without them provide an
+[00:49:52] important line of evidence as for our
+[00:49:56] relationship with animals its emotional
+[00:49:59] strength is not to be doubted and is
+[00:50:02] proven by the use of such honorifics as
+[00:50:05] companion and friend and by making
+[00:50:05] animal
+[00:50:09] for example the lion the dolls and all
+[00:50:12] symbols respectively of the virtues of
+[00:50:16] courage gentleness and wisdom a
+[00:50:20] widespread myth has it that long ago
+[00:50:22] humans and animals spoke the same
+[00:50:26] language and so were able to share one
+[00:50:30] another's experiences and worlds but
+[00:50:32] they lost it
+[00:50:35] henceforth humans had to depend on
+[00:50:39] bodily stems and gesture uncertain signs
+[00:50:43] that could invite fantasies of mutuality
+[00:50:47] consider the domesticated dog home will
+[00:50:51] regard as our best friend how many of us
+[00:50:54] have dared to probe that friendship by
+[00:50:57] trying to enter his world
+[00:51:00] what after all do we know of canine
+[00:51:04] reality what is it like we have a sense
+[00:51:08] of smell far superior to our own isn't
+[00:51:11] it possible that the dog recognizes us
+[00:51:15] is a peculiar odor then as a charming
+[00:51:18] image the beam image with dearly loved
+[00:51:23] to have of ourselves beyond living
+[00:51:27] things is the vast inanimate world of
+[00:51:33] mountains and Hills wind and rain today
+[00:51:36] as in the past we give them a human
+[00:51:40] characteristics and motivations even
+[00:51:43] ones of malice anything but total
+[00:51:46] indifference the blockbuster movie
+[00:51:51] twister made in 1996 is about a tornado
+[00:51:55] of course it cannot be presented as just
+[00:51:58] a lesson in thermodynamics to the
+[00:52:02] ordinary movie goer and even to the
+[00:52:04] professional meteorologists in a relaxed
+[00:52:08] mood the twister is a villain that
+[00:52:14] chases and began to be chased nature
+[00:52:17] currently care less whether I have a
+[00:52:19] roof over my head
+[00:52:23] not but what about the things we have
+[00:52:27] made ourselves they surely respond to
+[00:52:30] our needs and they do most of the time
+[00:52:36] while not always the hammer are used to
+[00:52:40] hit a nail on the head is just as happy
+[00:52:46] hitting my finger note that I have given
+[00:52:48] the hammer unwittingly
+[00:52:52] a touch of malice which proves my point
+[00:52:55] namely that it goes against the deepest
+[00:52:58] grain of our nature to see total
+[00:53:01] impersonality and indifference in the
+[00:53:04] world out there we refuse to learn the
+[00:53:07] lesson no matter how often it is given
+[00:53:07] yet
+[00:53:13] the following story momentarily shocked
+[00:53:22] me to wakefulness four friends went on a
+[00:53:25] walking trip in the Mediterranean
+[00:53:29] it was a warm calm day the sea was as
+[00:53:33] smooth as glass the yacht drifted to a
+[00:53:37] stop before taking lunch the friends
+[00:53:41] decided to jump into the sea for a swim
+[00:53:45] they splashed about happily and having
+[00:53:48] walked up worked up an appetite and
+[00:53:51] thinking no dogs of the tenderly baked
+[00:53:53] chicken on the table in the bottle of
+[00:53:57] chilled wine in the fridge they decided
+[00:54:02] to climb aboard to their horror after
+[00:54:06] repeated twice they found they could not
+[00:54:10] the report rose to high above water and
+[00:54:14] since it was unencoded the swimmers had
+[00:54:18] no chain to haul themselves up with they
+[00:54:23] all belonged I see in my mind's eye the
+[00:54:27] swimmers in lair last desperate moments
+[00:54:31] wandering as their arms turn to
+[00:54:34] led at the utter indifference of
+[00:54:38] everything around them the serene sky
+[00:54:41] the calm sea the smooth flanks of the
+[00:54:45] boat and the tenderly baked chicken
+[00:54:49] there's nothing more human than telling
+[00:54:53] stories we need them as much as we need
+[00:54:55] food in water to survive
+[00:55:00] food and water feed our body stories our
+[00:55:04] soul or that part of soul that yearns
+[00:55:07] for emotional is the prophet eight
+[00:55:10] stories about what is out there differ
+[00:55:13] some people say this is true others
+[00:55:18] contested and offered their version what
+[00:55:21] we all forget in the effort to tell our
+[00:55:25] story well or in the excitement of its
+[00:55:29] defense or conversation is a war element
+[00:55:34] of fact namely that all stories in the
+[00:55:37] very nature of human language contains
+[00:55:41] exaggerated connectivity they are in
+[00:55:45] this sense fantasies surprising isn't it
+[00:55:49] that we need fantasies even more than we
+[00:55:53] need realism to remain wholesome and
+[00:55:53] sane
+[00:56:20] dr. Tuan would be glad to entertain a
+[00:56:26] couple of questions or comments frankly
+[00:56:29] I wasn't quite prepared for questions I
+[00:56:32] dare to say these things because I said
+[00:56:35] I'm surely safe from criticism because
+[00:56:39] I'm the only amateur in this whole group
+[00:57:12] anyway questions well of course I mean
+[00:57:14] it is simply to answer for me to say is
+[00:57:21] that that nobody said this lift operates
+[00:57:25] automatically but it just runs uptown
+[00:57:28] until is pressed and then stops well I
+[00:57:30] know there's nobody in the building so
+[00:57:32] it's okay for the build just slide up
+[00:57:34] and down but why would it stop on my
+[00:57:36] floor and I hear the door was open and
+[00:57:41] and it is most extraordinary feeling I
+[00:57:44] have so my simple answer and in rational
+[00:57:48] answer is that no one appeared but my
+[00:57:51] imagination was so worked up that I
+[00:57:53] might as well have said that this this
+[00:57:56] ghost did appear because it still haunts
+[00:57:59] me I mean how can something that's
+[00:58:02] totally out there still be a fact in my
+[00:58:19] we'll help you
+[00:58:19] [Applause]

@@ -1,0 +1,1145 @@
+Source: On the Architecture of Disability / David Gissen (Architecture Off-Centre podcast; YouTube auto-captions, uploaded 24 Nov 2023)
+URL: https://www.youtube.com/watch?v=vr1-PwpJNkg
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:01] the discourse on disability in
+[00:00:03] architecture is not a new one it has
+[00:00:05] been a while since Architects have been
+[00:00:07] attempting to address various forms of
+[00:00:09] disability in the buildings
+[00:00:11] neighborhoods and cities they design
+[00:00:14] however these attempts are most often
+[00:00:16] limited to increasing access for
+[00:00:19] differently ailt bodies with the support
+[00:00:20] of the Graham foundation for advanced
+[00:00:23] studies in the Fine Arts Our Guest today
+[00:00:25] is David gisson professor of
+[00:00:27] architecture and urban history at The
+[00:00:30] Parson School of Design David argu that
+[00:00:32] a disability critique of Architecture is
+[00:00:34] not one that solely seeks to make the
+[00:00:37] built environment more accessible but
+[00:00:39] instead it is one that understands how
+[00:00:41] embedded the ideas of physical
+[00:00:45] incapacity and impairment are within
+[00:00:45] [Music]
+[00:00:54] architecture I am vnav Shukla and this
+[00:00:57] is architecture of Center podcast Fe
+[00:00:59] highlight contemporary discourses that
+[00:01:01] sh shape the built environment but do
+[00:01:03] not occupy the center stage in our daily
+[00:01:06] lives we speak to radical designers
+[00:01:09] thinkers and Chang makers who are deeply
+[00:01:11] engaged in redefining the way we live
+[00:01:19] us we're of course here to talk about
+[00:01:23] your work and uh your recently published
+[00:01:25] book the architecture of disability but
+[00:01:27] before we do that I want to talk a
+[00:01:30] little bit about you
+[00:01:33] and how your work reflects your
+[00:01:36] experience as an architect as an
+[00:01:38] architecture student in the past and now
+[00:01:42] of course an academic and a
+[00:01:48] scholar um yeah so um I am a disabled um
+[00:01:53] uh designer author disabled person um
+[00:01:58] I've been um disabled so to speak um
+[00:02:01] since I was 16 I'm a um from the first
+[00:02:04] generation of pediatric cancer survivors
+[00:02:06] of um osteogenic saroma bone cancer in
+[00:02:10] the United States and so
+[00:02:14] um I went through um architecture school
+[00:02:16] um graduate
+[00:02:20] school um positions as a curator as a
+[00:02:23] PhD student and um as an academic for
+[00:02:26] the past 20 years as a disabled person
+[00:02:27] within the discipline of
+[00:02:31] architecture um so so I think a lot of
+[00:02:34] my um perspectives uh draw on those
+[00:02:37] experiences um and it's something that I
+[00:02:38] felt more
+[00:02:40] comfortable um writing about And
+[00:02:42] discussing and lecturing about and
+[00:02:44] teaching about um in recent years but
+[00:02:46] it's um something that's always informed
+[00:02:48] my work and something that I've
+[00:02:52] always um reflected on um throughout my
+[00:02:54] journey in in
+[00:02:57] architecture and I mean this this might
+[00:03:00] be a little personal so please let me
+[00:03:02] know if you don't want to answer it but
+[00:03:05] uh architecture education is Infamous
+[00:03:09] for how physically demanding it gets uh
+[00:03:12] both in terms of Studio work but also
+[00:03:16] how interl it is with being on sites or
+[00:03:18] you know just doing all your field
+[00:03:22] research and your internship and stuff
+[00:03:24] how was it for you to to
+[00:03:28] navigate the the Journey of studying
+[00:03:30] architecture yeah it was difficult
+[00:03:32] um I
+[00:03:36] um when I was in undergraduate school um
+[00:03:37] I walked on crutches and was in a
+[00:03:40] wheelchair um for about half of the
+[00:03:42] years I was in architecture schools in
+[00:03:45] undergrad so um this is before I became
+[00:03:48] an UT um in my junior year of
+[00:03:50] undergraduate so it was it was very
+[00:03:53] difficult um in fact you know I remember
+[00:03:59] working in studio um with my um sitting
+[00:04:00] on a stool
+[00:04:03] um at a drafting desk which is how what
+[00:04:05] the setup was like back then and um one
+[00:04:07] of my legs would be under the desk just
+[00:04:09] like anybody else and my other leg which
+[00:04:11] was in a cast at the time was sort of
+[00:04:13] stretched out on an adjacent
+[00:04:16] stool and you know it was difficult but
+[00:04:20] I managed and um and there actually also
+[00:04:22] um two experiences from that time I want
+[00:04:24] to reflect on
+[00:04:27] one um was a group of people uh in the
+[00:04:30] University who um I can't remember what
+[00:04:32] the office was called but um were really
+[00:04:35] extraordinarily supportive of me um
+[00:04:37] remaining in school and did everything
+[00:04:41] they could to um to find me um
+[00:04:43] accessible facilities and classrooms and
+[00:04:44] other things that I could use more
+[00:04:47] easily um this was before the Americans
+[00:04:49] with Disability Act so these must have
+[00:04:51] either been covered by laws in the state
+[00:04:54] I was living in or um what's called
+[00:04:56] Section 504 which was the law that
+[00:04:58] preceded the Americans with Disability
+[00:05:00] Act and guarantee
+[00:05:02] that um institutions that received
+[00:05:04] Federal funding um provided facilities
+[00:05:06] that disabled people could use okay so
+[00:05:08] that was one set of experiences which
+[00:05:11] were fantastic other set of experiences
+[00:05:13] were were more incidental and just
+[00:05:16] things like um professors in particular
+[00:05:17] saying like are you really sure you want
+[00:05:18] to go into this
+[00:05:21] profession um or who would watch me the
+[00:05:22] way I was sitting at the studio desk and
+[00:05:25] it obviously made them more
+[00:05:27] psychologically uncomfortable than it
+[00:05:29] made me physically uncomfortable and
+[00:05:31] would make comments about like you know
+[00:05:32] maybe maybe you should be an
+[00:05:34] architectural historian and not an
+[00:05:35] architect because that that'll be easier
+[00:05:41] to do um or be less intense on me so um
+[00:05:44] through those kinds of conversations I
+[00:05:45] definitely got two different sets of
+[00:05:48] messages one um Transformations can be
+[00:05:53] made in education so that I'm you know
+[00:05:56] um expanding the access so to speak to
+[00:05:58] architectural education another group
+[00:06:00] who felt that being an architect was
+[00:06:02] ultimately about having certain kinds of
+[00:06:04] physical capacities and I didn't meet
+[00:06:08] that um standard so that made a very um
+[00:06:12] big impression on me I don't and I think
+[00:06:14] I think in ways that I'm still kind of
+[00:06:16] coming to grips with in some ways right
+[00:06:17] I mean you don't forget experiences like
+[00:06:19] that and those are some of the more
+[00:06:20] polite ones that I'm mentioning there
+[00:06:25] were of course others um so yeah so that
+[00:06:28] was difficult and then um you know of
+[00:06:29] course when you actually start working
+[00:06:31] at a firm all of the kinds of things
+[00:06:34] that you have to do um as an intern you
+[00:06:36] know as a fresh graduate or as a summer
+[00:06:38] intern at a architecture office in terms
+[00:06:41] of we just basically running around yeah
+[00:06:43] but again you know I had different kinds
+[00:06:45] of experiences I I um worked for
+[00:06:48] somebody whose um child was actually
+[00:06:51] very seriously disabled a very prominent
+[00:06:52] architect here in New York City When I
+[00:06:55] Was An undergraduate and he and his firm
+[00:06:57] were remarkable in terms of making a
+[00:06:58] place for me to work there it was an
+[00:07:00] amazing experience so
+[00:07:03] at the time was considered um one of the
+[00:07:06] most um um important architectural firms
+[00:07:09] in New York City was um guy seagull and
+[00:07:12] um I worked very close with um Charlie
+[00:07:14] Charles guthy um who was one of the New
+[00:07:16] York five um and had a lot of
+[00:07:19] experiences with um the kinds of things
+[00:07:21] that I was going through via his own
+[00:07:24] children so um or one of his children
+[00:07:26] excuse me so that was an amazing
+[00:07:27] experience but again you know there were
+[00:07:29] other experiences that were um that were
+[00:07:32] very different I think all of this um
+[00:07:34] has informed how I
+[00:07:37] behave um relative to my students and as
+[00:07:39] a professor so it's not just that I try
+[00:07:42] to make um you know the the classroom or
+[00:07:44] the studios where I teach or the things
+[00:07:47] that I do um quote unquote accessible um
+[00:07:51] that's easy uh what I try to do is
+[00:07:53] restructure the entire um Studio
+[00:07:55] experience for students through my own
+[00:07:58] lens and make some a kind of space or a
+[00:08:00] way of teaching and working around
+[00:08:01] architectural problems or architectural
+[00:08:08] sites that um that is um that that that
+[00:08:09] draws on different kinds of um
+[00:08:11] capacities that people have and very
+[00:08:14] much draws on my own um incapacities
+[00:08:17] okay so for example um with a group of
+[00:08:20] graduate students at the height of covid
+[00:08:23] um who were feeling all kinds of you
+[00:08:26] know anxieties about um the pandemic um
+[00:08:28] instead of um Pinups we had what we
+[00:08:31] called Place Downs where we would um sit
+[00:08:33] at the desk and just have us somewhat
+[00:08:38] more um um physically relaxed atmosphere
+[00:08:39] around discussing each other's work
+[00:08:41] especially with like these you know
+[00:08:44] masks on our face that kind of this is
+[00:08:45] this is some of the first in-person
+[00:08:48] teaching as the pandemic began to wind
+[00:08:53] down in 200 um 21 and 22 so um you know
+[00:08:56] so those kinds of experiences are not
+[00:08:57] just important for me as a disabled
+[00:08:59] Professor but they're important for my
+[00:09:01] my students because they understand that
+[00:09:03] that you know there's what we expect of
+[00:09:07] Architects physically psychologically um
+[00:09:09] can be far more complex and and now what
+[00:09:13] I'm noticing and um what's um
+[00:09:16] fantastic is that these efforts are
+[00:09:18] enabling students who don't necessarily
+[00:09:19] think they have a place in architectural
+[00:09:21] education to come so right now I have
+[00:09:23] students with the you know with a wide
+[00:09:26] range of impairments or
+[00:09:28] disabilities um who are taking Studios
+[00:09:31] with me and I think they are having you
+[00:09:33] know life-changing experiences and ones
+[00:09:36] very very different than the ones that I
+[00:09:38] had when I was a student so that's
+[00:09:40] that's important yeah thank you for
+[00:09:42] sharing that because I also come from
+[00:09:46] you know the the school of thought or
+[00:09:48] the the history of architecture
+[00:09:50] education which has a lot to do with
+[00:09:52] making you know the Arts and Crafts
+[00:09:56] moment and um in our first year we had a
+[00:09:58] course called basic design was like a
+[00:10:00] very rigorous course course and one of
+[00:10:02] the professors made it clear on like day
+[00:10:05] one of freshman year first year that
+[00:10:08] there's no room for you to be sick let
+[00:10:11] alone have anything happen to your limbs
+[00:10:14] in case you ever fall sick just pop a
+[00:10:16] pill but show up in the studio it was it
+[00:10:18] was it was laid out on ground it's like
+[00:10:20] there's no room for you to be sick like
+[00:10:22] forget about being sick we there's no
+[00:10:25] space for that and of course the way the
+[00:10:29] building is designed uh it's wonderful
+[00:10:31] building designed by prit price winner
+[00:10:34] BV DOI the School of Architecture inad
+[00:10:36] yeah of course um but one of the
+[00:10:38] critiques of the building is it's it's
+[00:10:39] not and we'll get to the question of
+[00:10:42] accessible it's not it doesn't make room
+[00:10:45] for people who somebody who's even like
+[00:10:48] in studio fallen down and like hurt a
+[00:10:50] limb or something You' you'd question
+[00:10:52] how do I get that person who has like a
+[00:10:53] knee fracture or something up to the
+[00:10:57] studio so it was it was a space I think
+[00:11:00] overall in in the studio at Moser in
+[00:11:02] India is just there's no room to fall
+[00:11:03] sick and then of course I end up going
+[00:11:06] to grad school in the US and at the GSD
+[00:11:08] you know in University wide there are
+[00:11:10] questions about accessibility there's
+[00:11:12] questions about making room making space
+[00:11:14] for people who have different kind of
+[00:11:18] ailments or just going through different
+[00:11:21] experiences as people who are not able
+[00:11:23] as a healthy human being is quote
+[00:11:26] unquote defined but we'll get to your
+[00:11:29] book now because um I I loved how you
+[00:11:31] you frame it and of course the title is
+[00:11:33] called the architecture of disability
+[00:11:35] but I found the subtitle of your book
+[00:11:37] very very interesting and it says you're
+[00:11:40] looking at building cities and Landscape
+[00:11:43] Beyond access now of course the default
+[00:11:46] manner in which we talk about disability
+[00:11:49] in architecture is D directly related to
+[00:11:52] how we can provide or increase access to
+[00:11:54] the spaces and cities we design and
+[00:11:56] build but that is precisely what you're
+[00:11:58] not doing in the book you're in fact
+[00:12:02] critically looking at the history of the
+[00:12:04] disabled people's relationship to the
+[00:12:06] buildings to the cities and kind of
+[00:12:09] pushing it Way Beyond the functionalist
+[00:12:11] approach of maybe just like designing
+[00:12:14] ramps you
+[00:12:16] know yeah when I teach Studio I have a
+[00:12:19] Prohibition against ramps in any
+[00:12:21] project if you're concerned about
+[00:12:22] wheelchair ACC just make a one-story
+[00:12:26] building there's you know um you know
+[00:12:29] there's 15,000 years of History wor of
+[00:12:31] one story buildings you can draw
+[00:12:35] on and I I I want to also prob you if
+[00:12:37] you can also address um we can talk
+[00:12:40] about the cover of your book and I heard
+[00:12:42] the lecture you gave at I think it was
+[00:12:43] UCL Bartlet where you're talking about
+[00:12:47] the three stair cases and how um they've
+[00:12:51] been very skillfully adapted and GE kind
+[00:12:54] of graphically represented as the cover
+[00:12:56] of the book to kind of present three
+[00:12:58] different approaches to how we really
+[00:13:01] look at circulation or or
+[00:13:04] movement yeah I mean so the um the
+[00:13:09] origin of this book is um complex I mean
+[00:13:13] obviously it um part of the book is um
+[00:13:16] Memoir comes from my own experiences but
+[00:13:19] um but the vast majority of the book is
+[00:13:22] history and Theory um I've talked
+[00:13:24] architectural in history and Theory you
+[00:13:25] know my entire
+[00:13:25] career
+[00:13:29] and there's a few things I've always
+[00:13:32] wondered about one um you know do
+[00:13:36] I um however modest they may may sound
+[00:13:38] have my own kind of theory of
+[00:13:40] architecture um my own kind of set of um
+[00:13:43] beliefs about um the kinds of
+[00:13:44] traditional subjects that are in
+[00:13:47] architectural Theory um ideas about
+[00:13:50] history ideas about um cities and
+[00:13:52] urbanization ideas about Aesthetics
+[00:13:56] ideas about um construction and today
+[00:13:57] more and more ideas about nature and
+[00:14:01] environment so that was one question and
+[00:14:04] the other I think emerged from teaching
+[00:14:07] history and Theory so much and and being
+[00:14:09] um fairly familiar with some big themes
+[00:14:14] and just how much of a um a role um
+[00:14:16] let's call it impairment not disability
+[00:14:18] um impairment and incapacity but also
+[00:14:22] capacity and physical strength figure in
+[00:14:25] in people's ideas about um historical
+[00:14:28] experience um ideas about urbanization
+[00:14:31] ideas about Aesthetics certainly ideas
+[00:14:33] about construction and ideas about
+[00:14:36] environment and the capacities of nature
+[00:14:38] so my ultimate argument I think in the
+[00:14:41] book is that a disability critique of
+[00:14:44] Architecture is not one that simply
+[00:14:46] seeks to make the built environment more
+[00:14:49] accessible but one that comes to terms
+[00:14:53] and a understanding with how embedded
+[00:14:57] ideas of physical capacity incapacity
+[00:14:59] weakness and impairment
+[00:15:02] are within the discipline's own um
+[00:15:05] language um and this you know I don't
+[00:15:07] want to claim this is a universal I mean
+[00:15:09] I think
+[00:15:13] um the book very much comes to terms as
+[00:15:15] a lot of work does lately with a with a
+[00:15:19] kind of Canon of um figures that I was
+[00:15:21] um introduced to as a student it's being
+[00:15:23] Central to the discipline so this book
+[00:15:25] does the work of sort of that continues
+[00:15:27] many other different people's work and
+[00:15:29] perspective of sort of wrestling with
+[00:15:31] that and and and pushing back again some
+[00:15:34] of the ideas in that but it also draws
+[00:15:38] on um a far more um
+[00:15:42] Global um uh range of thinkers
+[00:15:44] particularly things that are extremely
+[00:15:45] important architectural thought right
+[00:15:51] now like um uh voices um from from anti
+[00:15:53] and and quote unquote de Colonial
+[00:15:56] perspectives as well as um relatively
+[00:16:00] recent work um that's looking at ideas
+[00:16:01] of of race but also
+[00:16:05] gender um and sort of bringing my own
+[00:16:09] critiques into um dialogue and alignment
+[00:16:10] with some of the points from those other
+[00:16:14] thinkers so for me this
+[00:16:16] is you know it's I want to be really
+[00:16:21] clear like I need to move and exist and
+[00:16:24] work in in a quote unquote accessible
+[00:16:26] world that's very important to me and
+[00:16:28] that's very important to other disabled
+[00:16:29] people and there's a lot more work to be
+[00:16:33] done in that area however I don't think
+[00:16:37] the um the point of the perspective of
+[00:16:41] access or or inaccessibility is enough
+[00:16:44] and um we need to have a kind of more
+[00:16:49] thorough rethinking of um many many many
+[00:16:52] aspects of um architectural disciplin
+[00:16:55] education and practice and I think this
+[00:16:57] book begins um to do that work at least
+[00:16:59] you know from again from the perspective
+[00:16:59] of
+[00:17:03] disability I got to read a couple of um
+[00:17:05] excerpts from what was available on
+[00:17:07] Amazon because I can't unfortunately
+[00:17:09] order the the book it's not available in
+[00:17:12] in the Indian Amazon store right now but
+[00:17:14] I I did find we have to do something
+[00:17:17] about that yeah um I found a couple of
+[00:17:20] familiar names I saw vuk and I I I saw
+[00:17:24] the old old people there the the usuals
+[00:17:26] but then what I also found interesting
+[00:17:29] was um picking up some of these very
+[00:17:31] classic examples and
+[00:17:34] offering um a very nuanced reading of
+[00:17:36] those place for example there's a
+[00:17:38] there's an image of people walking up to
+[00:17:42] the Acropolis in in ath and Greece and
+[00:17:44] uh it it's not only has to do with with
+[00:17:46] that Journey but also metaphorically
+[00:17:48] where it's placed and and the journey
+[00:17:52] one has to do to get to the top of it um
+[00:17:53] I wonder if you want to talk about any
+[00:17:56] of the particular instances or examples
+[00:17:58] from the book that uh
+[00:18:00] you enjoy the most writing about or
+[00:18:03] something that you relate to the
+[00:18:06] most um yeah well we can talk about that
+[00:18:07] um first of all I
+[00:18:10] apologize um on behalf of the publisher
+[00:18:14] that the book is not available in um on
+[00:18:18] the um uh Indian the Amazon site in
+[00:18:21] India we have to do something about that
+[00:18:22] um and we'll also have to get you a copy
+[00:18:25] of the book of course um so I I
+[00:18:27] apologize I should should have had the
+[00:18:29] publisher do that beforehand
+[00:18:32] um yeah so the Acropolis example is a
+[00:18:34] good one and it relates to a lot of
+[00:18:37] things we're talking about um so 10
+[00:18:40] years ago um maybe longer than that
+[00:18:43] maybe more like 15 years ago now um I
+[00:18:46] was fortunate enough to be able to um
+[00:18:46] visit
+[00:18:50] Athens um and like
+[00:18:53] any um architecture student one of the
+[00:18:56] first things I wanted to see was the um
+[00:18:59] the Acropolis um and the buildings at
+[00:19:02] the top the paron the
+[00:19:07] arum um and the propa so um I arrived in
+[00:19:14] Athens I um I went um and um with my
+[00:19:17] partner and walked to the you know the
+[00:19:20] the park on the bottom and and and took
+[00:19:22] the ascent to the top on the famous path
+[00:19:25] designed by Dimitri ponus in the
+[00:19:28] 1950s and um it made me angry
+[00:19:31] to be honest like just the um I knew
+[00:19:33] this path was a recent addition to the
+[00:19:35] Acropolis was something made in the
+[00:19:38] 1950s but the amount of like athleticism
+[00:19:41] that was built both into the path but
+[00:19:42] also its
+[00:19:45] Aesthetics um really angered me so you
+[00:19:47] you you go through this scrubby
+[00:19:50] landscape and and it's something that
+[00:19:53] many many people kind of celebrate as
+[00:19:56] one of the high points of um Athenian I
+[00:19:59] mean not Greek late modern
+[00:20:02] architecture and up these very slippery
+[00:20:04] marble pavers and there's trees around
+[00:20:05] that provide a little bit of shap but
+[00:20:07] not very much and then the path gets
+[00:20:10] steeper and steeper until finally um he
+[00:20:13] designed this very narrow um essentially
+[00:20:15] set of you know it's a staircase
+[00:20:17] essentially although you would most
+[00:20:20] people probably call it a path um that
+[00:20:22] sing that leads you single file to the
+[00:20:25] propa where there's more steps and so
+[00:20:28] forth um and that are surv those steps
+[00:20:31] are reconstructed remnants of the Roman
+[00:20:33] additions to the Acropolis from 2,000
+[00:20:36] years ago so that was irritating but
+[00:20:40] what made me more um frustrated was that
+[00:20:44] um on the way down and then um
+[00:20:46] subsequently visiting the Acropolis
+[00:20:48] Museum um that's adjacent to the
+[00:20:50] Acropolis at its base there're models of
+[00:20:52] the Acropolis over time and one of them
+[00:20:55] shows a model of the Acropolis from 2500
+[00:20:56] years ago that shows these gently
+[00:20:58] sloping ramps that used to lead into the
+[00:21:02] entrance and so as as you know and maybe
+[00:21:04] many of your listeners know the entire
+[00:21:06] site is is kind of going through this um
+[00:21:09] very extensive quasi reconstruction
+[00:21:12] process to retain some sense of what it
+[00:21:16] was like um 2500 years ago which has
+[00:21:18] been going you know this process has
+[00:21:21] been going on for um you know more than
+[00:21:23] a you know more than a century and a
+[00:21:25] half really involve removing all the
+[00:21:27] traces of the Ottoman buildings and
+[00:21:29] other things from the site and remove
+[00:21:31] and dismantling some of the Roman
+[00:21:33] structures as well um so it's this
+[00:21:36] entire project about reconstructing um
+[00:21:38] what this was like in the past but the
+[00:21:40] idea that anything related to the ramp
+[00:21:43] will be reconstructed seems absurd and
+[00:21:45] so then the question is why is that and
+[00:21:50] so I think and what I write about is
+[00:21:51] that one of the things that's kind of
+[00:21:55] built into ponus is um path design is
+[00:21:58] the idea that the experience of the past
+[00:22:01] or of the of archaeological authenticity
+[00:22:07] is built around um um forms of physical
+[00:22:09] intense intensity in the people that
+[00:22:11] experience these things so in other
+[00:22:13] words one can only have an authentic
+[00:22:15] experience of a site like this if one
+[00:22:19] goes through some kind of um arduous
+[00:22:21] physically um arduous and ultimately
+[00:22:23] exhausting experience this is an idea
+[00:22:26] from like European romanticist thought
+[00:22:28] really kind of British and German
+[00:22:31] language writing has nothing to do with
+[00:22:32] um anything related to the history of
+[00:22:36] the site so um so that says other things
+[00:22:38] that you know the site is what it is and
+[00:22:41] it's difficult but the site also um has
+[00:22:44] an idea built into it that's um from the
+[00:22:47] 19th century reinforced in the 20th
+[00:22:49] about how one how one experiences
+[00:22:51] history and who even has the ability to
+[00:22:52] do that
+[00:22:57] so Athens hosted the Olympics um 20
+[00:23:01] years ago or so and um when you host the
+[00:23:03] Olympics you also host the par Olympics
+[00:23:05] the Olympic sports for disabled athletes
+[00:23:08] and and any of the sites that are um
+[00:23:12] created for the U festivities around the
+[00:23:14] um Olympics have to be accessible so
+[00:23:16] they were forced to install a accessible
+[00:23:18] elevator I mean an elevator to get to
+[00:23:21] the top of the Acropolis and it's
+[00:23:22] basically it was like a modified
+[00:23:24] construction elevator that was the most
+[00:23:26] rickety thing it was one of the options
+[00:23:28] that I could take to get to the top
+[00:23:29] still here or was it just there for the
+[00:23:30] Paro Olympics yeah yeah I'm getting
+[00:23:32] there I'm getting there so you could
+[00:23:33] take it to the top but when you look at
+[00:23:35] it or I feel like any like many people
+[00:23:36] would look at that and think like
+[00:23:38] there's no way I'm going to take that
+[00:23:39] elevator to the top it looks more
+[00:23:42] dangerous than you know at least from my
+[00:23:44] perspective than what I may experience
+[00:23:47] on the path so there's been protests
+[00:23:49] against that in subsequent years and
+[00:23:51] this reached to Crescendo about three
+[00:23:53] years ago when a group of children who
+[00:23:55] were in wheelchairs um went to the
+[00:23:57] Acropolis and and couldn't use the
+[00:23:59] elevator and that caused this kind of
+[00:24:03] public fur and so in the past two years
+[00:24:04] they rebuilt that elevator into
+[00:24:06] something much more Grand and even went
+[00:24:11] so far as to install um um like really
+[00:24:13] kind of large scale concrete Paving
+[00:24:15] around the top to enable people to
+[00:24:16] better move around the site but all of
+[00:24:18] that is controversial because it's
+[00:24:20] transforming the hydrology of the site
+[00:24:23] and there's a very reasonable argument
+[00:24:25] to be made that is made Sorry by
+[00:24:27] archaeologists and the preservationist
+[00:24:31] working on the site that you know like
+[00:24:33] what does it mean to increase access to
+[00:24:35] a site that's so archaeologically
+[00:24:38] fragile so you know there's all kinds of
+[00:24:39] intersecting debates and there's no easy
+[00:24:41] solution to any of this I'm not
+[00:24:46] proposing that there is um however the
+[00:24:48] the discourse of like
+[00:24:51] authenticity um in this context needs to
+[00:24:54] really be um um you know thought about
+[00:24:56] more critically and I would argue that
+[00:24:58] disabled people
+[00:24:59] and particularly people like myself who
+[00:25:01] are very familiar with preservation
+[00:25:04] discourse can um offer perspectives and
+[00:25:06] ideas about restoration and
+[00:25:08] reconstruction um from a disability
+[00:25:10] perspective that begin to like obviate
+[00:25:12] questions about like whether things are
+[00:25:13] inaccessible or are accessible and
+[00:25:16] introduce all kinds of other questions
+[00:25:19] um so um sorry I'm going on and on but I
+[00:25:24] was lucky enough um uh a few years ago
+[00:25:25] to be invited to team up with an
+[00:25:28] archaeologist a Greek archaeologist
+[00:25:31] um and a classical art historian to
+[00:25:33] develop some very small scale artifacts
+[00:25:35] but that began to be interventions into
+[00:25:37] this discussion around disability and
+[00:25:40] access of the Acropolis and those were
+[00:25:45] exhibited at the um Hasam sarcus um
+[00:25:48] Venice banal I guess in the Arsenal
+[00:25:51] Gallery I think that was 2021 yeah um
+[00:25:55] yeah so just very quickly um when you
+[00:25:57] the surviving archaeological record
+[00:25:59] tells tells us that the people that that
+[00:26:01] went to the top after you know going up
+[00:26:04] these ramps um that there was um there
+[00:26:06] was a seat that was very prominently
+[00:26:08] displayed and for obvious reasons
+[00:26:11] because you're tired after this
+[00:26:16] journey and so nothing of it survives um
+[00:26:18] so that was one of the artifacts that we
+[00:26:20] reconstructed we reconstructed it three
+[00:26:21] different ways I nobody knows what it
+[00:26:26] looks like um and then also um there
+[00:26:28] were some other AR facts adjacent to it
+[00:26:31] that engage themes of impairment and
+[00:26:34] violence actually um that have never
+[00:26:36] been reconstructed so we reconstructed
+[00:26:39] those and we also did a very kind of
+[00:26:44] unusual um uh nonvisual reconstruction
+[00:26:48] of the of the ramp so you know none of
+[00:26:49] these artifacts have to actually be at
+[00:26:50] the Acropolis to be
+[00:26:55] experienced um but they um they um offer
+[00:26:58] another perspective on ideas about about
+[00:27:01] um impairment disability reconstruction
+[00:27:03] and the history of sites like
+[00:27:07] that um something that again is very uh
+[00:27:09] I think relevant to the Indian context
+[00:27:11] is you mentioned the arus journey one
+[00:27:14] has to make to get to the top and that's
+[00:27:16] often the case with a lot of religious
+[00:27:19] pilgrimage sites in India uh a lot of
+[00:27:22] Jane temples Jen is um jism is a
+[00:27:25] different religion and most often you'll
+[00:27:28] find Jan temples located on peaks of
+[00:27:32] mountains and one would have to climb I
+[00:27:34] don't know like I I know one of them has
+[00:27:37] like 45,000 steps and only steps uh
+[00:27:39] couple of temples in the South you have
+[00:27:42] to walk like people start walking up the
+[00:27:44] mountain at 4:00 a.m. 5: a.m. in the
+[00:27:47] morning to get there by 9:10 a.m. but
+[00:27:49] that's also I think a very integral part
+[00:27:51] of the pilgrimage Journey that people
+[00:27:53] have to make so that you know you have
+[00:27:57] to work yourself to reach to God kind of
+[00:27:59] a narrative but of course even one could
+[00:28:02] look at that also a lot of pilgrimage
+[00:28:03] sites in up north in the mountains in
+[00:28:06] the Himalayas there's entire economies
+[00:28:09] based on Transportation where of course
+[00:28:11] a lot of older people when they go to
+[00:28:13] visit they are not able to climb so You'
+[00:28:17] have um uh palent Queen bearers who
+[00:28:19] literally two of them along the bamboo
+[00:28:21] pole who will carry you who luck you up
+[00:28:23] to the mountain and then you have all
+[00:28:25] sorts of like animals lugging you up to
+[00:28:28] the mountain but I I think just looking
+[00:28:30] at the way you're looking at it a lot of
+[00:28:32] people could also make an argument for
+[00:28:36] an entire economy that thrives on places
+[00:28:39] which were designed to provide that kind
+[00:28:42] of an uphill uh Journey I've I've never
+[00:28:44] thought about it that way I'm I'm just
+[00:28:46] now making that
+[00:28:46] connection
+[00:28:52] that's go ahead sir I'm just saying
+[00:28:54] maybe that's that's what was kind of
+[00:28:57] common in these oldest civilizations is
+[00:28:59] you know you you have to work your way
+[00:29:01] up and they were always located on the
+[00:29:04] top of something especially Indian
+[00:29:06] temples there'll be some very important
+[00:29:09] Temple located in a place which is very
+[00:29:11] difficult to get to but we could also
+[00:29:12] look at counter examples like I just
+[00:29:15] finished reading um Steven Graber and W
+[00:29:19] Grid's um book The Dawn of everything in
+[00:29:23] which um they describe the um uh
+[00:29:29] teoto that are built around um these um
+[00:29:32] giant um stepped and or or
+[00:29:36] Mound um uh Temple spaces and cigarettes
+[00:29:38] and that um civilizations around them
+[00:29:39] eventually abandoned the use of them and
+[00:29:41] created one-story cities um that
+[00:29:45] surrounded them that also offered um a
+[00:29:46] kind of completely different social
+[00:29:47] model their Arrangement one that was
+[00:29:51] less about um physical exertion and um
+[00:29:53] and and and exactly what you say a kind
+[00:29:57] of um religion of sublimation yeah so
+[00:29:58] you know religious experience of
+[00:30:01] sublimation so you know I don't you know
+[00:30:07] that book um is um is is very much in
+[00:30:08] line with some of the ideas and the
+[00:30:11] architecture of disability so those are
+[00:30:13] and and a history that I'm less familiar
+[00:30:16] with so those are fantastic to read but
+[00:30:17] um but yeah that's a it makes me think
+[00:30:19] of a few other things um chiefly if I
+[00:30:21] was a more charismatic person I would
+[00:30:23] love to form a religion around the
+[00:30:26] experiences of disability and
+[00:30:28] incapacity too
+[00:30:33] late a religion that centered our um
+[00:30:36] relative weaknesses as a spiritual
+[00:30:38] experience I would you know that would
+[00:30:40] be like a fantasy project if I retire
+[00:30:43] from teaching I I I don't know if I mean
+[00:30:45] I hope it graduates into religion but it
+[00:30:47] for sure has all the markings of being a
+[00:30:50] fabulous cult so I'm I'm all for
+[00:30:55] it um um we would was worship cool
+[00:30:58] temperatures and darker spaces where our
+[00:31:01] bodies would Thun be very different than
+[00:31:02] the the vision of like a Christian
+[00:31:05] Church um we already have a Manifesto
+[00:31:07] see there it is that's right right it's
+[00:31:11] the beginning right next project um what
+[00:31:13] I was gonna say um oh but there are
+[00:31:14] examp there's an example in the book I
+[00:31:16] don't get too into it but um it's
+[00:31:20] briefly mentioned but um uh the Basilica
+[00:31:22] of sandini out um sort of in the suburbs
+[00:31:24] of Paris
+[00:31:27] um that was a famous
+[00:31:29] well that was an important essential
+[00:31:34] pilgrimage site um and one of the um um
+[00:31:38] directors I guess you'd say of the um of
+[00:31:42] the Basilica in the in the 13th century
+[00:31:45] um wrote notes and Reflections about the
+[00:31:47] number of impaired worshippers they came
+[00:31:51] and and how um um difficult it was to
+[00:31:53] watch their kind of struggles to touch
+[00:31:57] the relics in the church and um he goes
+[00:31:59] then goes on to describe the kinds of
+[00:32:00] Transformations that were made to the
+[00:32:02] church not just for the sake of these
+[00:32:05] people but to be more amenable to large
+[00:32:07] crowds of pilgrims
+[00:32:09] so again back to something I was
+[00:32:09] mentioning
+[00:32:12] earlier one can find histories of
+[00:32:14] incapacity throughout the history of
+[00:32:16] architecture that church is considered
+[00:32:19] one of the um birthplaces of Gothic
+[00:32:24] architecture and this person AB Su um is
+[00:32:27] um critical figure in um
+[00:32:28] the person who wrote These Reflections
+[00:32:31] I'm talking about in in that story so
+[00:32:34] yeah I I also want to talk about
+[00:32:37] something um we spoke about when we
+[00:32:40] first uh spoke about the interview and
+[00:32:43] uh that has to do with the use and the
+[00:32:46] idea of the word care and because this
+[00:32:48] season we are broadly working with these
+[00:32:50] with these three words and we've spoken
+[00:32:52] to somebody who's looking at the history
+[00:32:55] of care infrastructures and care
+[00:32:59] typologies and I I found it very
+[00:33:01] surprising when you say that the word
+[00:33:03] care sometimes acts as a trigger for a
+[00:33:07] lot of people who are who are disabled
+[00:33:11] can you elaborate on that yeah so um I
+[00:33:13] used to think I was alone in this but um
+[00:33:16] it turns out that I'm not um so in
+[00:33:19] disability studies there's a subset I
+[00:33:22] would say that um talks about kind of
+[00:33:24] communities of care and issues of
+[00:33:28] self-care and um um cultures of care
+[00:33:31] okay um a lot of that writing is
+[00:33:32] actually written by people who are not
+[00:33:35] disabled who view themselves as
+[00:33:37] caregivers they have children who are
+[00:33:43] disabled or um a partner spouse um who's
+[00:33:45] disabled who they've cared for often you
+[00:33:47] know these stories don't end well
+[00:33:49] obviously there you
+[00:33:51] know some of them are very tragic about
+[00:33:52] how people care for people at the end of
+[00:33:58] their life so I think among those of us
+[00:34:01] who have been very seriously um impaired
+[00:34:02] since we were
+[00:34:05] children the issue of care is is more
+[00:34:09] complex um because care has often been
+[00:34:11] used as a kind of Leverage to
+[00:34:14] institutionalize us okay this is
+[00:34:16] something um that's very important I can
+[00:34:18] maybe talk about it a little bit more at
+[00:34:20] length once I just kind of give you a
+[00:34:22] summary my thoughts so that's an issue
+[00:34:24] that care has been kind of leveraged as
+[00:34:27] a way to um to basically say like you
+[00:34:29] need care and that becomes a form of
+[00:34:34] power um some of us have um had
+[00:34:36] struggles the very people that are the
+[00:34:38] um that are centered in those
+[00:34:40] discussions of care and disability
+[00:34:42] studies some of us had struggles with
+[00:34:46] our parents who may see um our lives as
+[00:34:49] disabled people um taking a very
+[00:34:51] different direction than the lives we
+[00:34:53] want for ourselves okay um thinking
+[00:34:56] about issues around Independence our
+[00:34:59] sexual Liv you know whatever you know
+[00:35:01] the the things that we we need you know
+[00:35:03] as independent people particularly
+[00:35:08] younger people um and then there's the
+[00:35:12] um the the kinds of um subtle forms of
+[00:35:15] discourse around Aid that U many
+[00:35:18] disabled people find belittling um
+[00:35:21] throughout their life and in which um
+[00:35:25] care and Aid become ways to argue that
+[00:35:28] um disabl people have incapacities that
+[00:35:33] need to be um sort of coddled right so I
+[00:35:37] used to think I was alone and being um
+[00:35:37] um
+[00:35:41] skeptical actually that's a very nice
+[00:35:42] word and being
+[00:35:45] outraged by the discourse around care
+[00:35:47] and disability but I was in having a
+[00:35:48] conversation recently with a group of
+[00:35:50] very prominent disability Scholars some
+[00:35:52] of whom are disabled some of them are
+[00:35:54] not and it was interesting that the
+[00:35:56] other disabled people at the table said
+[00:35:57] they they very much agreed with the
+[00:36:00] kinds of um concerns that I have that
+[00:36:03] that care is a can be a
+[00:36:05] frightening um term for them and
+[00:36:06] precisely for the reasons that I've just
+[00:36:09] mentioned their struggles um trying to
+[00:36:11] have Independence their struggles with
+[00:36:13] institutionalization their struggles
+[00:36:15] with their parents and their struggles
+[00:36:17] today as people who don't see themselves
+[00:36:19] as needing help but having a different
+[00:36:21] perspective to bring on what it means to
+[00:36:24] be a human being um and I don't know if
+[00:36:26] care makes much of a space for that
+[00:36:28] right now so that's an you know that's
+[00:36:30] an interesting question when disabled
+[00:36:32] people so the retor is well disabled
+[00:36:34] people have been Pro practicing
+[00:36:36] communities of care well that's an
+[00:36:38] interesting question when
+[00:36:40] I and let's say a fellow
+[00:36:43] amputee um like teach each other how to
+[00:36:46] run are we caring for each other I would
+[00:36:48] argue that the experience is more like
+[00:36:50] just like anybody else any other athlete
+[00:36:54] we're competing with each other we're um
+[00:36:56] we're struggling against each other's
+[00:36:59] Rel capacities and incapacities I don't
+[00:37:01] think it doesn't feel like care but it
+[00:37:04] feels good you know um and it feels like
+[00:37:08] something I want so I think I think
+[00:37:11] those of us who have dealt with just
+[00:37:13] impairments very serious ones throughout
+[00:37:17] our whole life have a lot to um discuss
+[00:37:19] when it comes to these um ideas about
+[00:37:22] care to and how they do us a what we
+[00:37:24] think I'm not saying it's an absolute
+[00:37:27] but they how they may appear to do us a
+[00:37:29] disservice at times right yeah and again
+[00:37:32] I don't want to be extreme like I
+[00:37:35] understand how important um this topic
+[00:37:38] is and in in many other contexts so I
+[00:37:39] don't want to be completely dismissive
+[00:37:41] I'm just saying in this very specific
+[00:37:43] context the context of disability and
+[00:37:45] the Very cultural context of the United
+[00:37:47] States um it has
+[00:37:48] um
+[00:37:54] um it had some um implications that are
+[00:37:57] frightening um I mean just continuing
+[00:38:01] from that as an abled body person and
+[00:38:03] you know you don't often think of
+[00:38:05] yourself as an abl bed person unless
+[00:38:08] you're talking about the other which is
+[00:38:11] disabled and in in discourses which
+[00:38:14] exist right now um in academics or
+[00:38:17] otherwise there is that other ring of
+[00:38:21] disability as uh a a group that needs to
+[00:38:25] be accounted for or a group that is
+[00:38:27] different from
+[00:38:30] you as in you know as designers we are
+[00:38:33] designing for the disabled of course
+[00:38:35] sometimes as a designer you might have
+[00:38:38] had an experience most times you've not
+[00:38:41] in your opinion what do you think are
+[00:38:44] some of the ways in which there could be
+[00:38:46] a healthy flow of information or what
+[00:38:48] are some of the ways in which a dialogue
+[00:38:50] or a support system could be set up
+[00:38:53] where the othering could be
+[00:38:56] minimized yeah I mean in the context in
+[00:38:57] which which I operate which is
+[00:39:00] architecture and AR you know and
+[00:39:01] architecture schools right that's where
+[00:39:04] I work um I think the answer is very
+[00:39:07] simple we need more disabled people
+[00:39:07] teaching
+[00:39:12] leading um informing um studying uh
+[00:39:14] architecture and I think once you do
+[00:39:18] that um then it's no longer an issue of
+[00:39:20] othering you know it's it's just like
+[00:39:20] any
+[00:39:24] other um kinds of claims that need to be
+[00:39:26] made for representation in our field
+[00:39:28] this is you know this is so important
+[00:39:32] and so um you know I think you know I
+[00:39:35] want to sound Grand grandiose um but I
+[00:39:38] think I'm in a relatively lucky position
+[00:39:40] you know things could be better but I'm
+[00:39:41] relatively lucky position so I see it as
+[00:39:43] a responsibility for myself to kind of
+[00:39:46] make some space you know not just for me
+[00:39:47] but for other people to enter this
+[00:39:49] profession or to study architectural
+[00:39:51] history or to be involved with
+[00:39:54] architecture that have not and um that
+[00:39:56] includes disabled people includes many
+[00:39:57] many many other kind you know many many
+[00:39:59] other people as well so that's really
+[00:40:02] important to me and things change right
+[00:40:05] you know immediately you know like um
+[00:40:06] when you see that perspective and I
+[00:40:09] think a lot of the absurdities that come
+[00:40:12] out of um previous engagements um with
+[00:40:13] disabled people in architecture school
+[00:40:16] go away so for example I recently saw
+[00:40:20] videos that were taken by students in a
+[00:40:24] studio about um about access in which at
+[00:40:27] the end of this semester were carrying
+[00:40:30] an 8 foot long model down six stories of
+[00:40:34] stairs and I so you know I'm only
+[00:40:36] laughing like how was this studio about
+[00:40:38] it was it this is one of the I mean
+[00:40:40] what's so interesting is very
+[00:40:42] contradictory this is this studio was
+[00:40:45] engaging in in in many ways the topic of
+[00:40:47] disability which is great but at the
+[00:40:51] same time to your point it's so othered
+[00:40:53] in a way because the like how could
+[00:40:56] experiences of impairment even enter
+[00:40:59] into that process which I'm sure was not
+[00:41:01] unique to this you know it's not unique
+[00:41:03] to that studio of course like these
+[00:41:04] kinds of things happen over and over
+[00:41:07] again um so yeah I mean there's other
+[00:41:09] things that many other people have
+[00:41:11] discussed um and have' been talking for
+[00:41:12] a long time so one of the ways that
+[00:41:14] disability is othered typically in
+[00:41:17] artificial education is by um inviting
+[00:41:18] students to quote unquote experience
+[00:41:21] disability so in the past you know
+[00:41:23] professors will have students sit in a
+[00:41:26] wheelchair put on a blindfold or put on
+[00:41:28] head phone so they experience what it's
+[00:41:31] like to be somebody in a wheelchair a
+[00:41:32] deaf person a blind person that is not
+[00:41:36] let me just make this very clear that is
+[00:41:38] not what it that is not the chief
+[00:41:40] experience of being a disabled person
+[00:41:43] like um you know I think my chief
+[00:41:46] experience of a disabled person is is
+[00:41:47] the fear of many people that have very
+[00:41:50] serious impairments is of economic ruin
+[00:41:53] I mean the amount of money that we spend
+[00:41:56] is just one of many examples um
+[00:41:59] to buy things like Prosthetics or to
+[00:42:00] have certain kinds of forms of Medical
+[00:42:01] Care is so
+[00:42:04] extreme um so that you know if you want
+[00:42:06] to know what it's like to be a disabled
+[00:42:10] person pay a $30,000 medical bill um if
+[00:42:11] you want to know what it's like to be a
+[00:42:13] disabled person with certain kinds of
+[00:42:15] impairments know what it's like to fear
+[00:42:17] have fears about your own mortality in
+[00:42:19] ways that a lot of other people don't
+[00:42:20] because they haven't survive cancer
+[00:42:23] among other things so you know those
+[00:42:24] those are other ways in which disability
+[00:42:27] becomes othered right um but again you
+[00:42:30] know when you have people in leadership
+[00:42:33] or teaching or students who bring these
+[00:42:36] perspectives it really shifts things and
+[00:42:38] you you you know I can't say this enough
+[00:42:40] you just realize what it is a it what a
+[00:42:43] a contribution it is to like education
+[00:42:44] and discourse
+[00:42:47] because I believe that really great
+[00:42:49] education is about constant debate and
+[00:42:52] critique and discussion and it brings in
+[00:42:56] you know like perspectives that are um
+[00:42:59] um completely under underrepresented and
+[00:43:01] so badly needed right so especially you
+[00:43:04] know we're entering a very interesting
+[00:43:07] phase in um I think in a culture in the
+[00:43:08] United States
+[00:43:11] because the the pandemic has very much
+[00:43:14] wh wound down and and people have gone
+[00:43:16] through an experience in which many
+[00:43:17] people who never thought about
+[00:43:20] disability or impairment or illness had
+[00:43:22] to and so the question for me is like
+[00:43:24] how does that inform the culture of this
+[00:43:26] country moving forward I'm not just
+[00:43:27] talking about architectual education I
+[00:43:30] mean in everyday life and so I have a
+[00:43:31] lot of concern that some people just
+[00:43:33] want to go back to the way things were
+[00:43:36] before I think other people realize um
+[00:43:39] that's not GNA you know what is before
+[00:43:40] like what does that even mean and is
+[00:43:43] that even possible so um it's an
+[00:43:45] interesting and frightening and exciting
+[00:43:48] moment I think in this country at least
+[00:43:52] in terms of um thinking about how um
+[00:43:55] ideas about impairment um may or may not
+[00:43:57] be become part of the culture you know
+[00:43:59] so we'll
+[00:44:01] see um just let me just go on one second
+[00:44:03] like I've noticed changes in my
+[00:44:05] day-to-day life so for example in the
+[00:44:08] summertime um when I wear shorts it's
+[00:44:10] very obvious that I'm an amputee and I
+[00:44:12] would walk around New York City I feel
+[00:44:14] like I would often get like kind of
+[00:44:17] strange um looks or stares from people
+[00:44:19] but since the pandemic that's changed
+[00:44:21] because again I think people have
+[00:44:26] realized that impairment is is more of
+[00:44:27] you know something that can be woven
+[00:44:29] into your everyday experiences in ways
+[00:44:31] that you could never have previously
+[00:44:34] imagined and so I don't know if that's
+[00:44:36] created a point of contact or empathy or
+[00:44:39] who knows what but um but it's just a
+[00:44:40] very subtle change that I've noticed in
+[00:44:44] people's attitudes that um physical
+[00:44:47] weakness disfigurement is is something
+[00:44:49] that can sort of be tolerated as an
+[00:44:51] aspect of everyday life in a way that
+[00:44:53] wasn't as recently as five years ago I
+[00:44:55] mean it's unfortunate it has to be
+[00:44:56] tolerated I think it should just be
+[00:44:59] normal I mean just like this body is
+[00:45:01] normal there's different forms of body
+[00:45:03] that should be just normalized to the
+[00:45:05] extent that you don't make heads turn
+[00:45:07] every time you know you see a body that
+[00:45:10] looks different from yours but um my
+[00:45:12] last question it's a very standard
+[00:45:14] question that I ask every time is now
+[00:45:17] you have the book that's out um what's
+[00:45:21] next how do you take it from here um are
+[00:45:23] you planning any exhibitions just where
+[00:45:25] do we go from here yeah thanks for that
+[00:45:26] question well first of all I've been
+[00:45:28] completely overwhelmed with the response
+[00:45:31] to this book it has really um it has
+[00:45:33] caught me a bit off guard and I've been
+[00:45:36] very busy
+[00:45:38] um um lecturing about it having
+[00:45:42] discussions like this um for the past um
+[00:45:46] what has it been seven months so um I
+[00:45:50] have not had a lot of time to develop a
+[00:45:53] new project at the moment um however um
+[00:45:55] one of the things that's been very
+[00:45:56] exciting about those respons to the book
+[00:45:59] and that I've been um it's been making
+[00:46:01] me very happy is the number of M
+[00:46:03] municipalities institutions and
+[00:46:05] organizations that have come to me to
+[00:46:07] take some kind of role in helping them
+[00:46:09] plan their Futures and relative to the
+[00:46:11] ideas in the book so I've been having
+[00:46:14] some really um exciting conversations
+[00:46:17] with practitioners with museums with
+[00:46:19] Municipal officials who want to better
+[00:46:22] understand how the ideas in this book
+[00:46:24] can relate to to to where they want to
+[00:46:27] go um as an institution or as a city as
+[00:46:31] planners as practitioners so um that has
+[00:46:33] become a very growing part of my
+[00:46:35] practice and it's something that I want
+[00:46:39] to continue to develop um you know um
+[00:46:40] talking to institutions talking to
+[00:46:42] cities about the ways the ideas in the
+[00:46:44] book can be implemented that's really
+[00:46:47] important in terms of studies you know
+[00:46:49] more um like kind of writing and
+[00:46:51] academic things I'm interested in
+[00:46:52] spinning off some of the themes from the
+[00:46:54] book and taking a closer look at things
+[00:46:56] um so for example
+[00:46:59] um a current Obsession of mine that's a
+[00:47:02] detail is this idea of the one-story
+[00:47:08] city um that has that was Advanced by um
+[00:47:10] uh many modernist Architects as a kind
+[00:47:13] of retort um to the idea that modern
+[00:47:15] urbanization is something that required
+[00:47:17] greater height and mass and so it's
+[00:47:19] really interesting how much of that
+[00:47:23] history engages with um veterans and
+[00:47:26] ideas about physical weakness and the
+[00:47:29] physical Rejuvenation also like
+[00:47:33] um even an you know ideas that are um
+[00:47:36] trying to figure out ways to push back
+[00:47:38] against the demands of the capitalist
+[00:47:39] City so that's something I want to take
+[00:47:41] a closer look at I don't know where
+[00:47:43] that's going to go but that's both a
+[00:47:44] historical project but also a design
+[00:47:47] project in terms of thinking about what
+[00:47:49] that might be what its future might be
+[00:47:51] so yeah so thank you awesome thank you
+[00:47:54] so much David for this conversation and
+[00:47:56] uh as soon as it's available I I know
+[00:47:58] I'm going to order one for myself
+[00:48:00] because I'm very excited to read it okay
+[00:48:01] well we'll have them send we'll have the
+[00:48:03] publisher send you something um thank
+[00:48:06] you so much I really appreciated it and
+[00:48:08] um I hope it was
+[00:48:08] [Music]
+[00:48:14] helpful special thanks to aosi takur for
+[00:48:16] the research and design support and
+[00:48:18] Kahan sha for the background score you
+[00:48:21] can follow us on Instagram at arof
+[00:48:23] Center and reach out to us through our
+[00:48:26] website arof center.com
+[00:48:33] that is a r c h o f f c e n d r e and
+[00:48:35] thanks for
+[00:48:35] [Music]
+[00:48:36] listening

@@ -1,0 +1,12 @@
+Source: The Dispossessed: An Ambiguous Utopia (Harper & Row, 1974), Open Library record
+URL: https://openlibrary.org/books/OL18217873M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL18217873M
+Title: The  dispossessed
+Subtitle: an ambiguous utopia
+Publishers: ['Harper & Row']
+Publish date: 1974
+ISBN: None
+Pages: None
+Work: ['/works/OL59863W']

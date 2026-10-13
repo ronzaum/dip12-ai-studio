@@ -1,0 +1,53 @@
+Source: We Must Learn to Sit Down Together and Talk About a Little Culture: Decolonising Essays 1967-1984 (ed. Demetrius L. Eudell, Peepal Tree Press). (1) Open Library search API record. (2) Cafe OTO shop listing (publisher's own site blocked the fetch).
+URL: https://openlibrary.org/search.json?q=we+must+learn+to+sit+down+together+wynter ; https://www.cafeoto.co.uk/shop/sylvia-wynter-we-must-learn-to-sit-down-together-a/
+Fetched: 2026-10-12 via curl ; fetch.py
+
+{"numFound":1,"start":0,"numFoundExact":true,"num_found":1,"documentation_url":"https://openlibrary.org/dev/docs/api/search","q":"we must learn to sit down together wynter","offset":null,"docs":[{"author_name":["Sylvia Wynter","Demetrius L. Eudell"],"first_publish_year":2020,"isbn":["1845231082","9781845231088"],"key":"/works/OL21438778W","publish_year":[2020],"publisher":["Peepal Tree Press, Limited"],"title":"We Must Learn to Sit down Together and Talk about a Little Culture"}]}
+--- Cafe OTO listing ---
+We must learn to sit down together and talk about a little cutlure: decolonizing essays, 1967 - 1984
+
+Sylvia Wynter
+
+ Book
+
+ Book £30
+
+ Book £27 > MEMBERS
+
+edited by Demetrius L. Eudell
+
+Softcover, 650pp
+
+Peepal Tree Press, 2022
+
+The beginnings of the anti-colonial struggle in Jamaica coincided with the childhood and early adolescence of Sylvia Wynter, providing the motivation for this, the first phase of her important body of work. The essays and articles collected here go beyond making an argument against colonialism, but set out to decolonize the nature of the discourse that legitimated the imperial order. At the time of their writing, Wynter was a practicing novelist, an innovative playwright, a scholar of Spanish Caribbean history, and an incisive literary critic with a gift for the liveliest kind of polemics. This intellectual virtuosity is evident in these wide-ranging essays that include an exploration of C.L.R. James's writings on cricket, Bob Marley and the counter-cosmogony of the Rastafari, and the Spanish epoch of Jamaican history (including a pioneering examination of Bernado de Balbuena, epic poet and Abbot of Jamaica 1562-1627).
+
+You may also like
+
+Books and Magazines
+
+NOW JAZZ NOW - 100 Essential Free Jazz & Improvisation Recordings 1960-80
+
+ Book
+
+ Book £50
+
+ Book £45 > MEMBERS
+
+Books and Magazines
+
+Late Arcade
+
+ out of stock
+
+Books and Magazines
+
+A STRANGE CELESTIAL ROAD
+
+ out of stock
+
+Books and Magazines
+
+firespitter
+
+ out of stock

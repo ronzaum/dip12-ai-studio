@@ -1,0 +1,154 @@
+Source: Pascal Michon, '1. Henri Lefebvre's Rhythmanalysis of Everyday Life and Space - Part 1', Rhuthmos, 14 December 2019 (secondary essay; quotes Lefebvre from Critique of Everyday Life vols 2-3 and The Production of Space with page numbers)
+URL: https://www.rhuthmos.eu/spip.php?article2479
+Fetched: 2026-10-12 via fetch.py (page text, stdlib)
+
+When he reached his late fifties, Henri Lefebvre’s life (1901-1991) took a remarkable turn: in 1958, after thirty years being a committed member, he was expelled from the French Communist Party. He then became close to the Situationists, and finally was chosen as a mentor by the French students who launched the rebellion movement in 1968 at the University of Nanterre, where he had been appointed in 1965. Naturally, his thought followed a similar pattern. His kind of Marxism became more and more alienated from the dominant doctrine. He increasingly insisted on supplementing the critique of the capitalist mode and relations of production with an analysis of the everyday life. Moreover, drawing both from the philosophical debate he witnessed during his youth between Gaston Bachelard (1884-1962) and Henri Bergson (1859-1941) on the nature of durée – duration [1], and from the Marxist or para-Marxist critique of the dehumanizing pace of the modern industrial work [2], he resumed with the interest in rhythm, which had been so widespread before WW2 but which had disappeared due to the eventual success of the notions of system and structure.
+
+From the rhythmological viewpoint, he is now mostly remembered for his last book Éléments de rythmanalyse. Introduction à la connaissance des rythmes – Rhythmanalysis: Space, time and everyday life (trans. Stuart Elden & Gerald Moore, 2004) published posthumously in 1992, which popularized the term “rhythmanalysis” borrowed from Bachelard, who had been himself inspired by the mysterious Portuguese thinker Lúcio Alberto Pinheiro Dos Santos (1889-1950) [3]. But recent studies have shown that Lefebvre had actually been interested in rhythm over a very long period of time (for a comprehensive presentation, see Revol, 2012, 2015).
+
+In 1985 and 1986, Lefebvre had already written with his wife Catherine Régulier two journal articles entitled “Le projet rythmanalytique” and “Essai de rythmanalyse des villes méditerranéennes,” the last of which was added to the collection published one year after his death.
+
+But even before these two essays, there were already some mentions of the issue of rhythm in the last two volumes of Critique de la vie quotidienne vol. 2 and vol. 3 published respectively in 1961 and 1981 – Critique of Everyday Life (vol. 2, trans. John Moore, 1991; vol. 3, trans. Gregory Elliott, 2005).
+
+ Rhythm as Form of the Everyday Life
+
+Written from 1947 to 1981, that is during the famous post-war Trente Glorieuses, the 30 years of steady growth, urbanization, and consumerism, the Critique of Everyday Life is nowadays—I borrow here a few words from the presentation of the last English edition—“considered to be one of the founding texts of cultural studies, as well as a major influence on the fields of contemporary philosophy, geography, sociology, architecture, political theory and urbanism.” It carefully deconstructed how everyday experience had been “colonized by the commodity, shadowed by inauthenticity,” yet remaining, according to Lefebvre, “the only source of resistance and change.”
+
+In this series, rhythm was not central but it already appeared to be of some interest for the critique of everyday life in its temporal dimension. As soon as 1961, Lefebvre introduced an opposition that he was to regularly reuse during the next thirty years—and that I will discuss below—between “profound, cosmic, vital rhythms” and those which “are connected to knowledge, reason and techniques” and that correlate “with processes of economic and technological growth” or, in a more synthetic version, “cyclical” versus “linear rhythms.”
+
+Social space is made up of a relatively dense fabric of networks and channels. This fabric is an integral part of the everyday. [...] As for social time, let us emphasize once more the difference between cyclic time scales and linear time scales, and their relativeness. We know that the former have their origins or their foundations in nature; they are connected to profound, cosmic, vital rhythms. The latter are connected to knowledge, reason and techniques; they correlate not with vital rhythms and processes, but rather with processes of economic and technological growth. (Critique of Everyday Life, vol. 2, 1961, trans. John Moore, 1991, pp. 231-232)
+
+The analysis of the interaction between the traditional and natural rhythms, based on supple cycles, and those, implying on the contrary a strict linear repetition, imposed on the everyday by the development of industry and urbanization, was to be called—if I am not mistaken, this is the first mention of these terms in Lefebvre’s work—a “rhythmology or a sociological ‘rhythmanalysis.’” A short footnote indicated that “the term was borrowed from Gaston Bachelard.” Let us notice that in addition to this attention to the two most important forms of repetition, the sociologist had to take into account Gurvitch’s studies on social tempos (1950). The whole study would allow to “develop a theory of the multiplicity of social time scales.”
+
+We will look closely at the results of the interaction between cyclic rhythms and linear (continuous or discontinuous) time scales in the everyday. Therefore we will be proposing a rhythmology or a sociological “rhythmanalysis,” and we will attempt to distinguish between periodicities and to study their relations and superpositions, taking either mathematical harmonic analysis or physiological research as our model. Moreover, each group has its “tempo,” which is relatively fast or slow, and which varies between work and everyday life outside work. In this way we would hope to develop a theory of the multiplicity of social time scales [multiplicité des temps sociaux]. (Critique of Everyday Life, vol. 2, 1961, trans. John Moore, 1991, p. 232)
+
+In 1981, Lefebvre resumed the opposition that he had sketched twenty years before between “cyclical processes and times and linear processes and times.” But, this time, he introduced the idea, which he had already outlined in 1974 and which he was to develop eventually, that the body which “appears to be a bundle of cyclical rhythms” was the main resource in the struggle against the total “suppression” of “the rhythmical” by “the linear.”
+
+Daily life also results from conjunctions between cyclical processes and times and linear processes and times—that is, between two very different modalities of the repetitive. The body appears to be a bundle of cyclical rhythms ; contrariwise, many regulated activities—a sequence of productive gestures, for example, or social procedures—are clearly linear. In present daily life, the rhythmical is overwhelmed, suppressed by the linear. But the rhythmical cannot disappear ; the repetitive cannot be reduced to the results of a combinatory, a prefabricated, imposed linearity. Although such tendency exists in the modern world, daily life cannot be conceived exclusively in accordance with functional linearity. Likewise, the qualitative cannot completely disappear into the quantitative, nor use into exchange, nor things into pure relations. (Critique of Everyday Life, vol. 3, 1981, trans. Gregory Elliott, 2005, pp. 11-12)
+
+He once again alluded to the constitution of “a new science” that would study “these highly complex [rhythmic] processes,” a science that he called “rhythmanalysis,” yet without this time mentioning Bachelard and defining it only by its difference to psychoanalysis. Apparently, that is all there is in Critique of Everyday Life.
+
+Similarly in daily life: the many rhythms and cycles of natural origin, which are transformed by social life, interfere with the linear processes and sequences of gestures and acts. Rhythmanalysis, a new science that is in the process of being constituted, studies these highly complex processes. It may be that it will complement or supplant psychoanalysis. It situates itself at the juxtaposition of the physical, the physiological, the social, at the heart of daily life. (Critique of Everyday Life, vol. 3, 1981, trans. Gregory Elliott, 2005, pp. 129-130)
+
+ Rhythm as Generator of Urban Space
+
+In the meantime, Lefebvre had published in 1968, Le Droit à la ville (no Eng. trans. yet) and, in 1974, La Production de l’espace – The Production of Space (trans. Donald Nicholson-Smith, 1991), where rhythm was clearly highlighted as a concept useful to sociology, especially that dealing with urban space. Since the relation of Lefebvre’s concern for rhythm to his larger interest in space is often under-evaluated, I will go into more details in this section (for a useful introduction, see Goonewardena, Kipfer, Milgrom, Schmid, ed., 2008)..
+
+In this new book, Lefebvre attempted to overcome the abstraction induced by the main disciplines interested in space—namely, architecture, urbanism, geography, economics—and to show the theoretical unity between physical, mental, and social space. Every society produces, he argued, a space of its own. Our neo-capitalist societies have produced the abstract space which hosts the “world of commodity,” its logic and strategies on both national and international level, along with the power of money and that of the State. The city in particular, which is “the cradle of accumulation, the place of wealth, the subject of history, the center of the historical space,” has exploded. (Lefebvre, “Space: Social Product and Use Value,” 1979). In brief, The Production of Space tried to assess the consequences of this deterioration of space by developing an extensive and rigorous analysis of its production, in which rhythm played an important role.
+
+Each city, each society, or “more accurately,” Lefebvre added to firmly situate his reflection within the Marxist paradigm, “each mode of production, along with its specific relations of production,” offers up its own “peculiar” or “appropriated” space generated and formed, at least partly, by “the rhythm of daily life.”
+
+The city of the ancient world cannot be understood as a collection of people and things in space [...]. For the ancient city had its own spatial practice: it forged its own—appropriated—space. Whence the need for a study of that space which is able to apprehend it as such, in its genesis and its form, with its own specific time or times (the rhythm of daily life), and its particular centers and polycentrism (agora, temple, stadium, etc.). The Greek city is cited here only as an example—as one step along the way. Schematically speaking, each society offers up its own peculiar space, as it were, as an “object” for analysis and overall theoretical explication. I say each society, but it would be more accurate to say each mode of production, along with its specific relations of production. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 31)
+
+As a matter of fact, “appropriation of space” by social groups should not mean, in his view, only domination, ownership, or exchange, but also “usage” according to “the rhythms of time and of life.”
+
+It should be noted that appropriation is not effected by an immobile group, be it a family, a village or a town; time plays a part in the process, and indeed appropriation cannot be understood apart from the rhythms of time and of life. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 166)
+
+The use of rhythmic analysis would thus help to reintroduce life, experience and use value into the analysis of space that had been both transformed into an abstract concept, a fetish, “space in itself,” and broken up into “truncated” pieces, by “specialists” such as architects, economists, geographers, and city planners, “in accordance with the social division of labor” (pp. 89-90).
+
+A comparable approach is called for today, an approach which would analyze not things in space but space itself, with a view to uncovering the social relationships embedded in it. The dominant tendency fragments space and cuts it up into pieces. It enumerates the things, the various objects, that space contains. Specializations divide space among them and act upon its truncated parts, setting up mental barriers and practico-social frontiers. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 89)
+
+Anticipating one of Serres’ suggestions made only a few years after (see below), Lefebvre interestingly alluded to “hydrodynamics,” i.e. the physics of flows, to give an idea of this fabrication of space by everyday rhythms.
+
+A much more fruitful analogy, it seems to me, may be found in hydrodynamics, where the principle of the superimposition of small movements teaches us the importance of the roles played by scale, dimension and rhythm. Great movements, vast rhythms, immense waves—these all collide and “interfere” with one another; lesser movements, on the other hand, interpenetrate. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 87)
+
+The full epistemological value of such proposition appeared a few pages below when Lefebvre elaborated further the role to be played in the critique of modern urban space by the study of “the spatio-temporal rhythms of nature as transformed by a social practice.” The latter would offer, he suggested, a middle ground to approaches based on “processes” on the one hand, and “structures” on the other. It would thus reconcile the two membra disjecta of the 20th century social science.
+
+The history of space does not have to choose between “processes” and “structures,” change and invariability, events and institutions. Its periodizations, moreover, will differ from generally accepted ones. Naturally, the history of space should not be distanced in any way from the history of time (a history clearly distinct from all philosophical theories of time in general). The departure point for this history of space is not to be found in geographical descriptions of natural space, but rather in the study of natural rhythms, and of the modification of those rhythms and their inscription in space by means of human actions, especially work-related actions. It begins, then, with the spatio-temporal rhythms of nature as transformed by a social practice. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 117)
+
+Then Lefebvre introduced—for the first time, to the best of my knowledge—the idea that the body was to be privileged by the sociologist who wanted to reach these rhythms, at least as an object of observation since Lefebvre did not yet mention the body of the observer as an observation tool as he would do eventually. The human body was indeed the very place in which natural and social rhythms met and meshed with each other making it a real polyrhythm.
+
+Rhythms in all their multiplicity interpenetrate one another. In the body and around it, as on the surface of a body of water, or within the mass of a liquid, rhythms are forever crossing and recrossing, superimposing themselves upon each other, always bound to space. [...] Such rhythms have to do with needs, which may be dispersed as tendencies, or distilled into desire. If we attempt to specify them, we find that some rhythms are easy to identify: breathing, the heartbeat, thirst, hunger, and the need for sleep are cases in point. Others, however, such as those of sexuality, fertility, social life, or thought, are relatively obscure. Some operate on the surface, so to speak, whereas others spring from hidden depths. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 205)
+
+Through the observation of the individual bodies and their rhythms, the sociologist could gain access, in the most concrete way, to the “animation of space,” even if Lefebvre recognized that he did not yet have the answer to the question of how “the laws of space” chime with “the laws of rhythmic movement.”
+
+Through the mediation of rhythms (in all three senses of “mediation”: means, medium, intermediary), an animated space comes into being which is an extension of the space of bodies. How exactly the laws of space and of its dualities (symmetries/asymmetries, demarcation/orientation, etc.) chime with the laws of rhythmic movement (regularity, diffusion, interpenetration) is a question to which we do not as yet have the answer. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 207)
+
+Then, Lefebvre took up the suggestion he had already presented in 1961 yet without mentioning, this time, Bachelard: if rightly systematized, this new kind of sociological observation could lead to a new science, “rhythmanalysis,” that could emulate but also “displace psychoanalysis,” since it would contrary to the latter include the whole society and would also possibly help the individuals to collectively “re-appropriate” their degraded urban space. It is worth noticing in the light of the current rhythmanalysis mania, that he also called, quite consistently in my opinion, for the constitution of “a general rhythmology” able to provide this rhythmanalysis with “the principles and laws,” i.e. the general epistemological, ethical and political criteria, it would need.
+
+[Rhythmanalysis – La rythmanalyse] would address itself to the concrete reality of rhythms, and perhaps even to their use (or appropriation). Such an approach would seek to discover those rhythms whose existence is signaled only through mediations, through indirect effects or manifestations. [Rhythmanalysis] might eventually even displace psychoanalysis, as being more concrete, more effective, and closer to a pedagogy of appropriation (the appropriation of the body, as of spatial practice). It might be expected to apply the principles and laws of a general rhythmology to the living body and its internal and external relationships. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 205, my mod.)
+
+The following lines gave a better view of what he had in mind— and also of some theoretical tensions that were to increase in the following years—when using the word “rhythm.” The case of the human body, as a “polyrhythmic” entity, showed on the one hand that “analytic thought” was to be abandoned for a more powerful “dialectic”—or as Morin would put it a few years after (see below), “complex”—approach, but on the other hand that his concept of rhythm was directly borrowed from physics and indirectly from the late 19th century scientific movement. Originating in physiology then spreading into psychology, economics and social science, this movement had equated rhythm with the notion of “oscillation,” differing indeed from one another “in their amplitude, in the energies they ferry and deploy, and in their frequency” (Michon, 2019).
+
+The repetitions and redundancies of rhythms, their symmetries and asymmetries, interact in ways that cannot be reduced to the discrete and fixed determinants of analytic thought. Only if this is dearly grasped can the polyrhythmic body be understood and appropriated. Rhythms differ from one another in their amplitude, in the energies they ferry and deploy, and in their frequency. Such differences, conveyed and reproduced by the rhythms which embody them, translate into intensity or strength of anticipation, tension and action. All these factors interact with one another within the body, which is traversed by rhythms rather as the “ether” is traversed by waves. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, pp. 205-206)
+
+According to Lefebvre, one of the “rhythmological” laws that could help us to sort out the observed rhythmic phenomena was the opposition of “cyclical” versus “linear rhythms” that he had already defined in 1961. The modern world was characterized by the “the practico-social dominance of linear over cyclical repetition.”
+
+Yet social practice is made up of rhythms—daily, monthly, yearly, and so on. That these rhythms have become more complicated than natural rhythms is highly probable. A powerful unsettling factor in this regard is the practico-social dominance of linear over cyclical repetition—that is to say, the dominance of one aspect of rhythms over another. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 206, my mod.)
+
+Based on these theoretical premises, rhythm could become one of the basic tool that could be used for a reappropriation of the abstract and cold urban space that had been produced by the functionalist urban planning, which had been widespread in the 1950s and 1960s, and its restitution to “authentic experience” and “lived time.” La rythmanalyse – rhythmanalysis could become instrumental for “une spatioanalyse – spaceanalysis.”
+
+Appropriation [of space] itself implies time (or times), rhythm (or rhythms), symbols, and a practice. The more space is functionalized—the more completely it falls under the sway of those “agents” that have manipulated it so as to render it unifunctional—the less susceptible it becomes to appropriation. Why? Because in this way it is removed from the sphere of lived time, from the time of its “users,” which is a diverse and complex time. [...] Is a system of knowledge—a science—of the use of space [des espaces] likely to evolve out of such considerations? Perhaps—but it would have to involve an analysis of rhythms, and an effective critique of representative, and normative spaces. Might such a knowledge legitimately be given a name—that of [“spaceanalysis”] [spatioanalyse], for example? That would be reasonable enough. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, pp. 356-357, my mod.)
+
+Naturally, this kind of knowledge wouldn’t be possible and would remain pointless without the possibility always provided by the human bodies to introduce difference and change into the linear rhythms they were submitted to.
+
+The enigma of the body—its secret, at once banal and profound—is its ability, beyond “subject” and “object” (and beyond the philosophical distinction between them), to produce differences “unconsciously” out of repetitions—out of gestures (linear) or out of rhythms (cyclical). (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 395, my mod.)
+
+Consequently, rhythmanalysis should not be considered only as a method for observing the society and the space it produces, or “a [mere] string of theoretical concepts,” but also as a critical tool for changing both society and space, and restoring “the total body.”
+
+The passive body (the senses) and the active body (labor) converge in space. The analysis of rhythms must serve the necessary and inevitable restoration of the total body. This is what makes [rhythmanalysis] so important. It also explains why such an approach calls for more than a methodology or a string of theoretical concepts, more than a system all of whose requirements have been satisfied. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 405, my mod.)
+
+All this must be understood within the frame of a debate with mainstream Marxism. As a matter of fact, the interest in the rhythmic production of urban space was meant by Lefebvre as a complement to Marx’s contribution to economics and sociology, which he considered fundamental but not sufficient to face issues specific to the 20th century that Marx obviously could not have imagined—something, he noticed with some annoyance, that “orthodox Marxists” of his time, immobilized by their pious respect towards the great master, were unable to understand.
+
+There is a certain similarity between the present situation, in both its practical and its theoretical aspects, and the one which came to prevail in the middle of the 19th century. A fresh set of questions—a fresh “problematic” as the philosophers say—is in the process of usurping the position of the old problems, substituting itself for them and superimposing itself upon them without for all that abolishing them completely.
+
+The most “orthodox”’ among the Marxists will doubtless wish to deny this state of affairs. They are firmly and exclusively committed to the study of production in the usual sense of the production of things, of “goods,” of commodities. [...] This attitude trivializes thought in general and critical thought in particular. There are even some people, seemingly, who go so far as to claim that any discussion of space, of the city, of the earth and urban sphere, tends only to obscure “class consciousness” and thus help demobilize the workers so far as class struggle is concerned. One should not have to waste time on such asininity. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, pp. 88-89)
+
+Life in modern neo-capitalist societies could not be accounted for only through the prism of modes of production and relations of production. As a matter of fact, production was not limited any longer to the making of commodities and goods but encompassed also that of everyday life and space. Therefore, alienation concerned not only work but also the everyday life and the space in which it occurred. All three aspects, which all implied rhythms, had to be taken into account and brought together.
+
+Our chief concern is with space. The problematic of space, which subsumes the problems of the urban sphere (the city and its extensions) and of everyday life (programmed consumption), has displaced the problematic of industrialization. It has not, however, destroyed that earlier set of problems. (The Production of Space, 1974, trans. Donald Nicholson-Smith, 1991, p. 89)
+
+Next chapter
+
+ Galerie
+
+ Gazette
+
+ Lectures
+
+ Rhuthmos Éditions
+
+ Rythme et pouvoir au XXIe siècle
+
+ Le rythme dans les sciences et les arts contemporains
+
+ Vers un nouveau paradigme scientifique ?
+
+ Histoire des études rythmiques
+
+Sociologie – Nouvel article
+
+The tyranny of clock time ? Debating fatigue in the US truck driving industry
+
+Sur les rythmes de nos vies : une approche multiscalaire
+
+La production de l’espace
+
+Accélération du rythme et flexibilisation. Le cas de la dégradation de la (…)
+
+Rythmes de travail et vie familiale
+
+Ralentir le rythme
+
+Le rythme d’un enfant : Tyrec Taylor
+
+Institutional rhythms : Combining practice theory and rhythmanalysis to (…)
+
+Social Time : A Methodological and Functional Analysis
+
+Playing the jigsaw : senses of rhythms and rhythms of the senses
+
+Dans la même rubrique…
+
+Notes
+
+[1] G. Bachelard, L’Intuition de l’instant, 1932 – Intuition of the Instant, 2013; Dialectique de la durée, 1936 – Dialectic of Duration, 2000.
+
+[2] E.g. Weil, 1935-1951; Gurvitch, 1950; Friedmann, 1956/1964 – on Weil see Taïbi, 2007 and http://www.rhuthmos.eu/spip.php?article2423 ; on Gurvitch, see Michon, 2005-2016; on Friedmann, see Michon, 2007-2015c.
+
+[3] A new revised and expanded French edition has just been published by Claire Revol in September 2019.
+
+  RSS 2.0
+ | Site Map
+ | Back-office
+ |

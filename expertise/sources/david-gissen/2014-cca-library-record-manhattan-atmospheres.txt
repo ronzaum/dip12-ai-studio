@@ -1,0 +1,24 @@
+Source: Manhattan atmospheres: architecture, the interior environment, and urban crisis (Canadian Centre for Architecture library record)
+URL: https://www.cca.qc.ca/en/search/details/library/publication/840465553
+Fetched: 2026-10-12 via cfetch.py (curl)
+
+Manhattan atmospheres : architecture, the interior environment, and urban crisis / David Gissen.
+ Main entry:
+Gissen, David.
+ Title & Author:
+Manhattan atmospheres : architecture, the interior environment, and urban crisis / David Gissen.
+ Publication:
+ Minneapolis : University of Minnesota Press, [2014]
+ Description:
+ viii, 239 pages ; 24 cm
+ Notes:
+ Includes index. 
+ Includes bibliographical references and index. 
+ Introduction : From urban nature to the maintenance environment -- Protection: megastructures and environmental gentrification -- Growth: corporate atriums and the cultivation of urban nature -- Preservation: territories of culture at the Metropolitan Museum of Art -- Exchange: the communication environments of finance -- Epilogue : Reimagining maintenance environments. 
+ Summary:
+ "During Manhattan's crisis years between the 1960s and early 1980s, the city's great park networks, sanitarian projects of light, air, and water, and its monumental public works were falling apart. Images of flooded streets, blackened air, collapsed highways, and burning buildings characterize our understanding of the city's landscape throughout this period. At the same time, architects reimagined interior spaces as a response to these urban disasters. David Gissen reveals that a new chapter in New York's environmental history was unfolding inside the city's gleaming late-modern architecture. In Manhattan Atmospheres, Gissen uncovers an alternative environmental history by examining the megastructural apartments, verdant corporate atria, enormous trading rooms, and mammoth museum galleries that were built in this era. These environments were integral to New York City's restructuring and also some of the most politicized fabrications of nature found in the city. Behind the tinted and mirrored glass, the vaporous cooled and warmed atmospheres offered protection from pollution, stewarded urban greenery, and helped preserve precious cultural artifacts. But, entangled with efforts to gentrify neighborhoods, the new settings served as a stage for demographic transformations and shifts in cultural concentration and enriched the overall corporatization of the city. Caught in politicized debates, these spaces were far from simple solutions to the city's dilemmas. Making a significant contribution to postwar architectural history, critical geography, and urban studies, Gissen deftly demonstrates how these sealed environments were not closed off conceptually from the surrounding city but instead were key sites of environmental production and, in turn, a new type of socionatural form."-- Provided by publisher.
+ ISBN:
+ 9780816680702 (hardback)
+ 0816680701 (hardback)
+ 9780816680719 (pb)
+ 081668071X (pb)

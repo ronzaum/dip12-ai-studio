@@ -1,0 +1,955 @@
+Source: Giorgio Agamben, 'The Archaeology of Commandment', lecture, European Graduate School, 2011; YouTube auto-captions with timestamps (errors possible)
+URL: https://www.youtube.com/watch?v=T4MjMj4S4B8
+Fetched: 2026-10-12 via yt-dlp (--write-auto-sub --sub-lang en) + vtt2txt.py
+
+[00:00:10] so my lecture is meant simply as an
+[00:00:14] attempt to give you an account of an
+[00:00:18] investigation still in progress which
+[00:00:23] concerns the archaeology of commandant I
+[00:00:26] cannot do differently I can only speak
+[00:00:28] about something as about a matter which
+[00:00:39] so d when I began this investigation and
+[00:00:41] immediately I realized that I had to
+[00:00:45] cope with two big difficulties
+[00:00:49] preliminary difficulties the first one
+[00:00:54] is that my task the archaeology of
+[00:00:58] commandant contains in its very
+[00:01:03] formulation a kind of paradox because if
+[00:01:07] as you know archeology is a quest for
+[00:01:12] the RK RK has in Greek a double meaning
+[00:01:18] it means both beginning origin and
+[00:01:18] commandment
+[00:01:26] thus the verb are : Greek means to begin
+[00:01:29] to be the first to do something but also
+[00:01:35] to command to be chief and also as
+[00:01:38] probably not the Archon literally the
+[00:01:41] one who begins is in the Greek city the
+[00:01:50] already this happens very often our
+[00:01:52] languages we are familiar with when we
+[00:01:55] open a dictionary we see that you find a
+[00:01:58] list of different meanings the same word
+[00:02:00] has completely different meanings then
+[00:02:03] you have the work of the etymology so
+[00:02:06] bring back this multiplicity to a unity
+[00:02:09] and I think that language can only work
+[00:02:14] and thinking is only possible through
+[00:02:16] this Felicity
+[00:02:20] now in my case the the fact that the
+[00:02:24] word arcane had this double meaning
+[00:02:26] could be understood it's not difficult
+[00:02:29] to understand in some way it's not
+[00:02:32] strange dead from the idea of an origin
+[00:02:35] or a beginning one could derive the idea
+[00:02:39] of a commandment that from the fact of
+[00:02:45] being the first something could find the
+[00:02:48] idea of being the chief being the first
+[00:02:54] and big the shield and by the way this
+[00:02:56] is exactly
+[00:03:00] so this synonym with this proximity of a
+[00:03:04] commandment and beginning is what we
+[00:03:08] find at the beginning of the Bible so in
+[00:03:12] the Greek translation of the Bible made
+[00:03:17] by the Alexandrian turbine with we found
+[00:03:22] that in the beginning and okay God
+[00:03:28] created heaven and earth but he this he
+[00:03:31] did this precisely through a commandment
+[00:03:37] gannett it lets distinct be and also in
+[00:03:39] John's Gospel the Gospel as you know
+[00:03:44] begins and arcane in the beginning was
+[00:03:48] the word was the longest but a word a
+[00:03:51] language which is in the beginning if
+[00:03:54] you think about it can only be a
+[00:03:58] commandment and by the way it would
+[00:04:02] suggest that possible translation for
+[00:04:05] this phrase and RK and our logos would
+[00:04:08] be not in the beginning about the world
+[00:04:12] but in the commandment was the world and
+[00:04:15] I think that if this translation had
+[00:04:18] prevailed many things would be more
+[00:04:21] clear not only in theology but also in
+[00:04:21] politics
+[00:04:27] the word is in the commandment it is in
+[00:04:34] the place of the commandment anyway in
+[00:04:37] any case I would like so to begin
+[00:04:41] drawing your attention on this fact in
+[00:04:45] our culture the arcane the origin is
+[00:04:49] always already the commandment the
+[00:04:52] beginning is also a principle that
+[00:04:59] command and rules by the way there is an
+[00:05:05] ironic fact in Greek the term our cause
+[00:05:11] which means the chief means also the
+[00:05:16] ends I think that the spirit of language
+[00:05:23] makes Hera pan so it plays on the fact
+[00:05:26] that the foundation is also the the
+[00:05:36] commandment then so I think that the
+[00:05:40] special Authority the special range that
+[00:05:44] the concept of origin has in our culture
+[00:05:49] comes precisely from this fact that the
+[00:05:51] beginning is also commandment that the
+[00:05:54] beginning is what commands and rules
+[00:05:58] were founded the birth but also the
+[00:06:02] development the growing the circulation
+[00:06:04] and the transmission in one word the
+[00:06:08] history of that which it is the origin
+[00:06:10] whatever this may be an IDI being a
+[00:06:14] concept knowledge praxis an institution
+[00:06:18] the beginning is not a mere start which
+[00:06:21] then disappears in what follows on the
+[00:06:25] contrary the origin never ceases
+[00:06:29] beginning that is to say the origin
+[00:06:32] never ceases to govern and
+[00:06:37] and what it has initiated this important
+[00:06:40] fact is true in theology where God not
+[00:06:44] only created the world but also governs
+[00:06:48] it never cease to govern it because if
+[00:06:51] he would stop ruling it the world would
+[00:06:54] collapse this the idea as the creation
+[00:06:58] has been a classic until a continuous
+[00:07:01] creation country God continues to create
+[00:07:07] the bird this is also true in philosophy
+[00:07:10] and I very briefly I will just mention
+[00:07:13] the decisive the function that the
+[00:07:18] concept of an arcane an anthem beginning
+[00:07:19] has in heidecker's
+[00:07:24] told according to Heidegger the
+[00:07:27] beginning the Anfang can never pass can
+[00:07:30] never become a past it's always present
+[00:07:33] because it commands and governs the
+[00:07:36] history of being I suppose if you are
+[00:07:38] familiar with the Gemological pan
+[00:07:41] through which the german term for
+[00:07:44] historic shift is referred back by
+[00:07:46] Attica to the verb chicken which means
+[00:07:50] to send to mandate and to the term chic
+[00:07:52] which means destiny in order to prove
+[00:07:56] that what we call an historical epoch
+[00:07:59] must be conceived as a chicken something
+[00:08:02] which was sent by the origin by the FK
+[00:08:06] by the ant funk while the anthems
+[00:08:08] remains concealed in what it commands
+[00:08:15] and mandates so here you see the what we
+[00:08:18] have seen the meaning of origin and the
+[00:08:21] meaning of a commandment here coincide
+[00:08:26] and this close connection of beginning
+[00:08:29] and commanding defines Heidegger's
+[00:08:33] conception of the history of being now
+[00:08:39] that this had Aryan conception desire
+[00:08:42] getting linked links of origin and
+[00:08:45] commandment has produced two interesting
+[00:08:45] development
+[00:08:50] they posted Aryan philosophy the first
+[00:08:53] one could be defined in anarchical
+[00:08:55] interpretation and anarchical
+[00:08:57] development it is referred to the
+[00:09:00] beautiful book of rain Sherman
+[00:09:04] let received inertia the principle of
+[00:09:07] ownership which is an attempt very
+[00:09:11] briefly to split and separate origin and
+[00:09:15] commandment in order to reach a pure
+[00:09:19] origin conceived as a pure coming to
+[00:09:23] presence disjoint from any historical
+[00:09:27] commandment so what what Shura does he
+[00:09:31] splits this solidarity this complicity
+[00:09:34] of origin and commandment and try to
+[00:09:39] find an origin which commands nothing so
+[00:09:41] this is an article interpretation the
+[00:09:44] other we could call it the Democratic
+[00:09:47] interpretation is the one by Jacques
+[00:09:53] Derrida a sturdy construction it is
+[00:09:55] symmetric and close to the one of
+[00:09:58] Sherman while Sherman neutralized the
+[00:10:01] commandment in favor of the origin
+[00:10:04] dorita neutralized the origin which is
+[00:10:07] no more an origin just traced there is
+[00:10:10] no origin according to the result while
+[00:10:13] a kind of commandment still is preserved
+[00:10:18] in the very apt formula deconstruct
+[00:10:23] interpret so it's up to you if you
+[00:10:27] prefer Anarchy or democracy generally I
+[00:10:36] so then you can realize them the
+[00:10:39] difficult the difficulty had to cope no
+[00:10:42] no they kind of really an operator that
+[00:10:44] there is no origin for commandment
+[00:10:47] because the commandment is the origin or
+[00:10:49] it is in the place of origin so the the
+[00:10:51] task of an archeology of commander is
+[00:10:57] really not easy the second difficulty I
+[00:11:00] had to drop with is the fact that I soon
+[00:11:02] discovered that on this concept the
+[00:11:05] commandment there's almost no reflection
+[00:11:07] in Western philosophical tradition
+[00:11:09] almost nothing you have the twenty lines
+[00:11:14] the phrasal consideration but no work on
+[00:11:20] it as you know the people who prisons
+[00:11:25] reflected to the connection of power and
+[00:11:27] commandment but they prefer to consider
+[00:11:30] the obedience so we have interesting
+[00:11:34] work on the concept of obedience why do
+[00:11:38] men obey I just mentioned the very
+[00:11:40] famous book led by Chen lability
+[00:11:44] the discoverer servitude volunteer but
+[00:11:49] here the obedience is analyzed as if its
+[00:11:51] counterpart the commandment did not
+[00:11:58] exist and I had the encaustic convinced
+[00:12:02] that power is not defined only by its
+[00:12:06] capacity to be obeyed
+[00:12:12] first of all power is defined by its
+[00:12:17] capacity to give orders so a power the
+[00:12:20] state thus dot collapse when it's not
+[00:12:24] more baby state power can tolerate many
+[00:12:26] degrees of transgression and
+[00:12:29] disobedience disobedience obedience but
+[00:12:32] then if a power is no more able to give
+[00:12:35] commandment then it collapse it what
+[00:12:38] happened with the Berlin walls so it was
+[00:12:40] transgression disabilities with but
+[00:12:42] suddenly they just stopped to be orders
+[00:12:51] so how to begin an archaeology of
+[00:12:53] commandment in this condition
+[00:12:56] alliteration a problem and then K here
+[00:12:58] origin commandment out the same so I
+[00:13:01] decided to start from the very minimal
+[00:13:06] point just to analyze the linguistic
+[00:13:10] form of the commandment what is a
+[00:13:12] commandment from the point view of
+[00:13:21] language so imperative and here I found
+[00:13:24] something I found for instance
+[00:13:28] immediately the reason why there is
+[00:13:31] nothing in philosophical tradition on
+[00:13:36] the commandment and because then I found
+[00:13:43] dead in the important book of Aristotle
+[00:13:46] the interpreter gionee with an enormous
+[00:13:57] result in some way we will see exclude a
+[00:13:59] part of speech which includes
+[00:14:02] commandment from the philosophical
+[00:14:05] reflection and just put very briefly
+[00:14:08] because it's important what Aristotle
+[00:14:12] does here that a distinguished to form
+[00:14:16] of language the one is called a
+[00:14:21] profanity keppo phonetic logos revealing
+[00:14:24] and manifest in the logos and this is
+[00:14:31] the logos which can be true or false and
+[00:14:36] it refers to something real which exists
+[00:14:40] or do or does not exist so a result will
+[00:14:43] say not ever discord is a cough antic
+[00:14:46] but only the discourse in which truth
+[00:14:50] and false nests are present and this
+[00:14:53] does not happen he continues in or
+[00:14:53] discourses
+[00:14:59] thus for example the prayer is a
+[00:15:03] discourse but it cannot be true or false
+[00:15:06] of course prayer cannot be true or false
+[00:15:10] then is right we will neglect this
+[00:15:12] non-apple phonetic form of discourses
+[00:15:16] because this analysis belongs to
+[00:15:16] rhetoric
+[00:15:20] politics while the object of philosophy
+[00:15:23] is the logos up of articles so
+[00:15:26] philosophy just curls about discourse
+[00:15:29] which can be false or true and does not
+[00:15:32] care about this other discourse like
+[00:15:35] prayer and commandment we will see
+[00:15:40] cannot be true or false they have not
+[00:15:42] the form of statement referring to
+[00:15:46] something the world and the strange
+[00:15:49] thing that then if you go is with this
+[00:15:51] concern rhetoric and politics then you
+[00:15:53] go to the blue calm parties because as
+[00:15:55] you know our subtle wrote a very
+[00:15:57] important book on politics but you go
+[00:16:00] there and you find that the exclusion is
+[00:16:04] reiterated there also is you will say
+[00:16:08] this figure of discourse belongs belong
+[00:16:12] to the art of the actor if a critic as
+[00:16:17] the actor is the appropriate in great
+[00:16:20] yes I mean all this question what is a
+[00:16:23] commandment what is a prayer what is a
+[00:16:26] threat what is a question what is a
+[00:16:29] narration pleased are not concerned
+[00:16:37] now you see how important is this
+[00:16:41] decision of dividing the field of
+[00:16:44] language in two big partitions and
+[00:16:49] exclude one from philosophy decide of
+[00:16:50] course and Rosalee
+[00:16:53] I mean suggestion of the consequence was
+[00:16:57] then the logic the philosophy which
+[00:17:01] reflects on language only Kurt about the
+[00:17:04] up of antico's logs which can be true or
+[00:17:07] false which refers to some
+[00:17:10] which exists or not but all this other
+[00:17:14] discourse prior commandant trade and you
+[00:17:16] can add an intake name an infant
+[00:17:19] quantity of other so this huge of this
+[00:17:21] field of no nappa Fanta keyloggers is
+[00:17:21] huge
+[00:17:24] so it's not only commendable trade
+[00:17:28] question but also curses insults
+[00:17:32] exclamation blasphemy is a huge part of
+[00:17:37] that language is not a fan kick cannot
+[00:17:45] be true or false so this was a very
+[00:17:47] important decision and which they
+[00:17:50] consider the consequence was that the
+[00:17:55] commandment which interests us was
+[00:17:58] excluded from the tension of philosophy
+[00:18:02] and left to rhetoricians theologians
+[00:18:07] when it's not simply ignored and when
+[00:18:10] commandment was mentioned it was only
+[00:18:13] simply explained as an act of we'd know
+[00:18:16] the commandments I see next to read so
+[00:18:18] but this means mastic because this means
+[00:18:21] just to explain an obscure question to
+[00:18:24] another more obscure because no one
+[00:18:26] never was able to define what we'll
+[00:18:33] means it's only in the 20th century that
+[00:18:39] logicians began to analyze this kind of
+[00:18:39] discourse
+[00:18:43] they call this prescriptive language
+[00:18:48] language in the imperative form but I
+[00:18:50] will not here at well on this chapter of
+[00:18:52] modern logic because what they generally
+[00:18:55] what they do is simply try to restate a
+[00:18:58] non above antic proposition for instance
+[00:19:00] a commandment which is in the imperative
+[00:19:03] mode in a phrase in the indicative mood
+[00:19:06] so they attempt to reformulate this
+[00:19:07] phrase but on the contrary what
+[00:19:10] interested me was the imperative as such
+[00:19:11] I wanted to understand what is an
+[00:19:14] imperative not to reframe it another
+[00:19:19] form so let's now consider
+[00:19:23] what happens when I utter in on a
+[00:19:27] prophetic discourse the commandment in
+[00:19:31] the form of an imperative for example
+[00:19:38] when I say walk so it's not easy and
+[00:19:41] hard task in order to understand the
+[00:19:43] meaning of its dis utterance
+[00:19:47] let's first compare it with the same
+[00:19:49] verb in the third person of the
+[00:19:52] indicative mode
+[00:19:57] Wolfgang walks this statement is a
+[00:20:00] profanity can be true and false it is
+[00:20:05] false because he's sitting but in any
+[00:20:08] case is clear the preposition refers to
+[00:20:10] something in the world refers to both
+[00:20:16] them which is sitting or walking on the
+[00:20:19] country although it's morphological
+[00:20:25] similar work works when I say work in
+[00:20:28] the imperative mood as a commandment but
+[00:20:32] this says nothing of man does not
+[00:20:37] describe state of things does not refer
+[00:20:41] to anything in the world by definition
+[00:20:44] if I say walk means that no one is still
+[00:20:44] walking
+[00:20:51] and we have ever here to avoid the
+[00:20:53] misunderstanding according to which the
+[00:20:58] meaning of the imperative mode could
+[00:21:01] consist in the act of its execution this
+[00:21:06] is false evidently if an officer gives
+[00:21:10] an order to his soldier the commandant
+[00:21:13] order is perfectly valid if then if
+[00:21:16] there if even if they do not obey for
+[00:21:18] some reason they deserve to cetera the
+[00:21:21] commandment is perfectly valid at the
+[00:21:23] moment of its utterance
+[00:21:26] so the defect that is obeyed or not does
+[00:21:30] not concern the Commandant so because
+[00:21:33] therefore admit that the commandment
+[00:21:37] does not refer to something existing and
+[00:21:41] in that in the sense total rule had the
+[00:21:43] reason so it does not refer to anything
+[00:21:45] so I'm not interesting it's not
+[00:21:50] interesting for me and this is why nor
+[00:21:53] the people say that the imperative does
+[00:22:01] ingeras much more ease in not design but
+[00:22:04] solving in English is very difficult to
+[00:22:09] state this and so in German in German in
+[00:22:12] Germany have a lot of reflection this
+[00:22:16] difference between sign and zoeland is
+[00:22:22] an old and a great tradition of law and
+[00:22:27] scales and Australia tradition law has
+[00:22:31] expressed the most clear way this
+[00:22:31] difference
+[00:22:37] I just got a sentence by him when a men
+[00:22:42] artists the will that another men behave
+[00:22:46] in a certain way the sense of this act
+[00:22:49] cannot be described saying that the
+[00:22:53] other men will behave in that way but
+[00:22:57] only saying that he thought solemn to
+[00:23:00] behave that way
+[00:23:05] sport indifference but then do we
+[00:23:08] understand better now the meaning of a
+[00:23:15] commandment of imperative so if you you
+[00:23:18] go on and try to see what linguists say
+[00:23:22] about the imperative you find that they
+[00:23:26] also have great difficulties in defining
+[00:23:30] the semantics of the imperative but I
+[00:23:35] will just go to interesting observation
+[00:23:39] by two eminent French linguists of 20th
+[00:23:50] first begins by underlining the
+[00:23:53] morphological identity between the form
+[00:23:57] of the verb in the indicative mood which
+[00:23:59] is a pro to stay something of something
+[00:24:01] and the form of the verb when it is
+[00:24:04] played for a commandment imperative he
+[00:24:08] walks wharfs shant to shunt in every
+[00:24:10] language there in every in European
+[00:24:11] language they are morphologically
+[00:24:15] similar but then he also observes very
+[00:24:20] interesting things dead in many Indian
+[00:24:23] languages the imperative usually
+[00:24:28] coincides with the team of the verb for
+[00:24:32] instance friendship shunt shunt is the
+[00:24:36] root of the verb containment and so
+[00:24:38] here's this interesting hypothesis that
+[00:24:42] imperative is perhaps the primitive form
+[00:24:46] of the verb so the verb began in the
+[00:24:47] imperative mood
+[00:24:52] so when language began and verb began to
+[00:24:55] be employed this was done in the
+[00:25:01] there is some out there speaking attack
+[00:25:06] okay so then let's see the case of bend
+[00:25:12] but Bethany's writes an article in order
+[00:25:16] to criticize posting conception of the
+[00:25:19] speech act and very famous book how to
+[00:25:23] do things with words because Austin says
+[00:25:26] that the imperative is a speech i
+[00:25:30] listening is a performative you know a
+[00:25:33] performative you know is a linguistic
+[00:25:36] utterance that by the simple fact being
+[00:25:39] uttered realizes what it means like when
+[00:25:45] I say I swirl and then it's a very
+[00:25:49] curious observation it says that the
+[00:25:52] imperative is something as the less
+[00:25:57] cement n-new the next semantic core but
+[00:26:00] without the notation contradictory
+[00:26:06] contradictory explanations so let's just
+[00:26:10] just to show how difficult is even for
+[00:26:15] two great linguists to define the
+[00:26:19] meaning of the imperative but let's try
+[00:26:22] now to develop this benveniste constable
+[00:26:24] of a naked seaman
+[00:26:27] semantic core the cement enemy so here
+[00:26:30] the idea that there is a meaning but
+[00:26:34] difficult to define
+[00:26:41] I will then try to in order to explain
+[00:26:46] this phenomenon of the Commandant the
+[00:26:49] known up of antic logos as opposed to
+[00:26:53] the a prophetic plan I will suggest the
+[00:26:57] following hypothesis which is in some
+[00:26:59] way for the moment the first important
+[00:27:03] result of my investigation the POTUS is
+[00:27:07] dead in Western culture there are not
+[00:27:11] one but two oncologists
+[00:27:15] distinguished and yet related the first
+[00:27:18] one and the ontology of assertion
+[00:27:21] expresses itself in the indicative mood
+[00:27:26] man is speaking animal goddess Jesus is
+[00:27:30] the Christ also the second one the
+[00:27:33] ontology of commandment expresses itself
+[00:27:37] in the imperative mode we can call the
+[00:27:41] first one the ontology of the st and the
+[00:27:45] greek term for is and second one the
+[00:27:49] ontology of the esto build imperative
+[00:27:54] decrypt the greek term for b and to this
+[00:27:58] big partition correspond a big division
+[00:28:04] in our culture the ontology of the
+[00:28:08] assertion and the profanity logos rules
+[00:28:11] and defines the domain of science and
+[00:28:14] philosophy these are always in the
+[00:28:19] dictated mode the second one governs the
+[00:28:22] not less important domain of low
+[00:28:32] but it is an ontology it would even
+[00:28:35] suggest remember the famous passage in
+[00:28:38] Parmenides poetry which is a beginning
+[00:28:40] of Western metaphysics
+[00:28:47] st AR ni there is indeed being we could
+[00:28:50] reformulate this and imperative s toga
+[00:28:55] na let there be being I don't know how
+[00:29:04] so this t2 ontology is clear
+[00:29:08] distinguished and even some time opposed
+[00:29:11] continuously cross and intertwine and
+[00:29:13] even struggle in the history of our
+[00:29:17] culture in this sense western ontology
+[00:29:21] is a double or bipolar machine the pole
+[00:29:26] of commandment which was for long for a
+[00:29:28] long time neglected and remained in the
+[00:29:31] background in classical time starting
+[00:29:34] with Christianity begins to become
+[00:29:44] but then so this intelligence as I told
+[00:29:48] you correspond to to import a big
+[00:29:51] division in of and field of our culture
+[00:29:55] on one side low magic and religion and I
+[00:29:58] think that a good definition of religion
+[00:30:05] would be religion is simply a huge
+[00:30:09] attempt to build a world on the ground
+[00:30:15] of an imperative of a commandment of
+[00:30:18] course you remember that God speaks in
+[00:30:21] the parroted mode but the strange
+[00:30:25] neglected fact is that when men address
+[00:30:29] God and this in every language Hebrew
+[00:30:32] Greek Latin cetera cetera when men
+[00:30:35] address God they speak in the imperative
+[00:30:39] mood give us our daily bread all the
+[00:30:43] prayers are formulated in the imperative
+[00:30:59] so let's now to better try to try to
+[00:31:02] better understand so the meaning of an
+[00:31:02] imperative
+[00:31:08] let's short short reconsider again this
+[00:31:10] problem of the performative I said you
+[00:31:13] that Austin in his book how to do things
+[00:31:16] with worse classifies commandment as a
+[00:31:20] speech act or illocutionary act that is
+[00:31:22] to say as a discourse which does not
+[00:31:25] describe a state of thing but through
+[00:31:29] its mere utterance realize what means as
+[00:31:32] well so the command medic according to
+[00:31:38] Austin is similar to note so but how
+[00:31:43] does a speech at a speech act function
+[00:31:46] the English do not explain this peculiar
+[00:31:49] efficacy as if they reached here kind of
+[00:31:53] the magic layer of language but I think
+[00:31:55] that the problem becomes more clear that
+[00:31:57] we can better understand what is the
+[00:32:00] performative if we go back to our
+[00:32:03] hypothesis of the two ontology of the
+[00:32:05] double ontological machine of Western
+[00:32:09] philosophy the distinction of the
+[00:32:12] assertion and performative glucosinolate
+[00:32:15] illocutionary corresponds to the double
+[00:32:19] structure of Western ontology the speech
+[00:32:23] act represents in language the remnant
+[00:32:25] of the stage where the relation between
+[00:32:30] word and things was not above antic but
+[00:32:32] had rather the form of a commandment
+[00:32:36] through which language realized this
+[00:32:41] relation as effect so what we have in
+[00:32:45] the speech act is a crossing between
+[00:32:48] these two anthologies an intersection
+[00:32:51] where the ontology of the commandment of
+[00:32:54] the estou suspends and replaces the
+[00:32:59] ontology of the East assertion and the
+[00:33:03] thing that if we consider the constantly
+[00:33:04] growing success
+[00:33:07] today of the notion of speech act or
+[00:33:09] performance battle among linguists
+[00:33:14] battles among philosophers juries etc we
+[00:33:17] could suggest their policies that the
+[00:33:19] centrality of this concept of a
+[00:33:22] performance performative corresponds to
+[00:33:25] the fact that in our contemporary
+[00:33:28] societies the ontology of the
+[00:33:35] commandment is slowly replacing the
+[00:33:42] ontology of assertion this means that in
+[00:33:45] a sort of what psyche analysts called
+[00:33:48] the return of the repressed religion
+[00:33:51] magic and low and all the domain of non
+[00:33:53] 'po phonetic logos which had been
+[00:33:56] neglected and pushed in the background
+[00:34:00] is now secretly governing the function
+[00:34:03] of no disa called modern secularized
+[00:34:09] societies and i think that the good
+[00:34:12] definition of our so-called democratic
+[00:34:16] society would be that in this society
+[00:34:20] the ontology of the imperative has taken
+[00:34:22] the place of the assertion but not in
+[00:34:26] the form of a strong pure commandment
+[00:34:30] but rather in the form of advice
+[00:34:34] invitation advertising suggestion given
+[00:34:37] for the security of the people commanded
+[00:34:42] so that a B&amp;C is takes the form of a
+[00:34:54] so I told you that I meant to give you a
+[00:34:57] short account of my archeological
+[00:35:01] investigation on commandant now there is
+[00:35:05] another aspect of the problem and when
+[00:35:07] you begin to work on commandant as I
+[00:35:10] told you there is another concept which
+[00:35:14] does not cease to appear besides it it
+[00:35:17] seems to accompany it like a secret
+[00:35:23] sharer the concept of wind anytime that
+[00:35:27] there is a kind of reflection on
+[00:35:30] commandant they will say this is a an
+[00:35:34] actor with an extra British so
+[00:35:37] Commandments is always explained as an
+[00:35:40] act of the will unfortunate I told you
+[00:35:44] no one was ever able able to define what
+[00:35:48] will means so this why in the beginning
+[00:35:52] of my investigation I decided decided to
+[00:35:56] follow nature's suggestion nature in
+[00:35:59] this book Beyond Good and Evil says
+[00:36:05] wheel is just commandant will is no
+[00:36:11] other than a commandant now when I
+[00:36:13] started so my kind of archaeology of
+[00:36:19] will and then you immediately find that
+[00:36:21] scholars the first thing they will say
+[00:36:25] the concept will is a modern man Greek
+[00:36:28] classical philosophy does not know
+[00:36:31] ignores the concept of wheel this is
+[00:36:42] and then what you what I did found
+[00:36:46] trying to follow the birth of this
+[00:36:49] notion modern notion of the wheel is
+[00:36:55] dead the notion of wheel is developed
+[00:36:59] from another concept to which it remains
+[00:37:04] always strictly rotated the verb to will
+[00:37:11] is always in units of a graft on the
+[00:37:17] verb can so the problem of wheel is
+[00:37:21] linked to the problem of potentiality
+[00:37:27] possibility I discovered that you cannot
+[00:37:30] say in English - can the strange to win
+[00:37:37] and - can a while Greek philosophy
+[00:37:42] focused on potentiality and possibility
+[00:37:45] Christian theology and following it
+[00:37:48] modern thought focuses on the concept of
+[00:37:56] will the verb to will replaces the verb
+[00:38:01] can men is no more a being of
+[00:38:05] possibility a being who can it is a
+[00:38:20] what in philosophy and in grammar are
+[00:38:24] called modal verbs the teeth as an
+[00:38:27] ancient grammarians used to say verbs
+[00:38:31] that are empty in the sense that this
+[00:38:33] verb to occur in order to acquire a
+[00:38:36] meaning need to be followed by another
+[00:38:39] verb so I can say I walk I write I eat
+[00:38:44] they are not empty but I can I will they
+[00:38:48] need another verb to complete them I can
+[00:38:51] write I will walk
+[00:38:54] and I would like to draw your attention
+[00:38:59] that on the fact that philosophy is a
+[00:39:03] strange discipline which works precisely
+[00:39:07] with this entity words philosophy could
+[00:39:11] be defined as an attempt to grasp the
+[00:39:16] meaning of this empty verbs to tie them
+[00:39:19] to the other to graph the one the other
+[00:39:24] to split them than to tie them again and
+[00:39:29] perhaps the dis tagged is nothing
+[00:39:33] together of the empty modal verbs
+[00:39:38] reached it extreme point in the drastic
+[00:39:41] and almost insane formulation by which
+[00:39:46] can't expresses the core of his moral
+[00:39:49] man most Roland Cullinan
+[00:39:54] you must can't will this really insane
+[00:39:55] it's insane
+[00:40:12] so anyway the absurd intersection of
+[00:40:15] this empty modal verbs defines in some
+[00:40:23] way modernity and ie now to conclude
+[00:40:27] that just chosen an example to show how
+[00:40:32] the notion of will grounds on the notion
+[00:40:37] of potentiality and possibility and the
+[00:40:41] strategy here is to check to limit to
+[00:40:45] put a border to this notion of
+[00:40:48] potentiality to can is done can is a
+[00:40:53] dangerous thing and will is employed
+[00:40:57] just to check to control what you can
+[00:41:04] it's a very clear example of thing you
+[00:41:11] know that in Christian theology God is
+[00:41:17] omnipotent the almightiness of God is a
+[00:41:21] dark crazy most in Unum Deum path an
+[00:41:21] omnipotent
+[00:41:26] so it's dark no discussion god is
+[00:41:31] omnipotent so the two logits had to
+[00:41:34] admit this that this defect had
+[00:41:37] incredibly embarrassing and dangerous
+[00:41:42] consequences because if god is
+[00:41:46] omnipotent if nothing is impossible for
+[00:41:53] him if he can anything this means that
+[00:41:58] he could for instance have decided not
+[00:42:03] to incarnate in christ but in a woman or
+[00:42:08] in the world or in a dog that I just
+[00:42:10] used the example college instead I'm not
+[00:42:14] inventing nothing if God is omnipotent
+[00:42:20] he could have chosen to dam the Pater
+[00:42:25] save Judas he could have decided to
+[00:42:31] destroy the creation he could have
+[00:42:36] decide to lie to commit a crime and then
+[00:42:38] today this very cute garage and a really
+[00:42:41] strange minded person an example of this
+[00:42:45] problem of the gods of our madness on
+[00:42:48] which we have thousands of pages is dead
+[00:42:53] God if he is omnipotent he could give
+[00:42:58] back virginity to rape the woman so did
+[00:43:00] this seems a real impulse I don't know
+[00:43:04] why disease seems impossible okay from
+[00:43:07] 11:00 till 14th century discretion the
+[00:43:10] scandalous question it's kind of dark
+[00:43:15] scandal shadow of the potentiality was
+[00:43:18] debated among theologians and what I
+[00:43:22] just wanted to present you is the
+[00:43:25] solution the remedy they found for this
+[00:43:25] difficulty
+[00:43:35] the solution was this according what
+[00:43:38] they called the potential absolute
+[00:43:43] absolute potentiality God can do
+[00:43:48] anything but according to what they call
+[00:43:52] potentia or Donata ordered potentiality
+[00:43:57] God can only do what He willed to do
+[00:44:00] what it shows to do what he decided to
+[00:44:00] do
+[00:44:08] so in abstract according to potentially
+[00:44:10] Asajj it could do anything but in
+[00:44:15] reality he chose recommended potentially
+[00:44:17] not amines order commanded potentiality
+[00:44:21] so it commended to his potentiality and
+[00:44:24] from that moment you can only do what it
+[00:44:31] used to do and expressions of potential
+[00:44:33] Donata means literally commanded
+[00:44:38] potentiality I think that you can hear
+[00:44:41] really clearly see the function the
+[00:44:46] strategy in which will is employed will
+[00:44:52] is that what limits controls commands
+[00:44:56] potentiality it is what contains between
+[00:44:59] is bounce the scandalous scales of
+[00:45:04] potentiality and then the same good is
+[00:45:12] true for man also man could do anything
+[00:45:16] but he has to win and once he decides
+[00:45:23] once he wills he will do what he will so
+[00:45:24] you see that
+[00:45:28] Nietzsche's hypothesis was correct to
+[00:45:34] will means just to command and what it
+[00:45:41] commands to is potentiality and I would
+[00:45:43] like now to give the last word of this
+[00:45:45] brief archeology of the wheel and
+[00:45:48] commandment to one of my favorite
+[00:45:51] melodious characters Bartleby the
+[00:45:54] Scrivener remember - the man of law he
+[00:45:57] was working for a man below and the man
+[00:46:01] of Lord tries to understand his strange
+[00:46:05] behavior reducing it to will you mean
+[00:46:09] that you will not and he always answered
+[00:46:32] trying to see what in two birds and the
+[00:46:35] emptiness of a command T of its offices
+[00:46:38] wrong mr. Hall the command of a bay but
+[00:46:41] specifically right obedience it makes no
+[00:46:43] difference you know this is the
+[00:46:47] emptiness the commandment is in itself
+[00:46:51] contained does not leave any any factual
+[00:46:57] basis so insofar is it Jack whatever you
+[00:47:01] use attend commitments now you know you
+[00:47:03] do what you're doing know it when it
+[00:47:06] suits us and we accept this if it
+[00:47:09] doesn't suit us you know cause situation
+[00:47:15] ethics or whatever you did not talk
+[00:47:24] about art and in in zombie this is is an
+[00:47:27] emptiness a field which is a full
+[00:47:30] emptiness so to speak full of
+[00:47:33] Commandments can and will which makes no
+[00:47:37] difference except to you and then you
+[00:47:42] are lucky for the balada in Venice what
+[00:47:46] because advice some it's banana and some
+[00:47:52] not as my question right question
+[00:47:53] because in the seminary school as the my
+[00:47:55] students know you spoke about this
+[00:47:58] because in this big division non-apple
+[00:48:02] vantika authentic commandment assertion
+[00:48:06] art cannot be fitted in one or the other
+[00:48:10] I would say that art would be a third it
+[00:48:14] is not a poof antique like science
+[00:48:16] not a judgment on this honest it'll take
+[00:48:19] is not simply performative and
+[00:48:23] commanding and so could be a third but
+[00:48:26] then I would just remind you a very
+[00:48:31] interesting fact the most Asian
+[00:48:35] political document of our Western
+[00:48:38] tradition meaning the Iliad of armor
+[00:48:41] begins with the commandment with an
+[00:49:40] because
+[00:50:49] you know as president of the
+[00:50:58] International Association Spinoza
+[00:51:04] skullossus kanako-sama I think so
+[00:51:07] there are several aversion to understand
+[00:51:10] the bill once in children how are listed
+[00:51:14] will build to survival splitting bills
+[00:51:17] objectivity etcetera which impasse
+[00:51:21] becomes eyes and is disgusted by himself
+[00:51:25] this for example order in conatus is
+[00:51:28] striving to stay in being everything
+[00:51:31] strives to stay in being that is a bill
+[00:51:33] to build miss potato girl said about me
+[00:51:37] cheese with the powers actually to build
+[00:51:41] in the end there's many ways to explain
+[00:51:47] this this dynamic element of humanity we
+[00:51:50] convinced and which which has the
+[00:51:54] ability to overcome us it's not in our
+[00:51:58] command so we often at command of the
+[00:52:00] bill at least inch of an hour you know
+[00:52:05] and to make it our that is Libya since
+[00:52:11] then it becomes mysterious how become
+[00:52:13] from the will to our will such as you
+[00:52:15] say something it's very hard to
+[00:52:19] understand this connection but the
+[00:52:25] phenomenon as such are not mysterious
+[00:52:29] know what I still maintain what I said
+[00:52:33] there is no clear definition of it so
+[00:52:37] the two cases you made I don't think
+[00:52:39] that Spinoza
+[00:52:45] conatus must be understood very good is
+[00:52:48] on the side of the to care can not
+[00:52:54] really is a form of potentiality and it
+[00:53:00] is you're right it's a desire 20 to
+[00:53:06] persevere in its being so but it's not
+[00:53:11] what we call will normal use and
+[00:53:15] Schopenhauer not clear thought and then
+[00:53:18] super easy as you know when they wanted
+[00:53:23] to define what will his I did here to
+[00:53:26] compare it with the thing in itself
+[00:53:30] we can't which is really not a clear
+[00:53:33] concept now if you say the will is the
+[00:53:36] sting a see here so it's not a clear
+[00:53:39] definition what I try to do I try I'm
+[00:53:42] what I tell my students know what we I
+[00:53:45] think that instead of trying to give a
+[00:53:48] definition of a concept first we have to
+[00:53:51] understood in which strategy it is
+[00:53:55] employed this more useful so what I
+[00:54:01] think that I understood is that will is
+[00:54:05] in our culture is employed as we sought
+[00:54:08] to limit potentiality to check to
+[00:54:11] control what we can in second the
+[00:54:16] secondary also to separate potentiality
+[00:54:20] from what it can so when we separate
+[00:54:22] some sonar saying that Paula notice time
+[00:54:25] they described the experience of a man
+[00:54:30] completely divided he is what he can is
+[00:54:33] separated from what he does and there
+[00:54:39] will then will intervenes so I mean what
+[00:54:42] I try to do is to see in what strategies
+[00:54:45] we is used and it's very often a
+[00:55:00] you talking about the can you get up to
+[00:55:04] one of the things I was interested in
+[00:55:08] was when you were describing how within
+[00:55:10] our culture certain aspects are moving
+[00:55:15] from that from from the ontology of a
+[00:55:18] certain to the imperative and and you
+[00:55:20] describe certain disciplines to making
+[00:55:22] that motion and one of the things that
+[00:55:25] concerns me and interests me is whether
+[00:55:27] or not the reverse pyramid so do
+[00:55:29] discipline specific disciplines move
+[00:56:08] the spoken center is also how we believe
+[00:56:17] today to command why we are just obey to
+[00:56:20] the commandment which is embodied in
+[00:56:22] differences with we think that we can
+[00:56:26] command this but what we are doing is
+[00:56:29] following the commandment inscribed in
+[00:56:33] their powers and power all today for the
+[00:56:36] furniture today tolerance exerted is
+[00:56:39] often confusion between the assertion
+[00:56:42] and a parrot in the soul a commandment
+[00:56:45] will be done in the form of an assertion
+[00:57:01] just one one very small question doctor
+[00:57:05] if you love how does cryptology fit into
+[00:57:08] your concept cream any compliment ology
+[00:57:12] believe me many many months many
+[00:57:14] commands many serious commands are
+[00:57:17] recognizable as commands because they
+[00:57:20] are the elliptical they are formulated
+[00:57:22] incredible form there are long periods
+[00:57:25] in our history our history of
+[00:57:29] civilization were commands had to be
+[00:57:33] created in disguise so it was very
+[00:57:37] difficult to understand and to perceive
+[00:57:42] that asthma how does this kind of group
+[00:57:45] apology and which perhaps is close to
+[00:57:45] poetry
+[00:58:00] here is a candle example oh hi Howard
+[00:58:05] commandment it even is hidden and even
+[00:58:08] you believe that you are commanded
+[00:58:10] while in country to somebody other thing
+[00:58:14] they know which kind of a phenom you
+[00:58:16] whisper feliz when you said in our
+[00:58:20] history because of course commandment
+[00:58:25] can be given in a creepy way little ways
+[00:58:28] but if they are not at all recognizable
+[00:58:34] then press the amendment which are
+[00:58:36] referring to discount of commands which
+[00:58:38] were only readable by those who have
+[00:58:43] special code the interpreter and this is
+[00:58:46] a situation of communication of language
+[00:58:49] which my perception is very close to
+[00:58:53] where to the situation of communication
+[00:58:58] and most of them are most of those who
+[00:59:03] are addressed through the command are
+[00:59:06] not able to be are not able to
+[00:59:09] understand it and this is somehow
+[00:59:11] transforming the
+[00:59:14] the concept of the command how he
+[00:59:16] presented it be presenting it like
+[00:59:19] dancing by something which is definable
+[00:59:24] and I'm very the sense that they
+[00:59:28] describe the linguistic form at 10:30 so
+[00:59:31] if an imperative is completely disguised
+[00:59:34] missed a candidate and an interesting
+[00:59:36] thing but then if no one can recognize
+[00:59:39] it can hardly be famous and amendment
+[00:59:43] then there's also this one thinker with
+[00:59:47] power could also decide not to clearly
+[00:59:52] command and often choose to do this it's
+[00:59:56] a one-man there's an example I did over
+[00:59:58] the part of the new Monsieur that a
+[01:00:01] certain moment made an expedition and
+[01:00:06] the CEO said it was called the commander
+[01:00:09] then this big man the situation lasted
+[01:00:12] last the year and his soldiers were
+[01:00:14] going to be better
+[01:00:16] what shall we do what you don't know man
+[01:00:32] presentation and I wonder if your
+[01:00:38] considerations one who does not know
+[01:00:44] what it is to be commanded and whether
+[01:00:47] there is something like this that is in
+[01:00:55] everyone and also if this and I think in
+[01:00:59] terms of thinking about encounters with
+[01:01:02] the civilization of the command with
+[01:01:06] civilizations that do not have this as
+[01:01:10] their basis that we have examples of
+[01:01:16] what happens would this happen in terms
+[01:01:20] of a morality of the command if these
+[01:01:21] are things that you thought of when you
+[01:01:26] were moving it's funny you know just
+[01:01:28] meeting up between two musician a man
+[01:01:32] not man this was the interest our didn't
+[01:01:33] work today
+[01:01:35] then when they were said people they
+[01:01:38] would know that they are commanded that
+[01:01:40] he began saying that people can know
+[01:01:42] that yeah
+[01:01:47] that the proposition is is that is there
+[01:01:49] something within oneself that is
+[01:01:54] natively human that is a person if
+[01:01:59] that's a strange word for it but that
+[01:02:03] does not know what it is to be commanded
+[01:02:05] and maybe this is the seat of resistance
+[01:02:08] this is where resistance begins to the
+[01:02:12] command right now this could be
+[01:02:15] important part so the if there isn't
+[01:02:17] meant something who constitutively
+[01:02:21] resist to command but then they are also
+[01:02:30] less interest in case of people who
+[01:02:34] believe that they are not commanded
+[01:02:41] while they are discover gravity society
+[01:02:46] believes that they command the vacati
+[01:02:48] principle is that recommended and the
+[01:02:51] commander as the same that is just
+[01:02:51] insane
+[01:02:56] I think that also that there is a
+[01:03:01] possibility that there is this insist
+[01:03:05] insistence on not being commanded that
+[01:03:10] way without a clear way of preserving
+[01:03:14] the democracy under that fourth of the
+[01:03:17] demand and hopefully million that third
+[01:03:23] possibility there is a solution and we
+[01:03:25] have to hope that as you say there is
+[01:03:27] always counting which they kind of know
+[01:03:30] commanded of the system and I think the
+[01:03:33] jury's so that so the opposition
+[01:03:35] commandement assertion does not exhaust
+[01:03:54] the question of the encrypted command
+[01:03:58] it could be something
+[01:04:24] or technology that has to be interpreted
+[01:04:27] data cinematic evolve a commitment to
+[01:04:30] action which is so produced by the
+[01:04:32] command of an army
+[01:04:34] machinery an organization that
+[01:04:37] configuration is committed to action and
+[01:04:46] so whether the command is encrypted it's
+[01:04:50] so whatever the decryption maybe it's a
+[01:04:54] mistake the machinery of commitment the
+[01:04:54] action
+[01:05:21] you

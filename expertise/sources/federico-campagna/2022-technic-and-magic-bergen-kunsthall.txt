@@ -1,0 +1,881 @@
+Source: Plattform: Federico Campagna: Technic and Magic (Bergen Kunsthall public programme; YouTube upload 2022-08-20)
+URL: https://www.youtube.com/watch?v=-o0aqT4m8ek
+Fetched: 2026-10-12 via yt-dlp --skip-download --write-auto-sub --write-sub --sub-lang en --sub-format vtt, then vtt2txt.py (YouTube auto-captions: no punctuation, errors possible)
+
+[00:00:05] hello I'm federo CA and it's a pleasure
+[00:00:07] to be here as part of the public program
+[00:00:09] for the exhibition of damla
+[00:00:12] kikan it's a real pleasure for me to be
+[00:00:14] part of this art exhibition and of
+[00:00:16] course it's also a little bit strange
+[00:00:18] because I'm not an artist or an art
+[00:00:21] historian or a Critic I am a writer and
+[00:00:24] I write on philosophy more specifically
+[00:00:26] I write on
+[00:00:29] metaphysics of course just by saying the
+[00:00:32] word met met physics it sounds like I'm
+[00:00:34] working on something that is very remote
+[00:00:36] not only from the Arts but also from
+[00:00:39] life in general it sounds like a very
+[00:00:41] academic Pursuit like a specialistic
+[00:00:43] field an abstract
+[00:00:46] inquiry but to begin my contribution to
+[00:00:47] this public program I would like to
+[00:00:50] start by contending that in fact working
+[00:00:52] on philosophy and also metaphysics is
+[00:00:55] something that is very close to the Arts
+[00:00:58] but also to the very Heart Of
+[00:01:00] Life how can this be
+[00:01:02] well we have to begin by looking at the
+[00:01:05] origin of philosophy a small disclaimer
+[00:01:07] here of course philosophy is a word that
+[00:01:10] we borrow from Greek and so when I'm
+[00:01:12] referring to philosophy using this term
+[00:01:14] I'm referring specifically to the
+[00:01:16] tradition that deres from Greek
+[00:01:18] philosophy there are of course many
+[00:01:20] other Traditions around the world that
+[00:01:23] do something similar or equivalent to
+[00:01:24] philosophy but since they use another
+[00:01:26] term to Define themselves let's remain
+[00:01:28] for a moment in Greece and let's look at
+[00:01:31] the origin of philosophy in ancient
+[00:01:34] Greece already in Antiquity thinkers
+[00:01:37] were asking themselves how come that
+[00:01:39] they were doing something like
+[00:01:41] philosophy what it was for and what kind
+[00:01:44] of need it it looked after and they came
+[00:01:46] up with an answer Aristotle in
+[00:01:49] particular suggested that the pursuit of
+[00:01:50] philosophy is something that doesn't
+[00:01:53] come from anything abstract but it comes
+[00:01:57] from life even more specifically it
+[00:02:00] comes from a feeling from a s sentiment
+[00:02:04] that every sensient being has in the
+[00:02:05] very experience of being
+[00:02:08] alive this feeling he described with a
+[00:02:10] Greek term that doesn't have a real
+[00:02:12] equivalent neither in English nor in
+[00:02:15] Italian nor in many other European
+[00:02:15] languages
+[00:02:20] thuma thuma is a strange term it has to
+[00:02:23] do at the same time with the experience
+[00:02:26] of a and amazement and the experience of
+[00:02:30] Terror and horror so it's something
+[00:02:32] maybe a little bit close to the idea of
+[00:02:35] the sublime for the romantics but it's
+[00:02:38] also much less pompous than the sublime
+[00:02:43] thma is a normal emotion it can arise in
+[00:02:45] many situations of course when you look
+[00:02:47] at for example somebody you love very
+[00:02:49] much and at the same time you are amazed
+[00:02:51] by them but the very fact that they are
+[00:02:54] there and you're also horrified by the
+[00:02:56] incredible emotional power they have on
+[00:02:59] you but also thuma and the thuma
+[00:03:01] specific spefically to which Aristotle
+[00:03:04] referred is a feeling that comes not
+[00:03:06] when you look at anything special a
+[00:03:08] special person for example but simply
+[00:03:09] when you look
+[00:03:12] around when you look around in this room
+[00:03:14] when you look at yourself in the
+[00:03:18] morning you might be struck by the
+[00:03:20] understanding that you exist and that
+[00:03:23] the world around yourself seems at least
+[00:03:26] to exist and that for this existence we
+[00:03:30] don't have any explanation there is no
+[00:03:33] meaning no reason for the fact that we
+[00:03:37] are here when we investigate the fact
+[00:03:39] that things are we somehow arrive to a
+[00:03:43] point when our reasoning ends and our
+[00:03:46] words end and beyond that there is only
+[00:03:50] th the amazing experience of realizing
+[00:03:53] that we exist that there is such a thing
+[00:03:53] as
+[00:03:56] existence the question immediately
+[00:03:59] arises why is there something rather
+[00:04:03] than nothing this is the first reaction
+[00:04:06] to this thuma towards existence and this
+[00:04:07] question why is there something rather
+[00:04:11] than nothing is the heart of philosophy
+[00:04:14] specifically of metaphysics this was the
+[00:04:16] definition that was given of this
+[00:04:19] question by Martin haiger a 20th century
+[00:04:21] philosopher and
+[00:04:23] metaphysician why is there something
+[00:04:26] rather than nothing
+[00:04:30] th but th is not just this pure feeling
+[00:04:30] of
+[00:04:34] contemplation it is in part of course
+[00:04:35] what arises when you look around when
+[00:04:39] you do Theory because for the Greeks to
+[00:04:42] contemplate is to do theoria
+[00:04:44] contemplation hence
+[00:04:48] Theory but it's a much more embodied
+[00:04:51] feeling than this you look around you
+[00:04:52] look at yourself you look at objects
+[00:04:54] around yourself at people around
+[00:04:55] yourself you're amazed at the fact that
+[00:04:57] there is such a thing as existence
+[00:04:58] rather than
+[00:05:02] nothing and then you notice that things
+[00:05:04] change you notice that the loved ones
+[00:05:07] come into existence and die that objects
+[00:05:09] seem to vanish that every moment in time
+[00:05:11] seems to fall into nothingness that you
+[00:05:15] yourself are changing of the boy that I
+[00:05:18] once was not a single cell remains
+[00:05:21] nothing of that boy remains in me he is
+[00:05:24] dead and I am alive and I am not the
+[00:05:25] same thing and I will soon be dead and a
+[00:05:28] new person will come and it will still
+[00:05:31] be me but how
+[00:05:33] so you see we are fleshing out a little
+[00:05:35] bit the consequences of this feeling of
+[00:05:35] this
+[00:05:39] th first they lead to the inquiry of
+[00:05:41] philosophy and then they specialize in
+[00:05:43] the different branches of
+[00:05:46] philosophy by observing how things
+[00:05:49] change around yourself you might want to
+[00:05:51] start investigating how they
+[00:05:54] change is there a regularity in the
+[00:05:57] Rhythm with which things change is there
+[00:05:59] a particular rule in their movement can
+[00:06:02] we measure this movement and so on and
+[00:06:05] so forth are there laws that describe
+[00:06:06] how things interact with each other
+[00:06:09] influence and change each other if we
+[00:06:12] follow this line of inquiry we remain
+[00:06:14] within philosophy at least in Antiquity
+[00:06:17] we do what we call today Natural Science
+[00:06:20] and what in Antiquity was simply
+[00:06:24] philosophy one line for example ideas
+[00:06:26] such as the idea of the atoms exist
+[00:06:28] atomism was developed as part of a
+[00:06:30] philosophical School was not a separate
+[00:06:30] scientific
+[00:06:34] inquiry this is one possible line but
+[00:06:36] there is also another possible line
+[00:06:39] another way of questioning this
+[00:06:42] experience and once again has to do with
+[00:06:45] thuma we are amazed that there is
+[00:06:47] something rather than nothing we are
+[00:06:48] horrified at the fact that we've been
+[00:06:50] thrown into this life the Greeks in
+[00:06:52] particular were quite pessimistic about
+[00:06:56] it there is a famous proverb uh the
+[00:06:58] selus gave to King Midas saying that the
+[00:07:00] very best thing is to never being born
+[00:07:01] the second best thing is to die
+[00:07:03] immediately after you're
+[00:07:06] born but also we are horrified by
+[00:07:09] looking at how things change and
+[00:07:13] disintegrate and seemingly fall into
+[00:07:15] nothingness and at this point the second
+[00:07:17] line of inquiry that starts from this
+[00:07:21] feeling is as something rebellious to it
+[00:07:24] and this is where metaphysics comes
+[00:07:28] from we don't accept this horror we
+[00:07:32] don't accept the horror of of the idea
+[00:07:34] of nothingness the possibility that this
+[00:07:37] miracle that things exist can somehow
+[00:07:41] being turned around and destroyed and
+[00:07:43] sink into an abyss of nothingness and
+[00:07:45] then we start
+[00:07:49] questioning when we see things change do
+[00:07:52] they really change when we see time
+[00:07:56] passing does it really pass does such a
+[00:08:00] thing as time for example exist when I
+[00:08:02] see myself as a young boy becoming an
+[00:08:05] adult and then an old man and dying do
+[00:08:07] these Transformations really take place
+[00:08:10] or should I rather locate myself who I
+[00:08:12] am somewhere
+[00:08:16] else here as I was saying we find the
+[00:08:17] beginning of
+[00:08:19] metaphysics it begins from this
+[00:08:22] Rebellion against the the observ the
+[00:08:25] observation that things seem to contain
+[00:08:28] a nothingness within them from a a hope
+[00:08:31] at least that nothingness does not exist
+[00:08:34] that things are always already safe and
+[00:08:36] stable in their existence and it
+[00:08:39] proceeds as a philosophical
+[00:08:43] inquiry how does it proceed well it
+[00:08:46] proceed through inquiry which if we said
+[00:08:49] it using a Greek term we would say
+[00:08:52] skepsis we say today
+[00:08:54] skepticism skepticism in Antiquity of
+[00:08:56] course was different from skepticism
+[00:08:58] today first of all skepticism today
+[00:09:02] appears to be be a European um approach
+[00:09:04] you know the skepticism of Hume for
+[00:09:06] example but in Antiquity it was very
+[00:09:08] much not a European approach it was an
+[00:09:11] Indian approach the very origin of the
+[00:09:14] term comes from the expedition of
+[00:09:16] Alexander the Great all the way to India
+[00:09:18] when he traveled there he brought with
+[00:09:20] himself a number of philosophers and one
+[00:09:22] of them Pirro had the opportunity of
+[00:09:24] speaking with the local philosophers of
+[00:09:28] India the gymnosophists the naked sages
+[00:09:30] the bahamin
+[00:09:32] in ancient Greek culture nakedness is
+[00:09:35] not a sign of debasement of savagery
+[00:09:37] nakedness is a sign of heroism and
+[00:09:38] Divinity if you look at Greek statues
+[00:09:40] when you see them naked it means that
+[00:09:42] they have a heroic or Divine quality so
+[00:09:45] the gimos of fist these Divine sages
+[00:09:49] taught pero the art of Being
+[00:09:52] skeptical not being skeptical about
+[00:09:54] opinions simply that was an old idea
+[00:09:56] plate already discussed that Socrates
+[00:09:59] and many others but being skeptical
+[00:10:01] about one's own sense perceptions we
+[00:10:03] being skeptical about the most
+[00:10:06] fundamental perception that we have that
+[00:10:09] when we look around we see existence and
+[00:10:12] when we look around again we see
+[00:10:14] nothingness how can we be skeptical
+[00:10:18] about this basic fact that we look
+[00:10:20] around and there is reality we look at
+[00:10:21] ourselves and we see
+[00:10:25] ourselves can this be
+[00:10:27] false well we just have to proceed
+[00:10:30] slowly but easy
+[00:10:32] easily we understand of course that when
+[00:10:35] I look at objects around
+[00:10:39] myself they seem external to me but in
+[00:10:42] fact this spectacle of this room or of
+[00:10:46] your room is happening within my eyes
+[00:10:48] not outside of my eyes this projection
+[00:10:52] is happening inside I'm here touching my
+[00:10:55] my face and my brain of course because
+[00:10:57] for today we we think that this
+[00:10:59] projection appears and happens in the
+[00:11:02] brain if we had done this conversation
+[00:11:03] in ancient Egypt for example I would
+[00:11:06] have done this or this the stomach and
+[00:11:07] the Heart where all the places believe
+[00:11:09] to be the place of this projection when
+[00:11:12] we hear this hearing happens in my ears
+[00:11:14] when I taste The Taste happens in my
+[00:11:17] tongue when I touch the touch happens in
+[00:11:20] my fingers and so on and so forth so the
+[00:11:23] reality that appears external to me if I
+[00:11:26] try to investigate for a moment where I
+[00:11:30] am experiencing it I realize that I'm
+[00:11:33] not experiencing it outside of myself I
+[00:11:40] inside so what what can I say of this
+[00:11:43] spectacle that I look around and I see
+[00:11:47] this existence this reality H well I can
+[00:11:49] no longer say that it exists outside of
+[00:11:51] myself I can no longer talk about it as
+[00:11:54] an object something external stable and
+[00:11:59] fixed this reality as I see it this
+[00:12:03] ordered world made of time passing space
+[00:12:06] distributed objects separate identities
+[00:12:09] and so on and so forth well this Cosmos
+[00:12:13] this ordered world is happening within
+[00:12:17] me so what is happening outside of
+[00:12:21] me well this is a problem of
+[00:12:24] course I cannot say we cannot say what
+[00:12:28] is happening outside of us we cannot say
+[00:12:31] what is real reality we cannot even say
+[00:12:33] if the very idea of existence and of
+[00:12:37] reality apply to what is happening
+[00:12:39] outside of our
+[00:12:43] mind we could believe of course that for
+[00:12:47] some incredible miracle and
+[00:12:49] coincidence this mystery which is
+[00:12:51] reality this infinite Universe in which
+[00:12:55] we live infinitely expanded perhaps
+[00:12:58] infinitely old well that for some crazy
+[00:13:02] reason reason it was created or built or
+[00:13:05] happened to exist precisely to coincide
+[00:13:07] with the way in which we perceive it
+[00:13:10] with the way in which we think that the
+[00:13:14] Universe was somehow created to coincide
+[00:13:16] perfectly with the limits that we have
+[00:13:20] in perception and understanding that our
+[00:13:23] ideas about reality that our idea that
+[00:13:26] this object is a glass that is made of
+[00:13:28] glass that exist in this moment in time
+[00:13:32] and so on and so forth somehow perfectly
+[00:13:34] coincide with what's actually happening
+[00:13:37] outside of our mind we could believe
+[00:13:40] this but this would be a very wild
+[00:13:44] assumption it is infinitesimally small
+[00:13:46] the probability that the Universe
+[00:13:49] coincides perfectly with our means of
+[00:13:52] understanding so what we can do is we
+[00:13:55] can hold judgment and this is precisely
+[00:13:58] what was told by the Ginos theists the
+[00:14:01] naked Sages heroic Divine sages of India
+[00:14:04] to P who then came back to Greece after
+[00:14:06] the end of the Alexander the Great's
+[00:14:08] Expedition and started its own school
+[00:14:11] which then became known as the school of
+[00:14:13] skepticism one of the fundamental ideas
+[00:14:17] of this school is that reality as it is
+[00:14:21] is unknowable and thus we must hold
+[00:14:24] judgment withhold suspend judgment when
+[00:14:27] asked about anything because the truth
+[00:14:31] about anything is beyond our ability of
+[00:14:31] discovering
+[00:14:37] it now this is all very well but how do
+[00:14:41] we live if we are to suspend judgment
+[00:14:45] about reality how do we live the risk of
+[00:14:48] course is that by suspending judgment
+[00:14:50] and saying that what we see around
+[00:14:51] ourselves is Just an
+[00:14:54] Illusion well this illusion will start
+[00:14:57] to disintegrate and behind it we'll see
+[00:15:01] the forces of Chaos coming onto Us in
+[00:15:03] some psychopathological experiences and
+[00:15:07] psychotic attacks it happens to have the
+[00:15:11] experience of chaos closing in the world
+[00:15:11] literally
+[00:15:15] disintegrating Cosmos order
+[00:15:20] disintegrating and Chaos disorder
+[00:15:22] arising it is possible to live like this
+[00:15:25] but is extremely painful and very
+[00:15:29] hard so we humans I think are Justified
+[00:15:31] by on the one hand suspending judgment
+[00:15:33] on the true existence of things but on
+[00:15:37] the other hand inventing a world making
+[00:15:40] Cosmos creating
+[00:15:42] realities saying that indeed there is
+[00:15:44] such a thing as a class that indeed it's
+[00:15:46] possible to call me with the same name
+[00:15:47] that you called me when I was a boy that
+[00:15:50] boy who doesn't exist anymore and and so
+[00:15:51] on and so
+[00:15:54] forth by doing this by holding up these
+[00:15:58] hypothesis by naming things by creating
+[00:16:00] a catalog of objects distinct distinct
+[00:16:02] only in our mind not in reality a
+[00:16:04] catalog of time distinct in moments
+[00:16:07] distinct only in our mind and so and so
+[00:16:10] forth well we endow ourselves with a
+[00:16:14] world but a world which is not real a
+[00:16:17] world which is fictional which is an
+[00:16:20] hypothesis inside this hypothesis we can
+[00:16:23] live the moment we
+[00:16:25] forget that it is an
+[00:16:28] hypothesis the moment we believe that
+[00:16:29] what we see
+[00:16:31] through our eyes through our mind
+[00:16:32] through the machines that we have
+[00:16:36] invented well that that is
+[00:16:39] reality then at that moment well we make
+[00:16:42] a bad philosophical mistake and we fall
+[00:16:42] into
+[00:16:46] Superstition so this is where
+[00:16:50] metaphysics truly comes in it is a way
+[00:16:50] of
+[00:16:53] understanding many of the aspects we've
+[00:16:53] just
+[00:16:57] discussed the very fact that there is
+[00:16:59] something rather than nothing the very
+[00:17:03] idea of something and nothingness
+[00:17:05] questioning them accepting that there is
+[00:17:08] a way in which things appear to us as a
+[00:17:10] phenomenon as something that appears and
+[00:17:13] understanding this phenomenon all these
+[00:17:16] parts are part of
+[00:17:18] metaphysics what is the use of
+[00:17:23] metaphysics well it's huge of course and
+[00:17:26] it has to do with literally everything I
+[00:17:26] was
+[00:17:29] describing that a world
+[00:17:32] is fundamentally an hypothesis a way in
+[00:17:34] which we create a fiction around
+[00:17:36] ourselves we endow ourselves with the
+[00:17:40] world and we live in this world some
+[00:17:42] elements of this fiction are somehow uh
+[00:17:45] necessary for example as human beings we
+[00:17:50] do seem to require the fiction of space
+[00:17:52] and the fiction of time in order to
+[00:17:54] navigate our
+[00:17:56] life but even the fiction of space and
+[00:17:58] of time which seem to be biologically
+[00:18:00] bound to us don't always work in the
+[00:18:03] same way we don't need to kind of um
+[00:18:05] always use the same variation of this
+[00:18:07] fiction of space and fiction of time
+[00:18:09] different civilizations in different
+[00:18:12] moments in history and in different
+[00:18:14] parts of the world have elaborated this
+[00:18:17] idea of space and time very differently
+[00:18:18] let's think for example of the ancient
+[00:18:21] Greeks like the ancient Indians who
+[00:18:24] belied that time was cyclical let's
+[00:18:26] believe think of us today who believe
+[00:18:28] that time is linear and many of the
+[00:18:30] possibilities about the existence of
+[00:18:35] time so we can modify our fiction about
+[00:18:37] reality we can
+[00:18:40] somehow invent different types of
+[00:18:42] fiction and we have invented many
+[00:18:44] different types of fiction having to do
+[00:18:47] with a nature of reality each of them
+[00:18:50] each hypothesis about reality each
+[00:18:53] metaphysical system gives rise to a
+[00:18:53] different
+[00:18:58] world so that for example if we were
+[00:19:01] medieval peasants living in the north of
+[00:19:03] France in the 12th century what we will
+[00:19:06] witness around ourselves based on a very
+[00:19:08] different metaphysical hypothesis from
+[00:19:11] that which we have today would have been
+[00:19:14] a physically different world an actually
+[00:19:17] different world populated by different
+[00:19:21] objects Angels Souls God's plan going in
+[00:19:22] a different
+[00:19:25] direction actually a different landscape
+[00:19:28] where to where we can live and thus our
+[00:19:30] life would have been entirely different
+[00:19:33] because in a different landscape
+[00:19:35] different things are possible different
+[00:19:37] things are impossible different things
+[00:19:39] make sense or don't make
+[00:19:43] sense so by modifying the hypothesis
+[00:19:44] that we
+[00:19:47] hold in order to give endow ourselves
+[00:19:50] with the world we are not only you know
+[00:19:52] playing with worlds it's not just an
+[00:19:55] academic abstract Pursuit but we are
+[00:19:58] truly modifying the world where we live
+[00:20:01] the field of what is possible impossible
+[00:20:03] reasonable and
+[00:20:06] superstitious so we are modifying the
+[00:20:09] game board over which The Game of Life
+[00:20:11] can take place if we look at big
+[00:20:14] transformations in history this is often
+[00:20:17] how civilizations move into one another
+[00:20:20] how history changes and really flips
+[00:20:22] over history progresses through many
+[00:20:24] types of changes having to do with socio
+[00:20:26] economic systems and so on and so forth
+[00:20:29] but fundamentally the Great epical
+[00:20:30] changes have to do with the
+[00:20:32] transformation of the metaphysical
+[00:20:35] hypothesis that people hold in order to
+[00:20:37] create world and to
+[00:20:40] live think once again about the passage
+[00:20:44] between medieval Christianity Europe and
+[00:20:48] contemporary scientific Technic world
+[00:20:50] two entirely different universes where
+[00:20:52] entirely different things make sense and
+[00:20:54] that's why when we look at the Ancients
+[00:20:57] we are in a foreign land and often also
+[00:20:58] when we encounter different people
+[00:21:00] people from different parts of the world
+[00:21:04] we truly encounter other worlds and
+[00:21:05] sometimes the conversation between
+[00:21:09] different worlds is particularly
+[00:21:12] difficult so operating on philosophy and
+[00:21:14] especially operating on metaphysics
+[00:21:16] means operating on the background of
+[00:21:18] every other aspect of
+[00:21:22] life politics first of all political
+[00:21:25] systems and political discourses are
+[00:21:27] entirely transformed depending on how we
+[00:21:31] decide to make world for example we can
+[00:21:34] decide that the world is created
+[00:21:37] constituted by natural divisions there
+[00:21:40] is a natural division between humans and
+[00:21:42] non-humans there is a natural division
+[00:21:45] between male and female this is an
+[00:21:47] hypothesis and for a long time Europe
+[00:21:49] has existed on the basis of this
+[00:21:51] hypothesis has endorsed these hypothesis
+[00:21:53] and this was the European world but we
+[00:21:55] can also decide as we are currently
+[00:21:58] doing more and more that there is no
+[00:22:00] natural distinction between humans and
+[00:22:02] non-humans there is no natural
+[00:22:04] distinction between male and female and
+[00:22:07] that's how our world is changing is
+[00:22:09] either of these two hypothesis
+[00:22:09] quintessentially
+[00:22:15] true they're all fictions the absolute
+[00:22:18] truth as old pero and the gimos fist
+[00:22:20] would tell us the absolute truth is
+[00:22:24] beyond our grasp what we have is
+[00:22:26] fictions what we call them is Worlds and
+[00:22:28] we often take them very seriously in
+[00:22:30] order to be able to believe in them
+[00:22:33] enough so that we can enjoy life without
+[00:22:36] feeling the experience of chaos without
+[00:22:39] thma coming back too much to haunt us
+[00:22:41] with its
+[00:22:44] horror but thma does come back to haunt
+[00:22:48] us with its awe and with its
+[00:22:51] horror and it is I think at the second
+[00:22:53] return of thuma or third return if you
+[00:22:57] like we had it witnessing existence
+[00:22:59] witnessing death and trans formation but
+[00:23:02] here again it returns after we have
+[00:23:05] dealt with it by creating fictions when
+[00:23:07] we are when we sometimes are reminded of
+[00:23:09] the fact that these are
+[00:23:12] fictions and that everything that we
+[00:23:15] think and believe fundamentally is a
+[00:23:19] fiction beautiful ordered Cosmos
+[00:23:26] true included in this idea of fiction
+[00:23:30] there are precisely those things that
+[00:23:33] give origin to the feeling of
+[00:23:36] thuma we said that thuma comes from the
+[00:23:37] experience of
+[00:23:40] existence and from the experience of
+[00:23:45] disintegration but aren't these two
+[00:23:51] Notions existence life nothingness death
+[00:23:53] themselves fictions that we have
+[00:23:55] invented to endow ourselves with a way
+[00:23:58] of making sense of the Avalanche of
+[00:24:00] perceptions that invest Us in creating
+[00:24:02] an ordered
+[00:24:05] world yes they are so what can we say
+[00:24:10] fundamentally what we can say about
+[00:24:14] existence well leads us to the very edge
+[00:24:19] of metaphysics Beyond the Edge Hayer
+[00:24:20] would say that Beyond the Edge of
+[00:24:23] metaphysics there is poetry but other
+[00:24:24] very great
+[00:24:27] metaphysicians such as I Arabi um a
+[00:24:30] great suie thinker of the Medieval Time
+[00:24:32] who lived in Spain and indeed is one of
+[00:24:34] the greatest European philosophers who
+[00:24:37] ever lived of course being of Arabic
+[00:24:39] language and Muslim you will never find
+[00:24:42] him unfortunately stupidly in in
+[00:24:44] seemingly any Handbook of European
+[00:24:45] philosophy but he still is one of the
+[00:24:48] greatest European philosophers iabi
+[00:24:50] would say that Beyond metaphysics there
+[00:24:53] is ineffable
+[00:24:57] silence ineffable silence and here we
+[00:24:59] are already
+[00:25:01] trusting to understand how we can
+[00:25:04] move in this Voyage to the limits of our
+[00:25:06] mind beyond the limits of our
+[00:25:10] mind ineffable silence means that there
+[00:25:13] is a moment in which not only we decide
+[00:25:15] to withhold our judgment and to not say
+[00:25:18] the absolute truth about
+[00:25:22] things not only we decide to and take on
+[00:25:25] our fictions as the fictions but we
+[00:25:28] start to contemplate and to realize that
+[00:25:31] indeed there is a limit to reality which
+[00:25:34] is defined by the limit of our language
+[00:25:37] as vien Stein remarked the limit of a
+[00:25:39] language are the limit of a world and
+[00:25:40] Beyond these
+[00:25:43] limits we cannot say there is
+[00:25:47] nothingness we cannot say that what
+[00:25:49] exceeds the grasp of our language what
+[00:25:51] exceeds the grasp of our making world of
+[00:25:54] our mind of our perceptions of our
+[00:25:56] cognition of our language in any form
+[00:26:00] but that it does not exist that it is
+[00:26:04] nothingness it is something Beyond
+[00:26:07] existence to a certain extent in that it
+[00:26:11] is it exceeds the linguistic concept of
+[00:26:14] existence but it is not
+[00:26:17] nothingness once again it is possible
+[00:26:20] that it might be nothingness but it
+[00:26:23] would take an incredibly unlikely
+[00:26:26] coincidence that the limits of our mind
+[00:26:28] and our understanding specific Al of
+[00:26:30] such Notions which are culturally
+[00:26:32] specific such as existence and
+[00:26:34] nothingness perfectly coincide with the
+[00:26:36] actual architecture of the entire
+[00:26:39] universe and of reality it would be very
+[00:26:41] superstitious and very arrogant to
+[00:26:44] believe that that is the case so more
+[00:26:45] modestly more
+[00:26:48] philosophically we have to say that it
+[00:26:52] is not nothingness it's something beyond
+[00:26:53] the distinctions of language Beyond
+[00:26:56] existence Beyond nothingness and what we
+[00:26:58] start doing then is
+[00:27:00] we start creating a geography of reality
+[00:27:03] that exceeds the world there is the
+[00:27:06] world which is what we create around
+[00:27:09] ourselves by ordering linguistically our
+[00:27:11] perceptions the roow perceptions that we
+[00:27:14] have by creating something made of
+[00:27:17] distinct objects and so on and so forth
+[00:27:18] and then there is a
+[00:27:26] Beyond exists or is there whatever we
+[00:27:29] want to use a provision term to indicate
+[00:27:32] it in a way that exceeds the limits of
+[00:27:37] nothingness
+[00:27:41] but a couple of aspects here to keep in
+[00:27:45] mind so beyond our world there is I
+[00:27:46] cannot say what we cannot say what but
+[00:27:48] there is
+[00:27:52] somehow and we can look at it only
+[00:27:54] negatively as if through an inverted
+[00:27:59] mirror so we can say of it only that we
+[00:28:01] cannot say anything of it this is the
+[00:28:03] only thing that we can say of it this is
+[00:28:07] an old method called negative theology
+[00:28:09] he was very popular in late Antiquity
+[00:28:12] and in the Middle Ages in the Islamic
+[00:28:14] Christian and Jewish worlds especially
+[00:28:17] in the in the Mediterranean
+[00:28:20] area one of the main uh proponent of
+[00:28:22] this of the earliest proponents also of
+[00:28:25] this method was a pseudonymous author
+[00:28:28] called dius the aopa
+[00:28:30] was a person who wrote in late Antiquity
+[00:28:32] but pretending to be a character from
+[00:28:34] the time of Jesus Christ and it is one
+[00:28:38] method we can start mapping reality on
+[00:28:41] the basis of our limits by negating our
+[00:28:44] limits so one of our limits is language
+[00:28:47] we refuse to limit reality to our limit
+[00:28:49] of language we say that Beyond it there
+[00:28:51] is not language there is something that
+[00:28:54] does not exist but does not not exist is
+[00:28:57] not not nothing and so on and so forth
+[00:29:00] this spiraling of negations becomes
+[00:29:02] vertiginous of course because we are
+[00:29:05] really getting to the limit point of our
+[00:29:07] imagination and we can proceed if we
+[00:29:09] wish in our mapping of reality beyond
+[00:29:09] the
+[00:29:13] world once again by looking at how it
+[00:29:15] reflects on us how we can approach it we
+[00:29:18] can approach it negatively and then we
+[00:29:21] get of course the idea of ineffability
+[00:29:23] or D dimension of reality that exceeds
+[00:29:27] language and then we can continue by
+[00:29:28] proceeding Beyond
+[00:29:30] with this idea that there might be a
+[00:29:33] negation even of that the not not the
+[00:29:33] infinite
+[00:29:38] kns until we get to the very limits of
+[00:29:41] our imagination and Beyond those limits
+[00:29:43] once again we cannot say anything and we
+[00:29:46] when we realize that when we think and
+[00:29:49] we imagine things even beyond our world
+[00:29:51] we always proceed by couples by
+[00:29:59] world sorry we proceed by relations in
+[00:30:00] the world when we look around ourselves
+[00:30:02] we understand objects in the relation
+[00:30:05] with each other the chair ends the
+[00:30:08] moment that the floor Begins for
+[00:30:10] example I end the moment when there is
+[00:30:15] not me and so on but then reality is
+[00:30:19] extended all the way to the limit of
+[00:30:22] relation and then beyond there is a
+[00:30:23] Beyond even to the limits of our
+[00:30:25] imagination there is a Beyond even to
+[00:30:29] not being to not existence and even of
+[00:30:31] that we cannot say that it does not
+[00:30:39] nothingness so you see that metaphysic
+[00:30:43] leads us very far very close it furnish
+[00:30:45] us with the world and very far to the
+[00:30:47] very limits of our
+[00:30:50] imagination it also helps us to
+[00:30:53] establish a bridge between the very
+[00:30:56] close and the very far and here I think
+[00:30:58] is where artists in particular
+[00:30:58] particular
+[00:31:02] arrive what I've been describing is an
+[00:31:04] idea of reality that is not
+[00:31:06] monodimensional that doesn't have only
+[00:31:09] one dimension we often in our everyday
+[00:31:12] dealings with things we take for granted
+[00:31:15] what we see is what we get so it's this
+[00:31:19] is it around ourselves look reality we
+[00:31:23] have seen that of course doesn't prove
+[00:31:26] nothing so it's not only one dimension
+[00:31:27] the dimension of langu language pers
+[00:31:30] perceptions cognition but it is made of
+[00:31:33] many more Dimensions that negate our and
+[00:31:35] exceed our limits all the way to the
+[00:31:38] excess of our the limits of our
+[00:31:41] imagination in this multi-dimensional
+[00:31:45] reality anything that we see this glass
+[00:31:45] for
+[00:31:50] example can be said to be only in part
+[00:31:53] within one dimension this glass is what
+[00:31:56] I can witness of this according to my
+[00:31:58] sense perceptions to my cognition to
+[00:32:01] yours to the limits of our mind of our
+[00:32:04] imagination and so on but is it
+[00:32:11] this no we cannot say actually we should
+[00:32:15] assume indeed that unless by a miracle
+[00:32:17] the limits of our mind are the limits of
+[00:32:19] reality which are very different from
+[00:32:21] the limits of the world as we
+[00:32:25] saw or this glass exists simultaneously
+[00:32:28] on this Dimension the world world and
+[00:32:32] many other dimensions beyond the
+[00:32:35] world how can we establish a link
+[00:32:36] between these
+[00:32:39] dimensions and why should we well one
+[00:32:41] reason why we should is because not only
+[00:32:41] this
+[00:32:44] glass is befallen by the fate of
+[00:32:46] existing simultaneously in multiple
+[00:32:52] Dimension but also this also me also you
+[00:32:54] each single
+[00:32:57] existent is not limited by the very
+[00:32:59] narrow nrow understanding of existence
+[00:33:02] that we humans have biologically and
+[00:33:05] culturally in this particular
+[00:33:07] civilization each single existent
+[00:33:10] exceeds these limits
+[00:33:13] infinitely this means this glass and
+[00:33:17] this means me me as this body me as my
+[00:33:19] mind me as what the Ancients used to
+[00:33:21] call the Suk the
+[00:33:25] soul or the the Indians called the Atman
+[00:33:27] Consciousness the awareness however you
+[00:33:29] want to call
+[00:33:34] it artists I think are especially good
+[00:33:36] philosophers are good sometimes at
+[00:33:39] inventing some architectural systems
+[00:33:41] very absract but artists are very good
+[00:33:44] at creating the actual imaginal
+[00:33:47] infrastructure that allows us to
+[00:33:51] comprehend these architectures in one
+[00:33:54] you know vision and to move through it
+[00:33:58] we humans we work through images through
+[00:34:01] fictions visual fictions as well and
+[00:34:04] artists have always been important in
+[00:34:06] allowing people to understand
+[00:34:08] metaphysical systems to their limits and
+[00:34:11] Beyond the limits of metaphysics one
+[00:34:15] example the great medieval painter of
+[00:34:19] icons Andre ruv Andre ruv was a painter
+[00:34:22] of icons in Russian Christianity so it
+[00:34:25] means in a form of Christianity where
+[00:34:30] icons are not simply uh images or
+[00:34:32] devotional objects but they are sacred
+[00:34:36] images they are the actual image of the
+[00:34:38] Divine of course they don't believe that
+[00:34:40] it is the actual image of a Divine the
+[00:34:43] Divine is limited to that image but that
+[00:34:47] image is truly the window through which
+[00:34:50] we can look Beyond reality into the
+[00:34:52] Divine into the ineffable basically into
+[00:34:53] what is beyond the
+[00:34:57] world Andre ruv was said to be the
+[00:34:57] greatest
+[00:35:00] because and this is a comment by an art
+[00:35:02] historian and many other things called
+[00:35:04] pav florensky one of the greatest art
+[00:35:06] historians philosophers mathematicians
+[00:35:08] and many other things of the 20th
+[00:35:10] century and he said that Andre Ru was
+[00:35:13] the greatest because he was a painter
+[00:35:17] and a saint and he said only a painter
+[00:35:19] can be a saint and only a saint can be a
+[00:35:24] painter because in order to describe the
+[00:35:26] dimensions beyond the world it is
+[00:35:28] necessary to have experience exp Eren
+[00:35:31] them somehow to have seen them hence the
+[00:35:34] Saint the one that sees but then once
+[00:35:37] you have seen them in order to truly be
+[00:35:37] a
+[00:35:41] saint a bodh SATA would say a Mahayana
+[00:35:44] Buddhist so somebody who doesn't loses
+[00:35:46] themselves mystically into the not into
+[00:35:49] the Beyond existence the Divine but who
+[00:35:51] comes back with the element of
+[00:35:54] compassion and helps everyone else to
+[00:35:56] exceed the limits of the world well then
+[00:35:57] you have to return and descri describe
+[00:36:00] it and the what best way to describe it
+[00:36:02] and to paint it so the only possible
+[00:36:04] Saint is the artist the possible artist
+[00:36:06] is the
+[00:36:12] saint with this I would like to close my
+[00:36:15] contribution um to this public program
+[00:36:19] by inviting also contemporary artists to
+[00:36:23] consider that that work um really has to
+[00:36:26] do with metaphysical concerns in that it
+[00:36:28] comes from a particular way of looking
+[00:36:31] at the world that it can be modified
+[00:36:33] this way of looking at the world not
+[00:36:35] only using hallucinogenics as is very
+[00:36:38] fashionable to do nowadays but also more
+[00:36:40] modestly on on any armchair or any bus
+[00:36:44] ride by starting to transform the
+[00:36:46] assumptions that we have that we use to
+[00:36:46] create
+[00:36:51] worlds then that that work can truly
+[00:36:54] contain an element of contemplation so
+[00:36:57] witnessing what is beyond the world not
+[00:37:00] just the weird and the Eerie as the much
+[00:37:02] beloved Mark Fisher used to call them
+[00:37:07] but also the ineffable what is beyond
+[00:37:09] language Beyond existence with a
+[00:37:11] skeptical gaze towards what we think
+[00:37:14] existence and language are moving beyond
+[00:37:16] to the limits of our imagination and
+[00:37:18] Beyond the limits of our imagination
+[00:37:20] suspending judgment on the truth but
+[00:37:23] expressing oneself on the fact that we
+[00:37:26] do not believe that our limits are the
+[00:37:28] limits of reality the the limits of our
+[00:37:31] language are the limits of our world yes
+[00:37:32] but the limits of the world are not the
+[00:37:36] limits of reality and then trying to
+[00:37:38] create a system of
+[00:37:42] mirrors a Jacob's Ladder if you wish uh
+[00:37:45] a magic Steed like that which took
+[00:37:49] Muhammad to the sky on that famous night
+[00:37:52] through which it is possible to travel
+[00:37:53] through these
+[00:37:55] Dimensions many things will be
+[00:37:57] discovered I think by doing this one of
+[00:38:01] the things I think and I will live and I
+[00:38:03] will live with this is that it might be
+[00:38:06] the case that it is not only us from
+[00:38:09] this particular dimension of reality who
+[00:38:13] are feeling thuma and who are feeling
+[00:38:15] dis quied by the experience of seeing
+[00:38:18] falling into the nothingness Beyond
+[00:38:20] language and who also might be convinced
+[00:38:21] that there is no such thing as
+[00:38:24] nothingness that things never truly
+[00:38:27] disappear but that there might be also
+[00:38:31] something beyond our world that equally
+[00:38:34] is eager to encounter other NES other
+[00:38:38] worlds namely our world for it the
+[00:38:40] communication between Dimensions is
+[00:38:43] truly interdimensional and art can truly
+[00:38:48] create Bridges can be art for this
+[00:38:50] world allowing it to look at beyond the
+[00:38:53] world an art for the other world
+[00:38:56] allowing it to look into the world
+[00:39:00] Ancient Art often it dids the NATA
+[00:39:03] lines the the the structure of Catholic
+[00:39:05] churches in the shape of a cross for
+[00:39:09] example hint to the or the creation of
+[00:39:11] um statues to be inhabited by the gods
+[00:39:14] in ancient Greece hint to the fact that
+[00:39:16] artists can create these bridges of
+[00:39:19] communication not only for us to move
+[00:39:22] Beyond but for the Beyond to move and
+[00:39:24] look in and to create a bridge of
+[00:39:27] solidarity and of knowledge and of
+[00:39:29] understanding between the dimensions of
+[00:39:31] reality thank you so much for your
+[00:39:34] patience and your time listening to me
+[00:39:36] and I wish you all the very best and to
+[00:39:40] enjoy the exhibition of damla kikan and
+[00:39:42] I hope I will see you again soon perhaps

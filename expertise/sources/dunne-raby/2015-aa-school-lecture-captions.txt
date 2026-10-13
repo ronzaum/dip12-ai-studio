@@ -1,0 +1,1766 @@
+Source: Anthony Dunne, Fiona Raby - Lecture | AA School of Architecture (YouTube UHHlSnmX4UA, published 15 July 2015; introduced by Liam Young; recording date not stated). Auto-generated captions: names and some words are mis-heard; timestamps from the caption file.
+URL: https://www.youtube.com/watch?v=UHHlSnmX4UA
+Fetched: 2026-10-12 via yt-dlp --write-auto-sub + vtt2txt.py
+
+[00:00:15] my name is Liam young and I run into
+[00:00:16] seven here at the a with my teaching
+[00:00:19] partner Kate Davies and tonight we're
+[00:00:21] delighted to be at a hosts lecture by
+[00:00:24] Anthony done and if you're an array be
+[00:00:26] from the design studio at June and
+[00:00:28] Robbie Anthony Fiona are both faculty
+[00:00:31] members in the design interactions
+[00:00:33] department of the RCA and in practice
+[00:00:35] they have pioneered the fear of field of
+[00:00:38] critical design using their work to
+[00:00:40] instigate debate and raise questions as
+[00:00:43] they as they wander off the map for the
+[00:00:44] speculative landscapes of emerging
+[00:00:48] science and technology on a future
+[00:00:50] Safari through the brave new world that
+[00:00:52] may evolve from our own in a campaign
+[00:00:55] against uncritical optimism for tomorrow
+[00:00:57] they furnished these spaces of the near
+[00:00:59] future with objects and ideas that
+[00:01:01] acknowledge our contradictions are
+[00:01:04] inconsistencies our frailties our flaws
+[00:01:06] and through provocative prototyping
+[00:01:08] generally construct for us a strange
+[00:01:11] beautiful human and haunting vision of a
+[00:01:13] day soon to come so we're excited that
+[00:01:16] Anthony Fiona here tonight to share with
+[00:01:16] us this world
+[00:01:25] so please welcome Fiona Anthony we're
+[00:01:38] we've been busy and we to be honest we
+[00:01:40] very rarely lectures together which is a
+[00:01:43] bit odd so this is the first time for
+[00:01:44] ages so we're going to kind of bounce
+[00:01:46] between each other and it might seem a
+[00:01:48] little bit chaotic but we're trying and
+[00:01:52] be a bit more concise if we can I'm
+[00:01:56] going to start with something that looks
+[00:02:02] a little bit kind of banal a watch it
+[00:02:05] looks pretty straightforward but there's
+[00:02:07] something about watch I think in the
+[00:02:09] wider product design designing your
+[00:02:12] watch is sort of the sort of basis of
+[00:02:13] all product designers
+[00:02:16] what they like to do and it's kind of
+[00:02:18] stable and solid and you kind of know
+[00:02:21] where you are and but with this project
+[00:02:25] we really wanted to do a set of products
+[00:02:27] that were real products that were real
+[00:02:30] working prototypes and unless kind of
+[00:02:33] but that could possibly exist in the
+[00:02:35] real world and be manufactured and you
+[00:02:37] know these could be we could be wearing
+[00:02:39] them on our wrists tomorrow so we worked
+[00:02:42] quite hard to with electronics all the
+[00:02:46] electronics were made this is to prove
+[00:02:48] that it was actually the working thing
+[00:02:51] we we actually had the circuitry down in
+[00:02:55] China and basically what it's got inside
+[00:02:59] it is an mp3 player and the idea is this
+[00:03:01] it's kind of an acoustic watch so in its
+[00:03:03] kind of normal sort of everyday sort of
+[00:03:05] if it was kind of used in a normal sort
+[00:03:06] of way
+[00:03:08] it might tell you the time so you know
+[00:03:10] you might put it to your ear and
+[00:03:14] basically what happens is it's got this
+[00:03:16] little kind of rubber piece that when
+[00:03:18] you stick in your ear it presses a
+[00:03:20] little switch and it gives you a cue
+[00:03:27] stick or you know a little bit more if
+[00:03:30] we had a little bit kind of more money
+[00:03:33] and to update the circuit a bit more we
+[00:03:34] might have a wireless connection with a
+[00:03:36] mobile phone and perhaps you know maybe
+[00:03:39] your text messages you put your ear and
+[00:03:41] a text message to come out and you can
+[00:03:44] hear them like that but in our in our
+[00:03:47] scenario we wanted to kind a reality a
+[00:03:49] little bit more and within this kind of
+[00:03:51] ordinary thing make of a different kind
+[00:03:53] of set of values that perhaps this watch
+[00:03:56] might have so in our scenario this is a
+[00:03:59] we've called it a RISC watch and what it
+[00:04:01] does is it it lurtz you to what kind of
+[00:04:03] status in which country and what risk
+[00:04:07] level that that country might be at so
+[00:04:09] you're wearing have you're traveling and
+[00:04:12] it could just say number six or it could
+[00:04:14] just say something like number three and
+[00:04:18] that and that's it but of course in BBC
+[00:04:21] English because you know we trust the
+[00:04:25] BBC to tell us the correct kinds of
+[00:04:25] things
+[00:04:28] so another thing about watch is they
+[00:04:31] sitting this kind of big sort of media
+[00:04:35] space of of you know broadcasting mass
+[00:04:38] media newspapers and with this project
+[00:04:41] we also wanted to look again at the
+[00:04:44] products that impact on our everyday and
+[00:04:46] the everyday is a very important place
+[00:04:48] for us so so whenever we design things
+[00:04:51] we're always designing things to be
+[00:04:56] situated within everyday life so - and I
+[00:04:59] think I see here in London we all kind
+[00:05:01] of quite aware about the media space
+[00:05:04] here and I think we're very influenced
+[00:05:06] by the newspapers and the things that
+[00:05:07] are kind of going on there and I don't
+[00:05:09] know if you remember I think it's a
+[00:05:11] British thing without our media space
+[00:05:14] but I don't know if you remember this
+[00:05:16] but when we were waiting for bird flu do
+[00:05:18] you remember when bird flu is on its way
+[00:05:20] to England and it kind of slowly crept
+[00:05:22] you know we've kind of waited three
+[00:05:24] months as it got from Asia and it came
+[00:05:26] across and then eventually got to Europe
+[00:05:29] and it came slowly slowly and then you
+[00:05:31] know one morning we woke up and we had
+[00:05:33] this kind of headline you know don't
+[00:05:37] panic with this wonderful sort of blue
+[00:05:41] virus scientific virus on the front this
+[00:05:44] is kind of the sort of world of kind of
+[00:05:46] panic that we're living in this to say
+[00:05:50] the sensationalization of media and we
+[00:05:52] love we love this kind of space it's one
+[00:05:53] that we're very interested in exploring
+[00:05:57] and we think we think this is kind of
+[00:06:00] quite a funny thing you know it's a I
+[00:06:01] when I saw this I just thought it's
+[00:06:03] fantastic and I thought I had to get the
+[00:06:06] headline but it's it's it's interesting
+[00:06:09] how in fact it does start to this fear
+[00:06:11] and ideas start to filter it into
+[00:06:14] everyday kind of everyday kind of policy
+[00:06:17] in life so my other headline that I
+[00:06:19] absolutely loved from the metro is this
+[00:06:22] one on your own in the park are you a
+[00:06:25] pervert council officials are told to
+[00:06:28] quiz anyone walking you know taking a
+[00:06:29] walk alone I mean I thought that was the
+[00:06:31] whole idea you go off into the park you
+[00:06:32] want to be on your own cuz you want to
+[00:06:34] clear your head of everything and all
+[00:06:36] this kind of chaos that's going on in
+[00:06:37] the world and you know you want to kind
+[00:06:40] of have some kind of way of thinking
+[00:06:42] you know obviously I mean the quote I
+[00:06:45] think was fantastic but a council
+[00:06:47] spokesman said we do reserve the right
+[00:06:48] to ask people what they're doing in the
+[00:06:51] park otherwise it's a free-for-all where
+[00:06:54] they can come and do what they want
+[00:06:57] no worries this is the kind of
+[00:06:58] environment with sort of slowly
+[00:07:01] infiltrating kind of into our everyday
+[00:07:03] kind of psyche and in this you know
+[00:07:04] you're sitting in front of your computer
+[00:07:07] this is this is a name of our lecture
+[00:07:10] and and you know and you do Microsoft
+[00:07:12] and this thing comes up do you want to
+[00:07:14] replace the existing normal you know yes
+[00:07:17] or no and you know it's it's almost
+[00:07:19] Microsoft has given this piece of
+[00:07:21] everyday poetry that enters into our
+[00:07:24] everyday you know world and and again
+[00:07:27] again you know what what is our sense of
+[00:07:29] normal anymore you know it's hard when
+[00:07:31] we're living in this kind of crazy media
+[00:07:36] space of ideas and things going on so so
+[00:07:38] we had to use this as a title for this
+[00:07:40] series of products who are making and in
+[00:07:42] many ways we were very concerned about
+[00:07:47] kind of the kind of media world are the
+[00:07:49] news I mean we've been through all the
+[00:07:51] war and terror and everything and we
+[00:07:54] were kind of constantly listening to you
+[00:07:57] know death and disaster on the news you
+[00:07:58] just switch it on and you just listen to
+[00:07:59] it and it becomes like this kind of
+[00:08:01] wallpaper in the background and we were
+[00:08:02] kind of concerned that that you know how
+[00:08:05] could we get any sense of any kind of
+[00:08:09] normalness or sort of kind of pace the
+[00:08:12] everyday kind of births and deaths and
+[00:08:13] life and you know it kind of fluctuates
+[00:08:16] and goes at a more in a kind of boring
+[00:08:18] way actually how can we kind of go back
+[00:08:20] to that so he wants to make an object
+[00:08:24] that sort of try to draw attention to to
+[00:08:26] this kind of whole scenario about
+[00:08:30] statistical we call it statistical clock
+[00:08:33] and it's basically the idea that it
+[00:08:36] looks onto the internet and it's looking
+[00:08:38] for various kind of deaths and it's
+[00:08:42] actually based on the BBC website this
+[00:08:45] is to actually show and check and show
+[00:08:46] what it looks like let me explain a
+[00:08:48] little bit more this is it's real
+[00:08:51] working piece of technology it's about
+[00:08:53] that big
+[00:08:55] and inside it there's all this
+[00:08:57] technology what it's doing with a
+[00:08:58] speaker in the end and it's covered with
+[00:09:02] an acoustic kind of foam piece and what
+[00:09:05] it does is it it goes onto the BBC
+[00:09:09] website and it looks for various
+[00:09:11] fatalities and we what we did with the
+[00:09:16] statistical clock is we looked at deaths
+[00:09:19] the idea is that if you're completely
+[00:09:21] panicked about sort of dying in a
+[00:09:23] curtain a plane crash or dying in a in
+[00:09:26] you know a terrorist attack or something
+[00:09:28] you're probably more likely to be honest
+[00:09:31] to die in a heart disease or some
+[00:09:33] lifestyle choice or to be honest as well
+[00:09:36] in a car crash because car crashes are
+[00:09:38] you know pretty much regular but there's
+[00:09:39] never in the news and it you know it's
+[00:09:42] hardly news that we hear so what happens
+[00:09:44] is we've got nine channels to this clock
+[00:09:46] that you can turn to there things like
+[00:09:58] stabbing because obviously stabbings in
+[00:10:00] London are very important to have those
+[00:10:02] and if you you know really paranoid
+[00:10:04] about planes
+[00:10:05] you know the idea is you turn it onto
+[00:10:07] the channel four planes and it would you
+[00:10:09] know nothing probably would happen for
+[00:10:11] like months and months and then you know
+[00:10:14] if you had it on car crashes then you
+[00:10:15] know maybe every single day you probably
+[00:10:19] hear something so this is this is the
+[00:10:20] kind of thing that we were trying to do
+[00:10:25] with this this project and each of these
+[00:10:27] projects in this existing normal
+[00:10:30] category as I say they're real products
+[00:10:32] based on real kinds of technologies and
+[00:10:35] in this one we were very interested in a
+[00:10:38] kind of airbag technology we wanted to
+[00:10:40] do this this one was based on kind of a
+[00:10:42] kind of exploding airbag and it was
+[00:10:46] based on the idea of it's sort of the
+[00:10:48] idea of in fact it's quite interesting
+[00:10:49] because the three three of us as
+[00:10:50] designers on this project and we all
+[00:10:52] have very different interpretations so
+[00:10:54] this is my interpretation of it but for
+[00:10:55] me it's very much about the idea of
+[00:10:57] participation culture that we're in and
+[00:11:00] we start kind of looking at on this all
+[00:11:02] this TV of all these news going on and
+[00:11:05] we just kind of consume it and it just
+[00:11:06] it's in the background like wallpaper
+[00:11:08] and somehow we're not involved with it
+[00:11:10] very much so this was our an opportunity
+[00:11:12] to somehow connect with some bigger
+[00:11:14] global events some massive thing that
+[00:11:16] you know bring some event into your
+[00:11:18] living room so what happens it's a
+[00:11:20] closed box on the wall and it's it's
+[00:11:22] kind of linked to the internet and it's
+[00:11:24] waiting it's waiting for its particular
+[00:11:27] statistic or level or counter to reach
+[00:11:31] to set it off and it could be the amount
+[00:11:33] of it could if you're ecologically
+[00:11:36] minded it could be about the the icepack
+[00:11:39] you know the melting of the of the
+[00:11:43] Atlantic melting of the ice or it could
+[00:11:47] be you know population growth it could
+[00:11:48] be get to a certain population and then
+[00:11:50] it would kind of explode and the idea is
+[00:11:54] it just you know suddenly it just like
+[00:11:57] an air bag pink big fills your room this
+[00:12:00] kind of big event and then slowly kind
+[00:12:03] of it's air is released and this this is
+[00:12:05] the kind of event that happens and you
+[00:12:07] can participate in these global
+[00:12:10] situations and you know how do we what
+[00:12:12] did we design it was quite interesting
+[00:12:14] so we're thinking what kinds of object
+[00:12:18] would this be and we went and three
+[00:12:21] dimensionally and we worked with a
+[00:12:24] pattern cutter to to work out how we
+[00:12:27] might make this out of fabric and it's
+[00:12:30] based on the try clinic crystal which is
+[00:12:33] apparently has no it's all it doesn't
+[00:12:36] have any ninety ninety degree angles in
+[00:12:38] any of this so so it's kind of a natural
+[00:12:40] crystal and it's almost like it's come
+[00:12:42] from another world sort of you know
+[00:12:44] pierced into the world like a parallel
+[00:12:45] world and recently I've been kind of
+[00:12:49] hanging out with a lot of scientists who
+[00:12:51] have been talking about theories about
+[00:12:53] the universe and I kind of like the idea
+[00:12:54] that this has come from one of our
+[00:12:57] parallel universes that connect with
+[00:12:59] string theory so this is our connection
+[00:13:01] to the science that that might happen
+[00:13:16] different ideas of fiction nothing we've
+[00:13:20] ever designed has been mass-produced but
+[00:13:22] we like to sort of use the language of
+[00:13:24] mass production or everyday consumerism
+[00:13:26] and it's not to trivialize things but
+[00:13:28] because that's the sort of familiar
+[00:13:31] environment that we occupy so with the
+[00:13:32] previous project although there were
+[00:13:33] prototypes we sort of liked the fact
+[00:13:35] that there's absolutely no demand or
+[00:13:36] market for them no one wants a
+[00:13:39] statistical clock so it physically
+[00:13:40] exists that physically works there's a
+[00:13:43] kind of a fiction and it's fictional
+[00:13:45] myths kind of gives rise to all sorts of
+[00:13:47] questions for us about what why we
+[00:13:49] wouldn't want such objects is there ever
+[00:13:51] a possibility to kind of live with
+[00:13:53] morbidity could we could have function a
+[00:13:54] product like that have a more
+[00:13:56] philosophical function and so on but so
+[00:13:58] one of the things we just tried to build
+[00:14:01] this stuff but make it in a way they
+[00:14:03] just doesn't fit another area that we've
+[00:14:05] been exploring recently particularly
+[00:14:06] with our students they're looking more
+[00:14:09] at how this kind of fiction or design
+[00:14:11] fiction can be applied to some of the
+[00:14:14] developments in science and this is a
+[00:14:17] example of a victimless meat from Oren
+[00:14:20] Katz an Australian artist that he grew
+[00:14:21] in a laboratory with scientists is about
+[00:14:24] three centimeters diameter and the cells
+[00:14:25] have been taken from I think in this
+[00:14:27] case a chicken and the chickens still
+[00:14:30] alive but the meat has been grown
+[00:14:32] independently of the animal and it's
+[00:14:35] quite possible that you could basically
+[00:14:38] develop artificial food in this way in a
+[00:14:39] laboratory outside of an animal's body
+[00:14:41] and this was presented at the conference
+[00:14:43] a few years ago in France so it was
+[00:14:45] really really important for me I saw
+[00:14:47] this those amazing it was impressive it
+[00:14:49] was real but somehow it was completely
+[00:14:51] devoid of context and I started the
+[00:14:53] wonder how designers might engage with
+[00:14:57] this sort of technology and I think we
+[00:14:59] wonder how much it would cost where it
+[00:15:01] would come from where you could eat it
+[00:15:03] if nothing's harmed maybe you could eat
+[00:15:06] yourself or you could eat film stars or
+[00:15:08] politicians and if you were eating
+[00:15:09] people would you be doing it out of
+[00:15:11] malice or out of love and I think that
+[00:15:12] what's interesting about design is it
+[00:15:14] kind of brings these technological
+[00:15:16] developments into a much more messy
+[00:15:19] everyday context and allows us to kind
+[00:15:22] of explore more kind of down-to-earth
+[00:15:25] implications so we set a project for our
+[00:15:25] students
+[00:15:29] looking at maybe different applications
+[00:15:31] of this looking basically at
+[00:15:33] applications for in vitro Meads I'm just
+[00:15:35] going to show one of the examples from
+[00:15:37] James King and the first video sets out
+[00:15:38] what he was trying to address in that
+[00:15:46] project the meat of tomorrow will be a
+[00:15:49] succulent and tender as that of today it
+[00:15:51] will be more efficiently produced to a
+[00:15:54] higher quality assuming that there are
+[00:15:56] no unforeseen biological side-effects
+[00:15:58] meat grown without the expense and
+[00:16:00] cruelty of livestock farming will become
+[00:16:03] the normal everyday thing but we should
+[00:16:05] look closer and ask the question what
+[00:16:10] would be different about this meat for
+[00:16:13] one thing what size will it be family
+[00:16:16] sized if so a large family or a small
+[00:16:19] one what shape will it be will we buy it
+[00:16:23] in circles squares cylinders cubes
+[00:16:25] perhaps new shapes more suitable for
+[00:16:29] even cooking will be devised surely the
+[00:16:31] lamb chop with this awkward form which
+[00:16:33] is difficult enough to eat let alone
+[00:16:36] grow in vitro would cease to exist
+[00:16:38] whatever the answer to these questions
+[00:16:41] the whole process from production to
+[00:16:43] consumption will more than likely become
+[00:16:45] highly abstract and arbitrary no longer
+[00:16:47] bound by the size and shape of any
+[00:16:50] animal but will there be anything to
+[00:16:52] remind us what this stuff is or at least
+[00:16:57] what it used to be James wanted to
+[00:16:58] literally come up with a language for
+[00:17:00] this sort of needs and use that as a
+[00:17:02] basis for discussion about whether it's
+[00:17:04] worth embracing this technology or not
+[00:17:08] and in his scenario the last chicken the
+[00:17:10] last cow the last Pig would be scanned
+[00:17:12] and its internal organs would be used as
+[00:17:14] a reference point to build up vocabulary
+[00:17:15] and he ended up with a whole range of
+[00:17:17] different stakes of the future
+[00:17:19] referencing those internal organs now
+[00:17:20] for a lot of people this still isn't
+[00:17:22] very appetizing but I think it's it's
+[00:17:25] more appetizing than the first slide and
+[00:17:27] when people see the first slide they
+[00:17:29] kind of completely reject the
+[00:17:31] technological possibilities that that
+[00:17:33] artificial meat brings with us whereas
+[00:17:35] at least by kind of exploring the
+[00:17:37] cultural aspects of it that opens up a
+[00:17:38] difference for the perspective people
+[00:17:38] start
+[00:17:41] to think about well maybe it does make
+[00:17:43] sense to stop farming maybe vegetarians
+[00:17:44] could beat this meat and I think it's a
+[00:17:47] very basic level but it's a kind of one
+[00:17:50] that design can start to open up a
+[00:17:51] different sort of discussion and what
+[00:17:52] the implications of a particular
+[00:17:54] technology are rather than just its
+[00:17:58] applications with them some of the other
+[00:17:59] projects they tend to be a little bit
+[00:18:03] more futuristic I guess I'm this one by
+[00:18:07] michael burton was looking at how at the
+[00:18:09] moment we're becoming more and more
+[00:18:11] detached from nature how that's having
+[00:18:13] an impact on different healthcare
+[00:18:14] treatments and ideas and philosophies
+[00:18:17] for instance superbugs and hospitals
+[00:18:18] have become so strong and able to
+[00:18:20] overpower around chemicals and drugs
+[00:18:22] that even going to hospitals become
+[00:18:25] quite dangerous so he looked at it in a
+[00:18:26] number of different term stages the
+[00:18:29] first was a more kind of today like
+[00:18:32] scenario if we could just maggots for
+[00:18:34] example in leeches are an extremely
+[00:18:36] efficient way of treating wounds but for
+[00:18:38] most people are absolutely disgusting so
+[00:18:40] one part of this project was trying to
+[00:18:42] represent these in a much more kind of
+[00:18:45] acceptable way and take away the sense
+[00:18:48] of horror in the more future near future
+[00:18:50] scenario imagined biophilia clinic
+[00:18:52] clinics where people would go and expose
+[00:18:54] themselves to dust and dander of pets
+[00:18:57] and animals the mask on the right for
+[00:18:59] example was made up of bird seeds and
+[00:19:01] he's still from a video where he was
+[00:19:02] laying down in the yard and the birds
+[00:19:05] were landing on his face and exchanging
+[00:19:07] their saliva and dirt with his mouth and
+[00:19:10] nostrils and so on and there are other
+[00:19:13] experiments looking at how these amazing
+[00:19:15] straw masks where cows were encouraged
+[00:19:18] to lick this hole in the center and
+[00:19:19] eventually their tongue would go in and
+[00:19:21] kind of meet with the person's face and
+[00:19:23] exchange saliva so it's kind of rather
+[00:19:24] than going to the zoo and petting
+[00:19:26] animals which happens today you go to
+[00:19:29] expose yourself to some of their germs
+[00:19:31] in the more extreme scenario he was
+[00:19:33] imagining well maybe out there we let
+[00:19:36] our bodies go in a way and the funguses
+[00:19:38] and things like that are already we
+[00:19:40] prevent on our bodies a harvest
+[00:19:43] harvested and they become sort of our
+[00:19:44] bodies become factories before producing
+[00:19:47] chemicals and maybe in this case in this
+[00:19:49] film this woman has
+[00:19:52] self up to a company where they're
+[00:19:53] coming around checking our body growing
+[00:19:56] different fungus and that's her kind of
+[00:19:59] choice basically her way of living in
+[00:20:02] the far far kind of future scenario he's
+[00:20:04] imagining that maybe genes are
+[00:20:06] reactivated course here as it's grown in
+[00:20:08] our bodies they become cages for animals
+[00:20:11] and somehow we celebrate our bodies as
+[00:20:14] ecosystems again visually through
+[00:20:16] incorporating insects onto our bodies
+[00:20:18] but also invisibly by letting bacteria
+[00:20:20] and other things that we currently fight
+[00:20:25] sort of inhabit our bodies so they type
+[00:20:27] up I think one of the things we're
+[00:20:28] trying to do with these sorts of
+[00:20:31] projects is look at how we can take
+[00:20:33] certain developments in science and
+[00:20:36] medicine and so and not necessarily find
+[00:20:38] a practical application which is really
+[00:20:40] what the assumption is for designers but
+[00:20:42] start to fast forward a little bit and
+[00:20:44] say well if it did become part of
+[00:20:45] everyday life what would the
+[00:20:47] implications be and then to have a
+[00:20:49] discussion around that using a very
+[00:20:52] accessible sort of language of design to
+[00:20:53] feed back into the research that's been
+[00:20:56] done in in the scientific field in this
+[00:21:00] case Susanna was looking at research
+[00:21:02] being done in the military where bees
+[00:21:04] have been trained to sniff out chemical
+[00:21:06] traces for explosives and they're held
+[00:21:08] in these little devices and the
+[00:21:09] chemicals are passed over them it's very
+[00:21:11] quick it just takes a few minutes to
+[00:21:13] program them they're being used as
+[00:21:16] biosensors which she discovered that
+[00:21:18] they can also be used to smell and the
+[00:21:20] trace has given off by animals sorry by
+[00:21:25] illnesses as well and so one of her
+[00:21:28] proposals was to have this diagnostic
+[00:21:29] device where bees will be trained to
+[00:21:31] pick up the traces from particular
+[00:21:34] illnesses released into their dish you'd
+[00:21:36] breathe into the smaller chamber and
+[00:21:38] then they fly into that if they detect
+[00:21:41] the presence of those chemicals it's not
+[00:21:43] meant to replace some traditional
+[00:21:46] medical diagnosis but to simply suggest
+[00:21:48] that maybe we could reconsider the way
+[00:21:50] we relate to the kind of insect world in
+[00:21:52] particular and start to look at other
+[00:21:55] ways of kind of other alternatives to
+[00:21:56] the kind of very intrusive medical
+[00:22:05] one of the other areas that we've been
+[00:22:11] trying to look at is on projects kind of
+[00:22:13] looking at um I guess nanotechnologies
+[00:22:16] with the biotechnology stuff at least is
+[00:22:18] tangible there's something to work with
+[00:22:20] it's the body its tissue there's
+[00:22:22] something to shape and sculpt and the
+[00:22:24] emphasis tends to be much more on the
+[00:22:26] ethical aspects of it the kind of idea
+[00:22:28] of future good and future on when we do
+[00:22:30] projects about em nanotechnology becomes
+[00:22:32] extremely abstract there literally is
+[00:22:36] nothing to shape or conform to so in
+[00:22:39] this project Chris Walken was interested
+[00:22:40] in not necessarily designing a nano
+[00:22:43] product as such with taking one of their
+[00:22:46] desires of nanotech to basically have
+[00:22:48] self-organizing objects made up of tiny
+[00:22:51] parts that communicate and see how our
+[00:22:53] interactions with the material worlds
+[00:22:55] might change so rather than thinking of
+[00:22:57] the kind of gray goo scenario in a
+[00:22:59] dystopic vision or the banality that we
+[00:23:01] have at the moment of stain proof
+[00:23:03] trousers to try and map out a space in
+[00:23:05] between so we made this short video to
+[00:23:07] sort of evoke what those relationships
+[00:24:32] I mean I think one of the things that's
+[00:24:34] quite difficult about this work is where
+[00:24:36] you situate it it's it's not the present
+[00:24:38] it's not necessarily the future it's
+[00:24:41] just a kind of an elsewhere I think one
+[00:24:42] of the things I like about that video is
+[00:24:45] sort of freezing the clothes the setting
+[00:24:46] the lights the furniture and just
+[00:24:48] pushing one part forward so it ends up
+[00:24:50] in a sort of an on place really just a
+[00:24:58] space to explore an idea I just wanted
+[00:25:01] to put these two more little projects
+[00:25:02] that the two from our students which
+[00:25:04] kind of go into the idea of genetic
+[00:25:06] modification and and following a
+[00:25:07] different way in which genetic
+[00:25:10] modification might occur and putting it
+[00:25:12] in an area of maybe sustainability so
+[00:25:15] Mitch Chico Nita did a whole project
+[00:25:17] about extreme green gorillas where she
+[00:25:19] thought you know in the end if we're
+[00:25:20] going to be really serious about
+[00:25:22] sustainability maybe we have to think
+[00:25:25] some very serious sort of alternatives
+[00:25:28] so here's she what she did was she kind
+[00:25:30] of looked at vermin so you know in
+[00:25:32] London win no more than was it two
+[00:25:34] meters away from a rat or and it's kind
+[00:25:36] of all these pigeons flying around she
+[00:25:38] thought well this is a great kind of
+[00:25:40] source of meat but of course we don't
+[00:25:42] want to eat those kinds of things so she
+[00:25:44] was looking at the idea of well maybe we
+[00:25:47] be kind of genetically modify them with
+[00:25:49] mixed breeds together so something like
+[00:25:53] gourmet food like a quail mix with a
+[00:25:55] pigeon it might be something a bit more
+[00:25:58] appetizing or I think she met mixed a
+[00:26:01] rat a rabbit with a rabbit with a rat to
+[00:26:03] create another kind of creature that
+[00:26:04] might be again a little bit more
+[00:26:08] digestible and in really and she kind of
+[00:26:13] worked out the amount of co2 emissions
+[00:26:15] that will be saved in this kind of
+[00:26:17] process and the two different breakfasts
+[00:26:21] and and Susanna actually she's now doing
+[00:26:23] a project material beliefs and her
+[00:26:27] latest project which I absolutely love
+[00:26:28] and really kind of puts this to the test
+[00:26:31] and in sort of tests our lifestyle
+[00:26:33] choices and how committed are we to
+[00:26:34] these kinds of things and you know maybe
+[00:26:37] but usually again with genetic model
+[00:26:39] it's about making us more intelligent or
+[00:26:41] or making us stronger and faster but
+[00:26:44] here it's the idea basically this is the
+[00:26:46] vegetarian tooth
+[00:26:48] maybe we genetically modify our teeth to
+[00:26:51] be you know only take kind of vegetarian
+[00:26:55] food so so I'm going to talk just a
+[00:26:57] little bit about a project of ours that
+[00:27:01] we did looking at how we might position
+[00:27:04] design in an area where we might use it
+[00:27:07] to stimulate discussion from people as a
+[00:27:09] tool to generate other people's ideas
+[00:27:11] and and have a conversation with people
+[00:27:15] and it was sparked off by Craig Ben
+[00:27:17] if I'm actually quite a long time ago
+[00:27:20] although it says 2004 2005 we actually
+[00:27:22] were doing it back in 2001 and at that
+[00:27:24] time it was when the genome was kind of
+[00:27:26] being kind of worked out and there were
+[00:27:28] lots and lots of scientific claims going
+[00:27:33] on what was nice was that craig Venter
+[00:27:37] had his own business and every week they
+[00:27:39] seemed to be finding a new kind of gene
+[00:27:42] and they were sort of saying that if you
+[00:27:44] if you've if you can find that gene in
+[00:27:46] your genome this particular ones it
+[00:27:48] might mean that you might die of that
+[00:27:51] disease we know that that's kind of not
+[00:27:53] quite the - now that's all kind of
+[00:27:54] change now and but at the time he was
+[00:27:56] offering and I thought this was quite
+[00:27:58] nice so it was a nice touch that when
+[00:28:00] you send your sample of your DNA he
+[00:28:02] would return you you know after four
+[00:28:03] hundred thousand pounds you get a CD
+[00:28:06] with other potential illnesses you might
+[00:28:08] die off and this sparked us to really
+[00:28:11] think about what does it mean if you get
+[00:28:13] that kind of information in advance how
+[00:28:15] am I to make you think very differently
+[00:28:17] about the way in which you you you know
+[00:28:19] things might happen in your everyday
+[00:28:22] life so we invented a kind of product to
+[00:28:26] sort of just start debating this idea
+[00:28:28] and it was a product that was based on
+[00:28:31] kind of young woman's Sex and the City
+[00:28:33] generation of young women who are out to
+[00:28:36] kind of in the mating game looking for a
+[00:28:38] potential partner of the future would if
+[00:28:40] they had information about their future
+[00:28:42] health would they actually start to
+[00:28:44] choose differently or would that you
+[00:28:45] know what would happen in that situation
+[00:28:47] and put people in that that situation of
+[00:28:50] thinking so this was our doll
+[00:28:53] a little plastic white doll it has a
+[00:28:55] flat face on it and the idea is with
+[00:28:57] each love for that you might have
+[00:28:58] because in the future and say it's not
+[00:29:02] about good looks status or income the
+[00:29:04] future for these young women are going
+[00:29:07] to be about genetic kind of material and
+[00:29:09] so here we have it that we have a flat
+[00:29:11] face and the idea is you steal a picture
+[00:29:13] from your lover which you get we print
+[00:29:16] on to the face and then we give there's
+[00:29:19] a kind of black marker pen and you you
+[00:29:21] write any kind of notes and things on
+[00:29:22] the dole about the appearance of that
+[00:29:24] your particular lover and what you you
+[00:29:26] know like or dislike about his body and
+[00:29:27] things like that and then we've got
+[00:29:29] little three little penis drawers and
+[00:29:31] small medium and large and this has been
+[00:29:33] most important thing where you steal a
+[00:29:36] piece of you know like a toenail or a
+[00:29:38] some piece of saliva or a piece of
+[00:29:40] sample of hair or something like that
+[00:29:42] and then that's the bit that goes off to
+[00:29:44] the lab and gets tested so this was the
+[00:29:46] scenario we were kind of basing it on
+[00:29:48] and it was at the time there was lots of
+[00:29:49] things in the press actually too many
+[00:29:51] things I only kind of picked out one but
+[00:29:52] at the time there was just wonderful
+[00:29:54] thing in the press that was about
+[00:29:56] Elizabeth Hurley and she was pregnant
+[00:29:59] and being she said that Bing was the
+[00:30:01] father of her child and being a who's a
+[00:30:03] billionaire said no no no it's not my
+[00:30:06] child at all so she hired as a detective
+[00:30:09] who went into his rubbish and that the
+[00:30:10] detective found a piece of dental floss
+[00:30:13] and on the dental floss was you know
+[00:30:14] obviously his saliva that she then got
+[00:30:16] tested and it proved that actually he
+[00:30:19] was the father of her child so this is
+[00:30:21] not science fiction this is kind of real
+[00:30:24] sort of there's a real possibility here
+[00:30:26] so you know he and there's a few stories
+[00:30:28] that Boris Becker and other ones as well
+[00:30:30] and so he kind of used those to pitch to
+[00:30:33] sort of put this scenario within a kind
+[00:30:35] of real context of what was happening um
+[00:30:37] and what we did was it was for a
+[00:30:40] commission at the Pompidou Center and we
+[00:30:43] made we made a hundred dolls and the
+[00:30:46] idea was that most of them would we put
+[00:30:49] kind of we I think we made fifty or
+[00:30:51] sixty that went on the shelves as kind
+[00:30:53] of untouched dolls and they were almost
+[00:30:54] like they were in a supermarket you'd
+[00:30:57] pick up and take away and kind of use
+[00:30:59] and then what we did was we interviewed
+[00:31:00] four women
+[00:31:02] and we asked them to reassess
+[00:31:04] past lovers based on their genetic
+[00:31:06] potential rather than how cute they were
+[00:31:09] or anything like that so to reevaluate
+[00:31:11] them and to rethink about and to ask
+[00:31:14] various questions and then what we did
+[00:31:16] was we these are some of the girls who
+[00:31:18] worked with applique who are
+[00:31:20] illustrators and graphic designers to
+[00:31:22] help us illustrate illustrate some of
+[00:31:24] the stories that were coming back from
+[00:31:25] the interviews that we made with the
+[00:31:27] women so these are the kind of dolls and
+[00:31:32] the different illustrations this was a
+[00:31:33] philosopher with I think with
+[00:31:36] bad-tasting cardigans and we also
+[00:31:38] allowed certain fantasy figures because
+[00:31:40] again in the newspaper there was all
+[00:31:42] worries about I think it was George Bush
+[00:31:44] had drank from a beer glass somewhere
+[00:31:46] and someone kind of took the beer glass
+[00:31:47] and you know obviously the survivors on
+[00:31:50] the on the cup and so we've sort of
+[00:31:53] added sort of celebrities in the mix
+[00:31:54] that perhaps you could fantasize about
+[00:31:56] those as well as perhaps being you know
+[00:32:00] part of that equation so that this was a
+[00:32:02] man with no heart to his hearts kind of
+[00:32:04] disappeared there but and then we had it
+[00:32:07] we had each one we had each doll with
+[00:32:09] interviews and we kind of showed them so
+[00:32:11] these are some of the feedback we got
+[00:32:14] from the ladies so one of them said I
+[00:32:17] would go and get the DNA stuff tested
+[00:32:18] there's something romantic about
+[00:32:19] collecting a hair sample it's like
+[00:32:21] putting a curl of someone's hair in a
+[00:32:23] locket there's something lovely about
+[00:32:24] that um you know we thought we'd made
+[00:32:27] this very cynical project you know quite
+[00:32:30] awful and yet what's really lovely gives
+[00:32:32] you always hope that people always make
+[00:32:35] things very hopeful and but for them it
+[00:32:37] was more like they became like sort of
+[00:32:39] three-dimensional Diaries of their
+[00:32:40] lovers and something they could keep and
+[00:32:42] cherish which is not what we could have
+[00:32:44] intended but that's what's lovely about
+[00:32:46] doing these kinds of things
+[00:32:49] another lady said to us I find it quite
+[00:32:51] difficult messing with nature but if you
+[00:32:53] could sample the best of this one and
+[00:32:55] that one and put them together is it
+[00:32:58] tempting fate it's incredibly selfish to
+[00:32:59] want the best and not be happy with what
+[00:33:02] nature gives you but if you can do that
+[00:33:04] why not and I think all the way through
+[00:33:06] the interviews that we had there was
+[00:33:09] this constant contradictory positions
+[00:33:11] that they had and that was really really
+[00:33:13] nice because at one stage they were very
+[00:33:15] for the idea of collecting
+[00:33:17] and against it and and the idea that
+[00:33:19] they thought that if they could you know
+[00:33:20] they wouldn't touch with nature or they
+[00:33:22] wouldn't damage anything but if they had
+[00:33:23] the chance to if it was cheap enough of
+[00:33:25] course they would and I think this
+[00:33:27] positioning within the consumer world of
+[00:33:30] certain choices this is where our real
+[00:33:33] kind of what it really happens in that
+[00:33:34] consumer world
+[00:33:36] we're not the citizen we are the
+[00:33:39] consumer and what we believe in just
+[00:33:42] goes completely out the window and again
+[00:33:45] we've again very interesting another
+[00:33:47] lady said to us and I can totally
+[00:33:49] imagine I would buy the dole in Ann
+[00:33:50] Summers next to the vibrators two
+[00:33:53] shelves along and also the in boots a
+[00:33:54] more technical one that kept at a
+[00:33:56] constant temperature really storing
+[00:33:58] important stuff in there so with this we
+[00:34:00] were also exploring how the ladies sort
+[00:34:02] of brought these things in tibet their
+[00:34:04] everyday life and what it would mean so
+[00:34:06] here I thought this was quite nice
+[00:34:09] because lady number three said to us
+[00:34:10] well when were in our 20s will all be
+[00:34:13] giggling in our bedrooms and and we'd be
+[00:34:15] drinking wine and it'll be fun she said
+[00:34:17] when I get into my 30s I want to make
+[00:34:18] out of stainless steel
+[00:34:20] I want a refrigerator and I wanted to
+[00:34:22] you know be really working as well as it
+[00:34:24] could so you know she was kind of an
+[00:34:27] elaborating on her on our story and this
+[00:34:29] one was quite curious it might sound
+[00:34:31] funny but it's the little things that
+[00:34:33] make the person what they are make them
+[00:34:35] individual if you start to manipulate
+[00:34:36] genes and things that's scary everything
+[00:34:39] might become bland the human is more
+[00:34:40] important than the genetics and then she
+[00:34:42] adds this very strange kind of last line
+[00:34:44] I would like to clone this lover as a
+[00:34:46] dog and I think this sounds a bit odd
+[00:34:49] but to be honest the more that we look
+[00:34:51] at DNA and what happens to our DNA it's
+[00:34:53] incredible how people want to have this
+[00:34:57] desire to put their DNA into things and
+[00:34:58] in this scenario she you know there's a
+[00:35:00] part of her lover that she actually like
+[00:35:02] but she not she liked him really you
+[00:35:03] know she'd rather have a dog to keep the
+[00:35:05] bits that she liked in it and that's the
+[00:35:07] thing that she would love and you know I
+[00:35:09] don't know if we left to our own desires
+[00:35:11] what kinds of world we're gonna have
+[00:35:13] it's gonna be quite quite interesting
+[00:35:15] and the last one of the slide that I
+[00:35:17] think this is this is kind of really key
+[00:35:19] for us you know this lady said to us
+[00:35:21] everything comes 10 years later usually
+[00:35:23] the general public know about at the
+[00:35:24] last moment when everything falls apart
+[00:35:26] it's too late you can't do anything
+[00:35:28] about it anymore because it's already
+[00:35:30] I think could being kept in ignorance
+[00:35:32] and I think in many ways you know this
+[00:35:35] is exactly the point if we you know we
+[00:35:37] need to discuss as many different
+[00:35:39] scenarios as possible and you know the
+[00:35:41] good ones the bad ones the undesirable
+[00:35:45] ones and and to discuss them before they
+[00:35:47] happen rather than suddenly being landed
+[00:35:48] with a future that we've never been
+[00:35:50] consulted about I mean and we kind of
+[00:35:52] feel a little bit like that all of this
+[00:35:53] stuff is happening in labs and isn't
+[00:35:55] it's very little kind of discussion
+[00:35:57] going on of what it actually means it's
+[00:36:12] that's where we can present it and get
+[00:36:13] some feedback or some discussion going
+[00:36:15] but obviously it's quite limited
+[00:36:18] although more and more that's one
+[00:36:20] designed the elastic mind where some of
+[00:36:21] our work and our students were shown at
+[00:36:23] MoMA last year there was something like
+[00:36:25] 600,000 people visited it so it's almost
+[00:36:29] becoming a mass medium in itself but we
+[00:36:31] also work at places like science museums
+[00:36:32] and this project was one we did a few
+[00:36:35] years ago for their new energy gallery
+[00:36:37] and they asked us to design an
+[00:36:39] interactive along with 15 other
+[00:36:41] designers an artist and we really didn't
+[00:36:43] want to do that but something felt wrong
+[00:36:45] about making a energy consuming
+[00:36:47] interactive for an energy gallery and
+[00:36:50] something better also they tend to kind
+[00:36:51] of lead you through a set of questions
+[00:36:54] and reward you on the way or discourage
+[00:36:55] you for making another choice and so on
+[00:36:58] so we proposed them that we'd sort of
+[00:37:00] take a traditional model and present a
+[00:37:03] series of artifacts for them but maybe
+[00:37:05] speculate on on you know can reverse
+[00:37:07] anthropology something from the future
+[00:37:10] presented I mean between that they could
+[00:37:13] visitors could engage with the audience
+[00:37:16] were children between seven and fourteen
+[00:37:19] and the issues they were trying to get
+[00:37:21] across are extremely complex they wants
+[00:37:22] to look at in our case they also look at
+[00:37:24] different energy futures if one
+[00:37:26] particular energy became the dominant
+[00:37:29] form what might the impact of that be on
+[00:37:31] people's lives so it's quite interesting
+[00:37:34] we had to simplify it dramatically in
+[00:37:35] order to get the message across there's
+[00:37:37] quite an interesting process to go
+[00:37:39] through I mean we started with the most
+[00:37:41] obvious one and a hydrogen future
+[00:37:43] and we had read about Joe Jeremy
+[00:37:45] Rifkin's ideas of everybody becoming a
+[00:37:48] producer that each home could produce
+[00:37:50] its own hydrogen and sell surplus and
+[00:37:53] being in England I guess we looked at
+[00:37:55] how people become obsessed with their
+[00:37:58] property values and maximizing those and
+[00:38:00] optimizing those and maybe the families
+[00:38:01] would also become obsessed about
+[00:38:03] producing hydrogen and they've become
+[00:38:06] little corporations so in this case the
+[00:38:09] family have their own uniform the girl
+[00:38:10] is part of the kind of work force their
+[00:38:14] cat is a mobile advertising unit and it
+[00:38:16] was aimed at kids so we're trying well
+[00:38:17] what would what would get the children
+[00:38:19] thinking about the implications of
+[00:38:22] hydrogen it's not just about super fast
+[00:38:24] and sports cars not damaging the
+[00:38:26] environment but there might be economic
+[00:38:29] implications so when she has her eighth
+[00:38:32] birthday she basically gets a contract
+[00:38:34] and she has to produce a certain amount
+[00:38:36] of home hydrogen every week in order to
+[00:38:39] get her pocket money and we were talking
+[00:38:40] to look we don't have children we were
+[00:38:41] talking to lots of people about how are
+[00:38:42] we going to connect your children and
+[00:38:44] pocket money came up so often and so
+[00:38:47] first this became the kind of link to an
+[00:38:50] economic implication of an energy future
+[00:38:52] that they might not think about and we
+[00:38:54] also wanted to think about how children
+[00:38:56] might end up in sort of enforced child
+[00:39:00] labour again but through a side door it
+[00:39:01] doesn't feel like that they're just
+[00:39:02] helping their parents out they might go
+[00:39:05] back to Victorian times so even her
+[00:39:06] dressin becomes a sort of cross between
+[00:39:12] a UPS work suit and Victorian dress and
+[00:39:13] that's the cylinder she'd have to fill
+[00:39:18] up and we also we kind of that was a
+[00:39:20] kind of standard one it was just trying
+[00:39:21] to can we get children to think about
+[00:39:24] economics in relation to hydrogen with
+[00:39:27] this one it was based on using human
+[00:39:30] waste or poo record it because it's
+[00:39:33] aimed at children too basically if that
+[00:39:34] became the dominant form of energy and
+[00:39:36] we'd read about it in cradle to cradle
+[00:39:38] how in parts of rural China and this
+[00:39:40] could be wrong but this is what the
+[00:39:43] story was that sometimes after eating
+[00:39:45] being invited round to a meal people
+[00:39:47] with basically go to the toilet and
+[00:39:49] their waste would be left behind and
+[00:39:50] kind of recycled into the land
+[00:39:52] the nutrients that weren't taken into
+[00:39:55] their body would be given back and in
+[00:39:57] this scene this girl is basically
+[00:39:59] handing over a bag of poo to their
+[00:40:00] mother after their Christmas after their
+[00:40:02] birthday party there's a load of other
+[00:40:04] little bags lying on the table we wanted
+[00:40:06] children to think about if a shift
+[00:40:08] happened like this where human waste
+[00:40:10] became the main form of energy and
+[00:40:12] already were using kind of animal waste
+[00:40:15] as a huge empty canoe plant just outside
+[00:40:15] London
+[00:40:18] maybe cultural shifts would change is
+[00:40:20] something that's absolutely disgusting
+[00:40:22] now becomes acceptable so it's quite a
+[00:40:23] simple thing that was just interesting
+[00:40:25] for us to think about how you get that
+[00:40:28] across to kids so you know the toilet
+[00:40:30] might become disconnected from the
+[00:40:32] sewage system you're not going to flush
+[00:40:34] away something valuable so you might
+[00:40:35] actually all sit together watching telly
+[00:40:37] on stools going to the toilet and
+[00:40:38] collecting it
+[00:40:42] and when you go to school you're going
+[00:40:46] to leave it there so it's kind of it's a
+[00:40:49] little bit jerky but it's you know it's
+[00:40:50] it's quite interesting to think how do
+[00:40:54] you link quite big ideas about politics
+[00:40:56] economics and so on and culture and
+[00:40:59] technological changes you know to a
+[00:41:02] group of school kids and the last one
+[00:41:03] which is a bit more extreme is based on
+[00:41:07] this is a ghast robot it's a robot that
+[00:41:10] basically breaks down meat to generate
+[00:41:11] energy in a microbial fuel cell and
+[00:41:12] they're being developed in different
+[00:41:14] universities around the world there's
+[00:41:17] one in Bristol that feeds off slugs and
+[00:41:20] they're meant to be for probes and
+[00:41:21] things they'd be dropped off in deserts
+[00:41:23] not deserts but jungles and other remote
+[00:41:25] places and they'd be able to sort of
+[00:41:26] process the environment around and break
+[00:41:29] that down and continue to function and
+[00:41:31] there are other micro robots that have
+[00:41:33] been developed to power themselves off
+[00:41:36] of blood so that pacemakers now the
+[00:41:38] medical devices can be permanently
+[00:41:40] inserted inside the body and so we
+[00:41:43] thought well what about if organic
+[00:41:45] material became the energy source of the
+[00:41:47] future what might the implications would
+[00:41:49] that be so hi Jim it was economics and
+[00:41:52] they're human waste it was um culture
+[00:41:53] and with this one we thought well maybe
+[00:41:55] we could try and get an ethical angle
+[00:41:58] going so in this scenario this kid is
+[00:42:00] I'm dropping him a mouse into the
+[00:42:02] television and we want two children
+[00:42:03] think well what if we know we exploit
+[00:42:04] animals and all
+[00:42:06] sorts of ways today could a child
+[00:42:08] imagine exploiting their pets as a
+[00:42:13] source of energy in the future maybe
+[00:42:16] blood would be used to power in this
+[00:42:18] case a radio and we want something where
+[00:42:19] would this blood come from would you
+[00:42:21] give your own blood to maybe get a
+[00:42:24] subscription or reduced-price with the
+[00:42:26] blood come from developing countries we
+[00:42:28] continue our exploitation or will it
+[00:42:29] come from students who are trying to
+[00:42:33] make some money and survive and it was
+[00:42:34] to try and say the blood just stands in
+[00:42:37] for a new energy source and in this case
+[00:42:38] it's obvious though if the energy source
+[00:42:41] is and comes from living beings there's
+[00:42:44] some kind of ethical aspect to that we
+[00:42:45] want them to try and make the connection
+[00:42:47] there are all sorts of energy sources of
+[00:42:49] ethical aspects that they need to be
+[00:42:52] aware of that and there was a book then
+[00:42:54] - it's called animals for energy
+[00:42:56] avoiding emotional attachment to animals
+[00:42:58] purchased for use as energy who wants
+[00:43:00] the children at this moment to look up
+[00:43:02] at their parents and realize well there
+[00:43:04] they were born into this world but the
+[00:43:05] parents would have to go through some
+[00:43:08] wee education in order to adopt to that
+[00:43:12] situation so it was some quite
+[00:43:13] straightforward there's actually very
+[00:43:15] successful although at first kids would
+[00:43:17] rush into the gallery and we've passed
+[00:43:19] this exhibit and play with the computers
+[00:43:22] after a while they can't drift about and
+[00:43:24] if they were with teachers or parents it
+[00:43:25] became a very interesting way of
+[00:43:28] accessing these issues from all sorts of
+[00:43:29] different points they might pick up on
+[00:43:30] an object or the clothing or a
+[00:43:33] photograph and since then the science
+[00:43:36] museum has them used this method they
+[00:43:37] call it speculative products in other
+[00:43:39] exhibitions to try and create more
+[00:43:42] reflective zones where people can
+[00:43:44] actually see potential implications
+[00:43:46] manifested in products as one way of
+[00:43:49] imagining different futures so it's kind
+[00:43:52] of for us a much more accessible and
+[00:43:56] applied way of working and with some of
+[00:43:57] the other stuff that we do as a way of
+[00:43:59] basically as a form of research for
+[00:44:03] ourselves just going to mention one more
+[00:44:07] project let's take a drink
+[00:44:10] this was one again we did a couple of
+[00:44:13] years ago for amma commission for an art
+[00:44:16] center in Hasselt and they asked us to
+[00:44:19] basically just do a project to sit in
+[00:44:21] amongst we were showing six other of our
+[00:44:24] previous projects to do something new it
+[00:44:25] was a very very low budget and it was
+[00:44:28] only a couple of months to do it so we
+[00:44:29] were very interested in robots and
+[00:44:31] something we would be fascinated for
+[00:44:33] years but never actually done anything
+[00:44:34] with and started to look around and
+[00:44:35] realize there aren't actually many
+[00:44:39] designed robots as such there are hyper
+[00:44:41] functional industrial robots mono
+[00:44:43] functional robots as abstract and
+[00:44:45] networked automatic systems even once
+[00:44:47] for parking cars and guiding your car
+[00:44:50] there's art robots there's all sorts of
+[00:44:53] technical robots but ultimately the
+[00:44:55] destination for robots is to be in our
+[00:44:57] home in a lot of cases or at least
+[00:44:59] that's the historian in some of the
+[00:45:01] research labs we never see what those
+[00:45:03] robots would be like so in this project
+[00:45:06] we wanted to sketch out four different
+[00:45:08] possible relationships between robots
+[00:45:10] and just kind of leave it there as
+[00:45:12] something to talk about and explore
+[00:45:16] further so it was um we had a little
+[00:45:17] room where we could put the object and
+[00:45:19] then we commissioned a video from know'm
+[00:45:22] Tehran to sit with these objects and not
+[00:45:24] exactly explain how they work but just
+[00:45:26] give some hints and clues about how you
+[00:45:29] might interact with them playing some of
+[00:45:32] the video and just talk over it explain
+[00:45:35] a bit so in their video she was some
+[00:45:37] life-size and she kind of moved towards
+[00:45:38] the room and back and she was you know
+[00:45:39] the objects were here and
+[00:45:41] non-functioning and then in her space
+[00:45:43] these objects had their own life it's
+[00:45:45] something we're quite interested in with
+[00:45:46] nearly all our projects is how you
+[00:45:48] manage this relationship between the
+[00:45:50] fictional space and the space URI and
+[00:45:52] whether it's by making prototypes that
+[00:45:54] belong somewhere else or literally
+[00:45:56] portraying another space in the same
+[00:45:56] room
+[00:46:31] basically each of the objects is just a
+[00:46:34] kind of a placeholder and the red ring
+[00:46:37] does something very smart we don't know
+[00:46:39] exactly what it lives with her in the
+[00:46:41] house and we're interested in this case
+[00:46:43] of a sort of cohabitation there rather
+[00:46:45] than the technology disappearing into
+[00:46:47] the fabric of the home or becoming some
+[00:46:51] kind of cute and robotic cohabitant it
+[00:46:53] just lives there with you like a
+[00:46:53] flatmate
+[00:46:56] in this case its positions itself away
+[00:46:58] from potentially harmful electromagnetic
+[00:47:01] fields and sits in the karmis part of
+[00:47:03] the room and because it's a ring you can
+[00:47:05] choose to sit in that space so the only
+[00:47:07] point of contact you have is that you
+[00:47:09] can enjoy the fact it knows where the
+[00:47:11] kind of purest part of the room is and
+[00:47:13] sit there there's no functional
+[00:47:14] interaction you don't even know what it
+[00:47:16] does it could be controlling the climate
+[00:47:18] or it could be controlling your your own
+[00:47:28] other areas of Technology and data well
+[00:47:30] the other ideas were interested in was
+[00:47:33] the kind of products might be if they
+[00:47:35] become the emphasis shifts really on to
+[00:47:37] software and behavior they might
+[00:47:39] literally be nurtured in farms this kind
+[00:47:42] of neural nets and systems so people
+[00:47:43] would be observing the interactions
+[00:47:45] between the software looking for quirks
+[00:47:47] and characteristics that then would
+[00:47:48] determine how it would be applied so
+[00:47:50] this one might have been a very nervous
+[00:47:53] agitated almost neurotic system and
+[00:47:55] would be put to work as a mass security
+[00:47:58] robot so in this case it sits in a room
+[00:48:01] it's sort of scans the space when
+[00:48:03] someone enters its sensors there and if
+[00:48:05] it doesn't recognize them it basically
+[00:48:13] so it's kind of saying you're not
+[00:48:14] necessarily trying to design something
+[00:48:15] as such but you're looking for
+[00:48:17] opportunities as software is being
+[00:48:27] with this some wooden one it's not
+[00:48:29] exactly a robot but more essential as
+[00:48:30] we're putting more and more information
+[00:48:34] online and having to you know very
+[00:48:36] precious things have been stores online
+[00:48:37] very important things and having to use
+[00:48:39] kind of passwords and so wants to get it
+[00:48:41] we thought what if you used a very
+[00:48:43] familiar sci-fi method of retinal
+[00:48:45] scanning rather than just glancing at
+[00:48:46] this object for a second you have to
+[00:48:48] stare into its eyes for about five
+[00:48:50] minutes now it's only after amount of
+[00:48:53] time was elapsed that it's sort of had
+[00:48:55] just stop it for a second it turned
+[00:48:57] trusts you and then releases the
+[00:48:59] inflammation and with that when we were
+[00:49:02] also interested in the idea that how
+[00:49:04] would furniture maybe continue to evolve
+[00:49:06] in the future you know we have tables
+[00:49:09] chairs shelving units cabinets and why
+[00:49:10] has it stopped and what would be the
+[00:49:12] thing that would allow new forms or new
+[00:49:15] typology x' to emerge so maybe once
+[00:49:19] robots do and become more common we
+[00:49:21] would see also traditional areas like
+[00:49:23] furniture sort of metamorphosizing into
+[00:49:25] new types of things there's supposed to
+[00:49:27] be sound of this I'm not sure why it's
+[00:49:30] not plain but this one the white one is
+[00:49:32] basically we think of as a supercomputer
+[00:49:35] trapped in a toy body or a child's body
+[00:49:37] and one of the things that comes up a
+[00:49:39] lot when we're talking to people about
+[00:49:40] advanced technologies and smart
+[00:49:42] technologies is this kind of fear that
+[00:49:43] they're somehow going to do things
+[00:49:45] behind your back it even happens already
+[00:49:46] with the internet that people are
+[00:49:49] nervous of what traces they're leaving
+[00:49:50] and how that information is going to be
+[00:49:53] potentially misused so one of the tasks
+[00:49:55] of designing interactions with these
+[00:49:57] things might be to actually make them
+[00:49:59] needy or dependent on you so in this
+[00:50:02] case the robot again does whatever it
+[00:50:03] does it doesn't really matter she
+[00:50:08] doesn't need to know and it just gets
+[00:50:10] her to move it wherever it needs to go
+[00:50:11] to do its job
+[00:50:14] so she feels some sort of control over
+[00:50:16] it she can refuse to move with if she
+[00:50:18] wants to or she can actually take it to
+[00:50:20] where it's asked and let it get on and
+[00:50:22] do it so it's kind of interesting for us
+[00:50:25] a lot of the work we're doing is looking
+[00:50:28] at interaction design rather than the
+[00:50:37] but they're looking at things like
+[00:50:39] dependencies and feeling powerful over
+[00:50:41] something or simply holding something
+[00:50:44] for a long time and staring at it and at
+[00:50:45] the time we sort of thought well this is
+[00:50:47] quite sketchy it's potentially
+[00:50:49] interesting we're not sure and it was
+[00:50:51] showing in a very sort of limited design
+[00:50:54] space but we had amazing feedback from
+[00:50:56] it and we were approached by a
+[00:50:58] consortium of robotics engineers in
+[00:51:00] Switzerland to join am a massive of
+[00:51:02] European Union funded project that
+[00:51:04] they're working on with millions of
+[00:51:08] euros to try and see how this sort of
+[00:51:10] thinking could kind of be applied to
+[00:51:12] actually robotic systems and artificial
+[00:51:14] intelligence systems that are in
+[00:51:17] development right now and we're also
+[00:51:19] approached by AM a computing company
+[00:51:21] which funded a PhD in our department
+[00:51:23] which just started in October again to
+[00:51:26] build on this and not not to do this
+[00:51:27] assert but to look at how do you give
+[00:51:30] presents to artificial intelligence and
+[00:51:31] systems in the home and avoid the whole
+[00:51:34] smart house thing and that kind of a
+[00:51:36] terrible scenario and just focus much
+[00:51:38] more on how you interact with this
+[00:51:40] intelligence and how those interactions
+[00:52:21] I've got a question and I'm interested
+[00:52:24] in their the kind of role of humor in
+[00:52:26] your work and I wondered if you could
+[00:52:29] expand on how you see the role of humor
+[00:52:31] kind of working and if that's really
+[00:52:33] important and if there's a kind of
+[00:52:36] threshold beyond which you won't go
+[00:52:51] it's actually really difficult to talk
+[00:52:57] about it's I think what we try to do is
+[00:53:00] is sort of try and build in almost a
+[00:53:02] satirical or ironic thing we don't want
+[00:53:06] to poke fun at people or ideas or topics
+[00:53:08] of what people believe in but equally
+[00:53:10] the work could end up very sort of
+[00:53:12] po-faced very dry a little bit preachy
+[00:53:16] and I think humor helps to somehow break
+[00:53:18] the ice and create a space where people
+[00:53:20] can start to they're kind of
+[00:53:21] destabilized slightly don't know is it
+[00:53:23] serious or not am I supposed to laugh or
+[00:53:25] am I supposed to have I misunderstood
+[00:53:27] this and I think the humor sort of
+[00:53:29] begins that sort of reflective process
+[00:53:32] which is extremely important but we do
+[00:53:34] worry sometimes that things might become
+[00:53:36] too jokey I think with the science
+[00:53:37] museum project we can wear it a little
+[00:53:40] bit to tabloid like because we had to
+[00:53:43] simplify it and then other times you
+[00:53:45] know like with the very first project do
+[00:53:47] you want to replace the existing normal
+[00:53:49] it's very hard to see where the humor is
+[00:53:50] there I mean some people see it but not
+[00:53:54] others but I think it is it is a very
+[00:53:55] important part of what we're doing for
+[00:53:57] sure but a very difficult thing to
+[00:54:00] articulate you know how it works I think
+[00:54:02] it's kind of around in our newspapers
+[00:54:04] anyway I think we're surrounded I mean
+[00:54:06] especially a few reading the metro and I
+[00:54:08] mean there's so many kind of you have to
+[00:54:10] smile a half the things they're in it I
+[00:54:13] don't know I think there is a kind of
+[00:54:16] irony that does exist with the with real
+[00:54:18] things that real situations that we've
+[00:54:20] put in a position where you know almost
+[00:54:23] like the truth is is stranger than
+[00:54:25] fiction is really really true I think I
+[00:54:27] think it's also trying to do not so much
+[00:54:29] a visual humor but a functional
+[00:54:31] so it's only when you start to like with
+[00:54:34] the penis draw although that can be
+[00:54:36] quite funny to see it's when you start
+[00:54:37] to imagine actually putting no toenail
+[00:54:40] clippings and hearing it you start it's
+[00:54:43] more the situation that becomes finally
+[00:54:45] implied so not I think I hope it's not
+[00:54:47] the object itself but the sort of
+[00:54:50] implied interactions and use of it
+[00:54:53] become humorous I think with that one
+[00:54:54] the idea that it's quite an evil thing
+[00:54:56] you know the I didn't product ties a man
+[00:54:59] and you're treating him like that so so
+[00:55:00] you know one minute you think oh that's
+[00:55:02] funny that's funny but then you and you
+[00:55:03] think what you're really doing it's just
+[00:55:06] horrible so I think there's that I think
+[00:55:08] in the end that the humor is always has
+[00:55:11] the the balance of something very dark
+[00:55:13] next to it I think that's what we try
+[00:55:18] and play with are there any other
+[00:55:18] questions
+[00:55:22] is there another Michael we'll use this
+[00:55:22] one
+[00:55:31] yeah I was just wondering to what extent
+[00:55:34] you plan to your studio to kind of turn
+[00:55:37] out to do these wacky kind of what-if
+[00:55:39] projects whether it kind of you stuff
+[00:55:41] out through like an industrial design
+[00:55:43] route and then you ended up just asking
+[00:55:46] lots of questions or whether you you
+[00:55:48] kind of started out asking lots of
+[00:55:50] questions and then to kind of design
+[00:55:56] route I think both of us fiona's
+[00:56:03] backgrounds in architecture and we were
+[00:56:05] both can I didn't really fit in the
+[00:56:06] sorts of things we were interested in
+[00:56:09] didn't seem to gel with the
+[00:56:11] opportunities around us at the time at
+[00:56:12] the end of the 80s when we were
+[00:56:15] graduating and I worked for Sony for
+[00:56:17] example that was my dream at the time to
+[00:56:19] work at Sony and make brand new objects
+[00:56:21] that didn't exist that would somehow be
+[00:56:23] more poetic or more critical and
+[00:56:25] realized very quickly that was just
+[00:56:27] going to be absolutely impossible and
+[00:56:29] Fiona had joined a small architectural
+[00:56:33] studio in Tokyo and I used to work in
+[00:56:34] that studio and starts to see you know
+[00:56:37] around 1990 design was extremely limited
+[00:56:39] you just worked for clients and that was
+[00:56:41] it whereas in architecture the
+[00:56:43] architects were all writing teaching
+[00:56:45] doing one-off commissions for wealthy
+[00:56:46] clients both so doing industrial housing
+[00:56:49] doing furniture curating it was just
+[00:56:52] amazing and I think it sort of opened up
+[00:56:54] a space we won the best designers could
+[00:56:55] we can I do something quite similar
+[00:56:57] living a much more fluid and mixed-up
+[00:57:00] space where you're moving in a kind of
+[00:57:02] ideas space rather than a commercial one
+[00:57:04] and once we decide to that which took
+[00:57:07] actually about five years and we then
+[00:57:10] had to find a way to do that and we're
+[00:57:12] very lucky that around 1994 we were
+[00:57:15] teaching at the RCA I'm giving Crampton
+[00:57:16] Smith who had them the department I'm
+[00:57:19] now the head of she had set up she
+[00:57:21] received some funding from an American
+[00:57:22] think tank to set up a small research
+[00:57:25] group and about us and about six other
+[00:57:26] people were able to join that group
+[00:57:29] it seemed that that became the natural
+[00:57:31] home for we were doing it's a sort of
+[00:57:32] academic space but we're not writing
+[00:57:35] papers and doing that sort of thing
+[00:57:37] but doing design projects that aren't
+[00:57:39] intended to be manufactured or even
+[00:57:42] consumed but it circulates to hopefully
+[00:57:45] open up possibilities or raise questions
+[00:57:48] or critique things and I think still we
+[00:57:52] see this semi academic space is a really
+[00:57:55] natural home for this and often the sort
+[00:57:57] of research that goes on in academia is
+[00:57:59] sort of aspirational in design and arts
+[00:58:01] colleges you know it wants to be like
+[00:58:03] traditional and established things
+[00:58:04] whereas I think there's another role for
+[00:58:07] the academic designer where you can take
+[00:58:08] on these other kinds of roles to
+[00:58:10] question things and use the concreteness
+[00:58:14] of designed to do that so really we
+[00:58:15] didn't we definitely didn't plan it and
+[00:58:17] actually took quite a long time to sort
+[00:58:20] of find a space where we could do it and
+[00:58:23] be able to find ways of doing it but I
+[00:58:24] think from the very beginning we knew we
+[00:58:26] wanted to do more than you know then we
+[00:58:28] could that then what we saw around us I
+[00:58:31] just had a small bit to that I think the
+[00:58:33] other thing was that it was all driven
+[00:58:35] by a huge disappointment we had you know
+[00:58:38] we kind of were brought up in the 60s
+[00:58:39] and it was all possible you know this
+[00:58:41] was gonna come and it was all gonna be
+[00:58:43] there and and we could design it and and
+[00:58:45] everywhere we looked at you couldn't and
+[00:58:47] that kind of you know that was hugely
+[00:58:49] disappointing why want things we've
+[00:58:51] spent our time going why do we need
+[00:58:53] another table wine more chairs why you
+[00:58:56] know they kind of pure disappointment
+[00:59:08] and he was thinking about the poo
+[00:59:14] project and I was wondering do you see
+[00:59:18] the prototype that you produce like
+[00:59:21] evolving from the point of view of
+[00:59:24] critical design to design to certain
+[00:59:26] extent like for example they put Raja
+[00:59:31] you you can imagine really working no to
+[00:59:36] certain extent and somehow use the way
+[00:59:38] you presented it looks like you you want
+[00:59:40] to tell us okay this could exist but
+[00:59:42] yeah we don't want to take it too
+[00:59:45] seriously we don't want to engineer it
+[00:59:47] in a way that really exists do you do we
+[00:59:50] we are interested in discussing the fact
+[00:59:51] that could exist and make you think
+[00:59:53] about the fact that could exist but I'm
+[00:59:55] not sure we are interested in making
+[01:00:02] working are you or not project project
+[01:00:06] I think we'd always like things to be
+[01:00:09] kind of plausible it's a very since
+[01:00:11] there's a space between sort of reality
+[01:00:12] as it is now and they're completely
+[01:00:14] impossible and that's where we're we
+[01:00:17] operate and sometimes with the very
+[01:00:19] first project they're absolutely
+[01:00:21] possible they're working prototypes in
+[01:00:22] fact you know we could put them into
+[01:00:24] production and simplify them very easily
+[01:00:26] but we don't there's no motivation
+[01:00:28] whereas things like the robots you know
+[01:00:30] they're they're highly unlikely that
+[01:00:33] they just wouldn't mock-ups but they're
+[01:00:34] still kind of there's a there's a
+[01:00:36] possibility there that I think people
+[01:00:38] can connect with and we're more
+[01:00:41] interested in how you articulate through
+[01:00:43] a language of design this space of
+[01:00:45] plausibility believability and
+[01:00:47] suspension of disbelief and sometimes we
+[01:00:49] get it wrong and sometimes you get it
+[01:00:52] right but once we've navigated that is
+[01:00:55] not so interesting to then implement it
+[01:00:58] and put it into production for us I mean
+[01:01:00] there was a time when some of our early
+[01:01:01] work that we didn't show tonight which
+[01:01:04] was more focused on experimental
+[01:01:06] furniture with them electronic aspects
+[01:01:07] to it that we spend a lot of time
+[01:01:10] talking to manufacturers and both
+[01:01:12] electronics and furniture high and low
+[01:01:14] end about producing it and it was always
+[01:01:17] rejected and it was because there was no
+[01:01:17] market
+[01:01:19] people say people don't want this and we
+[01:01:21] have so how do you know they don't want
+[01:01:22] it know to say well they know because
+[01:01:24] that's what they do they they kind of
+[01:01:26] understand markets and at the same time
+[01:01:28] we were working with telecommunications
+[01:01:30] industries coming up with services that
+[01:01:33] were completely plausible and doable
+[01:01:35] with the technologies at the time but
+[01:01:37] again they said there's no desire or no
+[01:01:40] need for these things and we kind of
+[01:01:43] became much more interested in why how
+[01:01:45] would you determine what's desirable
+[01:01:47] what's what's wanted and what's needed
+[01:01:51] and working in relation to that then can
+[01:01:53] we put our things into production can we
+[01:01:55] overcome technical or economic
+[01:01:57] constraints and so I think I'm probably
+[01:01:59] about six or seven years ago we kind of
+[01:02:02] made a more conscious shift to say we're
+[01:02:04] not so interested in putting things into
+[01:02:07] production really but they must feel
+[01:02:09] like there's a potential there that
+[01:02:10] there could be that they're not
+[01:02:13] completely Seif Irish in that case I
+[01:02:20] think for us it would fail to have a
+[01:02:21] question that follows from that I mean
+[01:02:23] I'm really intrigued by this idea of the
+[01:02:25] non functioning prototype and one of the
+[01:02:27] work she showed bit of yours and your
+[01:02:33] students though the product as an
+[01:02:35] elaborate staged photograph or film and
+[01:02:37] just given the context in which are in
+[01:02:40] tonight of the of the a a that that kind
+[01:02:48] of idea typing interactions I'm just
+[01:02:50] wondering if there's you know what do
+[01:02:51] you might think about the relationship
+[01:02:54] between a form of unbuilt prototyping
+[01:02:55] and architecture and perhaps
+[01:02:57] particularly given the scenario we're in
+[01:03:00] in terms of kind of a leading towards a
+[01:03:04] imminent doom and jobless profession but
+[01:03:10] I think that there's actually really
+[01:03:13] quite complex there's lots of bits and
+[01:03:16] pieces to that and aspects I think
+[01:03:18] architecture has been very comfortable
+[01:03:21] with non realized visions obviously for
+[01:03:22] a long long time and they've served
+[01:03:25] different purposes from kind of wishing
+[01:03:27] for a better world through provocation
+[01:03:29] and critique to just frustrated dreams
+[01:03:31] and I can never be realized for whatever
+[01:03:33] reasons and as a result I think there's
+[01:03:36] a fantastic breath in architecture to
+[01:03:38] move between from really building stuff
+[01:03:39] and whatever scale from the scale of a
+[01:03:42] room and an object to a city and there's
+[01:03:44] a very sophisticated critique and
+[01:03:46] discussion of fiction and conceptual
+[01:03:48] stuff I think in designed by comparison
+[01:03:51] it's just shockingly crude and it's
+[01:03:52] something that I think we're very
+[01:03:55] interested in it's almost trying to see
+[01:03:57] if we can something we're trying to know
+[01:03:58] I think maybe theorized that space the
+[01:04:00] more sophisticated way not necessarily
+[01:04:02] through our work but through writing and
+[01:04:07] I think a lot of people talk about
+[01:04:10] conceptual design and the people who
+[01:04:11] seem to be interested in it come from
+[01:04:14] say furniture ish 3d maker backgrounds
+[01:04:16] and they said like conceptual art it's
+[01:04:19] it's designed about ideas sometimes it
+[01:04:22] gets confused as design art and whereas
+[01:04:23] as you said what we're doing comes more
+[01:04:25] from the industrial design side where
+[01:04:27] they're basically just mock-ups and they
+[01:04:29] and that tradition goes back a long time
+[01:04:31] too and they used as props in scenarios
+[01:04:34] but always to sell us stuff to persuade
+[01:04:36] us that we want a particular future to
+[01:04:38] prepare us for a future that's in the
+[01:04:41] pipeline so I think we're trying to take
+[01:04:44] that in a way the sensitivity hopefully
+[01:04:45] the sophistication maybe of the
+[01:04:47] conception the space where people work
+[01:04:51] with ideas but bring that into the quite
+[01:04:53] crude world of industrial imagination
+[01:04:55] which is about making these kind of
+[01:04:57] future scenarios this kind of playing
+[01:05:00] with desire and hybridize them in some
+[01:05:02] way and I think there's a lot to be
+[01:05:03] learned from the what's happened in
+[01:05:05] architecture that somehow needs to be
+[01:05:17] discussing tonight as well about the
+[01:05:19] question of failure about prototypes
+[01:05:21] that get for example 20 interesting
+[01:05:23] evolving prototypes one after the other
+[01:05:26] and and try to make them more detail
+[01:05:28] like the poor one I will bring the bring
+[01:05:33] it forward but I'm joking but the fact
+[01:05:36] is that I tend not to worry about the
+[01:05:38] market in a certain to certain extent
+[01:05:41] the probably architecture as long as
+[01:05:43] it's got a lot of interference with
+[01:05:45] turbine yzma and other discipline tend
+[01:05:48] not to work it worried so directly about
+[01:05:51] what the market is worried about in and
+[01:05:53] tonight we were discussing all this
+[01:05:55] prototype the fails and then or failures
+[01:05:56] and there are there a success and I
+[01:06:01] would incorporate is failing but we we
+[01:06:03] don't discuss the fact that the market
+[01:06:05] is interested in that kind of give it
+[01:06:13] for sort of yeah you know as a designer
+[01:06:15] that we were at a conference a few years
+[01:06:19] ago at Cranbrook Academy and it was it's
+[01:06:20] about future visions and there was us
+[01:06:24] and Andrew boom fell to a graphic design
+[01:06:25] curator at the Walker Art Center and
+[01:06:28] Europe only show it's the kind of Dutch
+[01:06:31] artist and both the others presented in
+[01:06:32] your friendly show presented the
+[01:06:34] beginnings of his Flav city in this kind
+[01:06:37] of totally horrific vision and then we
+[01:06:40] presented our work and the audience was
+[01:06:43] outraged you know and our stuff and it
+[01:06:45] was very mild and and the reason they
+[01:06:46] were outraged as we were designers we
+[01:06:50] have a duty to think nice thoughts to be
+[01:06:52] optimistic was almost how dare you turn
+[01:06:56] away from imagining a better world and
+[01:06:59] entertain these dark thoughts and I said
+[01:07:02] well what about him he's really bad
+[01:07:06] American well he's an artist you can do
+[01:07:07] what he wants we don't care which is
+[01:07:09] kind of sad too because it also means it
+[01:07:11] has no it doesn't engage he is a license
+[01:07:14] and a privilege in society to do as he
+[01:07:16] pleases and it seems in design there's a
+[01:07:18] kind of there's a contract a social
+[01:07:19] contract that's different from the one
+[01:07:20] the architect has
+[01:07:23] and the architect does seem to have a
+[01:07:25] strong social consciousness it's a
+[01:07:27] fairly independent profession and in the
+[01:07:31] industrial design its it the minute you
+[01:07:33] don't design for production your work is
+[01:07:36] often seen as irrelevant or pointless
+[01:07:38] and I think what we're trying to do is
+[01:07:40] say actually it's not pointless at all
+[01:07:43] it's you know there's another space of
+[01:07:44] speculation that can be used not to
+[01:07:47] imagine better products but to imagine
+[01:07:49] better human relations or to critique a
+[01:07:51] political situation or so on and again I
+[01:07:53] think an architecture that ideas a lot
+[01:07:55] more established and there are a lot
+[01:07:57] more examples of it but in design it's
+[01:07:59] still it's actually quite a radical idea
+[01:08:01] and a very difficult one to make a case
+[01:08:02] for and actually quite hard to find
+[01:08:04] examples of although more and more
+[01:08:07] people are doing it and this this it's
+[01:08:08] almost as if you don't put something
+[01:08:11] into production it's not real whereas I
+[01:08:13] think so the whole prototyping thing
+[01:08:16] isn't even such an issue it's more it
+[01:08:17] doesn't matter if it's a phone model one
+[01:08:17] minute
+[01:08:20] you know if it's produced in a hundred
+[01:08:23] thousand a year in the next it's a very
+[01:08:29] different dynamic most aggressive kind
+[01:08:31] of response definitely comes from the
+[01:08:46] this is a question more for the owner I
+[01:08:48] guess about how these ideas translate
+[01:08:50] into architecture and looking at the
+[01:08:52] work of Gerardo Powell's unit at the RCA
+[01:08:55] and if you kind of left the world of
+[01:08:57] architecture consciously because the
+[01:08:59] products are inherently limited because
+[01:09:01] I think the kind of social speculative
+[01:09:03] futures that the students dream for
+[01:09:05] incredibly sophisticated and compelling
+[01:09:07] and yet the architectural results that
+[01:09:09] come out of those situations always seem
+[01:09:11] to fall short of the scenarios so I mean
+[01:09:13] do you find industrial design a kind of
+[01:09:15] more I guess free way to explore those
+[01:09:28] ideas or yes yes I guess that's yeah I
+[01:09:31] spent probably about five years teaching
+[01:09:34] a ds4 in college and we spent a lot of
+[01:09:37] time developing these very complex
+[01:09:42] scenarios that and futures and I guess
+[01:09:44] it for me it was incredibly
+[01:09:47] disappointing in that I couldn't do
+[01:09:49] anything with them and it said it seemed
+[01:09:51] that you know I did my architecture
+[01:09:53] teaching and then I would my career and
+[01:09:55] work and everything was based around
+[01:09:58] kind of a product design and an
+[01:10:00] interaction design approach and it was
+[01:10:03] very hard to try and you know I couldn't
+[01:10:05] kind of educate architecture only and
+[01:10:07] the architects are going out and they're
+[01:10:08] building buildings or joining the
+[01:10:10] architecture community so I did find
+[01:10:13] that they it it didn't it was hard to
+[01:10:18] bring though that research into into our
+[01:10:21] kind of world but having said that it's
+[01:10:23] quite funny because recently there's a
+[01:10:26] kind of shift about telling stories and
+[01:10:29] telling tales and these sophisticated
+[01:10:31] scenarios and we've been talking to lots
+[01:10:34] of social science and political
+[01:10:37] scientists about this sort of process of
+[01:10:41] making futures but these very strange
+[01:10:43] and but very very sophisticated tales so
+[01:10:47] so I'm kind of looking back at currently
+[01:10:49] how to bring some of that material into
+[01:10:52] this world but I don't know
+[01:10:55] a kind of more political social level
+[01:10:57] and in fact the project that Tony and I
+[01:11:00] are trying to get going now is actually
+[01:11:02] trying to move a lot of this of our work
+[01:11:05] into a more sort of social political
+[01:11:08] level to do with policy working with
+[01:11:10] ethicists and working with political
+[01:11:13] scientists and people like that in a
+[01:11:16] more kind of woven way in the way that
+[01:11:19] we were doing it within a deist for so
+[01:11:21] it's just taken a lot longer to find a
+[01:11:23] way in which that means that kind of
+[01:11:26] thinking and could actually impact on
+[01:11:28] some of the work that we're doing in the
+[01:11:31] interaction design course so I think it
+[01:11:32] will is still there
+[01:11:37] it hasn't kind of gone away right now as
+[01:11:41] is not so much us speculating but trying
+[01:11:43] to work with an economist and getting
+[01:11:45] like do speculative economics or
+[01:11:46] speculative ethics or speculative
+[01:11:49] political science and then try and give
+[01:11:52] that some sort of expression through
+[01:11:55] objects and systems and services and
+[01:11:57] things like that
+[01:11:58] so it's kind of shifting from trying to
+[01:12:01] imagine our own futures of your local
+[01:12:02] situations interesting oK we've
+[01:12:04] developed some tools and methods and
+[01:12:06] ways of working now we'd like to work
+[01:12:08] with more sort of complex issues to see
+[01:12:10] how they stand up to that and if it
+[01:12:12] takes us personally somewhere more
+[01:12:15] stimulating as well but quite difficulty
+[01:12:18] I must admit I've been kind of sort of
+[01:12:21] working in in the academic world of
+[01:12:24] social scientists and things and the
+[01:12:26] contrast between the two disciplines is
+[01:12:29] so extreme it's very hard to you know
+[01:12:31] it's very hard not to lose the delicacy
+[01:12:32] of design because one of the things I
+[01:12:34] think we have you know there's a kind of
+[01:12:37] lightness of touch that you kind of need
+[01:12:39] if it gets bogged down with too much
+[01:12:41] social science research you've kind of
+[01:12:43] lost it so you know trying to balance
+[01:12:46] very very academic agendas with more
+[01:12:47] kind of like playful things that are
+[01:12:50] kind of suggestive is is hard work but
+[01:12:52] hopefully with this you know this other
+[01:12:54] narrative we've got actually some nice
+[01:12:56] projects coming out I think some current
+[01:12:58] second is of weaving some very nice
+[01:13:00] stories at the moment that are a bit
+[01:13:03] more complex and meaty so yes
+[01:13:08] it's work in progress is there one more
+[01:13:08] question

@@ -1,0 +1,15 @@
+Source: Contact — Sara Ahmed (saranahmed.com contact page)
+URL: https://www.saranahmed.com/contact
+Fetched: 2026-10-12 via fetch.py
+
+Contact — Sara Ahmed
+
+Menu
+
+Contact:
+
+Please fill in this form if you would like to get in touch. 
+
+Please note as an unsalaried scholar, I have fees for all lectures/seminars hosted by academic institutions. 
+
+My apologies: I do not get involved in any funded projects based at universities. I am also not available for the supervision or mentoring of researchers or students.

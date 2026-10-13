@@ -49,36 +49,36 @@ Status: `longlist` → `shortlisted` → `verified` (you checked it exists and s
 
 Suggested by the unit, shared by everyone. Cards in `unit/`; how they work and how to make one yours: `unit/README.md`. `/consult` reads them every run, labelled `(unit)`.
 
-Status: `suggested by unit` → `verified` (every quote checked against its saved source) or `unverified`
+Status: `suggested by unit` → `verified` (every quote checked against its saved source) or `unverified`. Review pass run 2026-10-12 with `/review` on all 28 cards: quotes, works, links, language, structure; 27 verified, 1 unverified.
 
 | Name | Group | Status | File |
 |---|---|---|---|
 | The brief: Book of Rituals | Brief | suggested by unit | `unit/_brief.md` |
-| Federico Campagna | Reading list | suggested by unit | |
-| Yi-Fu Tuan | Reading list | suggested by unit | |
-| Paul B. Preciado | Reading list | suggested by unit | |
-| Giorgio Agamben | Reading list | suggested by unit | |
-| Henri Lefebvre | Reading list | suggested by unit | |
-| Timothy Morton | Reading list | suggested by unit | |
-| Thomas A. P. van Leeuwen | Reading list | suggested by unit | |
-| Jean Baudrillard | Reading list | suggested by unit | |
-| Sylvia Wynter | Reading list | suggested by unit | |
-| David Burrows & Simon O'Sullivan | Reading list | suggested by unit | |
-| Kathryn Yusoff | Reading list | suggested by unit | |
-| José Esteban Muñoz | Reading list | suggested by unit | |
-| Mark Fisher | Reading list | suggested by unit | |
-| Sara Ahmed | Reading list | suggested by unit | |
-| David Gissen | Reading list | suggested by unit | |
-| Sun Ra | Wildcard | suggested by unit | |
-| Ian Cheng | Wildcard | suggested by unit | |
-| Pierre Huyghe | Wildcard | suggested by unit | |
-| Jeremy Deller | Wildcard | suggested by unit | |
-| Hildegard von Bingen | Wildcard | suggested by unit | |
-| Brian Eno | Wildcard | suggested by unit | |
-| Dunne & Raby | Wildcard | suggested by unit | |
-| Ursula K. Le Guin | Wildcard | suggested by unit | |
-| Luca Frei | Wildcard | suggested by unit | |
-| Robert Macfarlane | Wildcard | suggested by unit | |
-| Caleb Femi | Wildcard | suggested by unit | |
-| Kae Tempest | Wildcard | suggested by unit | |
-| Saidiya Hartman | Wildcard | suggested by unit | |
+| Federico Campagna | Reading list | verified | `unit/federico-campagna.md` |
+| Yi-Fu Tuan | Reading list | verified | `unit/yi-fu-tuan.md` |
+| Paul B. Preciado | Reading list | verified | `unit/paul-b-preciado.md` |
+| Giorgio Agamben | Reading list | verified | `unit/giorgio-agamben.md` |
+| Henri Lefebvre | Reading list | verified | `unit/henri-lefebvre.md` |
+| Timothy Morton | Reading list | verified | `unit/timothy-morton.md` |
+| Thomas A. P. van Leeuwen | Reading list | unverified (birth year and living status rest on Wikidata alone) | `unit/thomas-van-leeuwen.md` |
+| Jean Baudrillard | Reading list | verified | `unit/jean-baudrillard.md` |
+| Sylvia Wynter | Reading list | verified | `unit/sylvia-wynter.md` |
+| David Burrows & Simon O'Sullivan | Reading list | verified | `unit/burrows-osullivan.md` |
+| Kathryn Yusoff | Reading list | verified | `unit/kathryn-yusoff.md` |
+| José Esteban Muñoz | Reading list | verified | `unit/jose-esteban-munoz.md` |
+| Mark Fisher | Reading list | verified | `unit/mark-fisher.md` |
+| Sara Ahmed | Reading list | verified | `unit/sara-ahmed.md` |
+| David Gissen | Reading list | verified | `unit/david-gissen.md` |
+| Sun Ra | Wildcard | verified | `unit/sun-ra.md` |
+| Ian Cheng | Wildcard | verified | `unit/ian-cheng.md` |
+| Pierre Huyghe | Wildcard | verified | `unit/pierre-huyghe.md` |
+| Jeremy Deller | Wildcard | verified | `unit/jeremy-deller.md` |
+| Hildegard von Bingen | Wildcard | verified | `unit/hildegard-von-bingen.md` |
+| Brian Eno | Wildcard | verified | `unit/brian-eno.md` |
+| Dunne & Raby | Wildcard | verified | `unit/dunne-raby.md` |
+| Ursula K. Le Guin | Wildcard | verified | `unit/ursula-k-le-guin.md` |
+| Luca Frei | Wildcard | verified | `unit/luca-frei.md` |
+| Robert Macfarlane | Wildcard | verified | `unit/robert-macfarlane.md` |
+| Caleb Femi | Wildcard | verified | `unit/caleb-femi.md` |
+| Kae Tempest | Wildcard | verified | `unit/kae-tempest.md` |
+| Saidiya Hartman | Wildcard | verified | `unit/saidiya-hartman.md` |

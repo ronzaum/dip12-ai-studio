@@ -1,0 +1,2257 @@
+Source: Paul B. Preciado, '¿La muerte de la clínica?' (The death of the Clinic?), lecture, Museo Reina Sofía, Madrid, March 2013; YouTube English subtitles with timestamps
+URL: https://www.youtube.com/watch?v=mCK21tubTUk
+Fetched: 2026-10-12 via yt-dlp (--write-sub --sub-lang en) + vtt2txt.py
+
+[00:00:08] Jesús: Good afternoon. We welcome you in
+[00:00:08] the name of Reina Sofia museum,
+[00:00:14] we also apologize for the
+[00:00:14] schedule changes due to
+[00:00:29] the celebration this morning of
+[00:00:29] the university on the street.
+[00:00:35] The Reina Sofia museum in addition to be a museum
+[00:00:35] also wants to be an educational
+[00:00:40] institution,
+[00:00:40] we lodge
+[00:00:43] different programs
+[00:00:43] of postgraduate and we also wanted to,
+[00:00:48] somehow, participate in this demonstration
+[00:00:53] and that's why it was scheduled at twelve o'clock
+[00:00:53] but we have appeared at 7pm,
+[00:00:59] therefore, our apologies.
+[00:00:59] We welcome Beatriz Preciado
+[00:01:05] at the inauguration of
+[00:01:05] the second edition of Somateca, a
+[00:01:12] program that is part of our
+[00:01:12] centre of studies. For three
+[00:01:17] months with a large group of
+[00:01:17] activists, researchers, artists, people
+[00:01:25] without any sort of classification or
+[00:01:25] nomenclature, we meet and work
+[00:01:33] with Lucas Platero and David Berná.
+[00:01:38] The title on this occasion is
+[00:01:38] "to live and resist in the neoliberal condition".
+[00:01:45] In some way, this talk today
+[00:01:51] is like an introduction.
+[00:01:51] Beatriz Preciado, I think it is not necessary
+[00:01:57] to introduce her. A philosopher and agitator
+[00:01:57] of minds and bodies,
+[00:02:04] director of the Independent program of studies
+[00:02:04] of the contemporary art museum
+[00:02:09] of Barcelona,
+[00:02:12] also, director of Somateca, our course,
+[00:02:12] professor at the University of
+[00:02:19] Paris 8,
+[00:02:19] someone
+[00:02:23] whose generosity makes me to be here today
+[00:02:23] also knowing that it is a huge
+[00:02:29] effort for her, intellectually
+[00:02:29] and physically, as she is constantly
+[00:02:34] being required in multiple parts of
+[00:02:34] of the globe, in this world,
+[00:02:41] and that also reminds me that I have to
+[00:02:45] say hello to the people who are
+[00:02:45] hearing us in streaming.
+[00:02:51] Last week, Maurizio Lazzarato
+[00:02:51] was with us and he told us about
+[00:02:59] the indebted subject
+[00:02:59] as a projection
+[00:03:05] of Michel Foucault's hypothesis about
+[00:03:05] the production of subjectivity in the
+[00:03:09] modernity, in the disciplinary society,
+[00:03:09] applying it to the neoliberal condition and
+[00:03:15] he was talking about that subject,
+[00:03:15] the subject indebted. Somehow,
+[00:03:21] what Beatriz proposes to us today is
+[00:03:21] related with that same projection of the
+[00:03:29] Foucaultian hypothesis towards
+[00:03:29] the present.
+[00:03:33] She is wondering:
+[00:03:33] Has the Clinic died? being The clinic
+[00:03:38] identified as that disciplinary
+[00:03:38] institution managing the bodies
+[00:03:44] and defining the somatopolitic
+[00:03:44] subject in the modernity,
+[00:03:49] in a time when this clinic,
+[00:03:49] this model
+[00:03:56] of what health means
+[00:03:56] is being billed and extorted in
+[00:04:03] the present moment
+[00:04:07] Beatriz poses if the clinic has
+[00:04:07] died and what such death means,
+[00:04:12] in a moment where such hypothetical
+[00:04:12] disappearance of the clinic
+[00:04:20] is paradoxically,
+[00:04:20] contemporary of a
+[00:04:25] multiplication of
+[00:04:30] body economies that she has
+[00:04:30] baptized as
+[00:04:36] pharmacopornographic. Beatriz also
+[00:04:36] has taught us to use enormously
+[00:04:42] long words.
+[00:04:47] Somehow, this argument comes
+[00:04:47] simultaneously
+[00:04:54] explained by an investigation of which
+[00:04:54] ones are the ways of life and of resistance
+[00:04:58] in that neoliberal condition.
+[00:04:58] We have only an hour, barely an hour
+[00:05:05] to talk to Beatriz, so I'm going to
+[00:05:05] shut up. I would also
+[00:05:12] remind you that, if it's not too late,
+[00:05:12] we will have a few minutes at the end
+[00:05:18] to comment, to chat and to
+[00:05:18] welcome Beatriz.
+[00:05:23] Beatriz: Thank you.
+[00:05:26] Well, many thanks to Jesús Carrillo for
+[00:05:26] your presentation, very kind as usual,
+[00:05:31] also thanks to the director Manolo
+[00:05:31] Borja and to this institution
+[00:05:39] for allowing us, in some way, to occupy
+[00:05:39] the space of the museum, that
+[00:05:45] public sphere of the museum to carry
+[00:05:45] on research of projects as
+[00:05:49] experimental and unusual as the one
+[00:05:49] of the Somateca. As you already imagine
+[00:05:54] by the somewhat extravagant and
+[00:05:54] enigmatic title of this seminar,
+[00:06:01] not a set of established knowledge,
+[00:06:01] obviously, but rather
+[00:06:06] a research project where
+[00:06:06] we test some experimental
+[00:06:11] hypotheses. I don’t know if it's
+[00:06:11] possible or not possible, but I have a light
+[00:06:17] in front of me that is totally
+[00:06:17] blinding and prevents me from seeing the
+[00:06:21] room, something that is tremendously
+[00:06:21] annoying because I do not see anyone,
+[00:06:25] suddenly I am totally alone here.
+[00:06:25] A little bit lower, please.
+[00:06:32] We are starting to see each other.
+[00:06:32] Well, now that
+[00:06:37] I see you,
+[00:06:37] I can also welcome
+[00:06:42] everyone today to this session
+[00:06:48] of collective work.
+[00:06:48] Those who are kind enough to come
+[00:06:54] and those who are participating
+[00:06:54] in the Somateca project, to
+[00:06:59] the Somatecos and Somatecas from last
+[00:06:59] year, I am very happy to see you again
+[00:07:04] and very specially I address myself also
+[00:07:04] in this moment to all the Somatecos
+[00:07:09] of the previous year connected online
+[00:07:14] with us, in particular,
+[00:07:14] very particular in this
+[00:07:18] case, I'm going to address one of your
+[00:07:18] colleagues who is called
+[00:07:23] Emma or Emmanuel who is in
+[00:07:23] Argentina and whose
+[00:07:32] tireless questions last year have
+[00:07:32] generated some of the
+[00:07:37] reflections that I will share here with
+[00:07:37] you.
+[00:07:43] I think this is the moment when I
+[00:07:43] will be accused of child grooming,
+[00:07:53] because it is the first time I hear a child
+[00:07:53] crying and you know these things,
+[00:07:59] then the museum says, beware of hurting other's
+[00:07:59] sensitivity and you're going to see that some
+[00:08:03] of the things that I'm going to try to
+[00:08:03] tell you today are related to the
+[00:08:08] modulation and transformation of
+[00:08:08] what we understand by sensitivity, by
+[00:08:13] perception, by affection, by what has defined
+[00:08:13] the sexual subject of modernity at
+[00:08:13] least since the XIX century and is being
+[00:08:13] transformed in the 20th century,
+[00:08:24] especially in the first years
+[00:08:24] of the 21st century.
+[00:08:28] Please allow me as
+[00:08:28] usual to try to take you in a relatively
+[00:08:32] fast way through a winding
+[00:08:32] path. The complexity is that some
+[00:08:38] of you who are here tonight,
+[00:08:38] have made a journey with me in
+[00:08:42] other spaces of production of
+[00:08:42] collective knowledge and some of
+[00:08:47] you who are here tonight, is the
+[00:08:47] first time you have had the
+[00:08:53] disastrous idea to come at 7pm on
+[00:08:53] a Saturday to hear what I
+[00:08:56] am going to tell you. Sometimes I wonder
+[00:08:56] how is it possible that there are people here
+[00:08:59] at 7.30pm on a Saturday
+[00:08:59] to ask collectively for the
+[00:09:04] death of the clinic?
+[00:09:08] I thank you for your
+[00:09:08] kindness and I ask you to be
+[00:09:13] patient, at least in the first
+[00:09:13] stage of my intervention.
+[00:09:18] As you will see it is always a bit
+[00:09:18] sinuous and I'm trying to take you
+[00:09:22] through some roads that maybe you know
+[00:09:22] but maybe you don't. As
+[00:09:28] you may know, in 1963 Michel Foucault
+[00:09:28] writes, The Birth of the Clinic, what
+[00:09:35] he called an archaeology of the
+[00:09:35] medical glance. Between 1963
+[00:09:41] and 1975, Michel Foucault is
+[00:09:41] going to delineate, broadly,
+[00:09:47] a history of sexuality, he
+[00:09:47] explains what he calls a device of
+[00:09:53] sexuality that according to
+[00:09:53] him, had produced the modern sexual subject
+[00:09:57] and to Foucault, that device of
+[00:09:57] sexuality was part of a
+[00:10:05] set of institutions or if you prefer
+[00:10:05] was deployed in a set of
+[00:10:08] medical-legal disciplinary institutions
+[00:10:08] of which the clinic,
+[00:10:14] its medical glance,
+[00:10:14] its disciplinary view and its taxonomy of
+[00:10:18] sexuality was
+[00:10:18] paradigmatic shapers of that subject
+[00:10:22] of modernity. That analysis that
+[00:10:22] Foucault performs, as you well know,
+[00:10:27] is partially related to the analysis of the
+[00:10:27] mutations of those medical and medical-legal
+[00:10:32] institutions between the XVII and the XIX
+[00:10:32] century. Above all, it is an
+[00:10:36] analysis tremendously focused on
+[00:10:36] Central European institutions of the 19th century.
+[00:10:45] We can partially say that the subject and
+[00:10:45] the modern body is a disciplinary
+[00:10:51] modern body that Foucault had imagined
+[00:10:51] as docile, we'll see later that in
+[00:10:56] reality it is not as docile as it seems and
+[00:10:59] one of the elements that will
+[00:10:59] be central to Foucault in his analysis
+[00:11:06] of the clinic and that disciplinary
+[00:11:06] device that will produce the
+[00:11:11] sexual subject of modernity is that
+[00:11:11] it works with what he calls a system
+[00:11:17] of verification, that is to say a technical
+[00:11:17] semiotic system, a real system of
+[00:11:22] production, what is this about?
+[00:11:25] It is about an articulation of discourses and
+[00:11:27] representations in which a statement
+[00:11:27] can have value as
+[00:11:33] true or as false, that is, what
+[00:11:33] Foucault is doing, is to displace
+[00:11:39] the traditional notion of truth and
+[00:11:39] to pay attention to what he will call
+[00:11:45] the devices of verification, which
+[00:11:45] are historically built and modulated.
+[00:11:51] Among other things, he will analyse them to
+[00:11:51] understand the clinic, the passing of devices
+[00:11:58] of verification typically
+[00:11:58] transcendental and theological, to devices of
+[00:12:03] verification that is, to
+[00:12:03] articulations of speeches and
+[00:12:08] representations that have the
+[00:12:08] specificity of being scientists,
+[00:12:14] presenting themselves as scientists
+[00:12:14] and therefore, directly
+[00:12:19] related, not with the transcendental,
+[00:12:19] but with the scope of the empirical.
+[00:12:26] I'm sorry to tell you this part
+[00:12:26] so tricky and philosophical and so on,
+[00:12:31] but you will see that it will be
+[00:12:31] absolutely crucial to understand the
+[00:12:35] transformation of sexual subjectivity
+[00:12:35] in the neoliberal condition, because the
+[00:12:40] proposal that I am going to make today is that,
+[00:12:40] from my point of view, we can not
+[00:12:45] continue talking about the clinic as
+[00:12:45] Foucault did think about the clinic
+[00:12:50] of the XIX century, among other things because,
+[00:12:50] and this will be my proposal, the devices of
+[00:12:55] verification, the set of speeches,
+[00:12:55] of representations that allow to declare when
+[00:13:02] a statement is true or false and that allow, as you
+[00:13:02] will see, to affirm
+[00:13:07] the truth of the sexual subject has
+[00:13:07] radically changed. My proposal, I am telling you
+[00:13:13] immediately and then we'll see if you
+[00:13:13] agree with me or not,
+[00:13:16] is that the neoliberal device of
+[00:13:16] verification that I have called
+[00:13:22] contemporary pharmacopornographic, is
+[00:13:22] no longer scientific but commercial and
+[00:13:30] mediatic. The device of verification of the
+[00:13:30] contemporary sexuality is the
+[00:13:36] market and it is the media,
+[00:13:36] and therefore, we are in a configuration
+[00:13:43] of production of sexual subjectivity
+[00:13:43] that has little to do with the one
+[00:13:48] Foucault described at the birth of
+[00:13:48] the clinic, so we
+[00:13:53] are in a situation
+[00:13:53] relatively unbelievable, because
+[00:13:57] what has happened during
+[00:13:57] a good part of the modernity, if we think
+[00:14:03] about the successive movements that I am going
+[00:14:03] to call, not only feminist or sexual
+[00:14:09] revolutions but somatopolitic
+[00:14:09] revolutions, that is,
+[00:14:15] movements for the redefinition of
+[00:14:15] the body or the statute of the body against
+[00:14:21] the practices that define how to
+[00:14:21] govern that body and against the
+[00:14:27] devices of verification, that is to say,
+[00:14:27] the practices that allow to define when a
+[00:14:33] body is true or false, normal or
+[00:14:33] pathological, healthy or sick...
+[00:14:41] The 20th century and partly the 21st century,
+[00:14:41] could also be regarded as
+[00:14:47] a succession of movements of
+[00:14:47] resistance
+[00:14:52] a set of somatopolitic revolutions,
+[00:14:57] among these we could
+[00:14:57] recognize, not only anti-slavery
+[00:15:02] movements but feminist movements, gay
+[00:15:02] rights movements...
+[00:15:08] Evidently in the 20th century only
+[00:15:08] if we think about
+[00:15:14] the movements of decolonization.
+[00:15:14] All those movements have been
+[00:15:20] critical and rebellious movements
+[00:15:20] against the disciplinary apparatus
+[00:15:26] of which the clinic was paradigmatic.
+[00:15:32] At least this is my experience,
+[00:15:32] you can tell me yours,
+[00:15:36] but I imagine that those of you
+[00:15:36] part of
+[00:15:40] feminist movements, of revolution or
+[00:15:40] of sexual emancipation,
+[00:15:45] homosexuals, etc.,
+[00:15:45] you have lived it like me,
+[00:15:52] or you have produced or invented a set
+[00:15:52] of strategies of resistance and
+[00:15:57] criticism of disciplinary apparatuses and
+[00:15:57] more specifically of the clinic. When
+[00:16:02] I say of the clinic, this analysis could
+[00:16:02] extend also to another set of
+[00:16:06] disciplinary apparatuses like the school,
+[00:16:06] like prison, like the domestic space
+[00:16:13] and even like the museum,
+[00:16:13] the space in which we are today
+[00:16:16] which is by definition, and in a way
+[00:16:16] paradigmatic, a space that shares
+[00:16:22] many of the taxonomies and
+[00:16:22] mechanisms of production of truth
+[00:16:29] of the clinic. Said this, we are
+[00:16:29] going to find ourselves in a
+[00:16:32] unusual situation, like I said before, in which
+[00:16:32] the Clinic collapses, but not precisely
+[00:16:42] because of the attacks or not just because
+[00:16:42] of the attacks of the various movements of
+[00:16:48] somatopolitic rebellion, but because
+[00:16:48] it collapses by the emergence of
+[00:16:55] the neoliberal logics, and therefore
+[00:16:55] that's why, I do not know if
+[00:17:01] it has happened to you, but some us who
+[00:17:01] are involved in these
+[00:17:05] contemporary movements, we find
+[00:17:05] ourselves in a paradoxical situation.
+[00:17:09] For example, to claim a public health
+[00:17:09] system or to claim the right to
+[00:17:18] public education at the same time that,
+[00:17:18] historically, we have fought against them
+[00:17:24] by undoing foundations of those institutions.
+[00:17:28] What I am going to propose to you today is
+[00:17:28] to try to think that it is possible that
+[00:17:35] we are not fighting anymore against the
+[00:17:35] same clinic, but that is the
+[00:17:41] same device of verification the
+[00:17:41] place in which the truth of the
+[00:17:46] modern sexual subject has been
+[00:17:46] displaced and transformed, therefore
+[00:17:50] we may be fighting
+[00:17:50] against something very diverse, therefore
+[00:17:55] our movements are no longer
+[00:17:55] anti-disciplinary movements
+[00:18:01] or criticism of disciplinary
+[00:18:01] biopolitic but something of what
+[00:18:06] I'm going to try to communicate today.
+[00:18:06] From the 80s a set of movements
+[00:18:12] that we could name of anti-neoliberal
+[00:18:20] resistance or to say it in my
+[00:18:20] own terms, of movements against
+[00:18:25] Pharmacopornographics will appear.
+[00:18:25] This is the horizon from where, more or
+[00:18:32] less, I want to take you today if you
+[00:18:32] accompany me on this trip. But leave me
+[00:18:37] let me tell you in the meantime some
+[00:18:37] things, so we can see the complex and
+[00:18:44] paradoxical situation in which
+[00:18:44] we find ourselves.
+[00:18:48] Notice that the result of that XIX century
+[00:18:53] device of sexuality that
+[00:18:53] deploys in biopolitical institutions,
+[00:18:59] somehow forms
+[00:18:59] a kind of constant archipelago,
+[00:19:03] today one spends his life going from one
+[00:19:03] to another, at least in the classic
+[00:19:07] configuration of 19th century. The result
+[00:19:07] of that device is, speaking in a
+[00:19:15] very fast and schematic way, on one
+[00:19:15] side, the invention of an aesthetic
+[00:19:20] policy of the sexual difference meaning,
+[00:19:20] the invention of
+[00:19:24] masculinity and femininity as
+[00:19:24] anatomical truths, as anatomical
+[00:19:30] truths within the apparatus of
+[00:19:30] scientific verification. That is one of
+[00:19:37] the particularities of the complex
+[00:19:37] situation of feminist and homosexual
+[00:19:42] political movements.
+[00:19:42] That is to say, we are
+[00:19:46] constantly working and resisting,
+[00:19:46] disarticulating languages that
+[00:19:51] present themselves with the truth, with the
+[00:19:51] appearance of scientific truth.
+[00:19:56] Obviously, I can’t explain all
+[00:20:01] the details, therefore, forgive me
+[00:20:01] for the somewhat schematic character
+[00:20:05] of this presentation, but
+[00:20:09] I would want if we can
+[00:20:09] look ourselves collectively as the
+[00:20:16] result of
+[00:20:16] a performative standardization, as the
+[00:20:23] result of a huge process of
+[00:20:23] performative reproduction and the
+[00:20:28] imposition of a political, visual
+[00:20:28] aesthetic of the sexual difference.
+[00:20:36] Take a look, stand where you can.
+[00:20:42] You are going to see that
+[00:20:42] I call this process, the first industrialization
+[00:20:49] of the sexuality, the first
+[00:20:49] industrialization of the sexuality. My
+[00:20:53] hypothesis is that there have been two
+[00:20:53] industrialization processes of the
+[00:20:58] sexuality, a first process that happens
+[00:20:58] at the same time as the processes
+[00:21:06] of colonial expansion that later, during
+[00:21:06] the XVIII and XIX centuries, they're going to take
+[00:21:11] the form of what Foucault calls, the
+[00:21:11] biopolitic, that is, an art of governing
+[00:21:16] the free bodies. This also concerns us,
+[00:21:23] since when, somehow, one fits into the
+[00:21:30] aesthetics of the sexual difference, one
+[00:21:30] thinks that is doing it evidently free.
+[00:21:39] The body as the last biopolitic
+[00:21:45] capsule is a disciplinary capsule
+[00:21:45] tremendously interesting
+[00:21:50] and curious because it's the only one facing
+[00:21:50] the museum, facing the pressure, facing the
+[00:21:56] domestic space. It is the only one with
+[00:21:56] the will to say "I",
+[00:22:02] therefore, identifies itself with the
+[00:22:02] standardization devices that
+[00:22:07] produce it. That is one of the difficulties
+[00:22:07] of political resistance and subversion,
+[00:22:14] precisely the fact that here, everyone seems
+[00:22:21] to articulate freely
+[00:22:26] his sexuality but, it is quite
+[00:22:26] more complex.
+[00:22:31] Along with the appearance of this aesthetic
+[00:22:31] of sexual difference and, I'm sorry to tell you as
+[00:22:37] I can’t go into details,
+[00:22:37] the colleagues of the Somateca of last year
+[00:22:42] are tired of listening my aesthetics
+[00:22:46] policy of the sexual difference
+[00:22:46] and they can give you
+[00:22:50] more details but, at the same
+[00:22:50] time,
+[00:22:55] since the goal of the XIX century biopolitic
+[00:22:55] is the reproduction of
+[00:23:02] the national body, the control of the
+[00:23:02] reproduction of the national body,
+[00:23:06] it is going to be established a strict
+[00:23:06] continuity between sexuality and
+[00:23:12] reproduction, so that all
+[00:23:12] non-reproductive practices will be
+[00:23:17] considered as pathological. That is
+[00:23:17] our banal history.
+[00:23:22] It is incredible that, yet we have not
+[00:23:22] rebelled collectively
+[00:23:27] against the establishment of
+[00:23:27] a strict continuity
+[00:23:32] between sexuality and reproduction,
+[00:23:32] that continuity is what I call
+[00:23:38] the first industrialization of the
+[00:23:38] sexuality,
+[00:23:44] the biopolitical artifact
+[00:23:47] that results from the
+[00:23:47] normative establishment of that
+[00:23:52] continuity for the benefit of the
+[00:23:52] reproduction of the national body is,
+[00:23:57] obviously, the heterosexual body.
+[00:23:57] Heterosexual
+[00:24:01] body and heterosexuality
+[00:24:01] understood, obviously, not only as a
+[00:24:05] sexual practice, obviously,
+[00:24:05] as noted by
+[00:24:09] Monique Wittig, or Guy Hocquenghem, readers
+[00:24:09] in the 80's of Foucault.
+[00:24:16] It is a political regime, not
+[00:24:16] a sexual practice. We are
+[00:24:21] not talking here about sexual practices.
+[00:24:21] When we talk about heterosexuality and
+[00:24:27] the heterosexual body, we are talking about
+[00:24:27] a political regime against the
+[00:24:31] homosexual body, masturbator body,
+[00:24:31] the fetish body, but also the
+[00:24:36] migrant body, the body of the
+[00:24:36] colonized, the body of the indigenous,
+[00:24:40] all of them appearing as deviant bodies,
+[00:24:40] that is, bodies that can’t, should not
+[00:24:46] have access to the reproduction of
+[00:24:46] the national body.
+[00:24:51] This story should be much longer,
+[00:24:51] but what I try to make you understand, is
+[00:24:56] that the first process of
+[00:24:56] industrialization of the sexual body
+[00:25:03] produces something similar to a
+[00:25:03] sexual taylorization of the body,
+[00:25:09] that is, while
+[00:25:09] the body appears as a living machine
+[00:25:16] without whom the process of
+[00:25:16] capitalist expansion and of
+[00:25:24] colonization is not possible, the body
+[00:25:24] also appears as a living
+[00:25:29] reproductive machine,
+[00:25:29] not only as a production machine
+[00:25:34] entering into
+[00:25:34] articulation, in agency with other
+[00:25:39] machines in the process of
+[00:25:39] industrialization and taylorization
+[00:25:43] of the production, but also, that
+[00:25:43] taylorization process is carried
+[00:25:48] out in the sexuality and therefore,
+[00:25:48] a sexosemiotic machine appears,
+[00:25:56] I say sexosemiotic because not only
+[00:25:56] it reproduces, but it produces
+[00:26:01] a truth, a whole process of
+[00:26:01] discursive internalization
+[00:26:07] that leads it to say something as
+[00:26:07] absolutely delirious as, I am
+[00:26:11] heterosexual or I am homosexual, therefore
+[00:26:11] leading it to identify itself with
+[00:26:17] the device of normalization. So that is
+[00:26:17] the invention and the production of that
+[00:26:23] artefact, of that living sex-semiotic
+[00:26:23] machine, it is the result of the first
+[00:26:29] process of industrialization that,
+[00:26:34] we can’t dwell on this question,
+[00:26:34] as I say, it is contemporary,
+[00:26:40] it accompanies and unfolds with the processes
+[00:26:40] of colonization, of invention of
+[00:26:44] the nation-states
+[00:26:44] and somehow
+[00:26:49] finds its critical point in the XIX century
+[00:26:49] but begins to enter into a crisis
+[00:26:55] after the Second World War.
+[00:27:01] Let me tell you one last element
+[00:27:01] of this first process of
+[00:27:06] industrialization of sexuality that
+[00:27:06] invents us as living
+[00:27:11] reproductive artefacts.
+[00:27:11] The result of that process is that, each
+[00:27:17] body is potentially considered
+[00:27:17] as a potential
+[00:27:24] sperm producer or uterus generator.
+[00:27:24] The biopolitical management dominating
+[00:27:34] the XIX century is a management and a
+[00:27:34] distribution of the bodies into the
+[00:27:40] space and with respect to reproduction,
+[00:27:40] only in relation to their reproductive
+[00:27:47] fluids and reproductive organs.
+[00:27:51] Notice that therefore, subsequent
+[00:27:51] somatopolitic revolutions will be
+[00:27:58] movements in which, for example,
+[00:27:58] women in the historical sense of
+[00:28:06] the term,
+[00:28:06] that is, the biopolitical subject woman
+[00:28:10] invented as living fiction, will reach a
+[00:28:10] moment when they will say
+[00:28:15] as political subjects: I exceed
+[00:28:15] my reproductive uterus.
+[00:28:22] My subjectivity can’t be reduced
+[00:28:22] to be a reproductive uterus.
+[00:28:28] That will be one of the
+[00:28:28] fundamental bankruptcies, one of the
+[00:28:32] fundamental criticisms, precisely, of
+[00:28:32] that clinical device that will lead to
+[00:28:37] that first industrialization of the
+[00:28:37] sexuality.
+[00:28:45] We often forget, obviously, not
+[00:28:45] only the colonization processes,
+[00:28:49] of which I won't speak to you today
+[00:28:49] because my urgency in
+[00:28:55] this moment it's another.
+[00:29:00] We forget that, together with the invention
+[00:29:00] of this artefact, there is this alive
+[00:29:09] sexosemiotic reproductive machine.
+[00:29:14] When I say machine don't
+[00:29:14] imagine anything strange but
+[00:29:20] a conglomerate of discourses,
+[00:29:20] of practices, of body techniques that
+[00:29:27] in addition, it has the curious ability to
+[00:29:27] say: "I". That's why I use the sexosemiotic term
+[00:29:32] because we are facing a machine that is
+[00:29:32] not only a reproductive machine but
+[00:29:36] that also semiotizes the reproduction process.
+[00:29:40] At the same time this sexosemiotic machine
+[00:29:40] is invented and taylorized,
+[00:29:47] another notion also appears during
+[00:29:47] that period.
+[00:29:53] Consider that, as the notions of heterosexuality
+[00:29:57] and homosexuality appear in the second half
+[00:29:57] of the XIX century, around 1868,
+[00:30:04] almost at the same time,
+[00:30:04] between the years 1830 and 1850,
+[00:30:10] the modern notions of physical and psychic
+[00:30:10] deficiency and disability,
+[00:30:18] understood as pathologies, also appear.
+[00:30:28] The process driving to the invention
+[00:30:28] of the disability
+[00:30:33] is very interesting and partially
+[00:30:33] begins to create some
+[00:30:40] cracks in the taxonomy of the clinic,
+[00:30:40] because what characterizes the
+[00:30:48] deficiency and the
+[00:30:48] disability is that they are not diseases
+[00:30:52] as, strictly speaking, they do not have
+[00:30:58] a cure but they are chronic conditions.
+[00:30:58] Therefore, in a strict sense,
+[00:31:07] they seem to escape the
+[00:31:07] disciplinary logic dominating
+[00:31:15] not only the distribution of what is normal and
+[00:31:15] what is pathological but also the very own will
+[00:31:22] of the therapeutic and curative clinic
+[00:31:22] as an enlightened project, therefore
+[00:31:28] this new deficient disable body
+[00:31:28] appears as a body with
+[00:31:36] whom the clinic can’t propose
+[00:31:40] a cure solution.
+[00:31:44] Again, I won't be able to tell you
+[00:31:44] the totality and complexity of the
+[00:31:50] processes leading to the invention of
+[00:31:50] the disability. The first thing
+[00:31:54] what I would like to say, to point out,
+[00:31:54] to emphasize, I imagine that it has already
+[00:31:58] made clear, is that disability and
+[00:31:58] deficiency therefore
+[00:32:04] are effects as well of that disciplinary
+[00:32:04] apparatus and therefore, it is about
+[00:32:09] notions culturally and historically
+[00:32:09] built. I say this because,
+[00:32:15] those who are constantly working
+[00:32:15] in feminist movements,
+[00:32:19] homosexual movements, queer, etc.
+[00:32:19] have already learned the idea
+[00:32:25] that, obviously, gender is social and
+[00:32:25] culturally constructed.
+[00:32:29] Now we are with the idea that sex is also
+[00:32:29] socially and culturally constructed,
+[00:32:32] but it is more complicated to think that
+[00:32:32] deficiency is socially and culturally constructed
+[00:32:39] so, if it's actually socially and
+[00:32:39] culturally constructed
+[00:32:44] we will have to pay attention
+[00:32:44] to the processes,
+[00:32:51] to the set of body techniques,
+[00:32:51] of practices of government and apparatus
+[00:32:55] of verification producing and
+[00:32:55] building the body as deficient and
+[00:33:00] as disabled.
+[00:33:00] These processes that are very long and very
+[00:33:06] intense, of an enormous intensity, are
+[00:33:06] related during late XIX century and early XX
+[00:33:10] century, from my point of view,
+[00:33:10] with the process itself of
+[00:33:17] industrialization and industrial
+[00:33:17] production, since one of the
+[00:33:20] definitions of the disabled body is
+[00:33:20] precisely, a body that can not
+[00:33:26] enter as a productive body in the
+[00:33:26] taylorized chain therefore,
+[00:33:33] a body that seems to don't
+[00:33:33] be able to adapt to the machine in the
+[00:33:39] production, an unproductive body
+[00:33:39] whose introduction appears as
+[00:33:47] disability, as a biopolitic
+[00:33:47] disability.
+[00:33:53] One of the processes that will lead to the
+[00:33:53] construction and the invention of the disabled
+[00:33:57] body, something so absolutely
+[00:33:57] foolish as the transformation of the
+[00:34:05] statistical notion of average into a notion of
+[00:34:05] biopolitics and management of the normative body.
+[00:34:17] Notice that, in principle, the statistical average
+[00:34:17] has nothing to do with it, it's just
+[00:34:28] an algorithm,
+[00:34:28] the result of a function.
+[00:34:35] However, what is going to happen is the inclusion
+[00:34:35] of the statistics and the
+[00:34:41] mathematic logics within the
+[00:34:41] health management processes, therefore the
+[00:34:47] statistical notion of average is going to
+[00:34:47] become the notion of biopolitical norm
+[00:34:53] and therefore, everything that exceed the average
+[00:34:53] will be considered as abnormal.
+[00:35:02] Again, I will not be able to talk further
+[00:35:02] on this subject. However,
+[00:35:09] I would like you to understand that
+[00:35:09] the processes of invention and
+[00:35:14] production of the sexual subject are not
+[00:35:14] independent of the set of
+[00:35:19] processes that invent and build the
+[00:35:19] body as normal and as pathological, as
+[00:35:24] able or as disable.
+[00:35:24] One of the things that we are
+[00:35:29] interested in is that the management
+[00:35:29] of the disable body is
+[00:35:34] not carried out by biopolitical techniques,
+[00:35:34] it is not carried out
+[00:35:39] by techniques of maximization of life expectancy
+[00:35:39] of the population. The management
+[00:35:46] of the disable body is, somehow, almost
+[00:35:46] like the dark side of biopolitics
+[00:35:51] and what is going to produce is, a
+[00:35:51] return to sovereign and tanatopolitic
+[00:35:56] forms that is to say,
+[00:35:56] forms of body management that are
+[00:36:02] related with the death.
+[00:36:02] What are the bodies that are going to be
+[00:36:07] considered as disabled?
+[00:36:07] I'm trying to make you see that
+[00:36:11] this set of notions including
+[00:36:11] the notion of femininity itself
+[00:36:19] or the notion of homosexuality are
+[00:36:19] considered in the XIX century as defects,
+[00:36:25] they are considered pathological
+[00:36:25] defects that must be eliminated in
+[00:36:31] benefit of the reproduction of the
+[00:36:31] healthy, national body and what we are
+[00:36:38] going to see is that the subsequent
+[00:36:38] movements of somatopolitic revolution are
+[00:36:42] a process, a huge process,
+[00:36:42] of depathologization of the body.
+[00:36:49] When I say depathologization, I mean
+[00:36:49] that these various movements
+[00:36:54] are going to question the apparatus of
+[00:36:59] biopolitical verification that is, they
+[00:36:59] will question the criteria, the
+[00:37:04] set of criteria, the discursive
+[00:37:04] apparatus of representation
+[00:37:09] that allowed to consider the homosexual body
+[00:37:09] as a pathological, sick body.
+[00:37:16] So, that movement,
+[00:37:16] or the set of political
+[00:37:20] movements is not only
+[00:37:20] intervening on the practices of
+[00:37:24] government of the body but it is
+[00:37:24] also trying to modify all the
+[00:37:30] speeches and representations that
+[00:37:30] define a body as normal or as
+[00:37:35] pathological and therefore, in many cases,
+[00:37:35] is going to be critical, on a
+[00:37:40] tremendously virulent way, of their own
+[00:37:40] scientific discourses.
+[00:37:46] I give you an example
+[00:37:46] that usually goes unnoticed at least
+[00:37:51] in my different journeys through
+[00:37:51] feminist groups.
+[00:37:57] It's always a surprise to realize that
+[00:37:57] no one or hardly anyone, knows
+[00:38:03] the origin of the word feminism.
+[00:38:07] I'm not going to ask you because it would be
+[00:38:09] embarrassing. I do not say it because you are
+[00:38:14] stupid or uneducated. I say it because,
+[00:38:14] collectively, we are
+[00:38:20] the product of a systematic erasure of
+[00:38:20] the subaltern knowledges about the body
+[00:38:24] and therefore, you can surely have a
+[00:38:24] doctorate in sociology without
+[00:38:29] have ever studied the history of
+[00:38:29] feminism, an aberration. So
+[00:38:34] I don't care about how many
+[00:38:34] university degrees we have among
+[00:38:39] us but I am sure, practically
+[00:38:39] sure, we wouldn't be able to say
+[00:38:44] what is the origin of the word
+[00:38:44] feminism. It has taken me years to find out
+[00:38:49] and I have found its origin almost by
+[00:38:49] chance. How? By studying, precisely,
+[00:38:54] about the clinic, studying
+[00:38:54] about the invention of the normal and
+[00:38:59] the pathological body and about the cultural
+[00:38:59] construction of the disease.
+[00:39:03] That notion of feminism as a horizon of political
+[00:39:09] and cultural transformation appears
+[00:39:14] as a feminism in which the
+[00:39:18] subject of political transformation is not
+[00:39:18] exactly the woman's body but
+[00:39:24] the pathological body.
+[00:39:26] That notion is
+[00:39:26] invented in 1871, once again with
+[00:39:31] the clinic at its peaks.
+[00:39:36] In 1871, by whom? by a specialist in
+[00:39:36] French tuberculosis,
+[00:39:42] Dr. Faneau de La Cour, who wrote a
+[00:39:42] treatise about the feminization of
+[00:39:49] men who suffer from tuberculosis.
+[00:39:52] Faneau de La Cour said in 1871: men
+[00:39:57] suffering from tuberculosis, lose
+[00:39:57] their male secondary characters and
+[00:40:02] suffer from feminization.
+[00:40:04] To that pathology affecting tuberculous men
+[00:40:12] Faneau de La Cour calls it no less than "feminism".
+[00:40:16] So, the word feminism in
+[00:40:20] etymological sense appears for the first
+[00:40:20] time in the Eurocentric discourse of the
+[00:40:26] XIX century as a medical significant to describe
+[00:40:35] neither women nor the women movement,
+[00:40:35] the one of women's
+[00:40:42] activism in
+[00:40:42] the XIX century, not at all.
+[00:40:44] The notion of
+[00:40:47] feminism in the XIX century,
+[00:40:47] refers to what? It refers to the feminization of
+[00:40:52] the tuberculous male body, that's what
+[00:40:52] Faneau de La Cour calls feminism,
+[00:40:58] a pathology.
+[00:40:58] What is feminism? Well, feminism is
+[00:41:02] these tuberculous men who, affected
+[00:41:02] by poor breading, for a set of
+[00:41:08] defective physical conditions develop
+[00:41:08] in some cases, breasts, in
+[00:41:14] some cases lose their beards and
+[00:41:14] therefore, according to Faneau de La Cour,
+[00:41:19] a process of pathological feminization
+[00:41:19] is produced.
+[00:41:23] What happens next? The son of
+[00:41:23] Alexandre Dumas, who is a French pamphleteer
+[00:41:29] of the XIX century, will pick up the
+[00:41:29] clinical notion that belongs
+[00:41:36] to the clinical pathology of the XIX
+[00:41:36] century tuberculosis. Let's say
+[00:41:41] we're in the club of pure science
+[00:41:41] my friends. Our
+[00:41:45] history is unbelievable.
+[00:41:45] Collectively, we drag
+[00:41:49] a set of undeserved
+[00:41:49] semiotic-politic "jewels".
+[00:41:54] Then, one year later, Alexandre
+[00:42:00] Dumas son who obviously, was very
+[00:42:00] sarcastic, as a pamphleteer
+[00:42:04] during this period, he was
+[00:42:04] very aware of these
+[00:42:11] new notions that were appearing and
+[00:42:11] that somehow were starting to circulate
+[00:42:16] in society. What he's going to do
+[00:42:16] is to use the word for the first time,
+[00:42:21] the clinic word "feminist", that is, that word
+[00:42:21] referring only to the effeminate
+[00:42:25] tuberculous men, sorry for the expression.
+[00:42:25] Dumas uses that clinical nomenclature
+[00:42:31] to refer to the men who
+[00:42:31] defend the cause of women in
+[00:42:39] defence of their political rights.
+[00:42:39] Unbelievable.
+[00:42:44] Etymologically, feminist men
+[00:42:44] are, in first instance, effeminate tuberculous and
+[00:42:51] secondly, they are going to turn
+[00:42:51] into whom? Into those men who, of course,
+[00:42:57] they "effeminate", sorry to use the
+[00:42:57] French term here.
+[00:43:04] How do they feminize? When they
+[00:43:04] acknowledge and defend women's rights
+[00:43:09] in the movement, specifically
+[00:43:09] of suffragists. That is
+[00:43:16] part of our history. It is unbelievable that as
+[00:43:21] feminist women and feminist men we are, and I use
+[00:43:21] feminist women and feminist men, referring this last one
+[00:43:26] to those effeminate men who defend the
+[00:43:26] cause of women in the public sphere.
+[00:43:30] I do not understand why there are
+[00:43:30] no more feminist men
+[00:43:34] in the Somateca each year.
+[00:43:34] You already know that I do not believe in
+[00:43:39] sexual differences, therefore, I do not care
+[00:43:39] if there are 25 men that is, masculine
+[00:43:46] names, or 25 female names but I establish
+[00:43:46] that, at least in
+[00:43:52] biopolitical terms, in terms
+[00:43:52] of biopolitical standardization, there are few
+[00:43:56] bodies that have been assigned as
+[00:43:56] male bodies at birth reaching
+[00:44:00] the critical stems of the
+[00:44:00] Somateca. Let's hope the memory
+[00:44:08] of Faneau de La Cour and of
+[00:44:08] Alexandre Dumas son will let
+[00:44:14] all those effeminates who want to
+[00:44:14] defend the cause of women in the
+[00:44:17] public sphere know they are
+[00:44:17] welcome in the Somateca, although
+[00:44:22] our struggles are not exactly the
+[00:44:22] same and that is the key of what
+[00:44:27] we are we doing here tonight.
+[00:44:27] Evidently, our struggles can't
+[00:44:30] be the same as the ones experienced by the
+[00:44:30] XIX century suffragettes and that is the
+[00:44:36] complexity of the contemporary feminist
+[00:44:36] movement.
+[00:44:38] But you're going to see why, among
+[00:44:38] other things because the clinic has changed.
+[00:44:43] I say this to encourage feminist
+[00:44:43] men to come to the Somateca,
+[00:44:50] if they couldn’t access the first
+[00:44:50] edition, I hope there will a third one, with or
+[00:44:55] without me, where they are encouraged to participate
+[00:44:55] in this critical process.
+[00:45:05] When the notions of disability,
+[00:45:05] of deficiency and psychic and
+[00:45:10] physical pathology appear
+[00:45:14] inside the clinic,
+[00:45:21] the hereditary defects that are going to be
+[00:45:21] the ones the doctors are going to
+[00:45:27] define as ideally reducible in
+[00:45:27] benefit of the production of a healthy
+[00:45:35] national body are as broad as:
+[00:45:35] mentally ill, homosexual, tuberculous,
+[00:45:41] as we already know the one
+[00:45:41] affected by feminism,
+[00:45:47] prostitute, epileptic, syphilitic,
+[00:45:47] neurotic, deaf, mute, haemophiliac...
+[00:45:54] I stop here because the list is long...
+[00:45:54] This is the taxonomy to manage the
+[00:45:59] pathological body proposed by
+[00:45:59] the clinical apparatus of the XIX century.
+[00:46:05] From this point, we can start to understand
+[00:46:05] the different somatopolitic movements
+[00:46:10] that will appear since late XIX
+[00:46:10] century, including
+[00:46:15] the suffragists as a criticism of those
+[00:46:15] devices of verification, a criticism of
+[00:46:22] the discourse of the representations and
+[00:46:22] of the government techniques that define
+[00:46:27] the normal and the pathological body,
+[00:46:27] why? Because what
+[00:46:33] characterizes the pathological body is that
+[00:46:33] it doesn't have access to the device of
+[00:46:38] verification, nor to the practices of
+[00:46:38] government. That is what has
+[00:46:42] historically characterized it. We have been
+[00:46:42] defined as bodies that should not,
+[00:46:49] cannot access to the device of
+[00:46:49] representation and production of
+[00:46:54] meaning, nor to the practices of
+[00:46:54] government, that for the benefit of the
+[00:46:59] health of the national body.
+[00:47:06] This mean that at the end of the XIX century
+[00:47:06] We were already wrong, and we were already
+[00:47:13] in quite a complex situation.
+[00:47:20] The funny thing is that we have
+[00:47:20] been segmented by some processes
+[00:47:26] of political emancipation that
+[00:47:26] fundamentally have been identity-based,
+[00:47:30] because the distribution and the
+[00:47:30] taxonomy of the XIX century clinic
+[00:47:37] had left us in a situation where
+[00:47:37] the somatopolitical revolution would have
+[00:47:41] been spectacular, meaning
+[00:47:41] we could have made a
+[00:47:45] somatopolitic alliance of syphilitics,
+[00:47:45] tuberculous, prostitutes...
+[00:47:52] This is the revolution that I invite you to
+[00:47:52] join and let myself to be invested.
+[00:47:58] The one that historically,
+[00:48:01] the tradition of feminism and
+[00:48:01] the homosexual movement
+[00:48:04] has resigned, because of
+[00:48:04] a set of identity-based segmentations.
+[00:48:10] How is it possible that feminism have said?
+[00:48:10] We take care of the
+[00:48:15] emancipation of women understanding it
+[00:48:15] as heterosexual white women,
+[00:48:21] as a reproductive uterus of the
+[00:48:21] central European nation and the
+[00:48:25] healthy body and how
+[00:48:25] is it possible that
+[00:48:28] the homosexual movement have said?
+[00:48:28] We are going to deal with the processes of
+[00:48:32] emancipation of the homosexual body.
+[00:48:32] How is that possible when what we had,
+[00:48:39] precisely, through the
+[00:48:39] complex, discursive framework with
+[00:48:46] whom we had been built in the
+[00:48:46] XIX clinic, we were in a
+[00:48:50] situation where the possible alliances
+[00:48:50] to make a counter disciplinary revolution
+[00:48:54] were spectacular? Nevertheless, what we
+[00:48:54] have seen, historically,
+[00:48:59] has been just the opposite. It
+[00:48:59] has been the successive purification of both
+[00:49:05] movements. The feminist one with the exclusion
+[00:49:05] of what? With the exclusion of
+[00:49:09] lesbians from the feminist movement, but
+[00:49:09] also, with the exclusion of migrant women,
+[00:49:12] of non-white women, of
+[00:49:12] prostitutes, obviously of
+[00:49:17] syphilitics, etc.,
+[00:49:17] etc. Therefore, a process of
+[00:49:22] purification for the benefit of supposed
+[00:49:22] identity policies that in fact,
+[00:49:28] as a subaltern somatopolitic collective,
+[00:49:28] has prevented us to
+[00:49:34] throw down the apparatus of
+[00:49:34] the clinic.
+[00:49:42] I'm going to tell you why I think
+[00:49:42] we are in a crucial historical moment
+[00:49:47] again, but if once again,
+[00:49:47] we get lost in a set of identity
+[00:49:53] struggles, we won't be able any longer
+[00:49:53] to break down the clinic already
+[00:49:58] being destroyed by the liberalism and
+[00:49:58] also, we will be
+[00:50:02] Re-taxonomized and re-segmented by their own
+[00:50:09] pharmacopornographic devices.
+[00:50:09] So, I ask you again. I know we are not
+[00:50:15] doing well, but I ask you again to have
+[00:50:15] a little patience. What I propose is to
+[00:50:21] think that after World War II a
+[00:50:21] change of paradigm occurs
+[00:50:25] and therefore, a change in the
+[00:50:25] body techniques, in the practices of
+[00:50:30] government but very important too, in the
+[00:50:30] devices of verification, in the
+[00:50:35] devices of verification.
+[00:50:39] What I propose is that a new device
+[00:50:39] of verification no longer scientific
+[00:50:44] appears. A new device that is going to
+[00:50:44] shape, if you want, as mercantilism and
+[00:50:51] as Foucault suggests, it is not just an
+[00:50:51] economic doctrine but a way of
+[00:50:57] production and reproduction of life.
+[00:51:01] Maybe you have heard from me in other
+[00:51:01] occasions talking about the set of changes
+[00:51:06] produced after WWII, I'm not going
+[00:51:06] to extend with this, I'm simply going
+[00:51:10] to name them very
+[00:51:10] fast for the benefit of
+[00:51:13] those who do not know them
+[00:51:13] so, you can see there are mutations
+[00:51:19] being produced so radically
+[00:51:19] in the practices of government
+[00:51:24] of the body of sexuality that
+[00:51:24] we are going to find, literally,
+[00:51:29] other processes of subjectivation with
+[00:51:29] nothing to do with those ones that I have
+[00:51:35] called the first industrialization of
+[00:51:35] the sexuality. What I propose is that,
+[00:51:39] since WWII we are in a second
+[00:51:43] industrialization of the sexuality.
+[00:51:48] Very quick, what happens after WWII?
+[00:51:48] The notion of gender is
+[00:51:52] invented. I've already told you in
+[00:51:52] multiple occasions, but only for the
+[00:51:57] benefit of our vague feminist
+[00:51:57] culture, we should know that, again, the
+[00:52:01] notion of gender exactly like the
+[00:52:01] notion of feminism is not invented by
+[00:52:05] the feminists but it is invented by the
+[00:52:05] medical device. More particularly, it is
+[00:52:11] invented in the John Hopkins
+[00:52:11] laboratories in the United States
+[00:52:15] during the 40-50s and it is invented,
+[00:52:15] among other things, to manage the
+[00:52:22] body of the so-called intersex babies.
+[00:52:22] What does this mean?
+[00:52:26] Very briefly, it means
+[00:52:26] that the apparatus of scientific
+[00:52:31] verification proposing the
+[00:52:31] anatomical existence of the sexual
+[00:52:39] difference is coming down
+[00:52:39] producing an epistemic
+[00:52:46] crisis in the 40-50.
+[00:52:46] What happens, literally, is that the
+[00:52:52] medical discourse begins to realize
+[00:52:52] there are a set of bodies
+[00:52:57] that can’t be reduced to the
+[00:52:57] sexual difference
+[00:53:02] and therefore, they can’t be represented,
+[00:53:02] recognized with the apparatus of
+[00:53:07] verification of the sexual difference.
+[00:53:09] What should have happened then?
+[00:53:12] Clearly, what could have happened
+[00:53:16] is an epistemic crisis
+[00:53:16] that would have led to a shift of
+[00:53:20] paradigm. For example, the medicine
+[00:53:20] of the 50s could have decided
+[00:53:27] that there are no 2 sexes but
+[00:53:27] that there are 4,5,6... Today, there is a
+[00:53:34] tremendously intense and virulent debate
+[00:53:34] within the medical establishment itself
+[00:53:40] about the existence of a
+[00:53:40] multiplicity of morphological,
+[00:53:45] genetic, hormonal variations that can not
+[00:53:45] be reduced to the sexual difference.
+[00:53:53] That epistemic crisis,
+[00:53:53] How is it going to be solved? It is not going to
+[00:53:57] solved with a shift of paradigm.
+[00:53:57] This must be collectively understood
+[00:54:01] and very clearly, there won't be a
+[00:54:01] shift of paradigm. Although the
+[00:54:07] epistemic crisis is huge, there will only be
+[00:54:07] a shift of paradigm if, collectively,
+[00:54:14] we try to modify the practices of
+[00:54:14] government.
+[00:54:19] This is a story that I can tell you in another
+[00:54:19] moment, if we meet in smaller groups, or
+[00:54:24] larger or whatever. It's something
+[00:54:24] we have to understand,
+[00:54:28] The medical discourse has known for years
+[00:54:35] that there are not two sexes. I invite you to
+[00:54:35] go to a congress of intersexuality,
+[00:54:41] you will be shocked.
+[00:54:41] Contemporary doctors are more
+[00:54:47] constructivists than me and,
+[00:54:47] apparently, I am the absolute excess of
+[00:54:53] constructivism. I'm not short if I am compared
+[00:54:53] to a contemporary doctor who is
+[00:54:57] absolutely convinced that the sexual difference... no,
+[00:55:01] but instead a chromosomal genetic, morphological...
+[00:55:01] multiplicity and for the
+[00:55:07] benefit of the social government and the
+[00:55:07] production of a governable social body,
+[00:55:12] it must be redirected to the
+[00:55:12] sexual difference. That is the contemporary
+[00:55:17] medical discourse today. To us,
+[00:55:17] collectively, as feminists,
+[00:55:21] within the homosexual movement, this
+[00:55:21] should be one of the most important tasks.
+[00:55:26] I don't understand what we
+[00:55:26] are doing in separate movements,
+[00:55:28] I don't understand,
+[00:55:28] I don't understand why we can’t form a
+[00:55:34] transversal, somatopolitic
+[00:55:34] movement of rebellion and resistance
+[00:55:40] that allow us, precisely, to fight in
+[00:55:40] an effective way against this apparatus of
+[00:55:46] verification absolutely violent and
+[00:55:46] abusive that is the sexual difference
+[00:55:50] allowing us to fight against the
+[00:55:54] normalization of the body as a valid
+[00:55:54] body through collective alliances
+[00:55:58] that will not be able to be
+[00:55:58] solved in logics of identity but
+[00:56:03] through a set of strategies and
+[00:56:07] of synthetic affinities that we
+[00:56:07] will have to collectively invent.
+[00:56:13] This question is absolutely central.
+[00:56:13] I will not insist more on it because
+[00:56:18] I hope, and I trust that each and every one
+[00:56:18] of you here tonight will know.
+[00:56:18] 616
+[00:56:18] 00:56:24,030 --&gt; 00:56:30,000
+[00:56:18] The second change that is going to
+[00:56:18] happen is, the invention of a whole
+[00:56:30] set of endocrinological, chemical,
+[00:56:30] techniques that will separate reproduction and
+[00:56:37] heterosexuality. What I mean
+[00:56:37] literally, is that heterosexuality
+[00:56:42] as we knew it and how it was invented,
+[00:56:42] as a reproductive artefact and technique of
+[00:56:46] management reproduction in the XIX century,
+[00:56:46] doesn't exist anymore.
+[00:56:51] Maybe it is possible that there are still
+[00:56:51] bodies being managed according to
+[00:56:56] that logic. If there are some please
+[00:56:56] raise your hand.
+[00:57:03] Heterosexuality, as invented in
+[00:57:03] the XIX century ceased to exist the
+[00:57:08] moment where a molecule, a
+[00:57:08] set of molecules separating
+[00:57:13] heterosexuality and reproduction are
+[00:57:13] invented. The most interesting thing is
+[00:57:17] not the fact that
+[00:57:17] heterosexuality works from
+[00:57:23] that moment as a political
+[00:57:23] management device, only as a parody
+[00:57:29] for the benefit of this
+[00:57:29] social stability,
+[00:57:35] the most interesting thing is that, in
+[00:57:35] 1960 the pill becomes the best seller
+[00:57:41] pharmacological molecule of the
+[00:57:41] history of humanity.
+[00:57:46] This means that the
+[00:57:51] sexual body is no longer thought of as
+[00:57:51] productive and reproductive, instead it
+[00:57:57] is being thought and built as
+[00:57:57] consumer.
+[00:58:02] This is a mutation absolutely
+[00:58:02] crucial. I don't know if you
+[00:58:08] have imagined or thought of yourselves
+[00:58:08] not as productive or reproductive
+[00:58:12] but as consumers.
+[00:58:12] That is the statute of the contemporary
+[00:58:18] sexuality. We are pharmacopornographic
+[00:58:18] consumers and only incidentally,
+[00:58:23] productive and reproductive since
+[00:58:23] reproduction and production, as you know,
+[00:58:28] have been both outsourced and ideally, they
+[00:58:34] produce elsewhere, complicating
+[00:58:34] social and political management.
+[00:58:39] In the same way as
+[00:58:39] production is displaced in Asia,
+[00:58:45] in different places of
+[00:58:45] Latin America, etcetera, it's also
+[00:58:52] true that those reproductive processes,
+[00:58:52] ideally, would also be
+[00:58:56] displaced to other places.
+[00:59:02] There would be a set
+[00:59:02] of mutations, we could
+[00:59:11] point out one of them,
+[00:59:11] obviously, the
+[00:59:17] expansion, not only of pharmacological
+[00:59:17] techniques separating
+[00:59:22] heterosexuality and reproduction, but the
+[00:59:22] invention and the expansion of an entire
+[00:59:27] set of assisted reproduction
+[00:59:27] techniques.
+[00:59:32] Again, a set of techniques for
+[00:59:32] which the apparatus of verification
+[00:59:37] is not the state and it is not
+[00:59:37] disciplinary, it's not the clinic, it's not
+[00:59:44] scientific but is the market. The apparatus
+[00:59:44] of verification is
+[00:59:46] the market.
+[00:59:55] Obviously, I can't tell you
+[01:00:02] the dramatic
+[01:00:06] ramifications of the
+[01:00:06] pharmacopornographic expansion
+[01:00:12] but, what I want to tell you,
+[01:00:12] in any way contributing to some kind
+[01:00:16] of massive paranoia thinking we are
+[01:00:16] dominated by the pharmacopornograpic, no,
+[01:00:20] nobody here is being dominated, it that
+[01:00:20] this set of
+[01:00:24] forms of government of body techniques
+[01:00:24] and devices of verification
+[01:00:28] we have invented ourselves and
+[01:00:28] we manage ourselves. This is the
+[01:00:33] huge paradox, we are here, at the
+[01:00:33] same time, subjects and objects
+[01:00:39] of government. Therefore, the question
+[01:00:39] is what we want to do with those devices
+[01:00:44] of government that we have invented
+[01:00:44] collectively
+[01:00:47] and therefore, in this case, I would leave
+[01:00:47] out some of the mythifications a little
+[01:00:53] paranoid that my not very feminist,
+[01:00:53] tuberculous, sex worker, syphilitic,
+[01:00:59] AIDS carriers... friends and
+[01:00:59] colleagues in the radical left have,
+[01:01:04] the same ones with a somehow paranoid,
+[01:01:04] negative, somehow ultra-depressed vision
+[01:01:12] of the contemporary political situation
+[01:01:18] and, in particular, of the
+[01:01:18] neoliberalism. I can't
+[01:01:25] extend myself further since I already
+[01:01:25] know it's starting to be late.
+[01:01:34] I would want you to start to
+[01:01:34] displace
+[01:01:40] the traditional image that we had, till
+[01:01:40] now, of the clinic and its ramifications
+[01:01:45] in disciplinary archipelagos
+[01:01:45] containing the school, the museum, the
+[01:01:52] domestic space, prison, etc.,
+[01:01:55] You can see they are now displaced,
+[01:01:55] I say displaced not disappeared,
+[01:01:59] the proof is that we
+[01:01:59] are in one of them,
+[01:02:04] and they work now in articulation, in
+[01:02:04] conflict, in strategic alliance with
+[01:02:10] another set of government practices,
+[01:02:10] of body techniques
+[01:02:16] and devices of verification that are
+[01:02:16] no longer disciplinary, no longer
+[01:02:21] those of the clinic. They look like this (image
+[01:02:21] projected) and the place we occupy there is
+[01:02:28] not so much as producers and
+[01:02:28] reproducers but as consumers on
+[01:02:34] credit. Consumers on credit.
+[01:02:42] To avoid a somehow paranoid
+[01:02:42] vision, what I wanted
+[01:02:47] to show you today is 2 examples
+[01:02:47] relatively close and contemporary
+[01:02:56] of anti-pharmacopornographic resistance.
+[01:02:56] The first one has to do with
+[01:03:04] AIDS, since AIDS,
+[01:03:04] I'm going to say AIDS for now,
+[01:03:11] is, from my point of view, the first
+[01:03:11] disease of the neoliberal condition.
+[01:03:18] It is the first pandemic
+[01:03:18] built, I say built, do not run
+[01:03:25] in panic thinking "the plot ..."
+[01:03:25] When I say built I say, built how?
+[01:03:31] In the agency and the
+[01:03:31] articulation of that set of techniques
+[01:03:34] of government that we have done
+[01:03:34] collectively. That does not mean that
+[01:03:37] there is a plot with somebody
+[01:03:37] inventing AIDS
+[01:03:40] in a laboratory, although it could
+[01:03:40] had happen but that's not what I
+[01:03:43] am saying.
+[01:03:43] As I said before, AIDS is the first
+[01:03:49] disease of the neoliberal condition,
+[01:03:49] the one that, more explicitly,
+[01:03:53] inaugurates the condition and management
+[01:03:53] pharmacopornographic. It is invented
+[01:04:00] as political management, as a technique of
+[01:04:00] political management at the same
+[01:04:04] time by media, by the television;
+[01:04:04] it's the first
+[01:04:09] disease whose representations and whose
+[01:04:09] apparatus of verification is televisual.
+[01:04:16] This is unusual, again, we do not have
+[01:04:16] much time to talk about it, but
+[01:04:21] think about the complexities of that
+[01:04:21] statute not only televisual but also
+[01:04:27] pharmacological. What does it mean? It
+[01:04:27] means that the great debates around AIDS
+[01:04:32] take place as purely scientific
+[01:04:32] debates but they take
+[01:04:37] place as debates of intervention and
+[01:04:37] of pharmacological marketing, in fact
+[01:04:43] do you know that AIDS is not a disease?
+[01:04:43] I hope you know, because some people don't know.
+[01:04:47] It is not a disease in the
+[01:04:47] strict sense of the term but a
+[01:04:52] syndrome. It is a syndrome, that is, a
+[01:04:52] set of conditions related to
+[01:04:58] a viral status.
+[01:04:58] So, how is AIDS detected and how
+[01:05:06] does it appear? At the beginning of
+[01:05:06] the 80s among other things,
+[01:05:12] with the standardization of
+[01:05:12] a pharmacological test that is called
+[01:05:18] ELISA,
+[01:05:18] that is going to become a mandatory
+[01:05:24] test in some contexts and that
+[01:05:24] will define the serological status, the
+[01:05:31] serological status. Independently
+[01:05:31] of a normal or pathological
+[01:05:36] body condition, the body
+[01:05:36] is not sick but it has a
+[01:05:41] positive or negative serological status,
+[01:05:41] therefore, the interesting thing is that this
+[01:05:48] syndrome that appears in 1981...
+[01:05:48] What is it happening in 1981?
+[01:05:59] We are entering the Reagan years,
+[01:05:59] in the Thatcher years, we just
+[01:06:03] finished the oil crisis and a great
+[01:06:03] mutation is producing in the society, from
+[01:06:07] what we might call society
+[01:06:07] of the exchange to the society of
+[01:06:11] consumption. That mutation is also from
+[01:06:11] productive Fordism to
+[01:06:17] a set of post Fordist production modes
+[01:06:17] that are going to be characterized
+[01:06:21] for being immaterial, biopolitical,
+[01:06:21] cognitive productions.
+[01:06:28] Therefore, AIDS is
+[01:06:33] the intangible post-Fordism syndrome
+[01:06:33] and the funny thing is that AIDS covers,
+[01:06:40] a set of subaltern figures
+[01:06:40] that were starting to
+[01:06:46] escape from the
+[01:06:46] XIX century clinic.
+[01:06:51] This is the key. Why?
+[01:06:51] Because, to whom it supposedly affects
+[01:06:57] what it was called the gay cancer
+[01:06:57] during the 80s? It affects what it
+[01:07:03] was known at that time the "5 H", that is:
+[01:07:03] Haemophiliac,
+[01:07:10] The haemophiliac? Oh! The haemophiliac
+[01:07:10] was on the list of
+[01:07:15] bodies that were supposed to be
+[01:07:15] sterilized
+[01:07:19] for the benefit of the improvement of the
+[01:07:19] national body, but not only the haemophiliac,
+[01:07:24] the Haitian and as we will see later,
+[01:07:24] maybe not today,
+[01:07:29] Africa is going to become
+[01:07:29] into a notion
+[01:07:36] to define the pandemic. Not a territory,
+[01:07:36] but a medical notion
+[01:07:42] defining the very own
+[01:07:42] AIDS pandemic.
+[01:07:46] The third H is the Heroin addict.
+[01:07:46] Remember what it happened
+[01:07:51] in the supposedly sexual revolution of
+[01:07:51] the 60s, since the late 50s:
+[01:07:58] sex, drugs rock and roll.
+[01:07:58] Well, let's see where we put the
+[01:08:04] drugs here. How suitable!
+[01:08:04] the heroin-addict.
+[01:08:09] and the last H is Hooker, prostitute.
+[01:08:09] That is to say,
+[01:08:18] how to recapture in the grid of the
+[01:08:18] government practices the sex worker
+[01:08:23] who is beginning for the first time,
+[01:08:23] historically, to demand
+[01:08:28] recognition of their own
+[01:08:28] work as a job.
+[01:08:35] Among them it would also be the
+[01:08:35] animal, since primates appeared
+[01:08:40] as the origin of
+[01:08:40] the disease so, here we have again
+[01:08:45] a whole new grid, of what?
+[01:08:45] of animality, sexuality, disability,
+[01:08:51] drugs, sex work, again in
+[01:08:51] the coordinates of political management
+[01:08:59] offered or invented by AIDS
+[01:08:59] in the 80s, defining a new
+[01:09:06] subaltern subject, transversal.
+[01:09:12] Transversal as, in some way, it
+[01:09:12] escapes the logical of
+[01:09:17] the sexual difference, the logic of
+[01:09:17] the traditionally disciplinary
+[01:09:21] XIX century sexuality.
+[01:09:21] I'll give you an example,
+[01:09:28] what I think is a form
+[01:09:28] of activism anti-pharmacopornography
+[01:09:36] and I hope to get to the last
+[01:09:36] example that I have brought you without
+[01:09:39] being thrown out the door, as I can see
+[01:09:39] Jesús begins to worry about the lack of
+[01:09:42] time for questions and answers.
+[01:09:47] One of the examples, from my point of view
+[01:09:47] view, more paradigmatic of a
+[01:09:53] agency anti-pharmacopornographic is
+[01:09:53] what will happen in
+[01:09:57] groups of suspected AIDS patients.
+[01:09:57] They are going to form a set of
+[01:10:04] coalitions of activism that in the
+[01:10:04] first 80s are going to be called Act Up,
+[01:10:09] not only Act Up, there will be
+[01:10:09] many different groups of activists.
+[01:10:14] It is going to start what we could
+[01:10:14] call an epistemological turn,
+[01:10:19] that is going to mark how to do micropolitics
+[01:10:19] in the 21st century, because what's going
+[01:10:26] to happen is that AIDS patients, in
+[01:10:26] the clinical sense of the term will reject
+[01:10:32] to be positioned as sick and will claim
+[01:10:32] to be considered as users of the health
+[01:10:37] system. Experts in the
+[01:10:37] process of taking
+[01:10:40] decisions. They are going to ask to
+[01:10:40] intervene in the production of
+[01:10:45] scientific knowledge and will challenge
+[01:10:45] the functioning of the clinical trials.
+[01:10:51] From my point of view, AIDS
+[01:10:51] activists are the first ones to
+[01:10:56] understand that the apparatus of verification
+[01:10:56] producing what is normal and what is
+[01:11:02] pathological related to AIDS, is
+[01:11:02] moving from the clinic to the
+[01:11:07] pharmacological market, as the
+[01:11:07] first place they go or where they
+[01:11:14] are going to attack in a virulent way
+[01:11:14] are precisely the pharmaceutical
+[01:11:18] companies. They will focus on
+[01:11:18] two places, the criticism of
+[01:11:22] representation of AIDS in the media,
+[01:11:22] one of the
+[01:11:27] places where AIDS is occurring
+[01:11:27] as a device of verification
+[01:11:30] are the media and, secondly
+[01:11:36] the pharmacological industry and the
+[01:11:36] specific way they are
+[01:11:42] managing the patents.
+[01:11:46] That, from my point of view, is one
+[01:11:46] of the deepest lines of
+[01:11:51] contemporary resistance, a whole
+[01:11:51] movement that it will be known
+[01:11:57] internationally with the name of
+[01:11:57] Treatment Activism, activism of the
+[01:12:02] treatments, a movement that demands
+[01:12:02] the production of generics,
+[01:12:09] a movement describing itself
+[01:12:09] as Medication For All Nations,
+[01:12:15] drugs for all nations, proposing
+[01:12:15] trafficking
+[01:12:21] of medicines, of patents.
+[01:12:21] So, I think we can
+[01:12:27] start to identify a set of
+[01:12:27] resistance techniques, techniques
+[01:12:32] of dissident subjectivation that
+[01:12:32] are not exactly the same ones as
+[01:12:39] the criticism of the XIX
+[01:12:39] century clinic.
+[01:12:43] I won't go further,
+[01:12:48] except to remember one of
+[01:12:48] the claims of the AIDS activist
+[01:12:56] movements of the 80s. One
+[01:12:56] of their claims was Open the Pill,
+[01:13:03] open the pills, you have to open the
+[01:13:03] pills collectively. They said it
+[01:13:09] because they had been subjects between
+[01:13:09] 1987 and 1989, of a set of tests to
+[01:13:18] use or not AZT, one of the
+[01:13:18] medications that was
+[01:13:23] proposed, at that time, as one of the
+[01:13:23] possible therapies against AIDS.
+[01:13:28] It was absolutely ineffective, the
+[01:13:28] side effects were terrifying,
+[01:13:34] but at that time when there was
+[01:13:34] no drug that could treat the
+[01:13:38] effects or the set of diseases
+[01:13:38] associated with AIDS, the sick,
+[01:13:44] the groups and collectives
+[01:13:44] of sick activists and
+[01:13:49] I hope you understand "sick activists"
+[01:13:49] as a new figure
+[01:13:53] of political subjectivity "sick activist ",
+[01:13:53] that's what we are, if we are
+[01:13:58] something we are sick activists.
+[01:13:58] We have been built,
+[01:14:02] historically, as sick and now we
+[01:14:02] redefined ourselves as sick activists.
+[01:14:07] Well, look what they are going to
+[01:14:07] say, that they can’t submit
+[01:14:10] to scientific protocols that
+[01:14:10] would leave half of a group taking
+[01:14:16] a placebo and the other half
+[01:14:16] taking the active molecule of AZT.
+[01:14:22] Why? Because if the molecule works, the
+[01:14:22] half of the group that is taking placebo
+[01:14:26] dies and therefore they say, we
+[01:14:26] don't care at all what
+[01:14:32] you call scientific truth,
+[01:14:32] what we want is the
+[01:14:36] survival of the maximum number of
+[01:14:36] people. What are they doing? They
+[01:14:41] are making a modification of
+[01:14:41] the device of verification,
+[01:14:45] proposing another way to produce truth
+[01:14:45] and to produce health. They are
+[01:14:50] redefining the field of health and what
+[01:14:50] what they are going to say is as you already know
+[01:14:55] that in scientific trials a blind placebo
+[01:14:55] is produced, that is,
+[01:15:01] a placebo disguised in such a
+[01:15:01] way that they don't know who is
+[01:15:04] taking the placebo and who's taking the
+[01:15:04] active molecule AZT. What the sick activist
+[01:15:09] are going to do is to set a
+[01:15:09] group of small laboratories and they
+[01:15:13] are going to open the pill, they will take the
+[01:15:13] pills and they are going to open them
+[01:15:19] to see what the hell they are taking.
+[01:15:19] I think that is one of the
+[01:15:24] metaphors, not only a
+[01:15:24] resistance practice but also a
+[01:15:29] metaphor of the set of practices of
+[01:15:29] resistance in neoliberalism.
+[01:15:33] That is, we need to organize
+[01:15:33] ourselves collectively to open
+[01:15:38] the pills that we are taking.
+[01:15:44] We are not only in the clinic but
+[01:15:49] constructed and produced as in a
+[01:15:49] set of subjectification processes
+[01:15:53] related with pharmacopornographic
+[01:15:53] consumption and collectively
+[01:15:58] we can say: well, let's see
+[01:15:58] the pills we are taking.
+[01:16:02] That means processes of
+[01:16:02] collective agency, processes of
+[01:16:07] exchange of collective knowledge,
+[01:16:07] obviously not everyone will be
+[01:16:11] able to open all the pills. That is
+[01:16:11] what we are doing here together,
+[01:16:14] that is what we are doing here
+[01:16:14] together, because suddenly
+[01:16:17] if a pill is open somewhere, it
+[01:16:17] is that what we need to
+[01:16:21] do collectively. I talk now about the
+[01:16:21] last thing I wanted to talk
+[01:16:26] in the pitiful 10 minutes that I have left,
+[01:16:31] to me is very important,
+[01:16:31] because one of the things that
+[01:16:36] I would like to do today with
+[01:16:36] these unfortunate but wonderful 10
+[01:16:41] remaining minutes is to understand to,
+[01:16:45] in some way,
+[01:16:45] open collectively the horizon of
+[01:16:51] political transformation that we have
+[01:16:51] in feminist movements, in
+[01:16:56] the movements of sexual liberation,
+[01:16:56] etcetera and therefore I wanted
+[01:17:00] to introduce today the work of an
+[01:17:00] American autistic activist called
+[01:17:09] Amanda Baggs. Why? Because
+[01:17:09] notice that the notion of
+[01:17:13] autism is going to be invented exactly
+[01:17:13] at the same time and in the same clinic that
+[01:17:22] the contemporary notion of gender, the
+[01:17:22] one that will
+[01:17:28] redirect the bodies or
+[01:17:28] reassign the bodies of intersex
+[01:17:32] babies towards masculinity or
+[01:17:32] femininity. It is the John Hopkins
+[01:17:37] clinic of New York with a
+[01:17:37] medical classification invented by the
+[01:17:42] Dr. Leo Kanner. He experimented
+[01:17:42] on a small group of eleven
+[01:17:48] children and this is how he arrives at the
+[01:17:48] definition of what he calls "infantile autism".
+[01:17:54] A few years later the Austrian
+[01:17:54] Asperger, who you obviously know for
+[01:17:59] the Asperger syndrome and what it is
+[01:17:59] known today as autism and
+[01:18:05] Asperger syndrome for a broader
+[01:18:05] spectrum. In those same years,
+[01:18:10] between 1943 in 1950, Asperger will define
+[01:18:10] what he calls autistic psychopathology.
+[01:18:18] How do Kanner and Asperger characterize
+[01:18:18] the autistic psychopathology?
+[01:18:24] I would like you to think about how
+[01:18:24] autism appears, like the new
+[01:18:30] disease of post-Fordism or the
+[01:18:30] intangible production, the cognitive
+[01:18:37] production. The autistic is the new body,
+[01:18:37] the new subjectivity disabled for the
+[01:18:44] post-Fordist production. That's why it has not
+[01:18:44] appeared before and that's why it's crucial
+[01:18:49] the configuration of the 50s-60s.
+[01:18:49] First, rejection or absence of linguistic
+[01:18:56] capacity, what makes it
+[01:18:56] clear that the autistic can't be
+[01:19:00] a semiotic producer. Rhythmic movements of
+[01:19:00] self-stimulation putting in
+[01:19:06] danger or making impossible every
+[01:19:06] social interaction of the autistic.
+[01:19:12] Communicative disorder making the
+[01:19:12] sick to avoid establishing
+[01:19:16] eye contact suitable for social
+[01:19:16] interaction.
+[01:19:21] Think that the forms of production
+[01:19:21] that are starting up during the
+[01:19:25] 50s and 60s, those forms of
+[01:19:25] cognitive production are related
+[01:19:30] with social communication, with
+[01:19:30] exchange, with the
+[01:19:33] production of profit and capital via
+[01:19:33] communicative exchange.
+[01:19:40] Therefore, the autistic subject appears
+[01:19:40] as the new disabled of the
+[01:19:47] cognitive production and in addition, it is
+[01:19:47] lonely, isolated and not emotional.
+[01:19:55] Therefore, another one of
+[01:19:55] the central places of post Fordist
+[01:19:59] production, what Negri has called:
+[01:19:59] put the body to work and put the
+[01:20:04] affections work, in a way,
+[01:20:04] the autist has no affection to put
+[01:20:09] to work. They can't put affections to work.
+[01:20:09] So, the autistic appears not
+[01:20:14] only as a cognitive pathology,
+[01:20:14] but as a pathology of the social, of
+[01:20:20] the economic and as the very limit of
+[01:20:20] the political.
+[01:20:24] Note that, in that sense, the autistic
+[01:20:24] appears as the constituent outsider of
+[01:20:31] the political. Hence, for example,
+[01:20:31] philosophers working in the field of
+[01:20:36] bioethics as well-known as
+[01:20:36] Peter Singer, so
+[01:20:41] polemic in many aspects, Peter
+[01:20:41] Singer, who some of you already know,
+[01:20:44] is going to claim the recognition of some
+[01:20:49] animals, especially primates, as
+[01:20:55] human. He will also request that
+[01:20:55] some other disqualified bodies
+[01:20:59] be recognized as non-human, among them
+[01:20:59] autistic people. You will see how
+[01:21:04] Amanda Baggs is going to answer to
+[01:21:04] Peter Singer.
+[01:21:10] I introduce you, very
+[01:21:10] quickly, the work of Amanda Baggs and
+[01:21:15] I hope that despite the very long
+[01:21:15] talk I have given till 9pm,
+[01:21:23] it will worth if you can see
+[01:21:27] for the first time Amanda Baggs
+[01:21:27] in case you have never seen it.
+[01:21:29] She is an American autistic activist,
+[01:21:29] she was born in California.
+[01:21:34] She was born in California in 1980 and was
+[01:21:34] diagnosed as low functionality
+[01:21:39] autistic. She has been
+[01:21:39] mostly half of her life
+[01:21:44] interned, recluse in institutions
+[01:21:44] and the other half in the company of
+[01:21:49] what is today called, the
+[01:21:49] disability industries.
+[01:21:53] According to the new autistic test
+[01:21:53] launched in 1982, one of
+[01:22:01] every 150 American children are
+[01:22:01] considered as potentially
+[01:22:07] autistic and therefore as
+[01:22:07] consumers, not only
+[01:22:12] as subjects or as objects of the
+[01:22:12] clinical discipline,
+[01:22:17] but as consumers of the industries of
+[01:22:17] disability. That is one of the political
+[01:22:24] challenges and political criticism
+[01:22:24] that Amanda Baggs will do to the notion
+[01:22:33] of autism itself.
+[01:22:33] The American medical system,
+[01:22:39] considers that it costs between a million and
+[01:22:39] seven million dollars to train,
+[01:22:46] to empower the autistic body to survive
+[01:22:50] and to be integrated into the processes of
+[01:22:50] productive training, but
+[01:22:54] obviously, we are in front of
+[01:22:54] a device of
+[01:23:01] verification and neoliberal body
+[01:23:01] production that has little to do with the
+[01:23:04] traditional clinic.
+[01:23:04] Amanda Baggs is today one of the
+[01:23:09] main figures of the neurodiversity movement.
+[01:23:13] The most curious thing is that Amanda Baggs
+[01:23:13] does not leave her house, she is
+[01:23:19] seemingly alone, therefore,
+[01:23:19] I ask you to start also
+[01:23:24] imagining other forms of
+[01:23:24] political activism and action
+[01:23:29] that do not need to be governed
+[01:23:29] nor by the disciplinary logics
+[01:23:35] of the XIX century nor
+[01:23:35] by some of the politic imaginary
+[01:23:41] and the mythologies of the
+[01:23:41] political insurrection of the XIX century.
+[01:23:47] How does Amanda Baggs work? Amanda Baggs
+[01:23:47] works in critical connection with the
+[01:23:53] Semiotechnical machine, what
+[01:23:53] you are going to hear is not her voice,
+[01:23:57] because she can't speak, but her
+[01:23:57] vocalization through the machine.
+[01:24:04] How will Amanda Baggs begin to
+[01:24:04] work politically? In 2007 she puts online
+[01:24:10] a video, today absolutely
+[01:24:10] famous in the neurodiversity movement
+[01:24:14] called "In My Language" and
+[01:24:14] this video generates such unprecedented
+[01:24:21] turbulence in the field of
+[01:24:21] the disability industries in
+[01:24:26] United States, that a whole group of doctors
+[01:24:26] is going to say that Amanda Baggs hasn't been
+[01:24:31] able to make the video herself and
+[01:24:31] that, obviously, it is fake and
+[01:24:35] someone is manipulating autistic people
+[01:24:35] because an autistic could never be able
+[01:24:40] to say what Amanda Baggs is saying.
+[01:24:44] The first time I saw the video of
+[01:24:44] Amanda Baggs, I thought in, for
+[01:24:49] those who know the history of the
+[01:24:49] institutional criticism in contemporary
+[01:24:53] art and what Suely Rolnik or Brian Holmes
+[01:24:59] call the expansion of institutional
+[01:24:59] criticism to experimental areas,
+[01:25:04] the first thing I thought were artists of
+[01:25:04] the 50s, 60s and 70s as Lydia Clarke,
+[01:25:10] but also contemporary as Rhitt Ashey or
+[01:25:10] as Annie Sprinkle and Beth Stephens.
+[01:25:15] If we are lucky these last two will come
+[01:25:15] to the Somateca this year in May.
+[01:25:21] What Amanda Baggs will propose is a
+[01:25:21] device of verification that may
+[01:25:27] acknowledge her way of perception and
+[01:25:27] decoding of the world, recognizing
+[01:25:32] her as true and as healthy,
+[01:25:32] therefore, what she is asking is
+[01:25:38] something in principle tremendously strong,
+[01:25:38] tremendously extraordinary and of
+[01:25:45] enormous complexity, even considering
+[01:25:45] traditional requests done by
+[01:25:51] feminists, transsexuals and transgender
+[01:25:51] movements and
+[01:25:55] from my point of view, it is close
+[01:25:55] to the intersexual and
+[01:25:58] transsexual contemporary movements
+[01:25:58] that are going to say:
+[01:26:03] I have a perception of the sexual body
+[01:26:03] in which I live that is not exactly the same,
+[01:26:08] it doesn't match the standardized one. That
+[01:26:08] doesn't mean that it is not healthy.
+[01:26:13] Well, I am not saying anything else, I already
+[01:26:13] know it's very, very late, I can not
+[01:26:19] show you the two videos that
+[01:26:19] I had thought to show of Amanda Baggs,
+[01:26:24] you can watch them on YouTube.
+[01:26:24] Amanda Baggs is tremendously known and
+[01:26:29] she has a lot of videos, but I show you
+[01:26:29] "In My Language", because I think
+[01:26:33] is a collective experience we deserve.
+[01:30:02] Amanda Baggs: "The previous part of this video
+[01:30:02] was in my native language.
+[01:30:07] Many people have assumed that
+[01:30:09] when I talk about this being
+[01:30:09] my language
+[01:30:11] that means that each part of the video
+[01:30:13] must have a particular symbolic message within it
+[01:30:16] designed for the human mind to interpret.
+[01:30:21] But my language is not about designing
+[01:30:21] words or even visual symbols
+[01:30:26] for people to interpret.
+[01:30:28] It is about being in a constant conversation
+[01:30:31] with every aspect of my environment.
+[01:30:34] Reacting physically to all parts of my surroundings.
+[01:30:37] In this part of the video
+[01:30:39] the water doesn't symbolize anything.
+[01:30:42] I am just interacting with the water
+[01:30:44] as the water interacts with me.
+[01:30:47] Far from being purposeless, the way that I move
+[01:30:50] is an ongoing response to what is around me.
+[01:30:53] Ironically, the way that I move
+[01:30:56] when responding to everything around me
+[01:30:58] is described "being in a world of my own",
+[01:31:01] whereas if I interact with a much
+[01:31:01] more limited set of responses
+[01:31:05] and only react to a much more
+[01:31:05] limited part of my surroundings
+[01:31:09] people claim that I am
+[01:31:09] "opening up to true interaction with the world"
+[01:31:14] They judge my existence, awareness and personhood
+[01:31:18] on which of a tiny and limited part of the world
+[01:31:21] I appear to be reacting to.
+[01:31:24] The way I naturally think and respond to things
+[01:31:27] looks and feels so different from standard concepts
+[01:31:29] or even visualization
+[01:31:31] that some people do not consider it thought at all
+[01:31:35] but it is a way of thinking in its own right.
+[01:31:38] However the thinking of people like me
+[01:31:41] is only taken seriously
+[01:31:42] if we learn your language,
+[01:31:44] no matter how we previously thought or interacted.
+[01:31:47] As you heard
+[01:31:49] I can sing along with what is around me.
+[01:31:56] It is only when I type something in your language
+[01:31:58] that you refer to me as having communication.
+[01:32:02] I smell things.
+[01:32:08] I listen to things.
+[01:32:15] I feel things.
+[01:32:26] I taste things.
+[01:32:33] I look at things.
+[01:32:38] It is not enough to look and listen
+[01:32:41] and taste and smell and feel.
+[01:32:42] I have to do those to the right things
+[01:32:45] such as look at books
+[01:32:46] and fail to do them to the wrong things
+[01:32:49] or else people doubt that I am a thinking being
+[01:32:52] and since their definition of thought
+[01:32:55] defines their definition of personhood
+[01:32:57] so ridiculously much
+[01:32:58] they doubt that I am a real person as well.
+[01:33:02] I would like to honestly know how many people
+[01:33:05] if you met me on the street
+[01:33:07] would believe I wrote this
+[01:33:09] I find it very interesting by the way
+[01:33:11] that failure to learn your language
+[01:33:13] is seen as a deficit
+[01:33:16] but failure to learn my language
+[01:33:18] is seen as so natural
+[01:33:20] that people like me are officially described
+[01:33:22] as mysterious and buzzing
+[01:33:24] rather than anyone admitting
+[01:33:26] that it is themselves who are confused
+[01:33:29] not autistic people or other cognitively disabled people
+[01:33:32] who are inherently confusing.
+[01:33:35] We are even viewed as non communicative
+[01:33:37] if we don't speak the standard language
+[01:33:40] but other people are not considered communicative
+[01:33:43] if they are so oblivious to our own languages
+[01:33:46] as to believe they don't exist.
+[01:33:48] In the end I want you to know
+[01:33:50] that this has not been intended
+[01:33:52] as a voyeuristic freak show
+[01:33:55] where you get to look at the bizarre workings
+[01:33:55] of the autistic mind.
+[01:33:58] It is meant as a strong statement
+[01:34:01] on the existence and value of many different kinds
+[01:34:04] of thinking and interaction
+[01:34:05] in a world where how close you can appear to
+[01:34:05] a specific one of them
+[01:34:10] determines whether you are seen as a real person
+[01:34:13] or an adult or an intelligent person.
+[01:34:16] And in a world in which those determine
+[01:34:18] whether you have any rights
+[01:34:21] there are people being tortured, people dying
+[01:34:24] because they are considered non-persons
+[01:34:26] because their kind of thought is so unusual
+[01:34:29] as to not be considered thought at all.
+[01:34:32] Only when the many shapes of personhood are recognized
+[01:34:34] will justice and human rights be possible."
+[01:34:58] Beatriz: Well, I am staring at Jesús, who is
+[01:34:58] raising his arms and saying that is very late.
+[01:35:05] I don't know if there is time to
+[01:35:09] ask some questions.
+[01:35:15] I can see somebody asking.
+[01:35:25] Audience: First of all, thank you.
+[01:35:25] I would like to say, you have talked about
+[01:35:30] what it means the power of the definition,
+[01:35:30] of the sexual definition and all the
+[01:35:35] definitions generated by this but,
+[01:35:39] from my point of view, I have
+[01:35:39] missed a coordinate,
+[01:35:43] To whom this definition benefits?
+[01:35:43] I mean, first
+[01:35:50] when you mention what it
+[01:35:50] happens in the XIX century
+[01:35:55] To whom it benefits the definition of
+[01:35:55] the woman as a reproductive subject?
+[01:36:01] It's for the benefit of an economic
+[01:36:01] situation where a woman
+[01:36:07] is an asset and when I say an asset,
+[01:36:07] I mean it in an economic sense, an asset
+[01:36:11] is something that is controlled to produce. The
+[01:36:11] woman in this case is a subject that is useful
+[01:36:16] to produce. As long as the subject
+[01:36:16] is reproductive she will be
+[01:36:22] controlled for 10, 15, 20 years,
+[01:36:22] probably more, because there are
+[01:36:25] consecutive reproductive acts. There is
+[01:36:25] a feeling of the woman
+[01:36:30] that changes with WWII as
+[01:36:30] the woman becomes a
+[01:36:34] productive subject that also consumes,
+[01:36:34] as men soldiers are at war.
+[01:36:36] Beatriz: Well,
+[01:36:39] that is the story we have been
+[01:36:39] told but the woman, if you prefer
+[01:36:41] to say it in that way as
+[01:36:41] historical subject has always been a
+[01:36:45] productive subject. One of the
+[01:36:45] first things we need to
+[01:36:49] question, one of the biggest
+[01:36:52] critiques to Marx by the feminists
+[01:36:52] has been the naturalization of the
+[01:36:57] distinction production-reproduction
+[01:36:57] where masculinity is productive
+[01:37:01] and femininity is reproductive.
+[01:37:01] When I spoke
+[01:37:05] today about the invention of
+[01:37:05] the heterosexual body and the
+[01:37:10] heterosexual agency was to make
+[01:37:10] you understand that both masculinity
+[01:37:14] and femininity occupy different
+[01:37:14] places but take part in
+[01:37:18] a complex production-reproduction
+[01:37:18] configuration.
+[01:37:23] Today, we know women have participated
+[01:37:23] historically in the task of
+[01:37:27] production, in fact, if we think
+[01:37:27] what is the real meaning of production:
+[01:37:33] biopolitic, production of the
+[01:37:33] national body and translation
+[01:37:37] of the national body in the
+[01:37:37] economic sense of the term,
+[01:37:42] there is no distinction between production
+[01:37:42] and reproduction. That would be one of the
+[01:37:46] most powerful theoretical conclusions
+[01:37:46] that would question some of the
+[01:37:54] classical strategies of the most
+[01:37:54] traditional left, as
+[01:37:59] the left has always worked
+[01:38:03] with the notions of work and
+[01:38:03] class segmentation and
+[01:38:10] therefore, it has functioned based on
+[01:38:10] an analysis of the production. Only later,
+[01:38:15] feminist analysis and interpretations
+[01:38:15] will ask to include the
+[01:38:20] reproduction. Today, we are
+[01:38:20] facing a process where
+[01:38:25] reproduction is production and the
+[01:38:25] production processes always involve
+[01:38:30] a reproductive management.
+[01:38:30] It's part of the complexity
+[01:38:35] that I have proposed, you can be
+[01:38:35] convinced by it or not,
+[01:38:40] I understand that as it means to
+[01:38:40] get rid of your more traditional and
+[01:38:45] Marxists conceptual gadgets, with
+[01:38:45] their advantages and disadvantages.
+[01:38:50] Audience: I want to make a
+[01:38:50] reflection: when the woman
+[01:38:54] has control of the reproduction by
+[01:38:54] using the pill or the polemic
+[01:38:58] generated around
+[01:38:58] homosexual couples being
+[01:39:03] allowed to reproduce using a
+[01:39:03] surrogate mother but only if
+[01:39:08] they have the money to do so...
+[01:39:11] Beatriz: Because we are in a
+[01:39:11] delirious configuration,
+[01:39:16] we have been sold the idea of the
+[01:39:16] homosexual couples and again,
+[01:39:22] how can we continue to manage notions
+[01:39:22] like those of homosexual couples to
+[01:39:26] think about the complex situation and
+[01:39:26] management of the contemporary subjectivity?
+[01:39:31] But, yeah! Let's offer them
+[01:39:31] the benefit of
+[01:39:38] this relic of the XIX century,
+[01:39:38] some people still wanting to define
+[01:39:43] themselves as homosexual couples
+[01:39:43] therefore,
+[01:39:47] a couple of male homosexuals
+[01:39:47] needs to look for a surrogate
+[01:39:52] mother to reproduce.
+[01:39:52] Careful there.
+[01:39:56] Why don't we consider to
+[01:40:00] invent new dissident collective techniques
+[01:40:00] of reproduction? I proposed this
+[01:40:09] to my students in Barcelona and
+[01:40:09] it was insane. I look around
+[01:40:13] looking for those who were there.
+[01:40:13] I proposed them,
+[01:40:17] Let's form a group to
+[01:40:17] manage our fluids and our
+[01:40:23] reproductive organs. Let's
+[01:40:23] bring a gigantic bottle,
+[01:40:27] the ones that are sperm producers
+[01:40:27] introduce sperm in the bottle,
+[01:40:30] those who want to be reproductive
+[01:40:30] uterus lend your uterus and,
+[01:40:37] let's carry out exercises of
+[01:40:37] collective insemination.
+[01:40:44] We, the dissenters need to invent
+[01:40:44] practices of production
+[01:40:50] and reproduction beyond the ones
+[01:40:50] proposed not by the clinic
+[01:40:56] but by the neoliberal market, because
+[01:40:56] the neoliberal market is proposing,
+[01:41:01] of course, not only that the
+[01:41:01] processes of production
+[01:41:05] should happen in Asia but
+[01:41:05] also the processes of reproduction,
+[01:41:09] because obviously the easiest way
+[01:41:09] to them is: don't make this here, no,
+[01:41:13] let's go to India, something that is already
+[01:41:13] happening, let's go to India where a
+[01:41:17] woman who already had 14 children can
+[01:41:17] have another one, it doesn't matter,
+[01:41:20] this woman is a reproductive
+[01:41:20] uterus so, in the same way we
+[01:41:24] say "made in China" we can say
+[01:41:24] "Made in India", right?
+[01:41:28] And why, instead of this, don't
+[01:41:28] we think collectively?
+[01:41:32] I think this is the task of
+[01:41:32] politics, the task of
+[01:41:35] the political res. To me the
+[01:41:35] political task is artistic,
+[01:41:38] fundamentally an artistic practice,
+[01:41:38] because it is a practice of invention of
+[01:41:43] collective strategies of production of
+[01:41:43] dissident sexuality and
+[01:41:49] that process cannot be just
+[01:41:49] mechanical, it's a process
+[01:41:52] of collective creation and that's why
+[01:41:52] you might ask yourselves,
+[01:41:58] why is always Preciado in
+[01:41:58] the museums?
+[01:42:03] Because to me the museum is a place
+[01:42:03] where is possible to reinvent the
+[01:42:08] practices of production of
+[01:42:08] dissident subjectivity or, at least,
+[01:42:12] that should be the goal
+[01:42:12] of the museum today, not anymore the
+[01:42:15] enlightenment museum of the XIX century but
+[01:42:15] a space where the creation of
+[01:42:21] dissident subjectivation processes
+[01:42:21] is possible, also because it is possible
+[01:42:26] that we will need the artistic and
+[01:42:31] political practices to be
+[01:42:31] reconnected, Why? To avoid
+[01:42:37] the homo-parental family being two
+[01:42:37] men, apparently, biologically
+[01:42:42] designated as men, biopolitically
+[01:42:42] designated as men in need of a
+[01:42:46] surrogate mother to carry out
+[01:42:46] an act of reproduction.
+[01:42:51] First, how is it possible that,
+[01:42:51] again, we are thinking of ourselves
+[01:42:56] as sterile subjects like the XIX century
+[01:42:56] medical device did?
+[01:43:01] Everyone knows, the ones
+[01:43:01] here with certain age,
+[01:43:05] me included, know that gays and
+[01:43:10] lesbians have always had children
+[01:43:13] in various ways as normative
+[01:43:13] heterosexual agencies while
+[01:43:18] they lived a double life. How did we accept
+[01:43:18] the homosexual body is a sterile
+[01:43:23] body and that you need to resort
+[01:43:23] to a process of Assisted reproduction?
+[01:43:29] Let's flip history. Heterosexuality
+[01:43:33] is a process of politically legitimized
+[01:43:33] assisted reproduction, because we have
+[01:43:38] politically decided that a biopenis
+[01:43:38] inside a biovagina... is a process
+[01:43:43] of natural reproduction.
+[01:43:43] If I ask you to put some sperm
+[01:43:48] in the bottle so I will use it to introduce
+[01:43:48] it into myself... that is not natural.
+[01:43:54] That's a process of
+[01:43:54] historical legitimation.
+[01:44:01] And I say this if we decide to
+[01:44:01] do it collectively,
+[01:44:05] I will not be fully responsible
+[01:44:05] for these things,
+[01:44:09] as I don't want anybody telling me:
+[01:44:09] we had a son of yours,
+[01:44:13] No, I've already got rid of these
+[01:44:13] stories of being a father or a mother...
+[01:44:20] but, if this is the task
+[01:44:20] we are facing,
+[01:44:23] to invent, we have to invent
+[01:44:23] dissident subjectivation techniques to
+[01:44:28] the ones proposed not only by the
+[01:44:28] XIX century clinic which no longer proposes
+[01:44:32] much, but to the ones proposed by
+[01:44:32] the new neoliberal clinic which
+[01:44:37] is making some proposals tremendously
+[01:44:37] aggressive. I talked before
+[01:44:41] with someone from the Somateca of last
+[01:44:41] year who told me: I'm inseminating and
+[01:44:44] because of it I'm going through a lot.
+[01:44:44] But, why don't we collectivize
+[01:44:50] the knowledge of these
+[01:44:50] new clinics? Do you know that
+[01:44:56] if someone looks to be inseminated in
+[01:44:56] the European context ends in Belgium, in
+[01:45:02] Barcelona or in Copenhagen? So one can
+[01:45:02] almost create a cartography of
+[01:45:05] neoliberal circulation
+[01:45:05] of the reproductive fluids.
+[01:45:12] How is this possible? Is there
+[01:45:12] no sperm in other places?
+[01:45:20] So, that is one of my proposals, to
+[01:45:20] think the politic, to stop
+[01:45:26] thinking about the body and the identity
+[01:45:26] in isolated ways.
+[01:45:29] How is it possible to identify
+[01:45:29] ourselves with those normative
+[01:45:33] notions of the XIX century to
+[01:45:33] such an extent that we can't make an
+[01:45:38] innovative management as social
+[01:45:38] transformation of our own
+[01:45:43] fluids and our own
+[01:45:43] reproductive cells? Because we
+[01:45:49] have historically learnt
+[01:45:49] that sperm is a
+[01:45:54] sovereign fluid, as we have
+[01:45:54] previously said in Somateca,
+[01:45:59] sperm is historically a
+[01:45:59] sovereign fluid which has flowed
+[01:46:04] and must flow everywhere as a
+[01:46:04] public fluid and that is should
+[01:46:08] jet out falling from the sky. It's
+[01:46:08] like that and, it's like that because of the
+[01:46:13] pharmacopornographic machine while,
+[01:46:13] historically, the
+[01:46:18] uterus should be at home fully
+[01:46:18] privatized.
+[01:46:22] In fact, that is why
+[01:46:22] sperm is donated, just as
+[01:46:27] blood which is also a sovereign fluid.
+[01:46:27] So, you go to donate sperm while,
+[01:46:31] careful, the egg is sold and
+[01:46:31] if we talk about the uterus is
+[01:46:35] even worst.
+[01:46:39] How have we carried out this
+[01:46:39] differential delivery of the
+[01:46:42] political and economic distribution
+[01:46:42] of fluids and organs?
+[01:46:48] Well, we can become...
+[01:46:52] What? Well, we can become a constitutive
+[01:46:52] assembly, a reproductive one too.
+[01:46:57] We are going to reproduce ourselves in
+[01:46:57] other ways, just like we are inventing
+[01:47:02] ways of producing knowledge
+[01:47:02] we can invent ways of production of
+[01:47:06] life, which is also what has happened
+[01:47:06] from my point of view, in the last
+[01:47:10] 40 years, at least in the transsexual
+[01:47:10] transgender, feminist and homosexual
+[01:47:15] groups and communities that
+[01:47:15] I have meet.
+[01:47:21] That is a bit the task of the
+[01:47:21] farmacopornographic resistance we
+[01:47:29] are facing.
+[01:47:29] Besides, it would be very
+[01:47:33] funny.
+[01:47:38] Well, still here in this museum and although,
+[01:47:38] to avoid being thrown out, I give praises
+[01:47:43] everything indicates that we should
+[01:47:49] have already left at nine o'clock,
+[01:47:49] It is 9.20pm. A question out there.
+[01:47:58] Audience: We're talking about reproduction,
+[01:47:58] new forms of reproduction and I'm
+[01:48:04] thinking, what about the creation?
+[01:48:04] How is the creation of children? I think
+[01:48:12] that is a fundamental point,
+[01:48:12] education.
+[01:48:18] The social and reproductive transformation
+[01:48:18] that we're talking about,
+[01:48:26] culturally speaking, I think that
+[01:48:26] It depends on education, on the education
+[01:48:31] of children because, ok, we're going to
+[01:48:31] reproduce in various ways, perfect but,
+[01:48:35] how are we going to create the children? What
+[01:48:35] are we going to tell them and what are they going to
+[01:48:42] think of the world? I think
+[01:48:42] education is fundamental for all
+[01:48:50] this social change, so they can
+[01:48:50] grow with another mindset, with
+[01:48:57] another point of view.
+[01:49:01] I think we need to think about this, it is
+[01:49:07] important to fulfil our wishes
+[01:49:07] on a social scale,
+[01:49:18] even bigger.
+[01:49:23] Beatriz: Okay, it's the same.
+[01:49:23] Historically, what have we done with the
+[01:49:26] child when we have invented the child?
+[01:49:26] we have excluded him/her from politics,
+[01:49:30] that is, we have considered that the age
+[01:49:30] of access, supposedly, to the space of
+[01:49:37] practices of government begins at
+[01:49:37] 18 years. That is, the
+[01:49:43] notion of childhood is also an historically
+[01:49:43] and culturally constructed notion so...
+[01:49:49] Anyway, lately,
+[01:49:49] I don't know why, but in all the
+[01:49:53] movements, 11M and such, I see a lot
+[01:49:53] more children than before, I don't know
+[01:49:56] if that is the case, right? I have the impression
+[01:49:56] that some kind of rare transversality is already
+[01:50:01] starting to circulate around.
+[01:50:01] Well, I see some people are already
+[01:50:06] leaving. Jesús, our director
+[01:50:06] of public programs, has directly
+[01:50:11] abandoned us in
+[01:50:11] despair, so, thank you for
+[01:50:17] your patience while being so late
+[01:50:17] and simply invite you to
+[01:50:21] meet again when Annie Sprinkle and
+[01:50:21] Beth Stephens will come in May,
+[01:50:27] an occasion to, maybe, talk again.
+[01:50:27] Thank you.

@@ -1,0 +1,21 @@
+Source: Library records for Mark Fisher's books (Open Library search API) and dates of birth and death (Wikipedia)
+URL: https://openlibrary.org/search.json ; https://en.wikipedia.org/wiki/Mark_Fisher
+Fetched: 2026-10-12 via curl (JSON) printed with python3 -I; fetch.py (Wikipedia)
+
+## Open Library (curl https://openlibrary.org/search.json?q=<query>&fields=key,title,author_name,first_publish_year,publisher,isbn)
+## query: capitalist+realism+fisher
+  /works/OL15683250W | Capitalist Realism | ['Mark Fisher', 'MARK FISHER'] | 2009 | ['Produzioni Nero', 'Hunt Publishing Limited, John', 'Tact'] | ['9789871622450', '9871622457']
+  /works/OL28736340W | Summary of Mark Fisher's Capitalist Realism | ['Irb Media'] | 2022 | ['IRB MEDIA'] | ['9798822548893']
+## query: ghosts+of+my+life+fisher
+  /works/OL20712666W | Ghosts of My Life | ['Mark Fisher'] | 2014 | ['Autonomia Literária', 'Zero Books'] | ['9781780992266', '1780992262']
+  /works/OL23884670W | Ghosts of My Life | ['Mark Fisher'] | 2014 | ['Zero Books'] | ['9781780992266', '1780992262']
+## query: weird+and+the+eerie+fisher
+  /works/OL23884794W | The Weird and the Eerie | ['Mark Fisher'] | 2017 | ['Repeater Books'] | ['1910924385', '9781910924389']
+  /works/OL32408668W | Weird and the Eerie | ['Mark Fisher'] | 2017 | ['ReadHowYouWant', 'ReadHowYouWant.com, Limited'] | ['1525245988', '9781525245985']
+## query: k-punk+fisher+repeater
+## query: k-punk+collected (earlier run, same API)
+  /works/OL17996944W | K-punk | ['Mark Fisher'] | 2018 | ['Repeater']
+  /works/OL20697565W | k-punk | ['Mark Fisher'] | 2018 | ['London: Repeater Books']
+
+## Wikipedia, Mark Fisher (fetch.py, 2026-10-12)
+First line of the article: Mark Fisher (11 July 1968 - 13 January 2017)

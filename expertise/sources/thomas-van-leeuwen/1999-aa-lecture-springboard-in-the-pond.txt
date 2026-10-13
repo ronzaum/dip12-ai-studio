@@ -1,0 +1,783 @@
+Source: Thomas van Leeuwen - The Springboard in the Pond (AA lecture, 11 March 1999; YouTube auto-captions, uploaded by AA School of Architecture 2015-05-21)
+URL: https://www.youtube.com/watch?v=EutAuEStjKI
+Fetched: 2026-10-12 via yt-dlp (auto-captions) + vtt2txt.py
+
+Note: automatic captions. Speaker names and some words are mis-heard (e.g. 'van Levin' = van Leeuwen). Quote only lines that read cleanly.
+
+[00:00:04] is it working
+[00:00:06] hello good evening
+[00:00:09] um I'm Robert bergerhoff Mulder and I'm
+[00:00:11] the director of the center for Dutch and
+[00:00:13] Flemish culture and I'm really delighted
+[00:00:14] this evening to be able to introduce
+[00:00:18] Professor Thomas van Levin who is our
+[00:00:20] guest and who's the professor of
+[00:00:22] architectural history and criticism at
+[00:00:25] the University of Leiden Professor van
+[00:00:27] Levin is going to talk in connection
+[00:00:29] with the launch of his book the
+[00:00:33] springboard in the pond which is a an
+[00:00:35] analysis a look at the architecture of
+[00:00:37] swimming pools
+[00:00:40] and this is published here in England by
+[00:00:42] the MIT press
+[00:00:45] to whom I'd like to say thank you to Ann
+[00:00:47] twizzleton who's also been organizing
+[00:00:49] this evening and I'd also like to say
+[00:00:50] thank you very definitely to Mark
+[00:00:52] cousins here at the architectural
+[00:00:55] Association for giving us the
+[00:00:58] hospitality this evening this is the
+[00:01:00] second time Professor van Leven that
+[00:01:02] you've come here the first time I think
+[00:01:04] was in 1988 in connection with your book
+[00:01:07] The Skyward trend of thought which dealt
+[00:01:10] with the metaphysics of American
+[00:01:12] skyscrapers and I'm very much looking
+[00:01:15] forward to your talk this evening so
+[00:01:18] this is the floor thank you
+[00:01:18] so
+[00:01:35] is for this afternoon's feature
+[00:01:38] attraction hey over there
+[00:01:42] yes I mean you your attention please
+[00:01:45] are you ready in there future attraction
+[00:01:48] could I speak to you for a second there
+[00:01:51] I'm gonna ask
+[00:01:52] Amazon to bring this boy out here all
+[00:01:54] right now
+[00:01:56] what oh let me amend that to bring this
+[00:01:59] young man out here because today he is
+[00:02:02] 21 years old
+[00:02:02] okay
+[00:02:06] oh now just hang on a minute I bet a few
+[00:02:10] words to say if you always do oh look
+[00:02:11] who's talking
+[00:02:14] and can we just talk about this for a
+[00:02:16] second I can't hold them much longer Ben
+[00:02:17] you better get out here I'd like to
+[00:02:21] discuss this this boy I'm sorry this
+[00:02:22] young man is soon to continue his
+[00:02:24] education as a Frank helpingham award
+[00:02:26] scholar uh
+[00:02:28] but before he does
+[00:02:32] before he does
+[00:02:41] he is going to give us a practical
+[00:02:43] demonstration of what I feel safe in
+[00:02:45] saying is a pretty exciting birthday
+[00:02:48] present and a bit of work or I'm out
+[00:03:07] this remarkable young man is going to
+[00:03:11] perform for you some spectacular and
+[00:03:14] amazing piece of pairing and water that
+[00:03:40] foreign
+[00:05:10] desolation
+[00:05:19] a
+[00:05:26] joyful gathering around the pool
+[00:05:37] and the only one who enters the pool
+[00:05:47] it demonstrates apocalyptic clairvoyance
+[00:05:49] on the part of
+[00:05:57] the best way to avoid nuclear fallout or
+[00:06:00] ultraviolet radiation is to sit
+[00:06:03] on the bottom of a pool in a protective
+[00:06:05] rubber suit
+[00:06:08] this is one of the many illustrations of
+[00:06:10] the title of the book I took the
+[00:06:13] subtitle in Intimate history of the
+[00:06:15] private swimming pool and in this case
+[00:06:18] it underlined
+[00:06:18] the
+[00:06:22] concept of intimate
+[00:06:26] how intimate well in this case to degree
+[00:06:33] um
+[00:06:38] this whole idea of an oncoming disaster
+[00:06:41] that you see in the in the desperate
+[00:06:43] isolation of
+[00:06:45] The Graduate in his protective suit his
+[00:06:47] rubber suit
+[00:06:51] brings me to a point that I'd like to
+[00:06:54] end the line before
+[00:06:55] instead of
+[00:06:59] well I announce it now and and talk
+[00:07:01] about it later and there will be
+[00:07:03] a couple of minutes
+[00:07:06] to ask questions after the lecture and
+[00:07:09] then I will go deeper into this idea to
+[00:07:11] tetralogy of the
+[00:07:14] it's four books on the elements air and
+[00:07:16] water and fire and Earth
+[00:07:19] but before I do so I just on a story
+[00:07:21] that I'd like to
+[00:07:23] uh to uh
+[00:07:26] to tell you in in relation to this
+[00:07:29] frogman's protective rabbit suit
+[00:07:31] and which gave you an introduction to
+[00:07:33] this idea of the four elements
+[00:07:36] there's this there's a story that
+[00:07:38] somebody told me I think it was in in
+[00:07:38] 1985
+[00:07:45] um by a friend who with whom I spent
+[00:07:47] some time in the south of France and he
+[00:07:50] he got it from the newspaper the nice
+[00:07:51] Mata
+[00:07:56] and it was after a devastating forest
+[00:07:59] fire in the area of Center Maxine
+[00:08:03] and in the newspaper there was this
+[00:08:06] mentioning of a man that they had found
+[00:08:13] in the in the in the the charred Forest
+[00:08:15] there was this skeleton that they
+[00:08:17] founded rest of
+[00:08:17] Molten
+[00:08:23] rubber on his bones and he was wearing a
+[00:08:26] scuba divers mask
+[00:08:27] and flippers
+[00:08:31] that's what they Could reconstruct
+[00:08:31] and
+[00:08:34] I was suddenly clear to most people what
+[00:08:36] had happened
+[00:08:38] the Coast Guard
+[00:08:41] has airplanes
+[00:08:45] and they are fire planes and they scoop
+[00:08:48] up water from the sea and it does
+[00:08:50] it's not funny
+[00:08:52] they dozed the fire with large
+[00:08:54] quantities of water and they by accident
+[00:09:08] and there there is this everything is in
+[00:09:12] it there is man who comes down
+[00:09:14] from the air
+[00:09:16] with water to
+[00:09:20] put out a fire and finally he finds
+[00:09:24] his final resting place in the earth
+[00:09:26] we will talk about the
+[00:09:32] this is part two
+[00:09:34] of the tetralogy the first one was about
+[00:09:34] air
+[00:09:36] skyscraper
+[00:09:41] dominance over the air several powers
+[00:09:43] that claimed dominance
+[00:09:46] the third is fire it's called Columns of
+[00:09:49] fire and the fourth will be air
+[00:09:49] birth
+[00:09:56] which will be the last one
+[00:09:56] okay
+[00:09:58] um
+[00:10:00] it is
+[00:10:03] the history of the private swimming pool
+[00:10:06] and not the public pool
+[00:10:09] somebody asked me in an interview radio
+[00:10:11] interview why
+[00:10:13] I didn't select the public pool and then
+[00:10:17] I replied that if I were asked to write
+[00:10:19] a history of the automobile
+[00:10:22] but I'm I'd like to write about the
+[00:10:25] outer bus now he realized that private
+[00:10:28] pool was probably the thing to do
+[00:10:31] and there is another reason and it has
+[00:10:33] to do with the construction of the book
+[00:10:36] The General organization of the book
+[00:10:39] it is the private pool
+[00:10:39] because
+[00:10:43] and not the public pool because
+[00:10:45] it is
+[00:10:49] as in as an architectural type
+[00:10:53] the smallest atomic unit you can
+[00:10:56] possibly imagine it is that modest hole
+[00:10:58] in the ground
+[00:11:02] that has no pretension whatsoever it is
+[00:11:06] that that that squarish thing that sits
+[00:11:07] in the ground
+[00:11:11] and there is no other architectural type
+[00:11:14] that even gets close
+[00:11:17] to its unpretentiousness
+[00:11:20] it is so simple
+[00:11:24] and yet it gives way to all sorts of
+[00:11:26] speculations in the field of little
+[00:11:29] history of religion philosophy sociology
+[00:11:36] and it has that marvelous quality that
+[00:11:38] you could always return to it it never
+[00:11:42] gets modeled the story about the private
+[00:11:44] swimming pool will always remain clear
+[00:11:47] at least that's what it does in the book
+[00:11:50] and I tell you this that it is because
+[00:11:54] it is very very complex material all
+[00:11:57] this wide as men swim why does he do it
+[00:12:00] why isn't he afraid how did he overcome
+[00:12:07] could only be made clear by making
+[00:12:10] complex things simple
+[00:12:13] and one of the things that really
+[00:12:17] succeeded in the book was that with the
+[00:12:21] help of my editor Helen searing who is
+[00:12:25] here who made my Atlantic English into
+[00:12:28] real English and to Gene Wilcox who
+[00:12:30] designed the book and
+[00:12:32] she lifted out the
+[00:12:34] the uh
+[00:12:37] things that could speak a very clear
+[00:12:39] language and that was most of the time
+[00:12:42] there were pictures
+[00:12:45] it is a sort of freely Vision shaft
+[00:12:48] things that are difficult have been made
+[00:12:50] easy and there are people who read this
+[00:12:52] book who had no practical training at
+[00:12:55] all no Architects no philosophers and
+[00:12:57] then after a while they say ho ho
+[00:13:00] I I've understood it and I would never
+[00:13:02] have done it without the help of these
+[00:13:05] people who made it such a wonderful
+[00:13:07] looking book
+[00:13:07] okay
+[00:13:08] um
+[00:13:11] there's not a stolen the ground the
+[00:13:14] other part is of course swimming
+[00:13:19] and swimming is a complex thing as well
+[00:13:22] because the history of swimming is the
+[00:13:25] history of its own instruction
+[00:13:26] in the book
+[00:13:30] I went to the public pool in order to
+[00:13:33] illustrate the history of instruction
+[00:13:36] I have woven other things in the total
+[00:13:41] construct for example water water has
+[00:13:43] its own history
+[00:13:46] there are several periods of water one
+[00:13:49] is to begin with the sacred period when
+[00:13:52] water was sacred and nobody dared to go
+[00:13:54] and sit in the water or swim in the
+[00:13:55] water for pleasure
+[00:13:55] that
+[00:14:01] became a thing that was normally
+[00:14:05] considered to be an Enlightenment thing
+[00:14:06] and it happened somewhere in the middle
+[00:14:08] of the 18th century where Jacques
+[00:14:11] Jacques was all started to teach his
+[00:14:20] water that had been
+[00:14:20] uh
+[00:14:26] submitted to the actions of man
+[00:14:30] lost its original innocence
+[00:14:33] the springboard in the pond
+[00:14:36] brings forward the image of a
+[00:14:36] springboard
+[00:14:41] from which man could dive into that
+[00:14:43] originally sacred element
+[00:14:46] the springboard changes the element from
+[00:14:46] sacred
+[00:14:54] every piece of water
+[00:15:03] as in this case we'll change
+[00:15:05] by the introduction of a springboard of
+[00:15:07] a diving board
+[00:15:09] it happens when you look at it it
+[00:15:12] happens in your head then you suddenly
+[00:15:21] it has been changed into athletic water
+[00:15:23] it has been domesticized it had been
+[00:15:31] the third period is the period of the
+[00:15:31] vulgar
+[00:15:34] the moment that water
+[00:15:40] Flushed Away
+[00:15:42] In The Water Closet
+[00:15:45] together with human excrements
+[00:15:48] that was what water killed of course
+[00:15:50] perfectly drinkable water
+[00:15:52] filtered water as the
+[00:15:56] Ocean Park Bath House in Ocean Park in
+[00:16:00] California says proudly in this postcard
+[00:16:03] some people drink it
+[00:16:14] another uh
+[00:16:18] way of organizing complex matter is
+[00:16:18] by
+[00:16:24] singling out human attitudes towards
+[00:16:33] hydrophilia and hydro and
+[00:16:33] reproduction
+[00:16:39] there is a magic Melody Mother Nature
+[00:16:41] sings to me can you imagine they were
+[00:16:43] there in the nude the only thing that
+[00:16:45] they had was their hair long hair that
+[00:16:55] and the other stars in the apan
+[00:16:59] 1932 Tarzan is totally acceptable
+[00:17:01] Tyson was a noble savage
+[00:17:06] he was also a transitional creature
+[00:17:06] um
+[00:17:12] as a swimmer for example is this uh our
+[00:17:12] countrymen
+[00:17:15] Dutch born Johnny Weissmuller Olympic
+[00:17:15] medalist
+[00:17:20] who became the first Tarzan the ape man
+[00:17:21] a swimmer
+[00:17:23] is that a beautiful illustration of
+[00:17:26] Aleister Hardy's Theory which at that
+[00:17:26] time
+[00:17:29] was developed but didn't
+[00:17:32] get into the public eye because Alistar
+[00:17:33] Hardy was a little afraid that his
+[00:17:35] theory was in sound it was only
+[00:17:37] published in 1963.
+[00:17:39] well anyway there is some sort of a
+[00:17:42] understanding there
+[00:17:42] unwitting
+[00:17:47] Tarzan was potent I was innocent he was
+[00:17:49] also Charming
+[00:17:57] there were lots of bourgeois
+[00:17:59] utopians there that could be easily
+[00:17:59] realized
+[00:18:05] in in in in in Suburban Life The Little
+[00:18:08] House the tree house the Little Pond the
+[00:18:17] and to the American public he was
+[00:18:22] because of his background having no past
+[00:18:25] he had ideal upbringing they had no
+[00:18:28] history no nasty English background or
+[00:18:31] european or whatever he was
+[00:18:34] born in the forest
+[00:18:42] by apes and elephants
+[00:18:51] and he was able to communicate with the
+[00:18:54] animals of the forest but also
+[00:19:05] is a very Noble
+[00:19:07] is a very
+[00:19:10] innocent and also a very risque thing
+[00:19:12] because what he does in Tarzan the eight
+[00:19:16] men is that he
+[00:19:18] brings Jane as you see on the left-hand
+[00:19:22] side into some state of
+[00:19:22] unbalance
+[00:19:26] and then he
+[00:19:28] he draws her
+[00:19:29] or he doesn't have to draw her as she
+[00:19:32] goes by herself into the water and they
+[00:19:36] stay in the water for a long time
+[00:19:36] and
+[00:19:42] they make love I guess and they lived
+[00:19:50] the interesting thing is that they do it
+[00:19:52] in the water
+[00:19:52] and
+[00:19:59] strangely enough
+[00:20:03] and also very this is another story of
+[00:20:07] this extraordinary research that we had
+[00:20:08] to do
+[00:20:09] is that
+[00:20:11] one architect
+[00:20:13] Mark Pence he had an architectural
+[00:20:15] practice in
+[00:20:17] Los Angeles downtown
+[00:20:19] he one day called me and he said there
+[00:20:22] is something funny there I'm working in
+[00:20:27] on a lot and and I I looked through
+[00:20:30] the fence and I saw I saw that thing
+[00:20:30] there
+[00:20:34] and it looks like a a concrete River or
+[00:20:34] something
+[00:20:39] and I drove over in my convertible
+[00:20:39] Cadillac
+[00:20:44] and we looked at it and it was a house
+[00:20:48] we found out later that was owned by
+[00:20:51] and
+[00:20:55] I later
+[00:20:57] read that
+[00:21:04] put a mortgage on the house
+[00:21:06] Mary wrote
+[00:21:08] of twenty two thousand five hundred
+[00:21:11] dollars and went ahead with his swimming
+[00:21:13] pool and the swimming pool was 100 feet
+[00:21:16] long with dressing rooms at one end and
+[00:21:18] a sandy beach at the other artificial
+[00:21:22] rock with steel rings to hold lyanna's a
+[00:21:27] dark Lagoon Lush vegetation and a
+[00:21:30] and a grotto with a barbecue set
+[00:21:33] and the houses on Temple Hill Drive and
+[00:21:35] then the Hollywood Hills and it is a
+[00:21:39] mixture of Moorish influence and and and
+[00:21:42] and and jungle pool
+[00:21:42] um
+[00:21:46] and jungle jungle pool
+[00:21:46] um
+[00:21:48] seduction
+[00:21:52] it is a pool that
+[00:21:55] that Tarzan could have
+[00:22:02] and they could pretend that they were
+[00:22:05] Tarzan and Jane
+[00:22:08] the pool is dry it is just
+[00:22:09] it was
+[00:22:09] um
+[00:22:16] it was uh the the children played there
+[00:22:19] and they they smudged it with graffiti
+[00:22:21] and things were stolen and so but it was
+[00:22:24] still there in its in its
+[00:22:29] in its former shape and
+[00:22:31] must have been a terrific thing to swim
+[00:22:31] there
+[00:22:41] and then
+[00:22:43] after we found this pole there was
+[00:22:45] somebody who told us that there was
+[00:22:46] another one
+[00:22:49] not far away in Bel Air
+[00:22:51] and we went to Bel Air and we we had to
+[00:22:54] keep the dogs busy by we had another dog
+[00:22:56] who could do that much more adroitly
+[00:22:59] than we could and we slipped through the
+[00:23:02] fence and we made some quick photos they
+[00:23:04] they're not all focused because I was so
+[00:23:06] afraid of the dog that I had to do it
+[00:23:08] very quickly
+[00:23:10] but there was a pool that was originally
+[00:23:13] made for
+[00:23:16] a businessman called John zuplin
+[00:23:18] and this was a veritable Swimming River
+[00:23:21] 300 feet long
+[00:23:24] it was built in 1931.
+[00:23:27] Paul Williams the society Architect by
+[00:23:29] the way built the house
+[00:23:32] and who did these pools well these pools
+[00:23:36] were built by a man called Philip Ilsley
+[00:23:38] and Philip Ilsley was a Canadian who
+[00:23:41] came to Los Angeles in 1925
+[00:23:43] to set up a landscaping firm and he
+[00:23:46] began to include swimming pools as part
+[00:23:52] and that became
+[00:23:54] Paddock Pools
+[00:24:00] that Philip Ilsley ran until his death
+[00:24:04] Philip elsley also built a pool for
+[00:24:06] somebody who was in the same league a
+[00:24:08] little bit like as as Mary Esther they
+[00:24:09] were not they know they were not
+[00:24:12] Bombshells they were not
+[00:24:16] sexy bathing beauties Joan Fontaine
+[00:24:18] but there was something in these ladies
+[00:24:18] that
+[00:24:22] that was some burning
+[00:24:26] desired I was a dream there and Philip
+[00:24:26] illsley
+[00:24:27] told
+[00:24:32] his interviewed at Joan Fontaine had
+[00:24:36] and
+[00:24:39] there is a clipping from a newspaper
+[00:24:42] that said that bird of paradise
+[00:24:42] uh
+[00:24:48] dresses in that sort of Pacific flower
+[00:24:51] pattern was very popular and
+[00:24:54] now John Fontaine is wearing a dress
+[00:24:57] like that and she said to Ill and Ilse
+[00:25:00] told about her most of the unusual
+[00:25:03] patterns of swimming pools are free for
+[00:25:05] him swimming pools with grottos who had
+[00:25:07] dreamed up by customers who could afford
+[00:25:10] some latent or longing actress Joan
+[00:25:12] Fontaine apparently dreamed of being a
+[00:25:17] mermaid stranded on a rocky Island
+[00:25:28] the free foreign pool is the domain
+[00:25:35] Esther Williams
+[00:25:37] who performed in the Ziegfeld Foley's
+[00:25:39] film of 1946
+[00:25:45] plays with amphibians in a sort of Bowl
+[00:25:47] in which he performs the role of a
+[00:25:49] goldfish and she
+[00:25:52] there is a film still and I thought that
+[00:25:55] film still looks very much like she
+[00:25:59] looks very much like that girl in in
+[00:26:02] that in that brochure of Philip Ilsley
+[00:26:05] for Paddock Pools now you must remember
+[00:26:06] that I get these
+[00:26:10] brochures from somebody with no
+[00:26:12] uh pedigree there's nothing that
+[00:26:14] indicates that it came from there or
+[00:26:16] came from what and what and what data
+[00:26:20] they were not dated so I try to find out
+[00:26:23] whether Philip elsley used Esther
+[00:26:26] Williams it looks so obvious for that
+[00:26:29] campaign because the girl in the in the
+[00:26:31] brochure swims in one of these swimming
+[00:26:36] rivers that I was trying to determine
+[00:26:38] but there is something wrong there the
+[00:26:41] girl wears a bikini whereas
+[00:26:45] Esther Williams never wore a bikini
+[00:26:48] and the bathing cap is different and
+[00:26:54] it's that girl
+[00:26:56] is the girl is the girl from the cover
+[00:26:59] there's a Cover Girl
+[00:26:59] and
+[00:27:02] it is one of the girls that Philip
+[00:27:05] Ilsley invited
+[00:27:07] pose for him
+[00:27:10] for his new house and swimming pool in
+[00:27:13] the San Fernando Valley
+[00:27:15] a thing that he built for himself
+[00:27:16] as a
+[00:27:19] as a an accomplished pool builder and a
+[00:27:23] man of means by now he built a hepatica
+[00:27:25] leave pool for himself pools appeared in
+[00:27:27] all sorts of shapes in that period and
+[00:27:31] we are talking about 1946 1949.
+[00:27:33] and you see there the bathing beauties
+[00:27:36] are there and Philip pilsley I think he
+[00:27:38] was left or right I'm not too sure
+[00:27:41] manipulating a film camera photo camera
+[00:27:48] a non-swimmer himself
+[00:27:50] testing merely the cover of a swimming
+[00:27:53] pool rather than diving into the real
+[00:27:53] thing
+[00:27:55] um
+[00:27:58] he was
+[00:28:01] he used a sort of sprayed concrete gun
+[00:28:02] items was called
+[00:28:05] on his swimming pools his free foreign
+[00:28:06] pools because of course you couldn't
+[00:28:08] dial those things
+[00:28:11] and he was a photographer
+[00:28:13] he liked to make pictures and he made
+[00:28:16] these pictures underwater to porth house
+[00:28:25] we have seen the frog and the Swan and
+[00:28:25] penguin
+[00:28:30] but there is still something of this
+[00:28:32] anxiety and this fear for water that
+[00:28:32] remained
+[00:28:37] there was always
+[00:28:42] fear of major catastrophe a deluge
+[00:28:42] um
+[00:28:46] we'll live with it
+[00:29:01] um
+[00:29:12] but later
+[00:29:20] all these anxieties all these for beers
+[00:29:20] they
+[00:29:27] they sort of got a new domain to be
+[00:29:28] exercised in
+[00:29:36] they were the new delusions of
+[00:29:42] and the world that would
+[00:29:44] would perish and especially started in
+[00:29:46] California there where all these
+[00:29:49] ecologies of fear
+[00:29:51] are much more distinct than they are
+[00:29:54] here unlikely this Bathing Beauty in the
+[00:29:54] rain
+[00:30:00] and there is another problem apart from
+[00:30:02] the environment and that is that pools
+[00:30:10] they are dangerous for children they are
+[00:30:10] dangerous
+[00:30:14] for uh vagrants they are dangerous for
+[00:30:18] drunks who who walk by accident into a
+[00:30:20] swimming pool and drown and the owner of
+[00:30:21] the pool is
+[00:30:25] is liable litigation
+[00:30:28] began to make an end to the innocent
+[00:30:32] ownership of a swimming pool and in 1942
+[00:30:32] something
+[00:30:36] awful happened one story that is so
+[00:30:38] meaningful that I
+[00:30:40] um couldn't keep it from you the
+[00:30:44] two-year-old grandson of Cecil B DeMille
+[00:30:47] who himself owned a small circular
+[00:30:49] swimming pool in his garden
+[00:30:52] ventured into the neighboring Garden of
+[00:30:56] actor comedian and legendary misopodist
+[00:31:00] WC Fields and drown
+[00:31:02] this is awful
+[00:31:05] we all knew that WC field hated children
+[00:31:06] but this
+[00:31:10] is going too far bad Jack Benny had a
+[00:31:12] swimming pool fitted out with an octopus
+[00:31:15] on the bottom so it could scare off
+[00:31:17] children who wanted
+[00:31:24] the only safe pool of course is a dry
+[00:31:24] pool
+[00:31:33] the uh the orange
+[00:31:36] County Swimming Pool Association
+[00:31:39] published The Following news with more
+[00:31:41] than 300 000 pools in the area of South
+[00:31:43] Los Angeles drowning is the single
+[00:31:46] largest cause of death for Orange County
+[00:31:46] Children
+[00:31:58] oh yes people made Japanese Rock Gardens
+[00:32:00] out of their swimming pools they also
+[00:32:04] made tennis courts out of them at least
+[00:32:05] I mean they were filled in and they put
+[00:32:07] a tennis court over it but that was a
+[00:32:08] little bit of a problem because
+[00:32:10] everybody had a swimming pool in the
+[00:32:10] garden
+[00:32:13] and so if you have a tennis court you
+[00:32:16] need two people and since everybody had
+[00:32:17] another tennis court there was nobody to
+[00:32:43] we missed one slide there and whatever
+[00:32:45] it doesn't matter
+[00:32:50] was to put fishes in your pool and make
+[00:32:57] it was said of Charles Lee
+[00:33:00] the cinema architect
+[00:33:02] the swimming pool in the backyard of his
+[00:33:04] house in Beverly Hills
+[00:33:07] was converted into a lake engineered
+[00:33:09] with electric boats and a pier for his
+[00:33:13] grandchildren and later became home of a
+[00:33:15] koi collection now
+[00:33:15] koi
+[00:33:20] is of the carb family
+[00:33:24] carp
+[00:33:28] that were so
+[00:33:31] engineered that they showed
+[00:33:34] their their beautiful colors they're
+[00:33:35] like goldfish
+[00:33:38] not only on the side but also on the
+[00:33:38] back
+[00:33:43] on the back because normally you cannot
+[00:33:46] see the colors these ones were so
+[00:33:48] designed as you could see them from
+[00:33:51] above and therefore they were ideal
+[00:33:55] swimmers for the new swimming pool that
+[00:33:58] had become at the scene again as was in
+[00:34:01] the old times humans duck holes in the
+[00:34:03] ground and fill them with water fitted
+[00:34:07] ladders and installed springboards then
+[00:34:10] they added disinfectants and coloring
+[00:34:14] agents but event eventually apprehensive
+[00:34:16] of what they had wrote came to shun the
+[00:34:20] Family Pool influenced by environmental
+[00:34:23] Superstition fear of litigation
+[00:34:26] and perhaps most of all boredom
+[00:34:29] first they banned the springboard then
+[00:34:32] they banned their children and then they
+[00:34:33] Bend
+[00:34:33] themselves
+[00:34:37] now the road is free for a new
+[00:34:40] generation of social swimmers goldfish
+[00:34:44] koi yes even sharks begin to populate
+[00:34:46] the Family Pool the circle is complete
+[00:34:49] the machine has been restored to its
+[00:34:51] original state
+[00:35:14] Ministry
+[00:35:23] he said it must be nicer away when
+[00:35:25] you've seen swimming Rivers because
+[00:35:28] that's going to be very nice
+[00:35:30] you come across any other American way
+[00:35:31] you can swim in the pool
+[00:35:33] during the research
+[00:35:36] well the the free-form pool is is it was
+[00:35:39] the answer to the rigidity of of the
+[00:35:40] public pool
+[00:35:43] and the variety of things have been
+[00:35:46] practiced in in free foreign pools and
+[00:35:48] swimming followed the path of what frogs
+[00:35:51] do and therefore I use the the metaphor
+[00:35:55] uh but I mean athletic swimming who who
+[00:36:00] swims fastest is is in in in a certain
+[00:36:02] way a perversion is an oddity because it
+[00:36:04] is well known that man
+[00:36:08] um squanda's energy while swimming and
+[00:36:10] it looks all very impressive but he
+[00:36:12] doesn't get very fast through the water
+[00:36:14] there's only one animal that swims
+[00:36:18] slower of all animals and that is the
+[00:36:21] mink as somebody told me who is who
+[00:36:23] knows who
+[00:36:25] very much about this sort of thing so
+[00:36:29] man is the slowest swimmer of all
+[00:36:29] species
+[00:36:32] the slowest
+[00:36:35] how we see this big deal of I mean world
+[00:36:37] champions who race through the water but
+[00:36:40] it is very slow you can you walk faster
+[00:36:42] all animals swim
+[00:36:42] natural
+[00:36:46] the tournaments of water then they can
+[00:36:49] swim the rhinoceros probably also
+[00:36:51] hippopotamus does swim very well the
+[00:36:54] elephants swim there's hardly an animal
+[00:36:56] that you could mention it
+[00:36:59] doesn't swim only man
+[00:37:09] yeah I I think that in the in the in the
+[00:37:11] in the primate in the primates of the
+[00:37:13] Savannah and in the forest and you have
+[00:37:15] problems with uh they they have problems
+[00:37:17] with swimming they don't like it so much
+[00:37:37] you have to go to an old hotel because
+[00:37:38] you know they'll have a really long
+[00:37:40] swimming pool for proper swimming now
+[00:37:43] why is why is the modern hand this way
+[00:37:51] rather than one big call in a deluxe
+[00:37:54] Hunter well I think I think that the uh
+[00:37:56] I'm not a very much of a specialist of
+[00:37:59] of great public hotel pools but I think
+[00:38:02] the trend is as I sketched is is that
+[00:38:04] people need
+[00:38:06] um all sorts of incentives this is sort
+[00:38:10] of the the the the penguin complex that
+[00:38:14] um there are very few swimmers as there
+[00:38:17] are very few Runners and cyclists who
+[00:38:20] like to get tired and so most people
+[00:38:23] swim in overheated water in in in in in
+[00:38:24] in in in
+[00:38:28] things that look more like uh pleasure
+[00:38:32] uh Parks than in serious swimming pools
+[00:38:35] and I think the trend is to to to seduce
+[00:38:38] customers and to lure people into these
+[00:38:40] hotels is that they they have that they
+[00:38:42] feel like that they are doing anything
+[00:38:44] but they are not doing anything and the
+[00:38:46] water is too warm and they don't have to
+[00:38:47] work for it and they cannot swim like
+[00:38:49] you you cannot swim in these pools they
+[00:38:51] are too shallow they are too very they
+[00:38:53] have all sorts shoots and things and
+[00:38:55] attractions and it is it is almost
+[00:38:58] impossible to uh to get some exercise
+[00:39:01] but that is the trend nowadays people
+[00:39:04] have no exercise and they don't want to
+[00:39:07] exercise and if they do exercises as an
+[00:39:09] outside agent that they stick to
+[00:39:11] themselves that sort of stimulates the
+[00:39:23] sorry what
+[00:39:25] the springboard is a completely
+[00:39:28] different uh history that is a little uh
+[00:39:30] that's a thing that has it's very
+[00:39:33] difficult to research there are several
+[00:39:35] there are several Origins that you could
+[00:39:38] point at one is that springboards were
+[00:39:38] installed
+[00:39:44] um in Holland and in England in the uh
+[00:39:47] in and in the end of the 18th century in
+[00:39:50] the in the 19th century in the 1830s in
+[00:39:53] the times of the of the Reform Bill and
+[00:39:56] and one was to simulate
+[00:40:00] the action of diving overboard a ship in
+[00:40:03] order to salvage a Shipwrecked Mariner
+[00:40:05] so there was a simulation sort of
+[00:40:09] machine and then as Charles Bronson in
+[00:40:12] his His Marvelous book uh the haunts of
+[00:40:14] the black masseur demonstrate is that
+[00:40:14] springboards
+[00:40:20] developed not necessarily with
+[00:40:23] water as acting as a cushion but on the
+[00:40:27] dry for a tranfield a trampoline jumping
+[00:40:29] and and all sorts of
+[00:40:32] gymnastic exercises and I think that
+[00:40:35] here Friedrich comes into the picture
+[00:40:39] because he invented all these machines
+[00:40:41] to exercise
+[00:40:45] the uh the the the unexercised body of
+[00:40:47] his troops and the military man and it
+[00:40:52] the springboard comes into the picture
+[00:41:17] the use of
+[00:41:17] it
+[00:41:19] is
+[00:41:24] up to about four percent that you may
+[00:41:27] have to provide it or else
+[00:41:42] a lot
+[00:41:46] of games companies yes well I don't have
+[00:41:48] it in the book I don't have it there
+[00:41:50] because he didn't want me
+[00:41:52] and I said now if you don't want me I
+[00:41:54] don't want you the guy I called him I
+[00:41:57] called him several times and uh
+[00:41:59] and now I wanted to talk to him he said
+[00:42:01] now I'm busy and you know and then oh
+[00:42:04] well I'm busy too and to help with you I
+[00:42:06] don't have his pictures in my book
+[00:42:08] when does it start to become fashionable
+[00:42:15] um well it all starts with there are
+[00:42:19] several historic examples one is King
+[00:42:23] Romanos III who was murdered in his
+[00:42:27] bathtub it's in in Byzantine times then
+[00:42:29] of course there is Mara who was killed
+[00:42:31] by Charlotte corday and is that was but
+[00:42:34] then it was not fashionable yet I guess
+[00:42:38] it became fashionable with with Sunset
+[00:42:40] Boulevard I think where the
+[00:42:43] where the the the poor man is floating
+[00:42:46] like a spider on the surface of the pool
+[00:42:50] and and then the comment is uh poor
+[00:42:52] thought finally he got his own swimming
+[00:42:52] pool
+[00:42:54] okay
+[00:42:58] but throughout the constitutes comes by
+[00:43:00] everyone thank you very much
+[00:43:24] uh Joel

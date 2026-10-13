@@ -1,0 +1,39 @@
+Source: British Library Electronic Legal Deposit catalogue record: Technic and Magic: The Reconstruction of Reality (Bloomsbury Academic, 2018)
+URL: https://eld.bl.uk/catalog/018826266
+Fetched: 2026-10-12 via fetch.py (page text, stdlib)
+
+Record Type:
+
+ Book
+
+ Title:
+
+ Technic and magic : the reconstruction of reality /: the reconstruction of reality. (2018)
+
+ Main Title:
+
+ Technic and magic : the reconstruction of reality
+
+ Further Information:
+
+ Note: By Federico Campagna.
+
+ Authors:
+
+ Campagna, Federico
+
+ Contents:
+
+ Intro; Title Page; Copyright Page; Contents; Preface -- The Keymaker; Introduction; Chapter 1: Technic's world; Crisis of reality; Technic; Measure and infinity; No outside; Crisis of action, crisis of imagination; Chapter 2: Technic's cosmogony; Defining terms; First hypostasis: Absolute language; Second hypostasis: Measure; Third hypostasis: Unit; Fourth hypostasis: Abstract general entity; Fifth hypostasis: Life as vulnerability; Upper and lower limits: Ego absconditus and double affirmation; Conclusion; Intermission: What is reality?; Between India and the West; Why seek reality? Chapter 3: Magic's cosmogonyDefining terms; First hypostasis: The ineffable as life; Second hypostasis: Person; Third hypostasis: Symbol; Fourth hypostasis: Meaning; Fifth hypostasis: Paradox; Upper and lower limits: Double negation and Deus absconditus; Conclusion; Chapter 4: Magic's world; Outside within; Secret; Initiation; As if; Happy ending; Bibliography; Books; Book Chapters; Journal Articles; Websites; Index
+
+ Publisher Details:
+
+ London : Bloomsbury Academic
+
+ Publication Date:
+
+ 2018
+
+ Extent:
+
+ 1 online resource

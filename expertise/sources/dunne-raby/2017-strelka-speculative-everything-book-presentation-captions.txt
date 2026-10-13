@@ -1,0 +1,2037 @@
+Source: Anthony Dunne, Fiona Raby. "Speculative Everything" Book Presentation | Strelka Institute (YouTube kmibm20UsoA, published 14 November 2017). Auto-generated captions; timestamps from the caption file.
+URL: https://www.youtube.com/watch?v=kmibm20UsoA
+Fetched: 2026-10-12 via yt-dlp --write-auto-sub + vtt2txt.py
+
+[00:00:16] good evening
+[00:00:20] welcome to strelka my name is benjamin
+[00:00:21] bratton i am the
+[00:00:24] education program director
+[00:00:28] at strelka and it is my pleasure
+[00:00:32] to introduce
+[00:00:35] anthony dunn and fiona raby speakers for
+[00:00:37] this evening
+[00:00:40] when i joined strelka
+[00:00:43] about a year ago when we were speaking
+[00:00:43] with
+[00:00:47] uh with shelka press
+[00:00:50] we decided we wanted to
+[00:00:54] invest in the proper translation
+[00:00:58] of some of the key texts in
+[00:01:01] an emergent and extremely important
+[00:01:04] area of interdisciplinary design
+[00:01:06] which came to be known as speculative to
+[00:01:06] design
+[00:01:11] and as we're beginning to make a list of
+[00:01:12] the most
+[00:01:14] important books that we would want to
+[00:01:15] translate to
+[00:01:20] introduce to a russian speaking audience
+[00:01:23] don raby's speculative everything
+[00:01:25] originally published by mit press was at
+[00:01:28] the top of the list and so i'm very
+[00:01:30] uh happy and proud that that's now
+[00:01:31] accomplished and
+[00:01:35] available for you uh available for you
+[00:01:36] this evening
+[00:01:39] so before we i hand it off to tony and
+[00:01:40] fiona i want to just say
+[00:01:44] a few words about uh them and
+[00:01:48] some of the the work they
+[00:01:51] the work that is in the book but also
+[00:01:54] work that they may be most known for
+[00:01:56] both these they're extremely
+[00:01:58] interesting and exciting and
+[00:02:00] groundbreaking design practice
+[00:02:03] but it's also the work of their students
+[00:02:06] and their collaborators who that they
+[00:02:07] have that they have worked with
+[00:02:10] over the years when they were at well
+[00:02:11] college of art design interactions
+[00:02:11] program
+[00:02:17] that that program that they
+[00:02:19] composed and designed together as a
+[00:02:20] research lab
+[00:02:23] is in many ways where speculative design
+[00:02:24] in its current
+[00:02:26] and is it most well known and well
+[00:02:28] understood field really
+[00:02:31] emerged and i think it's a tremendous
+[00:02:33] testament to
+[00:02:37] the creativity and generosity of their
+[00:02:40] of the intellectual pursuit that drives
+[00:02:41] their practice
+[00:02:44] that so many people among the most
+[00:02:44] talented
+[00:02:47] young designers in the world came to
+[00:02:49] london to work with them
+[00:02:50] and then over this period of time
+[00:02:52] developed really what became
+[00:02:55] a new vernacular and a new vernacular
+[00:02:56] for design
+[00:02:59] a new language and a new and a new
+[00:02:59] intellectual
+[00:03:05] movement when we were beginning the
+[00:03:06] new normal program the postgraduate
+[00:03:08] program that we is now
+[00:03:09] had finished its first year at stroker
+[00:03:11] we're now accepting applicants for the
+[00:03:13] second year
+[00:03:15] one of the things that we were looking
+[00:03:19] at was how can we take the
+[00:03:22] the uh the into how can we borrow from
+[00:03:24] the intellectual agenda from speculative
+[00:03:24] design
+[00:03:28] which oftentimes focuses on at the level
+[00:03:29] of the object
+[00:03:32] or the interaction or the experience and
+[00:03:34] how can we borrow from that and use it
+[00:03:34] as a
+[00:03:36] new way of thinking about the
+[00:03:39] conceptualization the design of cities
+[00:03:41] it's a key touchstone for the type of
+[00:03:43] work that we're
+[00:03:46] that we are um that we're doing here
+[00:03:49] tony and fiona are now uh in new york uh
+[00:03:51] at running what's called the design
+[00:03:53] realities lab at
+[00:03:55] parsons at new school uh in new york
+[00:03:56] with several of our
+[00:03:58] colleagues some of which who also teach
+[00:04:00] in the in the program
+[00:04:03] year and this in this represents a new
+[00:04:03] chapter
+[00:04:05] in the development in the of the of
+[00:04:07] their research and the work to convert
+[00:04:09] we're very excited to see what will come
+[00:04:09] from
+[00:04:12] from that as well one last word before i
+[00:04:13] hand it off to
+[00:04:16] them as well in some ways we could say
+[00:04:16] that
+[00:04:20] speculative design represents a
+[00:04:24] um you know perhaps one of the
+[00:04:27] more important trends intellectual and
+[00:04:29] uh practice-based trends within design
+[00:04:31] in the last few years in other ways
+[00:04:34] it's actually quite old
+[00:04:36] it's actually part of how it is that we
+[00:04:36] have
+[00:04:40] thought about how it we might remake
+[00:04:44] the world how it is that we instead of
+[00:04:47] seeing what is in front of us and
+[00:04:49] thinking about how we could optimize it
+[00:04:50] or make it slightly better
+[00:04:54] on its own terms how can we use design
+[00:04:54] to shift
+[00:04:58] what the terms are in the first place
+[00:05:00] in some ways this has to do with asking
+[00:05:02] what the future is
+[00:05:04] but really in mostly using this question
+[00:05:06] of the future as a way of
+[00:05:08] re-asking what the present is and what's
+[00:05:08] possible
+[00:05:13] it's a way of using design not to escape
+[00:05:13] reality
+[00:05:18] but to interrogate the real all the way
+[00:05:21] all the way down so with that it's my
+[00:05:22] real pleasure to introduce
+[00:05:24] uh anthony dunn fiona raby thank you
+[00:05:27] [Applause]
+[00:05:33] is this working yep good thank you very
+[00:05:34] much benjamin for that very nice
+[00:05:34] introduction
+[00:05:38] fiona and i are very happy to be here
+[00:05:39] we've been fans of
+[00:05:41] uh the work being done at strelka for
+[00:05:43] several years since it was set up and
+[00:05:45] especially the publishing program
+[00:05:47] so it's a great honor for us to have the
+[00:05:49] russian version of our book speculative
+[00:05:49] design
+[00:05:52] published um through strelka we're very
+[00:05:55] proud and very happy to be here
+[00:05:57] and to talk about it so tonight we're
+[00:05:58] going to
+[00:06:01] dip in and out of ideas in the book
+[00:06:02] around the book
+[00:06:04] and also what has happened to some of
+[00:06:05] our thinking and since we wrote the book
+[00:06:07] a couple of years ago
+[00:06:09] i'll just give a little bit of a
+[00:06:09] [Music]
+[00:06:10] background
+[00:06:16] to i guess where we started
+[00:06:18] we set up our studio in 1994 and before
+[00:06:20] that we had spent time in japan where we
+[00:06:22] were incredibly inspired by this very
+[00:06:24] different attitude to technology
+[00:06:26] it wasn't seen as a threat um like it
+[00:06:28] was in in much of europe at that time
+[00:06:30] but seen as a kind about almost like
+[00:06:33] another world kind of providing access
+[00:06:35] into parts of the imagination that we
+[00:06:37] couldn't access in any other ways
+[00:06:39] and at the time we'd we were exposed to
+[00:06:40] an amazing range of people who were
+[00:06:42] producing exhibitions
+[00:06:44] writing theory teaching doing one-off
+[00:06:46] houses design for industry
+[00:06:47] and it kind of made us wonder why can't
+[00:06:49] we have a design studio like that
+[00:06:51] so when we came back to london we set up
+[00:06:53] dan and raybee to try and work across
+[00:06:54] all these different
+[00:06:58] domains and um to embrace the conceptual
+[00:06:59] as well as the practical
+[00:07:01] and over the years i guess we've kind of
+[00:07:03] moved increasingly into the more
+[00:07:05] conceptual end of things and become much
+[00:07:07] more heavily involved in education
+[00:07:09] and we see that as the kind of most
+[00:07:11] natural home for us where we can
+[00:07:14] develop and test ideas in the form of a
+[00:07:16] laboratory setting and then bring those
+[00:07:18] to exhibition and other media
+[00:07:25] um i'm just going to kind of flick
+[00:07:27] through a few general slides like this
+[00:07:27] first
+[00:07:31] most of our projects are experiments
+[00:07:32] they're never really done in response to
+[00:07:34] a particular need or problem
+[00:07:36] but we become interested in something
+[00:07:38] try and frame it as an experiment
+[00:07:40] and then do a design project to see what
+[00:07:42] we can discover about it
+[00:07:44] and rather although we work in a
+[00:07:46] university setting rather than writing
+[00:07:48] papers very early on in our career
+[00:07:50] we chose to focus on exhibitions as a
+[00:07:51] way of getting the
+[00:07:54] ideas out into the world they can be
+[00:07:56] dealt with academically but also they
+[00:07:57] can reach
+[00:07:58] a much wider range of people and
+[00:08:00] especially practicing designers
+[00:08:02] so for us the most important thing is
+[00:08:04] that our ideas
+[00:08:05] do connect with designers who are doing
+[00:08:07] design teachers who are teaching design
+[00:08:09] researchers who are researching
+[00:08:11] and they don't just stay academic and
+[00:08:13] when we write about our work
+[00:08:15] it's not so much to try and put a theory
+[00:08:18] forward as to reflect on the practical
+[00:08:18] side
+[00:08:20] and then try and draw something out of
+[00:08:22] that and share that
+[00:08:28] so it's um as benjamin said one of the
+[00:08:28] most
+[00:08:30] i guess formative periods for us was
+[00:08:32] when we led the design interactions
+[00:08:34] program at the royal college of art um
+[00:08:34] from
+[00:08:38] 2005 to 2015 and we worked with an
+[00:08:40] amazingly talented team of tutors noam
+[00:08:40] tehran
+[00:08:45] um james orca nina pope and many others
+[00:08:46] working with students from all sorts of
+[00:08:48] different backgrounds programming
+[00:08:51] architecture economics science but
+[00:08:52] mainly art and design
+[00:08:55] and exploring their way into science and
+[00:08:55] technology
+[00:08:58] some took a highly critical positions
+[00:09:00] others tried to find
+[00:09:03] interesting applications and afterwards
+[00:09:04] people with even though it's a very
+[00:09:06] small program 18 students per year
+[00:09:08] people would go into a very diverse
+[00:09:10] range of um of activities from working
+[00:09:12] in research labs in industry
+[00:09:14] to setting up new kinds of design
+[00:09:16] studios to um working almost in the way
+[00:09:18] as fine artists with galleries
+[00:09:19] and festivals and so on and that
+[00:09:21] richness was very important and
+[00:09:23] that in the studio at any one moment
+[00:09:24] where people sitting
+[00:09:26] whose dream was to work in an industry
+[00:09:28] research lab sitting alongside someone
+[00:09:30] who's highly critical of
+[00:09:32] industry research models and wanted to
+[00:09:33] challenge them it creates a very kind of
+[00:09:35] open-minded pluralistic
+[00:09:35] environment
+[00:09:42] at that time too we also put a lot of
+[00:09:44] emphasis on trying to connect with
+[00:09:46] external partners so that we could test
+[00:09:48] the ideas that we were doing in our
+[00:09:50] small scale projects and that the
+[00:09:52] students were developing in their work
+[00:09:55] often working with um industry but not
+[00:09:56] with the bit that was concerned with
+[00:09:58] developing new products
+[00:10:00] but the parts looking at new ideas and
+[00:10:02] new ways of thinking so for example with
+[00:10:03] a company
+[00:10:06] working in the tech industry one of them
+[00:10:07] was looking at
+[00:10:08] the implications of what happens when
+[00:10:10] money dematerializes
+[00:10:12] and becomes completely virtual how will
+[00:10:14] that impact on our social interactions
+[00:10:16] and the way we express
+[00:10:19] and communicate and then the thinking
+[00:10:20] from that project was meant to feed back
+[00:10:20] into
+[00:10:23] some longer-term work they were doing
+[00:10:25] rather than generating new products
+[00:10:28] and this slide shows a range of
+[00:10:28] [Music]
+[00:10:31] outcomes done by 16 students and we were
+[00:10:32] approached by
+[00:10:34] one of the governments in the uk's um
+[00:10:36] research arms
+[00:10:39] to link 16 designers to 16 research
+[00:10:40] centers around the uk
+[00:10:44] and respond in a speculative way to
+[00:10:46] suggest not how the technologies might
+[00:10:48] be applied in everyday life as new kinds
+[00:10:49] of products
+[00:10:51] but once they're applied what might the
+[00:10:53] knock-on effects and implications be and
+[00:10:54] how might they change
+[00:10:57] our ways of being and they're everything
+[00:10:59] from synthetic biology to 3d printing to
+[00:11:02] new forms of security
+[00:11:11] so as benjamin's said speculation isn't
+[00:11:11] new
+[00:11:14] even in design it's been going on for
+[00:11:16] decades but i think the difference for
+[00:11:16] us
+[00:11:18] is it sort of got forgotten early on in
+[00:11:19] the automotive
+[00:11:22] world for example it was used to promote
+[00:11:23] new directions
+[00:11:26] test markets softly introduce new
+[00:11:27] technologies and get people
+[00:11:30] ready for it so it's very closely linked
+[00:11:32] to the business and marketing side of
+[00:11:33] design and sort of got a bad name in a
+[00:11:33] way
+[00:11:36] but for us we're interested we were
+[00:11:38] interested several years ago and
+[00:11:39] revisiting this
+[00:11:41] and trying to decouple it from that
+[00:11:43] purely commercial role which is fine
+[00:11:45] it's just another way of using it
+[00:11:46] but look at other ways that it could be
+[00:11:49] useful to ask questions to
+[00:11:51] provide new perspectives to step out of
+[00:11:53] the everyday and to
+[00:11:55] look at things afresh so it's a case of
+[00:11:57] not saying it's something brand new
+[00:12:00] but trying to repurpose it and revisit
+[00:12:03] it in today's situation
+[00:12:04] in architecture of course it's been
+[00:12:06] around for centuries we i remember in
+[00:12:09] one of our phd exams um the candidate
+[00:12:11] had just entitled he used the word
+[00:12:13] speculative design in his title and
+[00:12:15] one of the examiners who was an
+[00:12:16] architect so why do you need to put
+[00:12:18] speculative in front of design
+[00:12:20] i mean architecture we assume it's it's
+[00:12:21] that's what makes architecture
+[00:12:23] architecture it is the speculative bit
+[00:12:25] the imagining and the questioning
+[00:12:27] and the conceptualizing alternatives to
+[00:12:29] everyday life and it's quite interesting
+[00:12:30] in architecture
+[00:12:33] that that word certainly relates to some
+[00:12:34] of the more intellectual and conceptual
+[00:12:36] aspects of the practice
+[00:12:38] and this building as something that's
+[00:12:39] maybe different we don't have such a
+[00:12:41] distinction in design
+[00:12:44] but i think as designers increasingly
+[00:12:45] we're starting to
+[00:12:45] [Music]
+[00:12:48] question how design can take on these
+[00:12:52] other kinds of roles
+[00:12:53] so it got interesting for us i guess in
+[00:12:55] the 60s and 70s
+[00:12:57] when architects were building on this
+[00:13:00] long tradition of speculation
+[00:13:01] but started to use it as a critical
+[00:13:03] medium not just to find alternatives but
+[00:13:05] to interrogate and question
+[00:13:07] the kind of assumptions and values and
+[00:13:07] shaping
+[00:13:10] contemporary life especially those
+[00:13:12] related to the emergence of technologies
+[00:13:15] and consumerism
+[00:13:17] and again that's something it kind of
+[00:13:19] faded out during the 80s
+[00:13:20] and it's something that we're very
+[00:13:22] interested in reconnecting to much more
+[00:13:27] throughout this time there's still a lot
+[00:13:28] less activity in art
+[00:13:31] well sorry in design and what did happen
+[00:13:33] tended to happen more in the furniture
+[00:13:34] world and there was a lot of
+[00:13:36] italian radical design in the 60s and
+[00:13:39] 70s but using the chair the table the
+[00:13:41] wardrobe these kinds of objects to talk
+[00:13:42] about socio-political
+[00:13:46] change um this um
+[00:13:49] project also by um an architect is one
+[00:13:50] of my favorite from that time it's a
+[00:13:52] kind by basically immersing yourself in
+[00:13:55] in a tv room there's one of the very few
+[00:13:56] from that time where
+[00:13:58] um a speculative or critical project
+[00:14:00] went beyond furniture or even
+[00:14:00] architecture
+[00:14:03] to look at new kinds of products and our
+[00:14:05] relationships to technology
+[00:14:06] and of course there's a lot more of this
+[00:14:08] going on today there's this some
+[00:14:10] connection that we're trying to make in
+[00:14:12] our work to stay away a little bit from
+[00:14:13] furniture there's plenty of stuff
+[00:14:15] happening in architecture
+[00:14:17] but really trying to drill down deeply
+[00:14:19] into the world of product and industrial
+[00:14:19] design
+[00:14:21] and bring more speculative thinking into
+[00:14:24] so um
+[00:14:24] [Music]
+[00:14:30] that's 2009 i think we were the course
+[00:14:31] was starting to
+[00:14:34] take off and people were quite confused
+[00:14:35] about what it was we were doing
+[00:14:37] and at one point we did a very simple
+[00:14:40] manifesto to try and clarify
+[00:14:41] what the program was about and what our
+[00:14:44] work was about in relation to what most
+[00:14:45] people understood
+[00:14:49] as a design so on the left
+[00:14:51] under the a column is what majority of
+[00:14:53] people would regard as good design this
+[00:14:54] is what design does it
+[00:14:57] finds problems asks questions sorry um
+[00:14:57] solves problems
+[00:15:00] provides answers develops future
+[00:15:02] scenarios and so on
+[00:15:04] but what we were doing was more aligned
+[00:15:06] with the column on the right
+[00:15:08] and it was never a lot of people see it
+[00:15:10] now as oppositional a versus b and that
+[00:15:11] was never really our intention it was
+[00:15:13] just to suggest that there's a we all
+[00:15:13] understand
+[00:15:16] a we're trying to introduce b and we
+[00:15:17] hope we can see
+[00:15:20] c d e f and many other layers of design
+[00:15:21] and accumulate
+[00:15:24] over the years so
+[00:15:25] um some of the things we're particularly
+[00:15:28] interested is a lot of design
+[00:15:30] training is focused on analyzing the
+[00:15:31] world around us and designing within the
+[00:15:33] limits of existing realities
+[00:15:35] and we're much more interested in
+[00:15:37] imagining how the world could be
+[00:15:39] setting up that space as a narrative for
+[00:15:41] a scenario and then designing
+[00:15:46] most design of course focuses on finding
+[00:15:49] applications for m technologies
+[00:15:50] there's nothing wrong with that that's
+[00:15:53] what design is is kind of focused on
+[00:15:55] but in addition to that we want to
+[00:15:57] suggest that design can look beyond that
+[00:15:58] and as i mentioned before
+[00:16:00] see what the consequences of those
+[00:16:02] applications might be especially when we
+[00:16:02] have
+[00:16:05] technologies like ai emerging at the
+[00:16:07] moment and moving out of the laboratory
+[00:16:09] into everyday life thinking about its
+[00:16:11] potential consequences and impacts on
+[00:16:17] and i think again there's a lot of focus
+[00:16:19] especially in the tech world
+[00:16:23] on using design to
+[00:16:25] try and change the world around us to
+[00:16:27] accommodate our ever expanding needs
+[00:16:29] and we're interested in maybe changing
+[00:16:29] ourselves
+[00:16:34] to re-think our attitudes to fit within
+[00:16:36] the limitations of the planet
+[00:16:38] so it could be quite extreme in using
+[00:16:40] genetic technologies to literally
+[00:16:42] re-engineer ourselves to work within the
+[00:16:43] limitations of the planet
+[00:16:46] or it could be using design to try and
+[00:16:46] reprogram
+[00:16:48] and rethink our values and assumptions
+[00:16:50] and beliefs and priorities
+[00:16:52] so that once we begin to change those
+[00:16:54] new behaviors might emerge
+[00:17:02] so i just before we talk about our
+[00:17:05] projects i just want to mention that um
+[00:17:07] there are lots of interesting mutations
+[00:17:10] i'm occurring in this field now um
+[00:17:13] benjamin's course in san diego is um
+[00:17:14] taking it in
+[00:17:16] in a kind of more urbanist sort of
+[00:17:16] pathway
+[00:17:21] superflux a very interesting uk design
+[00:17:23] agency is figuring out how to do this
+[00:17:25] stuff outside of an academic context
+[00:17:27] with businesses and other kinds of
+[00:17:29] partners and very much saying by
+[00:17:30] imagining the future we can make much
+[00:17:31] better decisions today
+[00:17:34] about directions we want to go in james
+[00:17:37] olga one of our colleagues from the rca
+[00:17:39] is very much continuing the work of
+[00:17:40] looking at how
+[00:17:42] you explore the implications of emerging
+[00:17:44] technologies but rather than making them
+[00:17:45] so fictional
+[00:17:47] he's actually trying to prototype them
+[00:17:50] for real in his current work
+[00:17:52] there's some design fiction unit at mit
+[00:17:54] media lab where sputniko
+[00:17:55] is trying to look at this stuff from a
+[00:17:58] feminist and biotechnological point of
+[00:17:58] view
+[00:18:01] the near future laboratory of course and
+[00:18:03] developed the design fiction approach
+[00:18:04] which kind of emerged around the same
+[00:18:06] time as the sort of work we're doing
+[00:18:09] and overlaps in many ways takram in
+[00:18:12] london is a japanese design agency
+[00:18:14] is really trying to explore how can you
+[00:18:16] take this kind of thinking back to
+[00:18:16] industry
+[00:18:18] and again not just come up with more
+[00:18:20] consumer products but impact on the way
+[00:18:22] companies are thinking about the
+[00:18:24] products that they're producing
+[00:18:27] um strange telemetry is taking this kind
+[00:18:27] of thinking
+[00:18:29] into government policy making and
+[00:18:32] working with the policy lab in the uk
+[00:18:32] government
+[00:18:35] to test out the consequences of
+[00:18:37] different policies so that
+[00:18:39] when the policy is considered they try
+[00:18:40] and visualize
+[00:18:41] how london for example might look
+[00:18:43] different feel different take that into
+[00:18:44] the public
+[00:18:47] get a reaction not to the public itself
+[00:18:48] but to the consequence sorry to the
+[00:18:50] policy but to the consequences of the
+[00:18:50] policy
+[00:18:53] and then feed that back in and then
+[00:18:54] there's the work that we're trying to do
+[00:18:56] at the new school which we'll talk about
+[00:19:04] so we always use um i'm going to talk a
+[00:19:06] little bit about the kinds of projects
+[00:19:06] that we do
+[00:19:10] or have done in the past and we've
+[00:19:11] always used projects as a way of
+[00:19:14] exploring our ideas and the ideas are
+[00:19:15] very much embedded in the objects
+[00:19:18] and we i want to start with a very very
+[00:19:20] simple one where we strip back
+[00:19:22] everything right back to a simple
+[00:19:25] product a very tiny product
+[00:19:27] and every industrial designer wants to
+[00:19:28] design a watch so
+[00:19:31] you know we had to design a watch and so
+[00:19:33] this was our watch
+[00:19:35] um and there's something about design in
+[00:19:36] the everyday
+[00:19:38] which i think has got a certain kind of
+[00:19:40] resonance and the way that we can
+[00:19:41] connect design helps us to connect with
+[00:19:42] behavior
+[00:19:47] and empathy um and we help to connect to
+[00:19:49] a collective knowledge we all know how a
+[00:19:49] watch
+[00:19:52] works and we all know how we use the
+[00:19:54] watch and so we can it's sort of in our
+[00:19:55] minds collectively so there's this
+[00:19:57] collective imagination we like to play
+[00:19:58] with as well with some of the objects
+[00:20:00] that we create
+[00:20:02] um so we also with this watch we were
+[00:20:04] very interested in how a simple watch
+[00:20:08] could hold a very um different set of
+[00:20:11] values so
+[00:20:13] objects are our tools we always start
+[00:20:14] with objects
+[00:20:17] um there are you know they really are
+[00:20:19] they sit at the heart of everything we
+[00:20:21] do and i think that's what we try to
+[00:20:22] sort of differentiate ourselves in many
+[00:20:23] ways we we
+[00:20:25] while where others of our graduates and
+[00:20:27] our students would go on and
+[00:20:29] do all sorts they would do operas and
+[00:20:30] and um they would do all sorts of kind
+[00:20:31] of like
+[00:20:34] films and but but for us you know the
+[00:20:36] object we want to almost condense
+[00:20:38] everything down into an object can an
+[00:20:38] object
+[00:20:43] through all of our work tell stories um
+[00:20:44] on their own could you can you it's
+[00:20:47] almost like reverse engineer
+[00:20:49] the ideas within through the objects
+[00:20:50] that we create
+[00:20:53] um so there's a number this is our risk
+[00:20:53] watch
+[00:20:56] so the number of ideas that interested
+[00:20:58] us about the watch
+[00:21:01] um so you know can how can objects
+[00:21:01] contribute
+[00:21:05] to a kind of parallel reality so um
+[00:21:07] and how the fictions and imaginations
+[00:21:09] how can they be embedded within our
+[00:21:11] everyday life
+[00:21:13] you know can a simple object embody
+[00:21:15] embodied with a different set of values
+[00:21:15] open
+[00:21:19] up a world so so how much of the object
+[00:21:22] actually exists in our imagination
+[00:21:24] but how much of the object is about its
+[00:21:26] story so it's a lot of things kind of
+[00:21:27] going around
+[00:21:29] this object so this object it's a risk
+[00:21:32] what we call it the risk watch
+[00:21:34] um it gives you it was it we did this at
+[00:21:36] a time when we were just becoming aware
+[00:21:36] that
+[00:21:39] countries had different risks factors
+[00:21:41] associated with them
+[00:21:43] um and we wanted to kind of explore that
+[00:21:43] so
+[00:21:47] basically it's a cast in soft rubber
+[00:21:50] it has a precious activated switch so
+[00:21:52] you put it into your ear
+[00:21:54] and as you click it into your ear a
+[00:21:57] voice whispers a number into your ear
+[00:21:58] and tells you the kind
+[00:22:00] of the the risk of that country that you
+[00:22:01] might be in
+[00:22:04] um it's a very intimate interaction it's
+[00:22:06] a very aesthetic gesture so that the
+[00:22:08] interaction the gesture or is all part
+[00:22:10] of the aesthetics of the object itself
+[00:22:14] and we thought that you know the the the
+[00:22:15] voice would be a bbc
+[00:22:17] english because at that stage we thought
+[00:22:18] well maybe that was the only thing we
+[00:22:21] could possibly trust at that time
+[00:22:25] so with this watch if you were to um
+[00:22:27] wear it would you feel differently about
+[00:22:29] the world when you walked around wearing
+[00:22:29] it
+[00:22:32] and would you see your new location very
+[00:22:32] differently
+[00:22:35] you know by wearing this watch has your
+[00:22:37] reality actually changed
+[00:22:39] so these are the sort of things that you
+[00:22:41] know a tiny tiny watch could have this
+[00:22:41] big
+[00:22:44] impact um about the way that you view
+[00:22:46] the world
+[00:22:49] um so at the time when we made it it was
+[00:22:50] really important that things
+[00:22:53] were real that they worked so we made
+[00:22:53] this work
+[00:22:56] uh this watch actually work and this was
+[00:22:57] before arduino so it was actually a
+[00:22:59] really painful
+[00:23:01] uh process that we we did and the minute
+[00:23:03] we made it
+[00:23:05] it was technologically kind of out of
+[00:23:06] date already
+[00:23:08] um i think it lasted for about three
+[00:23:09] minutes before the battery completely
+[00:23:10] ran
+[00:23:13] out um because we the technology by the
+[00:23:15] time we did it the technology was
+[00:23:15] evolving
+[00:23:19] um and ideally of course this watch
+[00:23:20] would be produced
+[00:23:22] mass manufactured for many people to
+[00:23:24] have um
+[00:23:25] so that many people could experience
+[00:23:27] what would that be like
+[00:23:28] um but we could barely make one
+[00:23:30] ourselves um
+[00:23:32] so so in some ways it's highly unlikely
+[00:23:34] that this watch is ever going to exist
+[00:23:36] in the world
+[00:23:37] it's highly unlikely it's ever going to
+[00:23:39] be mass manufactured i mean that might
+[00:23:41] be different now with crowd sourcing but
+[00:23:43] when we made it it was sort of
+[00:23:46] seriously a one-off um but it but it did
+[00:23:46] exist
+[00:23:48] and it was materialized and and that
+[00:23:50] that there's something very powerful
+[00:23:50] about
+[00:23:53] the the materialization of the thing
+[00:23:55] actually working and being in the world
+[00:23:57] even though it was this kind of
+[00:23:59] conceptual object
+[00:24:02] um and we've experimented a lot um with
+[00:24:02] this
+[00:24:05] we we kind of continued to experiment
+[00:24:07] and another project that we did where we
+[00:24:08] really wanted to push the language and
+[00:24:10] the aesthetic of the objects
+[00:24:13] was our robot project um
+[00:24:17] so this was a commission by z33 um
+[00:24:19] it was a big gathering of work on
+[00:24:21] critical design at the time
+[00:24:24] um and what we were really interested in
+[00:24:26] is what happens when the robots enter
+[00:24:26] the home
+[00:24:29] into the domestic space um what kinds of
+[00:24:29] experiments
+[00:24:32] you know what how can we experiment with
+[00:24:35] the language the interactions
+[00:24:36] i know what what would a robot what
+[00:24:38] could a robot be and in some ways we
+[00:24:39] were really
+[00:24:41] um when we started the project we were
+[00:24:43] quite shocked at how narrow
+[00:24:45] the kind of typology of robots actually
+[00:24:45] are
+[00:24:49] you have industrialized robots there are
+[00:24:49] sort of
+[00:24:51] you know you can have seamless plastic
+[00:24:53] kind of
+[00:24:55] touch screen surfaces on your
+[00:24:56] architecture walls where
+[00:24:58] everything just disappears into the
+[00:25:00] architecture um
+[00:25:01] or you've got the humanoid or the
+[00:25:03] animal-like robot and we thought well
+[00:25:06] that's incredibly narrow you know this
+[00:25:08] is huge potential to what a robot could
+[00:25:10] be and we really wanted to explore that
+[00:25:13] um so we try to look at it from an
+[00:25:15] emotional and cultural angle
+[00:25:17] um we first focus a lot on the
+[00:25:19] interactions between
+[00:25:21] the person and the these objects that
+[00:25:22] would live in your home
+[00:25:25] and they were no longer appliances we
+[00:25:26] wanted to really push the idea of a
+[00:25:28] future furniture
+[00:25:29] what would you know if we were to push
+[00:25:31] the furniture genre further
+[00:25:33] mixed with this robotics what kinds of
+[00:25:35] things white might we have
+[00:25:37] and design really does invest from the
+[00:25:38] furniture world
+[00:25:41] in you know emotional connection they
+[00:25:43] look at aesthetics and the materiality
+[00:25:44] so we really wanted to push that
+[00:25:46] but of course we had very we had no
+[00:25:48] money at all with very little budgets
+[00:25:50] and we wanted it to be very high tech
+[00:25:52] but of course we had we had to make just
+[00:25:52] wooden
+[00:25:56] wooden objects um and so we ended up
+[00:25:59] making a film uh everything was kind of
+[00:26:00] fictionalized we were
+[00:26:03] using um what's it called uh
+[00:26:05] fish fish wire to kind of pull the
+[00:26:07] objects and make them do
+[00:26:09] these these things and we were very
+[00:26:11] surprised we were pretty we're worried
+[00:26:13] when we did this project
+[00:26:14] that because they were just a series of
+[00:26:16] mock-ups that no one would take us
+[00:26:17] seriously you know
+[00:26:20] this this issue about not being real was
+[00:26:22] kind of playing its part
+[00:26:24] um but that wasn't the case at all and
+[00:26:25] we have received
+[00:26:28] enormously enormous feedback on this
+[00:26:30] project and it continues to be exhibited
+[00:26:33] even now it's being exhibited um we had
+[00:26:35] a phd that came out of it funded um
+[00:26:38] to look into robotics from this very
+[00:26:40] very abstract and kind of
+[00:26:43] artistic kind of project so it really
+[00:26:43] kind of
+[00:26:46] it it galvanized us it actually in some
+[00:26:47] ways it
+[00:26:50] it muddied the water because this idea
+[00:26:51] is should it work or shouldn't it work
+[00:26:53] how far do we materialize something
+[00:26:55] became even more problematic for us and
+[00:26:57] we still i think we still wrestle with
+[00:27:00] the with that and actually some of the
+[00:27:02] later ones i'm going to show you
+[00:27:03] actually makes that makes that problem
+[00:27:05] even worse um
+[00:27:07] so this was it shown because in the end
+[00:27:09] we showed it how
+[00:27:10] in the film we showed the objects
+[00:27:12] working and then the objects were in
+[00:27:13] front of the film so you could see them
+[00:27:14] but i'm just going to
+[00:27:16] just talk about one of them which is my
+[00:27:18] favorite one which is this idea of
+[00:27:21] the furniture if we could um increase
+[00:27:22] the furniture
+[00:27:24] evolution what might what might what
+[00:27:26] kinds of furniture might it be
+[00:27:28] but this one's also pushes the idea of
+[00:27:30] user friendliness
+[00:27:32] um one of the things with our electronic
+[00:27:33] objects they're all very efficient
+[00:27:37] and we use them very very um
+[00:27:40] easily and simply but this is like this
+[00:27:41] big awkward
+[00:27:44] lump of wood that you kind of pick up
+[00:27:46] and also it's interesting because the
+[00:27:47] biggest nightmare i have at the moment i
+[00:27:48] don't know about you but
+[00:27:51] passwords i have like you know i can
+[00:27:53] never remember any of my passwords for
+[00:27:54] all the different things i have
+[00:27:57] it's a complete nightmare and i really i
+[00:27:58] wish there was this
+[00:27:59] uh i think we are going to retinol
+[00:28:02] scanning but when we did this robot
+[00:28:04] there was actually retinal scanning
+[00:28:06] going into heathrow so i was actually
+[00:28:08] registered with my retinal scans
+[00:28:11] and i could go enter into the uk and
+[00:28:12] have be scanned
+[00:28:13] and we were wondering is this going to
+[00:28:15] be a future interaction being scanned
+[00:28:15] with
+[00:28:17] our eyes and the only thing that you're
+[00:28:19] scanned at the moment is a supermarket
+[00:28:20] so we wondered you know
+[00:28:23] you know are we going to be you know
+[00:28:26] barcoded like supermarket
+[00:28:28] produce you know and we didn't want to
+[00:28:30] go in that direction either if that was
+[00:28:31] the way in which we read our irises so
+[00:28:32] this was
+[00:28:34] this was a kind of an attempt as to
+[00:28:36] reclaim back
+[00:28:39] the interaction with our deepest data so
+[00:28:41] the idea is this is a sentinel object
+[00:28:44] it it contains all your your most
+[00:28:45] important data
+[00:28:47] and to access it you have to pick up
+[00:28:49] this very heavy looking odd looking
+[00:28:49] thing
+[00:28:51] and you have to stare in the top of it
+[00:28:54] these two eyes that read your
+[00:28:57] retinal um they scan your retina
+[00:28:59] they you look into the the robot it
+[00:29:00] looks at you
+[00:29:03] you look at it and you hold it um and
+[00:29:05] then when it's sure that it's you
+[00:29:07] it kind of lets you enter into your data
+[00:29:09] so it's a very sort of um
+[00:29:12] human kind of gesture um
+[00:29:15] it's a very different kind of um logic
+[00:29:15] and
+[00:29:18] and we weren't really pushing what an
+[00:29:19] interaction would be
+[00:29:21] do we always have to have these
+[00:29:23] efficient interactions
+[00:29:25] in in the world that we produce
+[00:29:25] [Music]
+[00:29:31] so yeah okay back to me
+[00:29:34] so um this project
+[00:29:37] was the response to an invitation from
+[00:29:38] the design museum in london
+[00:29:40] who are very interested in introducing
+[00:29:42] this kind of design approach to a wider
+[00:29:44] audience so the project in a sense
+[00:29:47] had to it wasn't just a pure piece of
+[00:29:49] research the slightly didactic
+[00:29:52] function too but there's a long list of
+[00:29:53] people that helped us on this project
+[00:29:53] and
+[00:29:55] the way we organize our studio is almost
+[00:29:57] as a virtual studio
+[00:30:00] we um assemble teams for projects and
+[00:30:01] disassemble them
+[00:30:03] as we go and it means we can work with a
+[00:30:05] very very wide range of topics sometimes
+[00:30:07] with writers sociologists and
+[00:30:07] photographers
+[00:30:09] at the times with computer programmers
+[00:30:11] model makers
+[00:30:13] and engineers um it's very inefficient
+[00:30:14] way of working
+[00:30:16] but it means that we can work on a key
+[00:30:18] power our kind of breadth of type of
+[00:30:20] projects that we want to work in
+[00:30:22] i'm very open it's very enjoyable in
+[00:30:24] that sense
+[00:30:26] so with this project at that time we
+[00:30:26] were
+[00:30:30] also very wary that a lot of the work we
+[00:30:31] and our students were doing where as i
+[00:30:33] mentioned before
+[00:30:34] taking some piece of research happening
+[00:30:36] in the laboratory it could be around
+[00:30:38] synthetic biology for example
+[00:30:40] fast-forwarding it so it enters everyday
+[00:30:41] life and then looking at its
+[00:30:41] consequences
+[00:30:45] but the values that were existing often
+[00:30:46] that kind of work
+[00:30:48] extends the values existing in today's
+[00:30:50] world into the future so the future
+[00:30:51] might look different
+[00:30:54] i mean it might be shiny it might be new
+[00:30:55] but the values that it embodies could
+[00:30:57] just echo the ones we have now and as
+[00:30:59] most of us i think are aware of these
+[00:31:00] days there's a lot wrong with the kind
+[00:31:00] of
+[00:31:04] values belief systems and so on driving
+[00:31:05] the kind of
+[00:31:06] thinking that's shaping the world around
+[00:31:09] us so in this project we wanted to
+[00:31:11] step back and look at the kind of world
+[00:31:11] views
+[00:31:15] that drive technological development and
+[00:31:17] kind of question
+[00:31:18] the assumption amongst a lot of
+[00:31:20] designers that technology is somehow
+[00:31:20] neutral
+[00:31:23] and do a project that linked different
+[00:31:24] technologies to different kinds of
+[00:31:24] ideologies
+[00:31:28] we're very inspired by this um
+[00:31:29] collection of books
+[00:31:33] from stanberg in berlin um
+[00:31:35] where an author is asked to reimagine
+[00:31:37] the country some do it very poetically
+[00:31:39] some do it very provocatively others
+[00:31:40] like the finnish one
+[00:31:43] um the one on the top um second left is
+[00:31:44] quite practical
+[00:31:45] we wondered what if we did one for
+[00:31:48] england from our perspective
+[00:31:51] and um we did it as a design project
+[00:31:52] rather than a book
+[00:31:54] and we called it the united micro
+[00:31:56] kingdoms this was in 2012
+[00:31:58] and at the time it seemed a little bit
+[00:32:00] ridiculous but sadly
+[00:32:03] it's now become a bit too realistic
+[00:32:05] england had devolved into four
+[00:32:08] separate at last scotland wales and
+[00:32:09] northern ireland
+[00:32:12] and evolved further into four um micro
+[00:32:16] counties europe was also falling apart
+[00:32:18] america had turned inward and china was
+[00:32:18] on
+[00:32:20] on the rise we kind of quickly sketched
+[00:32:22] this out in the paragraph think it would
+[00:32:22] be a bit
+[00:32:24] extreme and not realizing that today
+[00:32:26] sadly it's the kind of world we're
+[00:32:26] facing
+[00:32:30] so we spent a lot of time we
+[00:32:32] artificially divided england into these
+[00:32:32] four
+[00:32:36] experimental regions and each one would
+[00:32:37] use a particular technology in a
+[00:32:39] particular ideology
+[00:32:41] and we thought at the beginning of the
+[00:32:42] project we'd come up with our own
+[00:32:43] ideologies but
+[00:32:45] it was incredibly difficult we kind of
+[00:32:46] failed abysmally and it's something
+[00:32:48] we're revisiting now at the new school
+[00:32:49] where there's a lot more expertise in
+[00:32:51] this area
+[00:32:53] so um we eventually took an
+[00:32:53] off-the-shelf
+[00:32:56] matrix i'm sure lots of you have seen is
+[00:32:57] it's very um
+[00:33:00] probably doesn't work so well today but
+[00:33:01] very simply the left
+[00:33:04] side is um economic regulation the right
+[00:33:05] side is free markets
+[00:33:07] the top is individual freedom and the
+[00:33:09] i'm sorry the top is a
+[00:33:11] very controlled society with regard to
+[00:33:12] individual freedom
+[00:33:14] and the bottom is much prior and we
+[00:33:15] basically set
+[00:33:18] each of our parts of england in each of
+[00:33:24] and on the top right hand one we combine
+[00:33:26] digital technologies with a very
+[00:33:29] kind of um exaggerated version of
+[00:33:30] neoliberalism so it's sort of an
+[00:33:32] exaggerated version of what today at
+[00:33:34] least in the uk we have
+[00:33:36] and weirdly in the exhibition people
+[00:33:37] thought it was the most um
+[00:33:40] dystopian and the most realistic which
+[00:33:42] was quite disturbing
+[00:33:46] the top left one started out with um
+[00:33:47] a kind of communist perspective and
+[00:33:49] nuclear energy but eventually ended up
+[00:33:51] as more of a collectivist
+[00:33:54] organization built around nuclear power
+[00:33:55] the bottom left hand core
+[00:33:58] bottom left one is a biotechnology but
+[00:34:01] decoupled from extreme capitalism and
+[00:34:03] linked to a more liberal
+[00:34:04] ideology where it would be highly
+[00:34:06] regulated and and managed
+[00:34:09] and the bottom right hand corner is um
+[00:34:11] the anarcho evolutionists
+[00:34:13] self-experiment and modify themselves
+[00:34:15] and and their animals
+[00:34:18] this is highly artificial we just wanted
+[00:34:20] to say you know biotechnology in a
+[00:34:23] kind of socialist version is going to be
+[00:34:24] very different from a neoliberal for
+[00:34:24] example
+[00:34:29] so we needed a medium to communicate
+[00:34:32] these values through and turn back to
+[00:34:34] transport something through most of the
+[00:34:35] 20th century
+[00:34:37] and was used to communicate a sort of
+[00:34:39] dream of progress and modernity and
+[00:34:41] freedom and individuality
+[00:34:43] and so we didn't just take the car but
+[00:34:45] looked at several forms of transport and
+[00:34:45] also
+[00:34:48] it allowed us to look at the large scale
+[00:34:50] because each form of transport
+[00:34:52] depended on a certain infrastructure and
+[00:34:54] the one-to-one scale where people could
+[00:34:54] relate
+[00:34:58] to the object and um
+[00:35:00] sorry let's move on so i'm only going to
+[00:35:02] mention one of them but i just briefly
+[00:35:03] described the four
+[00:35:05] so the top right hand one i'll talk
+[00:35:07] about they're self-drive
+[00:35:10] um cars the top left-hand one is a
+[00:35:12] nuclear-powered mobile state
+[00:35:15] so it's um seven kilometers long and
+[00:35:17] people live on the landscape and inside
+[00:35:20] it's a limited society it's fixed but
+[00:35:22] because of that all their needs are met
+[00:35:24] with the nuclear energy
+[00:35:26] and basically it's a kind of utopian
+[00:35:28] ideal but a very very selfish one
+[00:35:29] the reason it moves is none of the other
+[00:35:31] regions would have wanted to have a
+[00:35:31] nuclear
+[00:35:34] power station near it so it was forced
+[00:35:36] to to remain mobile they would travel at
+[00:35:37] about four miles an hour
+[00:35:40] and we consulted an engineer for all of
+[00:35:41] these designs and with this one we were
+[00:35:42] looking at
+[00:35:46] thorium reactors which
+[00:35:49] i understand don't produce nuclear
+[00:35:51] weapons grades and byproducts and that's
+[00:35:52] one of the reasons they haven't been
+[00:35:52] developed
+[00:35:55] historically the bottom left-hand one is
+[00:35:57] the study and what with a purely
+[00:35:59] biotechnological car be like
+[00:36:02] probably very smelly very slow very you
+[00:36:02] know
+[00:36:04] we would suggest that maybe the
+[00:36:05] experience we have the moment of
+[00:36:06] transport is a
+[00:36:09] historical blip and we might return
+[00:36:11] again to a much slower way of existing
+[00:36:13] and the bottom right-hand one is a group
+[00:36:14] of people who
+[00:36:16] build um communities around different
+[00:36:18] forms of transport
+[00:36:20] the one the tall thin one would be a
+[00:36:20] balloonist
+[00:36:24] so one of the things we're interested in
+[00:36:26] is in sci-fi game design film
+[00:36:28] even architecture there's a tradition of
+[00:36:30] world building where people imagine the
+[00:36:32] whole society as political systems and
+[00:36:32] so on
+[00:36:34] and then visualize them in very high
+[00:36:36] amount of detail
+[00:36:37] and for us it leaves very little up to
+[00:36:39] the imagination all we can do is
+[00:36:41] interpret it and decode it
+[00:36:43] and we're wondering if objects could
+[00:36:45] work at the scale of world hinting
+[00:36:47] where you encounter for example the
+[00:36:49] biotechnological car
+[00:36:50] and then you wonder what kind of
+[00:36:52] political system economic system
+[00:36:55] social system would have to exist for a
+[00:36:57] technology like this to be normal
+[00:36:59] so it's sort of inviting people to
+[00:37:02] reverse engineer the designs
+[00:37:05] so the um the digi cars
+[00:37:07] basically start with the kind of fairly
+[00:37:08] familiar image
+[00:37:10] of autonomous cars that have been
+[00:37:12] floating around for a few years now
+[00:37:14] quite utopian and idealistic and often
+[00:37:16] shown just one car
+[00:37:19] taking its um inhabitants in a very
+[00:37:20] leisurely way to work
+[00:37:22] but we looked back at the airlines and
+[00:37:23] how they were presented in the early
+[00:37:25] part of the 20th century as luxurious
+[00:37:28] spaces flying across the atlantic with
+[00:37:30] billiards rooms
+[00:37:33] hotel rooms cocktail bars and so on
+[00:37:36] but in reality we've got incredibly um
+[00:37:39] functional and utilitarian forms of
+[00:37:40] flight today that are
+[00:37:42] pretty much unpleasant for most people
+[00:37:44] to use so what if this
+[00:37:46] you know there's a kind of technological
+[00:37:48] dream behind the autonomous car
+[00:37:50] but what happens when economics kicks in
+[00:37:52] and capitalism
+[00:37:54] so in our scenario like the
+[00:37:54] telecommunications
+[00:37:58] industry which are the the airwaves are
+[00:38:00] owned by the government
+[00:38:02] who license particular sections of the
+[00:38:04] airwaves to different companies
+[00:38:06] who then create tariffs for us to access
+[00:38:08] it the governments would own the road
+[00:38:10] they'd lease them to companies like
+[00:38:12] google hertz ford
+[00:38:15] um apple even and then they would create
+[00:38:17] tariffs that charge us for the amount of
+[00:38:17] time and the amount of
+[00:38:19] square meters that we take up so it's
+[00:38:21] not navigating
+[00:38:23] a landscape anymore it's navigating
+[00:38:25] tariff systems
+[00:38:27] so we worked with one of our ex-students
+[00:38:29] to come up with a intentionally
+[00:38:31] difficult to figure out tariff
+[00:38:33] so one of them for example would be one
+[00:38:35] passenger small car size no windows
+[00:38:37] three stops per day
+[00:38:40] no peak hours travel and one hour off
+[00:38:40] peak
+[00:38:43] and then we translated these into a
+[00:38:45] series of vehicles that were not meant
+[00:38:46] to be romantic
+[00:38:49] or sexy in any way but more like
+[00:38:51] appliances designed to extract
+[00:38:55] money from its citizens
+[00:38:58] i forgot to say the vegetarians
+[00:39:00] are a kind of i did mention they're a
+[00:39:02] hyper exaggerated version but they kind
+[00:39:03] of go with the
+[00:39:05] total surveillance transparency the fact
+[00:39:07] that we give all our data
+[00:39:09] um to the companies in return for
+[00:39:10] various services and so on a kind of
+[00:39:12] extreme version of that
+[00:39:14] so this is the base unit it minimizes
+[00:39:16] the road space you stand
+[00:39:17] um to take up less room you can work in
+[00:39:17] it
+[00:39:21] here's next unit up you can save a
+[00:39:22] little money by
+[00:39:24] facing backwards and also by being
+[00:39:26] dropped off second
+[00:39:29] these are facing both forward so um you
+[00:39:31] can save a bit of money by being dropped
+[00:39:32] off second but they're a little bit more
+[00:39:34] expensive because they're acoustically
+[00:39:34] isolated
+[00:39:36] and there are many many different
+[00:39:38] versions um here are some of them
+[00:39:39] they're kind of
+[00:39:41] created in these sort of candy colors
+[00:39:43] that i meant to suggest the kind of
+[00:39:43] innocent
+[00:39:46] playful face of technology when
+[00:39:48] underneath it there's a lot more going
+[00:39:48] on
+[00:39:52] and this is the a glimpse into digi land
+[00:39:53] and a little piece of nature that
+[00:39:55] they've forgotten what to do with
+[00:39:57] so it's kind of corned off in case it's
+[00:39:57] dangerous
+[00:40:01] and we're sort of interested we think
+[00:40:02] the vegetarians
+[00:40:04] are amongst us already there's plenty of
+[00:40:05] them around us
+[00:40:07] and what can we do as designers how can
+[00:40:10] we prevent this kind of world taking
+[00:40:10] shape
+[00:40:12] and we think it's not by just designing
+[00:40:14] alternative applications say for
+[00:40:15] driverless vehicles
+[00:40:17] but creating alternative ways of
+[00:40:19] understanding the world our relationship
+[00:40:21] to nature between humans and animals and
+[00:40:23] what it means to have a good life and
+[00:40:25] then translating that
+[00:40:27] into a technological system and seeing
+[00:40:28] what kind of
+[00:40:31] world emerges from that so
+[00:40:34] the digitalians they've come become a
+[00:40:35] kind of platform to
+[00:40:37] for us now we look through everything
+[00:40:39] with these digital
+[00:40:41] lenses so when we came to this uh we had
+[00:40:43] another commission
+[00:40:47] um from z33 for an exhibition
+[00:40:50] a future fictions exhibition we had our
+[00:40:52] sort of digitarian hats on looking at
+[00:40:53] the world
+[00:40:56] um so we really wanted to in this
+[00:40:56] project
+[00:40:59] i think there was a movement there's a
+[00:41:02] kind of movement towards more realism
+[00:41:04] and i think we're trying to we're trying
+[00:41:05] to move in the opposite direction
+[00:41:08] and we're very interested in unrealism
+[00:41:09] the unrealistic
+[00:41:12] and as a strategy um and we really love
+[00:41:14] one of the chapters in the book is
+[00:41:16] chapter seven uh
+[00:41:18] the the aesthetics of unreality which i
+[00:41:19] think is a
+[00:41:21] favorite chapter and i think one of the
+[00:41:23] areas which we've actually started to
+[00:41:24] move forward on
+[00:41:26] um that's probably our next book is
+[00:41:28] around that these issues
+[00:41:31] um but it's not for the the purposes of
+[00:41:33] fantasy or escapism
+[00:41:35] but it's really to look at re to look
+[00:41:36] back at
+[00:41:39] realism in a very different angle if we
+[00:41:39] can sort of
+[00:41:42] how do we step out sometimes really
+[00:41:43] things in reality can be
+[00:41:45] far too constraining that we can't see
+[00:41:47] it's looking at us too much
+[00:41:49] straight on how do we step out of that
+[00:41:51] and look very differently and that's
+[00:41:52] what we've been trying to do
+[00:41:54] a lot and we've been looking a lot of
+[00:41:57] ambiguity how do we use ambiguity
+[00:41:59] much more in our work so this project
+[00:42:01] was really trying to not explain
+[00:42:02] everything too much with these objects
+[00:42:05] but trying to be a bit more ambiguous
+[00:42:08] with what they can do so this is um
+[00:42:11] we call it an ethiculator it's an ethics
+[00:42:15] calculator a calculator for making kind
+[00:42:16] of ethical decisions
+[00:42:18] and i think it's particularly relevant
+[00:42:21] from sort of now and ai and all this big
+[00:42:23] data that's coming along this revolution
+[00:42:24] that's just about to hit us
+[00:42:26] you know how much will we actually
+[00:42:28] outsource our decision making to
+[00:42:28] algorithms
+[00:42:31] you know um how far do we allow ethical
+[00:42:32] decisions to be
+[00:42:35] made by algorithms you know and it's in
+[00:42:37] some ways it's not impossible to imagine
+[00:42:39] you know the idea that we re relinquish
+[00:42:41] any responsibility
+[00:42:43] must be a huge relief you know that we
+[00:42:45] don't have to take on responsibility the
+[00:42:47] machine can do it for us
+[00:42:49] our lives will be met much better less
+[00:42:51] troubled um
+[00:42:53] so so this is what this object was
+[00:42:54] supposed to do um
+[00:42:56] and we knew that the space we were going
+[00:42:58] to exhibit it in it was going to be a
+[00:43:00] museum space we knew the space
+[00:43:03] it had a concrete floor and at the time
+[00:43:05] we had the budget was very very tiny and
+[00:43:06] we knew we couldn't afford to make some
+[00:43:06] objects
+[00:43:09] and so we would we decided to make a
+[00:43:11] series of illustrations but in some ways
+[00:43:12] we wanted to play with the
+[00:43:15] the sense of how much do we make this
+[00:43:16] object real or not real
+[00:43:19] um so we played a lot with the it's an
+[00:43:19] isometric
+[00:43:24] projection um we use that but
+[00:43:27] obviously in a perspective plane and
+[00:43:27] sort of
+[00:43:29] messed with that a little bit and we
+[00:43:30] tried to make it less of it was actually
+[00:43:32] a 3d model but we wanted to make it look
+[00:43:34] more like an illustration
+[00:43:37] so it wasn't entirely physical but it
+[00:43:38] looked physical
+[00:43:40] and the idea was it wasn't really
+[00:43:41] fitting into this world it didn't fit
+[00:43:42] into the world that we were in
+[00:43:44] when you're looking at the objects and
+[00:43:46] it doesn't fit into the world in the
+[00:43:48] in the picture of the in the picture
+[00:43:50] plane either it's sort of floating in
+[00:43:50] between
+[00:43:53] hence the title we called it not here
+[00:43:55] not now
+[00:43:57] and obviously with our objects we always
+[00:43:59] try to have some kind of logic
+[00:44:01] and so that it feels like that it is
+[00:44:04] actually there's some kind of logic be
+[00:44:07] be you know underneath the the um
+[00:44:07] configuration
+[00:44:10] um but we didn't want to be explicit
+[00:44:12] about exactly how it worked
+[00:44:15] um and also we with this object you know
+[00:44:17] again everything's shrinking shrinking
+[00:44:19] down to a flat surface screen and we
+[00:44:21] interface like this and
+[00:44:23] you know our interactions are like this
+[00:44:25] so you know what if we make what if we
+[00:44:26] did the opposite we made these huge
+[00:44:29] large objects that we put our arms into
+[00:44:29] and we
+[00:44:32] we somehow we got back the
+[00:44:33] three-dimensionality of
+[00:44:35] the space where our bodies inhabited and
+[00:44:36] maybe you know
+[00:44:38] again our technologies are going tiny
+[00:44:39] tiny tiny what if
+[00:44:42] what if um this large object was not
+[00:44:44] just a singular interaction we'd have
+[00:44:46] these you know one-to-one interactions
+[00:44:47] with our machine and ourselves
+[00:44:50] but what if this was a machine that was
+[00:44:53] which had a lot of people around it then
+[00:44:54] you had to use this
+[00:44:56] with other people around to make
+[00:44:58] decisions or to have discussions
+[00:45:00] around the object so it became again we
+[00:45:01] were challenging some of the
+[00:45:03] norms of which our electronic
+[00:45:05] technologies are going and seeing well
+[00:45:06] what would that be like
+[00:45:08] again they're in some ways they're
+[00:45:09] ridiculous we're never going to have
+[00:45:11] huge big machines like this
+[00:45:13] but again it's these these objects are
+[00:45:15] asking these questions
+[00:45:18] so we we designed them also as
+[00:45:20] illustrations to be
+[00:45:22] seen from a distance but when you go up
+[00:45:24] close they they have very fine
+[00:45:26] lines in it in in the drawing so we did
+[00:45:28] lots of sort of printouts to
+[00:45:29] to work with them and in the end these
+[00:45:31] were the uh the objects
+[00:45:33] in the space as illustrations between
+[00:45:36] these two worlds
+[00:45:38] and with most of our projects we do them
+[00:45:41] in these little tiny phases so
+[00:45:42] we had another commission that came
+[00:45:45] along with the mac
+[00:45:48] in vienna and we wanted to bring these
+[00:45:49] objects alive
+[00:45:52] so we spent literally all our money on
+[00:45:55] working with the uh very talented keith
+[00:45:57] matsuda who was here at um
+[00:46:00] at strauca last this year we worked with
+[00:46:02] him too he was great
+[00:46:05] um and you know he makes incredible
+[00:46:06] films and it was actually quite you know
+[00:46:08] what again what looked quite
+[00:46:09] straightforward to do was
+[00:46:11] actually turned out to be very precise
+[00:46:13] and extremely tedious work to cut
+[00:46:15] out all of these models and make this
+[00:46:17] work but we were trying to play with the
+[00:46:17] aesthetics
+[00:46:20] of these different kinds of objects so
+[00:46:22] the second object
+[00:46:24] we i'm only talking about too this other
+[00:46:26] one is called public voice
+[00:46:29] and you know it's it's increasingly now
+[00:46:31] becoming hard to know what you can and
+[00:46:32] can't say in public you know
+[00:46:35] whole careers can be kind of ruined by a
+[00:46:35] tweet
+[00:46:38] or you know making the wrong remark and
+[00:46:40] so it's not hard to imagine that we
+[00:46:41] might need to be schooled in how we
+[00:46:42] might present
+[00:46:45] ourselves um in public so this was like
+[00:46:46] a tool to help you
+[00:46:49] kind of practice what you might say
+[00:46:51] before you say it so that you don't kind
+[00:46:52] of get in any trouble
+[00:46:55] but also to to practice certain um
+[00:46:55] vocabularies
+[00:46:59] um ones that don't offend people so
+[00:46:59] really
+[00:47:01] and what we're talking about really is
+[00:47:01] euphemisms
+[00:47:05] um and some of them already exist we
+[00:47:07] took some that were already being used
+[00:47:10] and we invented some new ones um that we
+[00:47:11] sort of played with
+[00:47:12] ourselves so i'm going to just play a
+[00:47:15] little bit about of the um
+[00:47:18] of the um movie but
+[00:47:22] again even in in the in the video
+[00:47:25] we again played with the isometric angle
+[00:47:27] they're slightly awkwardly
+[00:47:29] uh photographed they're taken from above
+[00:47:29] looking
+[00:47:31] down and are very unreached again trying
+[00:47:34] to play this unrealistic viewpoint
+[00:47:37] and and we were really as this project
+[00:47:39] went along we were unsure you know about
+[00:47:41] the materiality of these objects
+[00:47:43] um you know are they actually
+[00:47:45] electromagnetic fields is this not
+[00:47:47] really a real object
+[00:47:49] is it is it a film a kind or is it is it
+[00:47:51] a hyper light material that we haven't
+[00:47:53] quite got yet
+[00:47:55] and as designers designing these kinds
+[00:47:56] of projects you know how real
+[00:47:58] do our designs have to be how much
+[00:48:00] materialization is required and we're
+[00:48:02] still questioning that that still comes
+[00:48:02] up
+[00:48:04] with us even now with the objects that
+[00:48:05] we create so i'll just
+[00:48:35] here and now is
+[00:48:46] okay so i'm just going to finish up
+[00:48:48] talking a little bit about some of the
+[00:48:49] things we're trying to do at the new
+[00:48:51] school and we moved
+[00:48:54] um there 18 months ago to new york it's
+[00:48:55] a university that
+[00:48:58] um has a design school parsons but also
+[00:49:00] has a social research school
+[00:49:02] a performance in acting school in music
+[00:49:02] school
+[00:49:06] and many other kinds of disciplines so
+[00:49:08] first it's very interesting to see
+[00:49:10] like historically we started working
+[00:49:12] very closely with computer scientists in
+[00:49:13] the 90s and
+[00:49:14] kind of more critical attitude in our
+[00:49:16] work emerged out of that
+[00:49:19] and through the 2000s working a lot with
+[00:49:19] scientists
+[00:49:22] and research that still hadn't become
+[00:49:24] real we kind of drifted in a way into
+[00:49:25] this speculative space and so we're very
+[00:49:27] interested to see what happens when we
+[00:49:28] start working with
+[00:49:30] anthropologists and political theorists
+[00:49:32] and philosophers
+[00:49:34] if new kinds of hybrid design will begin
+[00:49:35] to emerge
+[00:49:38] so our role is to try and um
+[00:49:40] experiment with new ways of teaching and
+[00:49:42] doing research
+[00:49:43] that allow designers and other
+[00:49:45] disciplines to come together
+[00:49:47] so we're trying to use this speculative
+[00:49:50] way of of approaching design
+[00:49:51] as a catalyst for interdisciplinary
+[00:49:53] imagining and it's working really well
+[00:49:55] there's a lot of um
+[00:49:58] interest in trying to move beyond um
+[00:49:59] critique and analysis
+[00:50:01] say in political theory and to propose
+[00:50:04] alternative ways of being
+[00:50:05] but there isn't a kind of framework
+[00:50:07] within those disciplines where that's
+[00:50:09] legitimate so by bringing a design
+[00:50:11] perspective into the collaboration it
+[00:50:13] sort of opens up a space where that kind
+[00:50:14] of imagining
+[00:50:15] can be done professionally and quite
+[00:50:15] seriously
+[00:50:21] so we're trying to look loosely at um
+[00:50:23] four different areas
+[00:50:25] we kind of bring a criticality down the
+[00:50:27] bottom left-hand corner
+[00:50:29] which we've always had in which the the
+[00:50:30] new school for social research in new
+[00:50:32] york is particularly famous for it with
+[00:50:34] its history
+[00:50:36] and then um looking at emerging
+[00:50:38] technology which for us is where most of
+[00:50:40] the most interesting challenges are
+[00:50:43] being generated that we face
+[00:50:44] and the new thing for us i think is this
+[00:50:46] experimentation with alternative world
+[00:50:48] views there's a lot of knowledge on how
+[00:50:48] to develop
+[00:50:50] new technologies experiment with
+[00:50:52] materials and so on but how do you
+[00:50:54] build new sets of values beliefs hopes
+[00:50:55] and fears
+[00:50:56] and that's where the sorts of
+[00:50:58] disciplines they have at the new school
+[00:50:59] is really interesting for us to work
+[00:50:59] with
+[00:51:02] and then of course there's the issue of
+[00:51:04] how you materialize these ideas and as
+[00:51:05] fiona was saying
+[00:51:08] there's a real drive in in speculative
+[00:51:11] design design fiction the related fields
+[00:51:12] to create hyper-realistic
+[00:51:14] representations that often get mistaken
+[00:51:15] as hoaxes
+[00:51:17] or suggest that they should become real
+[00:51:20] and that's their ultimate destiny
+[00:51:21] and we're interested in other kinds of
+[00:51:23] registers where
+[00:51:25] the objects are nev they're clearly not
+[00:51:27] intended to be ever realized or
+[00:51:30] exist but they can serve other purposes
+[00:51:37] so um one of the classes we run is um
+[00:51:39] open to designers from many different
+[00:51:40] disciplines theorists but also
+[00:51:42] philosophers anthropologists political
+[00:51:45] theorists and we asked them to
+[00:51:48] look at the idea of a micro nation um to
+[00:51:50] use that as a platform so as
+[00:51:52] practitioners rather than theorists
+[00:51:54] they could think about citizenship
+[00:51:54] sovereignty
+[00:51:58] what is a nation today um what are their
+[00:52:00] responsibilities as citizens what should
+[00:52:02] the border be or not be
+[00:52:04] and then develop scenarios for these
+[00:52:06] kind of micronations to kind of propose
+[00:52:08] some of these different um
+[00:52:10] relations but one of the projects um we
+[00:52:11] liked the most
+[00:52:14] whoops was this one um by heather
+[00:52:16] anderson it's a bit hard to see that
+[00:52:18] she was a lawyer who is now studying
+[00:52:18] anthropology
+[00:52:23] and she her response to the brief was to
+[00:52:24] design a constitution
+[00:52:26] so she imagined a country that would
+[00:52:29] decide it was a version of tasmania
+[00:52:31] to end itself after 100 years they've
+[00:52:33] just had enough with the world it's a
+[00:52:33] mess
+[00:52:35] we're going to wind down this nation and
+[00:52:37] then wrote a constitution that would
+[00:52:39] legally facilitate that process over
+[00:52:41] three generations
+[00:52:44] and consulted lawyers who specialize in
+[00:52:46] that area to make sure it's a
+[00:52:49] proper document and the purpose is to
+[00:52:52] is not a piece of entertainment but to
+[00:52:54] condense many of the issues
+[00:52:55] nations and countries are facing today
+[00:52:57] with their constitutions which clearly
+[00:52:58] are not fit
+[00:53:00] for purpose in the 21st century and try
+[00:53:01] and highlight
+[00:53:03] areas where that can be unpacked and
+[00:53:06] debated amongst experts so
+[00:53:08] in this case the design space is serving
+[00:53:10] as a platform to do some kind of quite
+[00:53:12] focused and rigorous imagining
+[00:53:14] which can then be taken back into the
+[00:53:15] home discipline
+[00:53:18] to have a more kind of um interesting
+[00:53:20] talks and nicely this is now
+[00:53:22] going to be published in one of them by
+[00:53:23] the um
+[00:53:25] editor of the solution series is
+[00:53:26] producing a new book later this year of
+[00:53:29] anthologies and anthology sorry of short
+[00:53:30] essays and this is going to be one of
+[00:53:35] when we arrived at the new school
+[00:53:37] besides teaching one of the hardest
+[00:53:38] things was how do you start going about
+[00:53:40] creating projects
+[00:53:41] and how do you make projects with
+[00:53:43] philosophers and anthropologists and
+[00:53:44] people who probably don't know much
+[00:53:46] about design and we struggle to
+[00:53:46] understand
+[00:53:51] their fields and um we started to
+[00:53:52] every time we sat down with someone they
+[00:53:54] kind of talked to us literally almost
+[00:53:55] literally say
+[00:53:57] in our world blah blah blah in my world
+[00:53:59] blah blah blah in heteroeconomics we
+[00:54:00] think like this
+[00:54:03] and um we thought what if we made a many
+[00:54:05] worlds working group
+[00:54:06] where we assembled a group of people
+[00:54:08] from different disciplines
+[00:54:12] and we rather than trying to build wells
+[00:54:13] as we did in the umk
+[00:54:15] by going to existing political
+[00:54:15] ideologies
+[00:54:18] we took the research they were doing and
+[00:54:20] tried to build world views out of that
+[00:54:22] and then assemble them together into a
+[00:54:25] project there was a process for us to
+[00:54:27] get to know our colleagues but also for
+[00:54:30] them to get to see design's potential
+[00:54:33] and already um it's led to um
+[00:54:37] some in-depth collaborations and grant
+[00:54:38] for a project with the political
+[00:54:39] theorists and anthropologists we're
+[00:54:40] going to start next year
+[00:54:42] but one of the ones we really liked was
+[00:54:44] by um
+[00:54:46] a sociologist meredith she's a phd i'm
+[00:54:48] candidate at the moment and she's
+[00:54:49] looking at
+[00:54:52] how at the moment colors can be owned by
+[00:54:52] corporations
+[00:54:55] um how what is that process where did it
+[00:54:57] come from in history
+[00:54:59] and she kind of stops there we wondered
+[00:55:01] well what if this trandom continued
+[00:55:04] and color actually ceased to exist or at
+[00:55:05] least i accessed that we had the world
+[00:55:07] without color where ordinary people
+[00:55:09] couldn't afford um color because it was
+[00:55:12] owned by corporations and other entities
+[00:55:14] what kinds of mechanisms would start to
+[00:55:16] emerge for people to
+[00:55:18] engage with color whether we're entitled
+[00:55:19] to the colors we're born with
+[00:55:22] for example are there kinds of new forms
+[00:55:23] of color that fall outside so it's kind
+[00:55:25] of just a start at the moment
+[00:55:28] but um one of several projects we're
+[00:55:29] working with
+[00:55:32] so the project is three layers we're
+[00:55:32] looking at
+[00:55:35] developing alternative world views from
+[00:55:37] our interactions and responses to
+[00:55:39] a historian a couple of anthropologists
+[00:55:40] a philosopher
+[00:55:43] the sociologists research and then we're
+[00:55:45] looking at how you materialize these as
+[00:55:46] almost manifestos
+[00:55:49] they really foreground the world view
+[00:55:50] that they embody
+[00:55:51] and something we're just beginning to
+[00:55:53] experiment is trying to drop these into
+[00:55:55] what we're thinking of as an auxiliary
+[00:55:55] reality
+[00:55:58] there's always a problem where fictional
+[00:56:01] worlds sit and are they fairy tales
+[00:56:02] fantasies alternative versions of
+[00:56:05] existing worlds like the umk
+[00:56:07] and i came across a nice idea in a book
+[00:56:07] about
+[00:56:11] possible worlds in literary theory by
+[00:56:12] ruth ronam
+[00:56:13] where she was talking about auxiliary
+[00:56:16] worlds they're worlds that
+[00:56:18] sit alongside the real world but they
+[00:56:20] just serve a different purpose so what
+[00:56:22] if we had auxiliary realities they were
+[00:56:24] part of this world that we're in
+[00:56:25] but they were closed off and allowed us
+[00:56:27] to test and experiment with alternative
+[00:56:31] social realities so we chose an area on
+[00:56:32] the edges of new york
+[00:56:35] called the floyd bennett and airfield
+[00:56:36] there's an amazing history i can't go
+[00:56:37] into now
+[00:56:39] for for a hundred years it's new york's
+[00:56:41] first airfield but even beyond that
+[00:56:44] and we're going to cite a sort of
+[00:56:44] experimental
+[00:56:48] many worlds think tank
+[00:56:51] that materializes all these different
+[00:56:53] world views in the form of experimental
+[00:56:53] devices
+[00:56:57] social interactions and social realities
+[00:56:59] providing glimpses into other ways the
+[00:57:01] world could be but rubbing up against
+[00:57:04] each other there's no right or wrong way
+[00:57:06] so very early um sketches that we've
+[00:57:08] just been working on this is absolutely
+[00:57:12] just beginning this project um drop
+[00:57:15] some commissions by imaginary
+[00:57:18] local communities city councils even
+[00:57:19] countries would commission this
+[00:57:22] organization to build an experimental
+[00:57:25] situation and test it out in this
+[00:57:25] landscape
+[00:57:30] so each of these pick up on some of the
+[00:57:30] thinking
+[00:57:33] that we've been exploring with our
+[00:57:33] researchers
+[00:57:38] so for example this one again quite
+[00:57:38] negative
+[00:57:42] unfortunately everything we do with the
+[00:57:43] digital world ends up being either
+[00:57:46] satirical or dystopian and we can't seem
+[00:57:48] to find a positive way for it but when
+[00:57:50] we do biotechnological projects
+[00:57:52] we seem to be more optimistic so in this
+[00:57:52] one
+[00:57:55] it might be a project um sponsored by
+[00:57:55] london
+[00:57:58] um in the uk where there's a serious
+[00:58:00] housing issue
+[00:58:02] but we have little faith in the housing
+[00:58:03] um being solved in the very
+[00:58:06] humanistic um way it seems again like
+[00:58:07] the digitarian cars
+[00:58:10] economics are going to drive it so in
+[00:58:12] this scenario
+[00:58:14] mainly young people unfortunately would
+[00:58:15] call up
+[00:58:17] driverless vehicles which are
+[00:58:19] essentially like japanese capsule hotel
+[00:58:19] pods
+[00:58:22] which they can sleep in during the night
+[00:58:23] but they're whisked off to the edges of
+[00:58:24] the city
+[00:58:26] to be parked in the car parks they're no
+[00:58:28] longer needed because of the
+[00:58:31] influx of autonomous vehicles and they
+[00:58:34] kind of use little units like this
+[00:58:35] and it's not something that we agree
+[00:58:37] with but equally the way we see things
+[00:58:39] going at the moment we're not sure
+[00:58:39] what's to stop
+[00:58:41] something like this being proposed if we
+[00:58:43] have uber and taskrabbit
+[00:58:45] and these other quite exploitative but
+[00:58:47] equally practical
+[00:58:49] technological systems emerging what
+[00:58:51] happens when that starts to spill into
+[00:58:52] um housing beyond
+[00:58:56] something like airbnb and the last one
+[00:58:59] our show is um a conversation we're
+[00:59:01] having with a philosopher
+[00:59:03] looking at rather than doing world
+[00:59:05] building based on starting with
+[00:59:05] alternative
+[00:59:09] um political ideologies
+[00:59:10] maybe we could start with different
+[00:59:12] notions of time or space
+[00:59:15] or reality itself and then build worlds
+[00:59:18] like we did with the umk but in this
+[00:59:20] case more philosophical worlds
+[00:59:22] use design to give them form and have
+[00:59:24] conversations not only about you prefer
+[00:59:26] this reality over that reality
+[00:59:27] but what do we even mean when we talk
+[00:59:29] about reality and how much
+[00:59:31] agency do we have in shaping those
+[00:59:35] realities as citizens and as designers
+[00:59:37] so this is very much work that's just
+[00:59:39] beginning so i'm not really going to go
+[00:59:41] into any more detail than that
+[00:59:43] and we're going to end here this is the
+[00:59:44] english version of speculative
+[00:59:45] everything we didn't
+[00:59:48] have the russian one earlier and thank
+[00:59:49] you very much
+[01:00:00] thank you
+[01:00:04] the russian version this is just
+[01:00:07] off the press i think isn't it so any
+[01:00:08] questions at all
+[01:00:13] any any thoughts or anything you want to
+[01:00:17] yes
+[01:00:40] hi uh i wanted to ask what's the
+[01:00:41] difference between
+[01:00:48] there's lots of overlap and i think at
+[01:00:50] the moment the whole
+[01:00:52] area is getting really messy so i'll
+[01:00:53] just speak about it from
+[01:00:56] our our perspective for us critical
+[01:00:58] design was if you like the first step
+[01:01:00] away from conventional design
+[01:01:02] it was about asking questions
+[01:01:04] challenging assumptions challenging the
+[01:01:06] status quo
+[01:01:08] and experimenting with how we do that as
+[01:01:10] designers you could use prototypes you
+[01:01:11] could use actual products it could be
+[01:01:14] conceptual it could be speculative
+[01:01:16] and when speculative design came along
+[01:01:19] or design fiction as others call it
+[01:01:22] it's often um i think it's often
+[01:01:25] it has many uses traditionally as i
+[01:01:26] showed with the car
+[01:01:28] slide it's about promoting a particular
+[01:01:30] future and the tech industry still often
+[01:01:33] uses design fictions in that way
+[01:01:34] many other people are using it to
+[01:01:36] propose more interesting alternatives
+[01:01:39] better ways of being but i think it can
+[01:01:40] also be critical
+[01:01:43] and maybe our digi cars and the hotel
+[01:01:44] suggestion i just showed would be an
+[01:01:45] example of
+[01:01:47] speculative design with speculating and
+[01:01:49] imagining alternatives
+[01:01:51] but they're very much critical so they
+[01:01:53] become a little bit more like satire
+[01:01:56] in that space but right now there's a
+[01:01:58] new book has just come out about um
+[01:02:01] critical design by matt malpass at
+[01:02:01] central st
+[01:02:03] martins and he goes through quite
+[01:02:06] systematically what he understands and
+[01:02:07] critical design to be and how it's
+[01:02:09] different or similar to design fiction
+[01:02:10] and so on
+[01:02:13] and there's a new book about to come out
+[01:02:14] about discursive design which does the
+[01:02:16] opposite and zooms out
+[01:02:18] and looks at adversarial design
+[01:02:19] speculative design design fiction
+[01:02:21] critical design and others i can't even
+[01:02:21] remember
+[01:02:25] and tries to link them together somehow
+[01:02:27] so it's kind of um
+[01:02:30] i think there are no real super clear
+[01:02:30] distinctions
+[01:02:33] at the moment and to be honest i i
+[01:02:34] prefer it that way i think as soon as we
+[01:02:36] try to over define things
+[01:02:38] and try to territorialize them it will
+[01:02:40] die and for us we're much happier when
+[01:02:42] things are mutating
+[01:02:45] and defying boundaries and forming new
+[01:02:45] things
+[01:02:47] and at some point we realized it's no
+[01:02:49] longer speculative to design or critical
+[01:02:51] design but hopefully
+[01:02:52] something completely new and more
+[01:03:20] in soviet union the word speculative
+[01:03:24] uh was uh in mass uh
+[01:03:28] mind uh it was associated with the
+[01:03:31] uh black dealer
+[01:03:34] the person who is speculating on the
+[01:03:34] market
+[01:03:42] so when you translate this word
+[01:03:45] from english into russian you have this
+[01:03:45] uh
+[01:03:48] thing in well maybe of course the
+[01:03:50] audience is a bit different
+[01:03:52] what i just wanted to ask you what do
+[01:03:53] you think about that what
+[01:03:56] can you think about that it's this is
+[01:03:57] the marxist
+[01:04:00] thing with the whole
+[01:04:03] soviet union ideology i think it's
+[01:04:06] i think it's a problem um other people
+[01:04:07] james auger
+[01:04:09] one of our colleagues at the rca has
+[01:04:11] written a lot about that trying to
+[01:04:11] untangle
+[01:04:15] the the financial speculative meanings
+[01:04:16] which are
+[01:04:18] obviously extremely harmful in a lot of
+[01:04:20] cases excuse me from the other
+[01:04:23] speculative um meaning which we're more
+[01:04:24] interested in
+[01:04:27] but i think um even within english
+[01:04:29] there's um a distinction between say
+[01:04:29] desi
+[01:04:31] and science fiction and speculative
+[01:04:34] fiction i don't know if that's the case
+[01:04:37] in russia or even any other languages
+[01:04:38] and i guess that's where we were sort of
+[01:04:40] drawing it from i mean we were aware of
+[01:04:42] the financial speculation but
+[01:04:44] for us because we were working in a
+[01:04:45] cultural sphere
+[01:04:47] we assumed that the natural
+[01:04:49] interpretation would be it speculative
+[01:04:51] like speculative literature or
+[01:04:52] speculative culture
+[01:04:54] but as it's kind of moved out of design
+[01:04:56] into a much wider
+[01:04:59] world those kinds of interpretations
+[01:05:00] have certainly arisen
+[01:05:01] and for me it's just a little bit
+[01:05:03] frustrating when that happens but i
+[01:05:09] we've never actually liked labels at all
+[01:05:10] and in fact
+[01:05:12] during the whole 10 years that we taught
+[01:05:13] the royal college of art
+[01:05:15] interactions design program i don't
+[01:05:16] think we ever mentioned once
+[01:05:19] speculative design or critical design in
+[01:05:21] the whole 10 years
+[01:05:23] it was just never talked about in the
+[01:05:24] end we were just doing projects that
+[01:05:24] were
+[01:05:28] challenging and and trying to you know
+[01:05:30] challenge the status quo so i think as
+[01:05:33] long as projects were
+[01:05:35] challenging all those kind of norms then
+[01:05:37] we were kind of happy and if they
+[01:05:37] weren't
+[01:05:39] challenging enough then we weren't it's
+[01:05:40] as simple as that
+[01:05:42] we would of course talk about the
+[01:05:43] methods asking what if questions or
+[01:05:45] doing thought experiments or using
+[01:05:47] satire or being critical
+[01:05:49] or speculating but we wouldn't try to
+[01:05:51] pin it down
+[01:05:53] as a definition that's something really
+[01:06:05] that's happened more recently
+[01:06:07] hello i just wanted to make sure uh if i
+[01:06:08] get it right
+[01:06:11] uh that speculative design is also about
+[01:06:13] creating new patterns that never existed
+[01:06:15] before to
+[01:06:17] create like a new language for the
+[01:06:17] future
+[01:06:22] it's like we operating and thinking with
+[01:06:22] images
+[01:06:26] and words we know and this is kind of uh
+[01:06:29] the creation of possible futures
+[01:06:33] uh which makes links like in between
+[01:06:33] neurons
+[01:06:36] in in the brain is that the part of uh
+[01:06:36] speculative
+[01:06:40] design to to create images of new
+[01:06:40] possibilities
+[01:06:45] yes like new patterns to think about it
+[01:06:47] like you're making the new pattern and
+[01:06:48] then you just mix it up
+[01:06:51] yeah and you're creating a new world and
+[01:06:52] yes it's kind of
+[01:06:54] disruptive to use that awful word but
+[01:06:56] it's kind of trying to disrupt
+[01:06:59] neat categories in our mind about
+[01:07:01] here's the political category here's the
+[01:07:02] technological category is the social
+[01:07:02] category
+[01:07:05] when politics and technology talk they
+[01:07:07] normally talk around markets or whatever
+[01:07:10] it's trying to shake all those things up
+[01:07:11] but what we're founding
+[01:07:13] what fiona was talking about in the bit
+[01:07:15] about aesthetics of unreality was
+[01:07:17] if we use a realist mode of
+[01:07:17] representation
+[01:07:21] we find it encourages people to slip
+[01:07:22] back into a comfortable
+[01:07:25] way of making those normal connections
+[01:07:27] and the aesthetic potential although
+[01:07:28] sometimes it can be seen unfortunately
+[01:07:30] is very superficial
+[01:07:32] for us it's an increasingly important
+[01:07:33] aspect and as
+[01:07:36] speculative design matures in a sense
+[01:07:38] and becomes more widely understood
+[01:07:41] those kind of more subtle cultural
+[01:07:41] dimensions
+[01:07:43] become important so the aesthetics can
+[01:07:45] do some of the work you're talking about
+[01:07:48] um kind of jolting our minds presenting
+[01:07:51] us with surprising and unexpected images
+[01:07:52] that don't seem to match
+[01:07:54] the concept or the possible future we're
+[01:07:57] reading about or hearing about
+[01:08:00] an openness for people to misrepresent
+[01:08:01] and construct misinterpret in contract
+[01:08:04] constructive ways and using ambiguity
+[01:08:04] where
+[01:08:07] it's open enough that people can enter
+[01:08:09] but not so open i guess that it becomes
+[01:08:09] frustrating
+[01:08:11] and random and arbitrary and i think
+[01:08:13] that's a space it sounds a little bit um
+[01:08:16] esoteric sometimes but i still think
+[01:08:17] it's it's an interesting space to
+[01:08:18] explore
+[01:08:21] if speculative design is to also work on
+[01:08:23] our minds and imaginations and not just
+[01:08:25] show us different possibilities
+[01:08:26] and the other thing we're kind of
+[01:08:28] struggling with is if it's if we don't
+[01:08:31] deal with now if we're not dealing with
+[01:08:32] now then it's seeing it so we're dealing
+[01:08:34] with the future and it's almost like
+[01:08:35] there's nothing there's only now and the
+[01:08:36] future and
+[01:08:39] nothing else but we almost like want to
+[01:08:40] move to the side and say well there are
+[01:08:43] alternatives to now
+[01:08:44] and those alternatives might not be
+[01:08:47] futures so we we're constantly in this
+[01:08:49] whole dialogue about futures dialogues
+[01:08:50] and yet
+[01:08:52] you know we we really want to sort of
+[01:08:53] disconnect from that
+[01:08:55] narrative and sort of try and open up to
+[01:08:55] more
+[01:08:59] parallel kind of realities alternative
+[01:09:01] realities or auxiliary realities
+[01:09:03] is something that we're kind of trying
+[01:09:05] to look at and they might not be about
+[01:09:05] futures
+[01:09:07] and that's where i think looking to fine
+[01:09:09] art or literature or philosophy
+[01:09:11] there's a very wide range of ideas and
+[01:09:12] concepts for
+[01:09:15] dealing with that whereas in design
+[01:09:17] especially when you deal with technology
+[01:09:19] the future you know the minute you
+[01:09:21] speculate you're it's assumed it must be
+[01:09:23] a future projection
+[01:09:25] and of course with that comes the
+[01:09:27] assumption that somehow the intention
+[01:09:29] must be it must be realistic
+[01:09:32] or probable and then the seeds must be
+[01:09:34] somehow in today's world and there's all
+[01:09:34] sorts of
+[01:09:36] restrictions like that i think we're
+[01:09:38] trying to untangle ourselves from at the
+[01:09:39] moment so it can open up

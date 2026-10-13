@@ -1,0 +1,15 @@
+Source: Getting in Touch, ursulakleguin.com (Ursula K. Le Guin Foundation)
+URL: https://www.ursulakleguin.com/getting-in-touch
+Fetched: 2026-10-12 via fetch.py + curl (page is mostly accordion headings; the two routes found in the raw HTML are listed)
+
+Getting in Touch
+ Rights to publish or reprint text
+ Rights for screen or performance
+ Other commercial rights
+ Media inquires
+ Ursula K. Le Guin Prize for Fiction questions
+ Archive and Papers
+ Other questions
+
+Links found in the page HTML: 'Rights to publish or reprint text' -> https://curtisbrown.com/permissions/ ; 'Other commercial rights' -> /commercial-rights
+Site footer: 'managed by the Ursula K. Le Guin Foundation', address 9450 Southwest Gemini Drive, PMB 51842, Beaverton, OR 97008, United States; foundation email theo@ursulakleguin.com

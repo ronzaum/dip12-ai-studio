@@ -1,0 +1,12 @@
+Source: The Left Hand of Darkness (Ace, 1969), Open Library record
+URL: https://openlibrary.org/books/OL23242517M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL23242517M
+Title: The left hand of darkness
+Subtitle: None
+Publishers: ['Ace']
+Publish date: 1969
+ISBN: ['0441478123']
+Pages: 304
+Work: ['/works/OL59800W']

@@ -1,0 +1,12 @@
+Source: Speculative Everything (MIT Press), Open Library record (2014 printing of the 2013 book)
+URL: https://openlibrary.org/books/OL26019393M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL26019393M
+Title: Speculative Everything Design Fiction And Social Dreaming
+Subtitle: None
+Publishers: ['MIT Press Ltd']
+Publish date: 2014
+ISBN: ['9780262019842']
+Pages: 224
+Work: ['/works/OL17435876W']

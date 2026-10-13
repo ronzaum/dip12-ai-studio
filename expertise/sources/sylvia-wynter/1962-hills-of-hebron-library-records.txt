@@ -1,0 +1,39 @@
+Source: The Hills of Hebron: library records. (1) Duke University Library Exhibits item: dust jacket, 1st edition 1962, Sylvia Wynter Papers, Rubenstein Library. (2) Open Library search API record (publishers and years).
+URL: https://exhibits.library.duke.edu/items/show/14231 ; https://openlibrary.org/search.json?q=hills+of+hebron+wynter
+Fetched: 2026-10-12 via fetch.py ; curl
+
+The Hills of Hebron dust jacket from 1st edition, 1962 · Duke University Library Exhibits
+
+Skip to main content
+ Skip to navigation
+
+ About 
+
+The Hills of Hebron dust jacket from 1st edition, 1962 
+
+Title:
+
+The Hills of Hebron dust jacket from 1st edition, 1962 
+
+Creator:
+
+Sylvia Wynter
+
+Rights:
+
+Copyright is retained by the author.
+
+Source:
+
+Sylvia Wynter Papers, Box 12
+
+Citation:
+
+Wynter, Sylvia. The Hills of Hebron dust jacket from 1st edition, 1962. Sylvia Wynter Papers, Box 12, Folder title: "Hills of Hebron dust jacket circa 1962." David M. Rubenstein Rare Book & Manuscript Library, Duke University.
+
+Spent Time with the Exhibit? Take a Quick Survey to Tell Us What You Think!
+
+ Some materials and descriptions may include offensive content. More info
+
+--- Open Library record (JSON) ---
+{"numFound":1,"start":0,"numFoundExact":true,"num_found":1,"documentation_url":"https://openlibrary.org/dev/docs/api/search","q":"hills of hebron wynter","offset":null,"docs":[{"author_name":["Sylvia Wynter"],"first_publish_year":1962,"key":"/works/OL143190W","publish_year":[1984,2010,1962],"publisher":["Ian Randle Publishers, Jamaica","Brand: Ian Randle Publishers, Jamaica","Longman Group United Kingdom","J. Cape","Simon and Schuster"],"title":"The hills of Hebron"}]}

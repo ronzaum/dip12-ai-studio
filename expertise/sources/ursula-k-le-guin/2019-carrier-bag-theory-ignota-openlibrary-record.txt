@@ -1,0 +1,12 @@
+Source: The Carrier Bag Theory of Fiction (Ignota, 2019), Open Library record
+URL: https://openlibrary.org/books/OL29465029M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL29465029M
+Title: Carrier Bag Theory of Fiction
+Subtitle: With Introduction by Donna Haraway
+Publishers: ['Lawson Publishing Ltd.', 'Ignota Books']
+Publish date: 2019
+ISBN: ['9781999675998']
+Pages: 48
+Work: ['/works/OL21665029W']

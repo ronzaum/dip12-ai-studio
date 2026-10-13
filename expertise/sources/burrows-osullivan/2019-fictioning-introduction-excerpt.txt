@@ -1,0 +1,290 @@
+Source: Fictioning: The Myth-Functions of Contemporary Art and Philosophy, David Burrows and Simon O'Sullivan (Edinburgh University Press, 2019), Introduction, pp. 1-6 (publisher's free sample PDF)
+URL: https://edinburghuniversitypress.com/media/resources/Fictioning_-_introduction.pdf
+Fetched: 2026-10-12 via curl -sL (PDF) + swift PDFKit text extraction (tools/pdf2txt.swift)
+
+[Book pages 1-6 = PDF pages 5-10. Page markers below are BOOK page numbers. Contents page kept for reference. Excerpt kept under 3,000 words; the full introduction runs to p. 10.]
+
+=== CONTENTS (book pp. v-vi) ===
+Contents
+List of Figures vii
+Acknowledgements xi
+Introduction 1
+I. MYTHOPOESIS TO PERFORMANCE FICTIONING
+A. Mythopoesis: Against Control and the Fiction of the Self
+1. Mythopoesis, Fabulous Images and Memories of a Sorcerer 15
+2. Against Control: Nothing is True, Everything is Permitted 29
+3. Overcoming the Fiction of the Self 49
+4. Mirror Work: Self-Obliteration 63
+B. Performance Fictioning: Pasts, Presents and Futures
+5. Residual Culture and the Magical Mode of Existence 85
+6. Future-Past-Presents: Neomedieval Mappae Mundi 103
+7. Fictioning the Landscape 125
+8. A Journey Through the Ruins of Colonialism 143
+9. Scenes as Performance Fictions 155
+II. MYTH-SCIENCE TO SCIENCE FICTIONING
+A. Myth-Science: Perspectivism and Alienation as Method
+10. Myth-Analysis: Lessons in Enchantment 175
+11. Myth-Science: Alien Perspectives 199
+12. Afrofuturism, Sonic Fiction and Alienation as Method 217
+13. Wildness and Alienation in the Networks of the Digital B. Science Fictioning: Worlds and Models
+14. Feminist World-Building and Worlding 15. The Inhuman Social Imaginary of Science Fiction 16. From Science Fiction to Science Fictioning 17. Non-Philosophy and Science Fiction as Method 235
+255
+275
+295
+315
+III. MYTHOTECHNESIS TO MACHINE FICTIONING
+A. Mythotechnesis: Promethean and Intelligence Economies
+18. A Renewed Prometheanism 341
+19. The Subject Who Fell to Earth 361
+20. Financial Fictions 381
+21. Post-Singularity Fictions as Mythotechnesis 397
+22. Technofeminisms 417
+B. Machine Fictioning: Analogue and Digital Life
+23. Loops of the Posthuman: Towards Machine Fictioning 24. The Radicalisation of Singularity 435
+457
+25. By Any Memes Necessary 26. Subjects Without a Body 473
+491
+Afterword 509
+Bibliography 515
+Names Index 541
+Subject Index 553
+
+=== BOOK PAGE 1 ===
+Introduction
+What the artist seeks . . . is the fiction reality will sooner or later imitate.
+Robert Smithson, The Collected Writings
+Fictioning
+Our book defines and maps out a set of practices and theories of mythopoesis,
+myth-science and mythotechnesis (and the related terms of performance fictioning,
+science fictioning and machine fictioning). These are what we call the myth-functions
+of contemporary art and philosophy. We do not address our three myth-functions
+as exclusive of each other, for they seem to us to overlap in many of the examples
+we gather together in this volume. Mythopoesis is proposed as productive of worlds,
+people and communities to come, often drawing upon residual and emergent cultures.
+Myth-science functions by producing alternate perspectives and models, revealing
+habits of thought concerning physical, historical and social realities as yet more myth.
+Lastly, mythotechnesis concerns the ways in which technology enters into discourse
+and life, through projections of the existing and future influence of machines. We
+are also interested, especially as our book progresses, in a related theme: how these
+practices and theories are often engaged in speculations concerning future human
+and non-human modes of existence, particularly in relation to the potential of the
+body or what might be better called embodiment.
+As implied above and, of course, foregrounded by the main title of our book, our
+key concept in this critical survey is fictioning. This is a concept – and mode of
+operation – common to mythopoesis, myth-science and mythotechnesis, each of
+which fiction reality in different ways. By using the term fiction as a verb we refer to
+the writing, imaging, performing or other material instantiation of worlds or social
+bodies that mark out trajectories different to those engendered by the dominant
+organisations of life currently in existence. Or, to put this another way, we are
+
+=== BOOK PAGE 2 ===
+2 1 FICTioNING
+interested in exploring those fictions that involve potential realities to come – as our
+epigraph from the artist Robert Smithson suggests – as well as the more general idea
+of fiction as intervention in, and augmentation of, existing reality. In this, we are also
+concerned with how fictioning can take on a critical power when it is set against, or
+foregrounded within, a given reality.
+We should say from the outset that the term fictioning is not our own invention
+and we develop and expand a concept that is found, though not widely used, in
+continental philosophy. Jeffrey A. Bell, for example, articulates fiction as a verb in his
+book Philosophy at the Edge of Chaos: Gilles Deleuze and the Philosophy of Difference
+(2006), when addressing Nietzsche’s rejection of Plato’s caution regarding poetry. Bell
+suggests that Plato is disturbed by the fictioning essence of poetry, for such invention
+should belong only to the Gods:
+The fictioning of the ‘ideas’, in other words, occurs in the supersensuous realm ‘above
+heaven’. For Nietzsche, on the other hand, the fictioning occurs in the sensuous realm
+of life, and it is only as a consequence of life that the notion of the supersensuous
+‘ideas’ comes about (i.e. are ‘fictioned’). (Bell 2006: 77)
+We quote Bell here firstly to point to a definition of fictioning as invention in the
+realm of life (a technology of immanence as it were), and secondly to show how
+fictioning is a troublesome mode (at least for Plato) in so far as it destabilises order
+(not least that between gods and mortal humans).
+This theme of fictioning as disruptive of order is also discussed by Max Statkiewicz
+in Rhapsody of Philosophy: Dialogues with Plato in Contemporary Thought (2009).
+Statkiewicz quotes the philosopher Philippe Lacoue-Labarthe, who suggests that Plato
+is aware that discourse would have no ‘fictioning power’ if it did not have the capacity
+to dramatise, but that this power of fictioning is also a problem in Plato’s ideal society,
+the Republic (Statkiewicz 2009: 50). Statkiewicz notes that Plato is wary of mimesis
+and play, for unlike narration, such simulation (the acting out of something, the
+copying of a member of another class, the impersonation of someone else) threatens
+the social order (51). In this it becomes clear that it is not exactly mimesis and play
+that are the problem, but that narration or simple diegesis can become contaminated
+by mimesis and play (53). More than this, Statkiewicz points out that Plato’s Socrates
+is himself a mixture of modes – a rhapsodic philosophical character – being, at
+different times, a narrator, a fabricator and playful (53). Indeed, Statkiewicz asserts
+that mimesis or play can be found in all literary productions, even ‘pure narrative’
+(54). Although we are not interested in mimesis as such, we find Statkiewicz’s observations
+insightful here, since play (as performance) is an important theme that we
+return to throughout our investigation of fictioning practices.
+
+=== BOOK PAGE 3 ===
+iNTroduCTion 1 3
+Following this account of Plato’s thinking about fictioning, Statkiewicz goes on to
+address Heidegger’s critique of Plato’s opposition of philosophy and poetry in order
+to further interrogate the problem. He explains that Heidegger’s concern for poetry
+as a mode of unconcealment informs the German philosopher’s notion that being
+has ‘in the last analysis a fictioning, poetic essence’ (57). In fact, for Heidegger, all
+reasoning involves fictioning, which is reason enough (for Statkiewicz at least) to
+account for Heidegger’s valorisation of poetry.
+Statkiewicz goes on to attend to a further figure, Gilles Deleuze, and his thoughts
+concerning absolute simulacra (without referent) which put ‘into question the
+very notion of copy and model’, noting that Deleuze would allow simulacra to
+escape Plato’s cavern or resist elevation, or to even ‘search for “another cave
+beyond, always another in which to hide” ’ (109). Following Deleuze, Statkiewicz
+himself suggests that:
+Instead of thinking of philosophy and poetry or mimesis as facing each other, we
+should rather consider there to be two kinds of the theater of philosophy: the
+representational (Aristotelian, neoclassical) and the fantastic (Nietzsche’s ‘Dionysian
+Machine’). It is the latter that Deleuze regards as the essence of modern art, striving
+to become ‘a veritable theatre of metamorphoses and permutations’. (110)
+In Statkiewicz’s quoting of Deleuze, then, we find a further definition of fictioning,
+as ‘a veritable theatre of metamorphoses and permutations’, one that involves a
+collapsing of any hierarchical distinction between art and philosophy. This is one
+further theme of our book.
+If the problem of fictioning – this tension between modes of narration and play,
+and between modes that would be identified as producing truth or unconcealment and
+fiction or simulacra – has long been explored in philosophy, then today we also find
+it increasingly addressed in the practices of, and commentary on, contemporary art.
+An interrogation of this more contemporary instantiation of an old problem is found
+in Carrie Lambert-Beatty’s article ‘Make-Believe: Parafiction and Plausibility’ (2009),
+which attends to contemporary art practices concerned with deception and dissim-
+ulation (often with the intention of exploring possibilities for art as activism or
+political critique, as with The Yes Men or The Atlas Group). While Lambert-Beatty
+uses the term parafiction rather than fictioning, it is clear that she has identified
+something important about contemporary fictioning practices in art. To quote from
+the beginning of her article:
+Fiction or fictiveness has emerged as an important category in recent art. But, like
+a paramedic as opposed to a medical doctor, a parafiction is related to but not quite
+
+=== BOOK PAGE 4 ===
+4 1 FICTioNING
+a member of the category of fiction as established in literary and dramatic art. It
+remains a bit outside. It does not perform its procedures in the hygienic clinics of
+literature, but has one foot in the field of the real. Unlike historical fiction’s fact-based
+but imagined worlds, in parafiction real and/or imaginary personages and stories
+intersect with the world as it is being lived. Post-simulacral, parafictional strategies
+are oriented less toward the disappearance of the real than toward the pragmatics
+of trust. Simply put, with various degrees of success, for various durations, and for
+various purposes, these fictions are experienced as fact. (Lambert-Beatty 2009: 54)
+Here we would agree with Lambert-Beatty and add that fictioning has efficacy – that
+it only has a power – when involving or addressing life or reality and, most impor-
+tantly, through a play of fiction as life and reality.
+Such a blurring between fact (or truth) and fiction is troubling for many, precisely
+because the orders of reality and representation are seen to be elided by fictioning,
+sometimes with problematic results. Dana A. Williams (2016), who writes about
+cultural practices that explore blackness and other aspects of diasporic experience,
+views fictioning in just such negative terms and as potentially supporting a (sometimes
+unknowing) racial myth-making; the problem for Williams is that fictioning can result
+from ‘conditioning’ rather than attending to ‘historicity’ (836). To develop her critique,
+Williams draws and comments upon Wole Soyinka’s book Of Africa (2012), in which
+fictioning, as a political act, is described as having the potential to fuel a cycle of
+repetition, sustaining oppressive narratives and organisations (2016: 836). Soyinka
+warns that ‘first-comers in the stakes of power after colonialism . . . actualize power,
+then fictionalize a people’ (2012: 52). We do not take this caution lightly and note
+that in a chapter titled ‘Fictioning the Fourth Dimension’, Soyinka, while conceding
+that the motives to fictionalise can be positive, is distrustful of fictioning as it may
+lead towards a ‘slide down the chute of emotionalism and drop into the ancient pit
+of self-gratification’ (54). While we do not think historicity should dictate the forms
+that invention take, this important criticism of fictioning – as a mode that can
+perpetuate problematic myths – needs heeding and suggests to us that fictioning
+practices (or at least books addressing fictioning) which intend critical or radical ends
+need to guard against reiterating dominant or existing forms of fictions and myth.
+We understand the dangers that Soyinka identifies, and it is true that a number
+of practices we examine (particularly in section one), though undermining dominant
+myths, potentially (and unknowingly) support problematic narratives too. We have
+attempted to identify and discuss this problem throughout the book (when and
+where we find it) but remain convinced (and hope to convince our readers too) that
+there exist fictioning practices engaged in experimenting with alternatives to oppres-
+sive narratives and organisations.
+
+=== BOOK PAGE 5 ===
+iNTroduCTion 1 5
+We find a definition of experimental fictioning offered by the contemporary artist
+John Russell, who recognises the problem of repetitive acts that sustain existing
+regimes whilst also insisting that fictioning can be productive of different realities or
+relations to come (Russell 2011a). In this, fictioning is identified with performative
+gestures or enunciations, an example being the moment when a judge declares an
+individual ‘guilty’ and the accused becomes a prisoner. The judge’s enunciation does
+not physically change anything, but everything changes in terms of the accused’s
+relations. This example is borrowed by Russell (2011a: 75) from a passage in Gilles
+Deleuze and Félix Guattari’s A Thousand Plateaus (1988: 80–1) which comments on
+the notion of enunciations as statements marking roles or positions within a number
+of discursive regimes. This theory is itself borrowed from Michel Foucault, who
+asserts that new statements, though rare, can result from enunciations that mutate
+or traverse more than one structure or regime (Foucault 1972: 105–25). While we
+take on board Foucault’s insistence on the rarity of new statements, we look for and
+address fictioning practices that generate precisely this, something different rather
+than more of the same.
+Russell extends his analysis of fictioning by tracing a theoretical thread from J. L.
+Austin’s notion of a performative utterance as a promise – as when the words ‘I do’
+are said in a marriage ceremony – to Jacques Derrida’s critical interpretation of this
+act as a reiteration of existing social conventions and relations, and, further, to Judith
+Butler’s exploration of the performativity of gender (Russell 2011a: 73). For Russell,
+fictioning (as performative act) is generative of social identities and relations. In fact
+the latter might be said to rely on performative acts – this leads Russell to quote
+(and also to inscribe on a T-Shirt for a performance) the words of Foucault from
+Power/Knowledge (1980: 193):
+the possibility exists for fiction to function in truth, for a fictional discourse to induce
+the effects of truth, and for bringing it about that a true discourse engenders or
+manufactures that which does not as yet exist, that is, ‘fictions it’. (Foucault quoted
+by Russell 2011a: 78)
+Here we find an axiom for our book: we too declare the possibility of practices that
+engender that which does not yet exist, that, precisely, fictions it. It is towards such a
+productive notion of fictioning – beyond parody or simulation (which is where we
+might depart with some of the notions of fictioning mentioned above) – that we have
+written our book. The comments by Russell quoted above appear in an essay in an
+edited collection that was part of a series of publications on art writing.1 Our own
+contributions to that series develop a concept and practice of performance fictions,
+which we defined as producing ‘a zone of activity that once entered produces a shift
+
+=== BOOK PAGE 6 ===
+6 1 FICTioNING
+in how relations are understood and formed’ (Burrows 2011a: 6), and that describes a
+presentation and performance that ‘speaks back to its producer – or simply goes beyond
+any straightforward intention’ (O’Sullivan 2011: 72). We should also say that, unlike
+Russell, who is concerned that fictioning – like a stage play – needs to address the
+problem of making an ending (Russell 2011a: 83), we view such performance fictioning
+as a durational event or process, an ongoing practice that is without a set beginning
+or ending. A fictioning practice then, involves performing, diagramming or assembling
+new and different modes of existence through open-ended experimentation.
+Mythopoesis/Myth-Science/Mythotechnesis
+If fictioning is our key concept then the myth-functions we introduced above play a
+significant role in organising our material. Although historically structured to a certain
+extent – more on this sequencing below – our book can also be said to address the
+three myth-functions as different technics of fictioning evident in contemporary art
+and music as well as philosophical and fictional writing. In this, as implied above,
+we extend the notion of fictioning beyond invention through writing, discourse or
+performative acts to include visual material and sonic arrangements. Furthermore,
+as we indicated at the beginning of our introduction, to explore the technics of
+fictioning, we present mythopoesis, myth-science and mythotechnesis as relating to
+three specific fictioning modes: performance fictioning, science fictioning and
+machine fictioning.
+In section one, we address mythopoesis as the generation of different worlds and
+communities that are the potential of, and alternatives to, existing worlds. This section
+also begins the interrogation of a central theme of the book: the fiction of the self.
+In this, we explore performance fictioning as engendering new subjectivities and
+collectivities – calling forth a people to come – through actions and performances,
+experiments with drugs and rituals, and the production of assemblages and writing
+of various kinds. Different pasts and futures are manifested and made coextensive
+through technics of looping and nesting, something that necessarily leads to the
+instantiation of layered narrative constructions and complex temporalities. It is in
+the second half of the section especially that we necessarily connect the summoning
+of a people with the idea that all times can be potentially manifested by (or through)
+different subjectivities, collectives, practices and journeys.
+The chapters in this first section are, in the main, concerned with a particular
+historical sequence and a certain avant-garde take on art that is still apparent and in
+play in many contemporary practices. They are – as implied above – also concerned
+more often than not with European and Anglo-American – and, indeed, masculine –
+subjectivities (even when they interrogate these or introduce exceptions). This is also
+
+[... pages 7-10 not saved ...]
+
+=== PUBLISHER NOTE (last PDF page) ===
+Fictioning
+The Myth-Functions of Contemporary Art
+and Philosophy
+by David Burrows, Slade School of Fine Art, UCL,
+and Simon O’Sullivan, Goldsmiths
+Available from Edinburgh University Press
+in paperback, hardback and ebook:
+https://edinburghuniversitypress.com/book-fictioning.html

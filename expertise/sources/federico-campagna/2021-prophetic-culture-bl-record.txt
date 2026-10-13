@@ -1,0 +1,39 @@
+Source: British Library Electronic Legal Deposit catalogue record: Prophetic Culture: Recreation for Adolescents (Bloomsbury Academic, 2021)
+URL: https://eld.bl.uk/catalog/020203390
+Fetched: 2026-10-12 via fetch.py (page text, stdlib)
+
+Record Type:
+
+ Book
+
+ Title:
+
+ Prophetic culture : recreation for adolescents /: recreation for adolescents. (2021)
+
+ Main Title:
+
+ Prophetic culture : recreation for adolescents
+
+ Further Information:
+
+ Note: Federico Campagna.
+
+ Authors:
+
+ Campagna, Federico
+
+ Contents:
+
+ AcknowledgementsChapter 1: Time- Prologue: Jons the Squire- A Great Future Behind You- The Afterlife of Civilisations- Westernised ModernityChapter 2: Otherworlds- Prologue: Anamorphosis- Aesthetics and Annihilation- A Chance to Lie- Archaic Adolescents- TetrapharmakonChapter 3: Prophetic Culture- Prologue: The Enigma- Stuttering- The Grotesque- The Prophet as a Position- Apocatastasis- A Memory of Having Forgotten- Prophecy as Therapy of Worlding Cosmography- 0 / 15 – Scheintür- 1 – The Island of Factso 14 – Consciousness- 2 – Mundus Imaginalis- 3 – The Worldo 13 – Angel- 4 – The Point-Island of the Ineffable- 5 – The Dreamo 12 – God- 6 – The Sleeping Gods- 7 – Beingo 11 – Grammar- 8 – Non-Beingo 10 – Death- 9 – Non-relationality Afterword: Sensuous Prophecy, by Franco Berardi 'Bifo'BibliographyIndex.
+
+ Publisher Details:
+
+ London : Bloomsbury Academic
+
+ Publication Date:
+
+ 2021
+
+ Extent:
+
+ 1 online resource

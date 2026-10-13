@@ -1,0 +1,21 @@
+Source: Library and authority records for Thomas A. P. van Leeuwen (Open Library search API; Wikidata entity; Library of Congress name authority)
+URL: https://openlibrary.org/search.json ; https://www.wikidata.org/wiki/Q125297014 ; https://id.loc.gov/authorities/names/label/Leeuwen,%20Thomas%20A.%20P.%20van
+Fetched: 2026-10-12 via curl (JSON), printed with python3 -I
+
+## Open Library (curl https://openlibrary.org/search.json?q=<query>&fields=key,title,author_name,first_publish_year,publisher,isbn)
+## query: springboard+in+the+pond
+  /works/OL1831615W | The Springboard in the Pond | ['Thomas A. P. van Leeuwen'] | 1998 | ['The MIT Press', 'MIT Press'] | ['0262720329', '9780262720328']
+  /works/OL8481048W | Springboard in the Pond | ['Thomas A. P. Van Leeuwen'] | 1999 | ['Diane Pub Co'] | ['9780756783532', '0756783534']
+## query: skyward+trend+of+thought
+  /works/OL1831616W | The skyward trend of thought | ['Thomas A. P. van Leeuwen'] | 1988 | ['The MIT Press', 'MIT Press'] | ['9780262720168', '0262220342']
+  /works/OL13330988W | Skyward Trend of Thought | ['Thomas A.P.Van Leeuwen'] | 1991 | ['M.I.T. P.'] | ['9780262720168', '0262720167']
+## query: magic+stove+van+leeuwen
+  /works/OL32268459W | The magic stove | ['Thomas A. P. van Leeuwen'] | 2020 | ['JAP SAM Books'] | ['9082669005', '9789082669008']
+
+## Wikidata Q125297014 (curl https://www.wikidata.org/wiki/Special:EntityData/Q125297014.json)
+label: Thomas A. P. van Leeuwen; description: author
+P569 (date of birth): +1941-00-00 (year only)
+P570 (date of death): none recorded
+
+## Library of Congress name authority (curl https://id.loc.gov/authorities/names/label/Leeuwen,%20Thomas%20A.%20P.%20van, HTTP 200)
+Authoritative label: Leeuwen, Thomas A. P. van. Variants: Leeuwen, Thomas Adriaan Peter van; Van Leeuwen, Thomas Adriaan Peter. Links to Wikidata Q125297014.

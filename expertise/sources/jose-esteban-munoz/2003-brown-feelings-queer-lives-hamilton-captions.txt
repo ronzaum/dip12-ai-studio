@@ -1,0 +1,1648 @@
+Source: October 10, 2003 Jose Munoz - Brown Feelings, Queer Lives (Days-Massolo Center at Hamilton College; YouTube, human-made captions with speaker names; uploaded 2021-11-04; 1:17:27). Talk plus Q&A.
+URL: https://www.youtube.com/watch?v=5eTuPEWJFUI
+Fetched: 2026-10-12 via yt-dlp --write-sub + vtt2txt.py
+
+[00:00:06] Nancy: I would like us to welcome you to what
+[00:00:06] will probably be a very exciting event.
+[00:00:12] I want to say a couple of things before I
+[00:00:12] introduce the next speaker.
+[00:00:46] First of all, to the serious theme to this
+[00:00:46] year's technology, science and democracy.
+[00:00:54] And the next big event, and that is Dick [Terezi],
+[00:00:54] who's basically addressing the question of
+[00:00:58] who is science?
+[00:00:59] Attacking the notion that the ones who owned
+[00:00:59] and invented science were the Greeks.
+[00:01:01] So that's going to be October 22nd and the
+[00:01:01] event [inaudible].
+[00:01:02] Secondly, this event is a hold over for the
+[00:01:02] last year's masculinity series, but we're
+[00:01:05] using it in part to develop a program that
+[00:01:05] we don't know what shape it was in.
+[00:01:07] And sexuality studies.
+[00:01:08] So if you're interested in being in on the
+[00:01:08] ground floor of sexuality studies and health
+[00:01:09] in college, you sign up on this sheet with
+[00:01:09] your email address and name, if it's not obvious,
+[00:01:11] and we'll be in touch when we know when we're
+[00:01:11] going to have our first big let's get this
+[00:01:15] show on the road meeting.
+[00:01:17] So that's going around.
+[00:01:21] There is information about the Kirkland Project
+[00:01:21] on the table, if you haven't already been
+[00:01:46] [inaudible].
+[00:01:47] So without further ado, let me say that I
+[00:01:47] am delighted to introduce to you Jose Munoz,
+[00:01:48] who is the student of a very dear colleague
+[00:01:48] and friend of many of us here at [inaudible].
+[00:01:59] I met you once at one of these [inaudible]
+[00:01:59] in New York.
+[00:02:05] He's an associate professor of performance
+[00:02:05] studies at NYU, although he got his PhD in
+[00:02:14] literature at Duke.
+[00:02:16] Some of you may be wondering what you could
+[00:02:16] do with a PhD in literature, you can teach
+[00:02:24] performance studies at NYU, of course.
+[00:02:25] [crosstalk].
+[00:02:26] I have to read this all because it's complicated.
+[00:02:27] He teaches Latino American performance, gender
+[00:02:27] studies, the history of performance art and
+[00:02:28] visual culture, and critical theory.
+[00:02:29] He's the author of Disidentification: Queer
+[00:02:29] As Of Color and the Performance of Politics,
+[00:02:30] which I hope you guys are all thinking about
+[00:02:30] performing your politics.
+[00:02:33] And the editor of Everynight Life: Culture
+[00:02:33] and Dance in Latino America, and Pop Out:
+[00:02:34] Queer Warhol.
+[00:02:35] He's currently finishing two roles.
+[00:02:36] One, which is Feeling Brown: Ethnicity Effect
+[00:02:36] and Performance.
+[00:02:37] And we already had a delightful evening with
+[00:02:37] him.
+[00:02:38] I'm sure you guys are going to enjoy this
+[00:02:38] thoroughly.
+[00:02:42] So give him a warm welcome.
+[00:02:50] Jose Munoz: Thank you for coming out.
+[00:02:59] And thanks to Nancy for dealing with me and
+[00:02:59] wrangling me and my attention deficit disorder
+[00:03:09] and my bad communication, karma and poor email
+[00:03:09] skills.
+[00:03:11] I really appreciate it.
+[00:03:13] Thank you.
+[00:03:14] You've been great.
+[00:03:16] I'm really excited to be here.
+[00:03:19] I got to take the train up, see the leaves
+[00:03:19] change.
+[00:03:27] It was really beautiful.
+[00:03:31] And I had a lot of feelings, [inaudible] feelings,
+[00:03:31] autumn feelings.
+[00:03:34] I'm here.
+[00:03:35] I'm in college.
+[00:03:36] It's really nice.
+[00:03:37] And it has my hot cider.
+[00:03:40] Nancy: You made the train.
+[00:03:43] It wasn't late.
+[00:03:45] Jose Munoz: I need this to train.
+[00:03:49] I really pulled it together, so I'm really
+[00:03:49] proud of myself.
+[00:03:55] I'm working on this book about emotion and
+[00:03:55] ethnicity, and how one way we can talk about
+[00:04:03] the ways we're different from each other and
+[00:04:03] like to each other.
+[00:04:08] It has a lot to do with emotion, and how emotion
+[00:04:08] might be one way of talking about identity.
+[00:04:16] That might be better than traditional ways
+[00:04:16] of talking about identity, right?
+[00:04:22] That emotion might be one way.
+[00:04:23] Talking about how certain groups relate to
+[00:04:23] the majority from a minority perspective.
+[00:04:31] I'm just going to read it.
+[00:04:34] I'll talk through some of it.
+[00:04:37] I have clips that I'll show you.
+[00:04:40] I hope it will entertain you [inaudible].
+[00:04:46] The current boom in accessible telegenic Latino
+[00:04:46] media presences, from JLo to salsa elevator
+[00:04:56] music, as a new mini mainstream boom that
+[00:04:56] might be it's younger sibling.
+[00:05:03] Let's call it the gay boom.
+[00:05:06] And decidedly, not the queer group.
+[00:05:08] It's major media manifestations being gay
+[00:05:08] reality dating shows, daytime lesbian talk.
+[00:05:18] The gay best friends sitcom, which will go
+[00:05:18] unnamed.
+[00:05:23] And of course the make over madness of homosexualities
+[00:05:23] led by minstrels.
+[00:05:29] Maven media has discovered the joys of gay
+[00:05:29] niche representation, but queers should not
+[00:05:38] be too elated by this glitzy mainstreaming.
+[00:05:43] But he knows he can testify that while hate
+[00:05:43] crimes and general scapegoating towards immigrants
+[00:05:50] expands, Shakira's hair gets blonder and Ricky
+[00:05:50] Martin's jeans get tighter.
+[00:05:56] Expanded representation for any minority does
+[00:05:56] not equal economic justice or anything like
+[00:06:02] civil rights.
+[00:06:03] Yet with this said, mainstreaming still seems
+[00:06:03] to be the order of the day, and many groups
+[00:06:11] craving crave the whitewashing that mainstream
+[00:06:11] channels representation prompts.
+[00:06:17] The mainstream minority image is to follow
+[00:06:17] dominant media flows that tend to flatten
+[00:06:23] out the difference, and generally domesticate
+[00:06:23] minority.
+[00:06:27] Particularity is not a path to popular redemption.
+[00:06:39] What is Latino or queer particularity?
+[00:06:42] And what does it mean to lose it?
+[00:06:44] When a gay lesbian, Latina, Latino, or any
+[00:06:44] other minority image is whitewashed for popular
+[00:06:50] consumption, something is being lost or leaving.
+[00:06:55] What is washed out and what is the price of
+[00:06:55] such a cleansing?
+[00:06:59] I want to suggest today that what's being
+[00:06:59] lost in the case of gay mainstream or mass
+[00:07:05] media Latino booms is a particular kind of
+[00:07:05] feeling that is sometimes discussed as a sensibility
+[00:07:14] or a style.
+[00:07:19] This feeling or sensibility can be following
+[00:07:19] the work of Raymond Williams, who discusses
+[00:07:28] the structure of feeling.
+[00:07:30] And for Williams' cultural analysis, reading
+[00:07:30] culture, paying attention to culture, is a
+[00:07:37] path towards better understanding of the particularity
+[00:07:37] of one group and how it's connected, how people
+[00:07:45] belong to each other, know each other, how
+[00:07:45] they recognize each other.
+[00:07:49] Williams' work had to do with the working
+[00:07:49] class in England.
+[00:07:55] But in part, I want to use this phrase, this
+[00:07:55] idea of a structured feeling, to talk about
+[00:08:01] minority groups in the US specifically.
+[00:08:03] And the phrase structured feeling, that's
+[00:08:03] what it promises, structure.
+[00:08:08] In that it talks about historical material
+[00:08:08] reality, but also feeling, which is something
+[00:08:16] harder to talk about.
+[00:08:18] Efemoral, weird, mysterious.
+[00:08:20] You can't quite put your finger on it, but
+[00:08:20] you need to, right?
+[00:08:23] So in part, I want to think about ethnicity
+[00:08:23] and sexuality as structures of feeling in
+[00:08:32] relationship to certain groups.
+[00:08:38] And for me, that notion of a structured feeling
+[00:08:38] is what's up for grabs or at stake with a
+[00:08:47] certain kind of mainstreaming, a certain kind
+[00:08:47] of sanitizing of certain identities for public
+[00:08:54] consumption.
+[00:08:55] To be consumable on television or in other
+[00:08:55] aspects of mainstream media, something has
+[00:09:03] to give.
+[00:09:04] You got to move towards a middle.
+[00:09:06] And in part I'm suggesting that something
+[00:09:06] is being lost there.
+[00:09:12] And in relationship to this minority work.
+[00:09:20] I'm talking about two different things.
+[00:09:21] What I call brown feelings and queer feelings.
+[00:09:24] And queer feelings are not gay feelings.
+[00:09:27] Queer feelings having to do with a certain
+[00:09:27] kind of edge that's dulled for mainstream
+[00:09:33] consumption, a cleaning up and tidying up
+[00:09:33] of gay difference and gay emotion.
+[00:09:41] And Latino feelings and brown feelings, as
+[00:09:41] opposed to Hispanic feelings, as opposed to
+[00:09:49] a certain packaging that you get in relationship
+[00:09:49] to Latino and Latino media and the culture
+[00:10:00] right now.
+[00:10:02] I want to suggest that it's useful for us
+[00:10:02] to think about the particularity of Latino
+[00:10:10] and queer feelings, brown and queer feelings,
+[00:10:10] viewed from within their own context, their
+[00:10:19] own structure of feeling.
+[00:10:20] Now, both structures of feeling in relationship
+[00:10:20] to Latinos and queers are often discussed
+[00:10:33] or categorized by the mainstream media as
+[00:10:33] accepted, as too much.
+[00:10:39] What are the stereotypes around Latina sexuality,
+[00:10:39] for example, right?
+[00:10:47] Hot and spicy, overly sexual, excessive, right?
+[00:10:51] And what do you get around queer feelings
+[00:10:51] in public?
+[00:10:58] I was just looking in the supermarket, seen
+[00:10:58] Vanity Fair because I never read it.
+[00:11:05] There was an article on an actual homosexual
+[00:11:05] who was on The Today Show, who's also on People
+[00:11:11] Magazine with highlights.
+[00:11:13] He's very extravagant and whatever.
+[00:11:16] He's not my favorite media commentator.
+[00:11:19] But there's this whole article in Vanity Fair
+[00:11:19] about him being too gay.
+[00:11:23] Is he too gay?
+[00:11:24] Is he bad for the gays?
+[00:11:26] Bad for the Jews, bad for the gays, bad for
+[00:11:26] the other people.
+[00:11:32] The fact that they made this argument in the
+[00:11:32] dominant media is someone too gay is interesting
+[00:11:37] because what they mean by too gay?
+[00:11:39] They mean there's too much of somethings,
+[00:11:39] right?
+[00:11:42] An excess of feeling and emotion of particularity.
+[00:11:48] And that is precisely what I want to argue
+[00:11:48] is the price of this mainstreaming.
+[00:11:53] This excess emotion is looked at and basically
+[00:11:53] quantified as excessive, as too much, as a
+[00:12:05] problem for society and not being a good citizen
+[00:12:05] and mainstreaming and going in the middle.
+[00:12:18] I'm programming a show for the New York Experimental
+[00:12:18] Film Festival in November.
+[00:12:25] I called it Retention, because I just thought
+[00:12:25] it would be good after all these mainstreaming
+[00:12:33] in the middle of roading, it'd be good to
+[00:12:33] actually be obscure and difficult in relationship
+[00:12:39] to our minority cultures, because it seems
+[00:12:39] like so much is being blunted and dulled.
+[00:12:48] But that's just a side note.
+[00:12:53] What I want to suggest is that it's important
+[00:12:53] for us to look as different communities, different
+[00:13:01] circuits, with belonging.
+[00:13:04] They're connected to different structures
+[00:13:04] of feeling.
+[00:13:08] To look at the history of our cultural production,
+[00:13:08] and to cultural productions, cultural work
+[00:13:15] outside of the mainstream or the margin, work
+[00:13:15] outside of the center to remind us of our
+[00:13:22] particularity when it is being compromised
+[00:13:22] in relationship to mainstream flows, or dominant
+[00:13:32] flows of media and culture.
+[00:13:42] I'm suggesting that this mainstreaming makes
+[00:13:42] these promises of equality gain and harmony.
+[00:13:52] And those were false promises, insofar as
+[00:13:52] when we look at our political reality in relationship
+[00:14:02] to these big leaps in the mainstream, that
+[00:14:02] it's not paying off.
+[00:14:09] We should look to our particularity in relationship
+[00:14:09] to different practices of making culture and
+[00:14:16] art in the world.
+[00:14:18] I'm going to talk about two artists, or basically
+[00:14:18] two approaches.
+[00:14:26] One is a historical approach.
+[00:14:31] And the other one is an approach in relationship
+[00:14:31] to excavating and calling attention to sights
+[00:14:38] outside of the mainstream and trying to put
+[00:14:38] them out there.
+[00:14:47] I'm going to look at two really what would
+[00:14:47] seem really disparate diggers.
+[00:14:50] People who are not a Sesame Street match.
+[00:14:57] But I think, for me, they make sense together.
+[00:15:07] One is a Bolero singer from Cuba before the
+[00:15:07] revolution named Bola de Nieve, which literally
+[00:15:11] translates to snowball.
+[00:15:12] He was an important figure in history of Cuban
+[00:15:12] music.
+[00:15:18] He was black from a poor black working part
+[00:15:18] of Havana called Guanabacoa.
+[00:15:28] His real name was Ignacio Jacinto.
+[00:15:32] And he was called by the [Shontuse] he started
+[00:15:32] as an accompanist for.
+[00:15:41] He was so big and black they called him Snowball.
+[00:15:45] This is an island that snow was sparse.
+[00:15:50] But while it was really campy and really extravagant,
+[00:15:50] he was a pianist.
+[00:15:59] He was a very flamboyant and dramatic figure.
+[00:16:07] If you know the films of Pedro Almodóvar,
+[00:16:07] he basically rediscovered Bola de Nieve in
+[00:16:15] the '90s and used him for all his soundtracks
+[00:16:15] because Bola was so over the top and so dramatic
+[00:16:26] and so emotional.
+[00:16:28] He was a pioneer of a brand of Cuban music
+[00:16:28] called feelings, it was just called feelings,
+[00:16:36] and it was known for its emotional excess.
+[00:16:39] So I want to talk about an experience I had
+[00:16:39] listening to someone do a cover of Bola here
+[00:16:46] in Mexico City.
+[00:16:47] And then I want to talk about a contemporary
+[00:16:47] performance of artists and stand up comedian
+[00:16:53] in New York named Margaret Gomez.
+[00:16:58] What they both represent are extremes of emotion
+[00:16:58] and sensitive that are often
+[00:17:12] sanitized or displaced from our mainstream
+[00:17:12] or a dominant perspective.
+[00:17:21] And how it's important to unearth these figures,
+[00:17:21] and look at the way in which they tell us
+[00:17:27] a story about a certain structure of feeling
+[00:17:27] that certain communities intact.
+[00:17:33] Okay.
+[00:17:34] So any questions so far?
+[00:17:36] Because I'm still happy.
+[00:17:39] All right.
+[00:17:40] I'm going to first show you a video of Bola.
+[00:17:44] This is in Spanish.
+[00:17:46] There's no subtitles.
+[00:17:48] I got it in some shady black market in [crosstalk].
+[00:17:56] It will show you Bola, hear a little bit of
+[00:17:56] the music, and you'll get a visual match to
+[00:19:29] what I'm talking about.
+[00:19:42] Okay.
+[00:19:46] Can we just show that first [crosstalk] or
+[00:19:46] not?
+[00:20:12] Are you ready?
+[00:20:16] Okay.
+[00:20:17] Yes.
+[00:20:19] Excellent.
+[00:20:20] (music)
+[00:20:20] Thank you.
+[00:20:24] So you got a glance at him, right?
+[00:20:29] Let me just translate or summarize the voiceover
+[00:20:29] in Spanish.
+[00:20:33] He's talking about how he feels fundamentally
+[00:20:33] Latino, how he feels fundamentally Latin American,
+[00:20:41] and how he doesn't feel as though he's a citizen
+[00:20:41] of any country, but he feels Latino.
+[00:20:52] He used the word feel, siento, constantly
+[00:20:52] describing [crosstalk] us it.
+[00:20:59] He talks about his music as something that
+[00:20:59] isn't about having a pretty voice.
+[00:21:03] It's about having a certain kind of emotion
+[00:21:03] that you can access.
+[00:21:08] Okay.
+[00:21:09] Here's a little anecdotal story.
+[00:21:10] I'm sitting in a bar in Monterey, Mexico,
+[00:21:10] surrounded by friends.
+[00:21:15] Four Cuban Americans and a dear friend from
+[00:21:15] San Juan were there for an ambitious conference
+[00:21:20] on politics and performance in the Americas
+[00:21:20] that was to last almost two weeks.
+[00:21:24] It's been a stressful night.
+[00:21:27] The conferences attendees [crosstalk] head
+[00:21:27] over to the local bar.
+[00:21:31] We're supposed to have use of the bar's stage
+[00:21:31] at night.
+[00:21:32] But as we trickled in we noticed the local
+[00:21:32] folk band on stage, but the music was not
+[00:21:35] to the liking of the attendees.
+[00:21:37] The conference goers include scholars and
+[00:21:37] performers from all over the Americas.
+[00:21:45] Most prominently, the Caribbean diva, Susana
+[00:21:45] Baca.
+[00:21:48] Does anyone know who Susana Baca is?
+[00:21:52] All right.
+[00:21:54] Latin American studies.
+[00:21:55] Susana Baca is this important Caribbean diva.
+[00:21:59] She's a black woman from Peru, and she goes
+[00:21:59] all over the Americas and figures out the
+[00:22:06] black musical tradition of Latin America.
+[00:22:09] She finds us these songs and she does interpretations
+[00:22:09] about them.
+[00:22:15] She's a big time diva.
+[00:22:17] She's fabulous.
+[00:22:18] The purple scarves, everything.
+[00:22:20] She's incredible.
+[00:22:21] Also is Davies from the Tropicana, a Cuban
+[00:22:21] American performance artist who's been here,
+[00:22:26] I understand, a few times, who is mistress
+[00:22:26] of ceremonies.
+[00:22:33] After a series of songs and irritated grumbling
+[00:22:33] from the audience, the long haired, Mexican
+[00:22:38] foot rocker vacated the stage.
+[00:22:41] Almost two hours late, but in our goal the
+[00:22:41] performance commenced.
+[00:22:45] My friends and I were very much in the event
+[00:22:45] as a typically loud and cantankerous Cuban
+[00:22:50] continued.
+[00:22:51] Carmelita carefully coaxed the grooving diva,
+[00:22:51] Susana Baca, onto the stage with admiring
+[00:22:57] compliments [crosstalk] please.
+[00:22:59] The song she sang during that first night
+[00:22:59] stands alone as my most significant memory
+[00:23:04] from that conference.
+[00:23:05] Baca introduced the song by explaining that
+[00:23:05] it had been made famous by Cuban singer, Bola
+[00:23:11] de Nieve.
+[00:23:12] She sang [foreign language] acapella in her
+[00:23:12] sweet and powerful voice throughout the Cabres
+[00:23:18] nightclub.
+[00:23:19] [inaudible] also work on [inaudible] [Dehuna]
+[00:23:19] or lullaby.
+[00:23:22] The song wanted its listeners not to cry,
+[00:23:22] to fall asleep gently, or risk being eaten
+[00:23:30] alive.
+[00:23:31] That's basically what Cuban lullabies do,
+[00:23:31] they threaten you.
+[00:23:36] Don't cry or we'll eat you.
+[00:23:40] Through the haze of the [inaudible] the performance
+[00:23:40] looked as though we're being pulled through
+[00:23:45] vastly accented lens.
+[00:23:46] More than many tears were shed at our table.
+[00:23:49] Bola de Nieve was conjured for us at that
+[00:23:49] instance.
+[00:23:51] Here we were, a group of US based Cubans,
+[00:23:51] free from the frustrating politics of Cuban
+[00:23:59] America, [inaudible] in Mexico, the country
+[00:23:59] that Bola de Nieve had died.
+[00:24:04] Our geographical displacement was augmented
+[00:24:04] by a temporal displacement that we can link
+[00:24:10] to the lullaby itself.
+[00:24:11] This was what he would do in Cuba.
+[00:24:14] He would sing lullabies.
+[00:24:16] This very black man would sing lullabies to
+[00:24:16] the bourgeois, middle-class, this really white
+[00:24:24] middle class from his piano.
+[00:24:27] It was a scene.
+[00:24:29] And he played all over the world.
+[00:24:31] He played with Billie Holiday, with Paul [Bropes],
+[00:24:31] and he spoke eight languages.
+[00:24:36] He was this really continental figure, or
+[00:24:36] this very cosmopolitan figure.
+[00:24:41] Most of us sitting around that table identified
+[00:24:41] with some modality of queerness, and Bola's
+[00:24:50] homosexual aura, that of [Mandoran] effeminacy
+[00:24:50] queer worldliness also spoke to us.
+[00:24:56] This conjured forms of Baca's capturing and
+[00:24:56] reproducing the purple sentiment of Bola de
+[00:25:02] Nieve cemented the bond of that small listening
+[00:25:02] community to displace lefty Cubans.
+[00:25:07] Baca had explained that she had learned the
+[00:25:07] song while traveling to Cuba and researching
+[00:25:14] black music and Spanish speaking Americas.
+[00:25:16] She talked about her first visit to the island
+[00:25:16] in 1980, and the resistance she had encountered
+[00:25:21] when she inquired about the singer and composer.
+[00:25:23] While onstage, she did not go into detail
+[00:25:23] about the resistance to Bola, because she
+[00:25:29] got there and people were like, "You don't
+[00:25:29] want to look like him.
+[00:25:33] You don't want to to hear his songs.
+[00:25:34] You don't want to hear that music."
+[00:25:35] So she didn't tell us why people in Cuba didn't
+[00:25:35] want to talk about him.
+[00:25:40] But later we talked to her, or I talked to
+[00:25:40] her, and she did tell us that they took her
+[00:25:47] aside and said, "He was a homosexual.
+[00:25:50] You don't want to really work on that.
+[00:25:52] It's not important."
+[00:25:54] I don't know if you saw Before Night Falls.
+[00:25:57] Has anyone seen that movie?
+[00:26:00] A few of you.
+[00:26:03] In Cuba there was a censorship right after
+[00:26:03] the revolution in relationship to homosexuals.
+[00:26:09] Now the story's changed.
+[00:26:10] It's a very complicated story.
+[00:26:12] But back then it was totally about censoring
+[00:26:12] homosexuals because they did not perform the
+[00:26:18] right revolutionary machismo.
+[00:26:22] Bola fell out of favor.
+[00:26:24] He was censored in some ways.
+[00:26:28] But he's since then been recuperated by the
+[00:26:28] revolution, and his CDs sell all over the
+[00:26:37] world.
+[00:26:38] Those of us who were sitting there, who has
+[00:26:38] these strong ties to Cuba and Cubanness, and
+[00:26:44] also as a queerness on some level, we felt
+[00:26:44] the commonality or bond through the sentiment
+[00:26:50] performed by her rendering of Bola de Nieve.
+[00:26:54] He was conjured for us.
+[00:26:57] When Baca talks about her research, she talks
+[00:26:57] about it as though she's looking for blackness,
+[00:27:03] and for her blackness is found in the songs
+[00:27:03] as a emotion that talks about connections
+[00:27:10] between black folks and the Americans.
+[00:27:13] In a similar way, at that moment, there was
+[00:27:13] a queer connection.
+[00:27:18] There were some queer feelings that were being
+[00:27:18] extended in relationship to this rendition,
+[00:27:23] this artist, this history.
+[00:27:25] In part, that's one of the examples I want
+[00:27:25] to talk about in relationship to the ways
+[00:27:31] in which certain minority groups share emotion.
+[00:27:34] And that's one way in which we know each other
+[00:27:34] and experience each other in the world.
+[00:27:39] Here's another story.
+[00:27:40] In his recent book, Tropics of Desire, Jose
+[00:27:40] Quiroga describes one of his nights out in
+[00:27:47] Madrid listening to a boldish and discombobulated
+[00:27:47] [inaudible] at a nightclub in Madrid.
+[00:27:52] Or [inaudible], this other diva who was basically
+[00:27:52] Celia Cruz's big rival in Cuba and in the
+[00:28:01] US, who is another mixed race African Latina
+[00:28:01] in Cuba.
+[00:28:12] He talks about sitting in this nightclub,
+[00:28:12] and he describes the audience in this way,
+[00:28:17] "The audience at the Centro Cultural in Madrid
+[00:28:17] includes at least three kinds of expectant
+[00:28:23] listeners: old heterosexual couples, Spanish
+[00:28:23] or Cuban, who have come to remember the excess
+[00:28:30] of yore.
+[00:28:32] She will sigh at some point in the concert,
+[00:28:32] “Ah, those were great times”.
+[00:28:37] The young homosexual couples or groups who
+[00:28:37] have come to listen to the excessive simulacra
+[00:28:41] of the past.
+[00:28:43] She will interpellate them with a sigh, “Ah,
+[00:28:43] the new generation”.
+[00:28:47] And here and there, the faithful members of
+[00:28:47] the diaspora, the recently arrived who have
+[00:28:52] come to listen to a living legend, and those
+[00:28:52] who have been here for a long time and perform
+[00:28:57] the rites of a cubanía forged outside of
+[00:28:57] the island for the last forty years.
+[00:29:02] One never quite knows to what extent these
+[00:29:02] groups communicate with each other, except
+[00:29:06] insofar as they are linked by La Guillot herself
+[00:29:06] as Cuba-as-absence"
+[00:29:11] So here's this other moment, a performance
+[00:29:11] and sentiment that links a group, that makes
+[00:29:19] us a circuit of people knowing each other.
+[00:29:22] And it's not about identity in any simple
+[00:29:22] way.
+[00:29:24] It's not about race in a civil way.
+[00:29:26] It's not about generation or age.
+[00:29:27] It's not about sexuality, but it's about a
+[00:29:27] mode of feeling where these people can understand
+[00:29:31] each other, and recognize each other.
+[00:29:38] So my story in Monterey, you don't get a story
+[00:29:38] about Madrid.
+[00:29:43] These are two examples of the way in which
+[00:29:43] nightlife and performance are ways in which
+[00:29:50] people experience, understand commonality
+[00:29:50] and connection, the way in which a social
+[00:29:56] fabric is weaved.
+[00:29:59] There are different artistic forums that are
+[00:29:59] particularly useful for that.
+[00:30:04] One is certainly the Bolero, and the Bolero's
+[00:30:04] structure of a dress is often directed as
+[00:30:14] an absent you, a lost object one pines for.
+[00:30:17] The Bolero's lamentful effective cry also
+[00:30:17] challenges specific gender clothes, insofar
+[00:30:25] as visually feminine sentimentality is spoken
+[00:30:25] by a male speaker.
+[00:30:30] Bolero's showcase for by North American measure,
+[00:30:30] excessive affect.
+[00:30:38] [inaudible] explains that Bolero's permitted
+[00:30:38] some kind of tragedy represented as some kind
+[00:30:45] of echo in the past, the future of the postmodern
+[00:30:45] canvas, to rescue a loss forbidden tradition.
+[00:30:52] The tragedy of Bolero's are often accounts
+[00:30:52] of relational traumas, narratives of love's
+[00:30:59] failures, individual loss, and displacement,
+[00:30:59] longing for another time and place.
+[00:31:06] Bolero's have become this key way in which
+[00:31:06] certain groups understand their emotionality
+[00:31:13] in relationship to a world that sees it as
+[00:31:13] dramatic or excessive.
+[00:31:21] Bola de Nieve was a black queer who for other
+[00:31:21] queers in this exile, that's what Cubans call
+[00:31:31] it.
+[00:31:32] We're in exile.
+[00:31:33] We're always in exile.
+[00:31:35] He represented the ability to do drama queen,
+[00:31:35] and to be dramatic and excessive out in public.
+[00:31:42] His performance was one of public feeling
+[00:31:42] that is worth paying attention to now, I want
+[00:31:52] to argue.
+[00:31:53] His lullabies help us collectively mourn our
+[00:31:53] past and our own lost childhoods as displaced
+[00:32:00] people, displaced not only from an island
+[00:32:00] or a place, but also from a dominant sexuality,
+[00:32:08] a dominant way of being in the world.
+[00:32:25] In one way, I compare this to the phenomenon
+[00:32:25] of a disco diva.
+[00:32:31] Think about the performance of... Diva is
+[00:32:31] a very big noun.
+[00:32:37] Divas like [inaudible] in Las Vegas.
+[00:32:41] They're everywhere.
+[00:32:42] But the ways in which certain queer communities
+[00:32:42] to affect onto white [inaudible], for example.
+[00:32:49] They've gone to black divas, the big example
+[00:32:49] being disco.
+[00:32:54] But there are all these groups get focused
+[00:32:54] on the bigger of the black diva.
+[00:33:04] And Susana Baca, Bola de Nieve, they were
+[00:33:04] divas in a certain way.
+[00:33:09] And people were able to connect with their
+[00:33:09] own feelings of excess and drama and understand
+[00:33:15] themselves in a certain way.
+[00:33:19] This is, again, one of my examples of the
+[00:33:19] ways in which particularity and difference
+[00:33:29] can be found in reading and paying attention
+[00:33:29] to [crosstalk] and how it works.
+[00:33:34] What makes us feel a particular Latino melancholia?
+[00:33:38] A mourning, which is a structured feeling
+[00:33:38] that helps us recognize ourselves in each
+[00:33:47] other as over the top bougie queens who feel
+[00:33:47] too much in relationship to the majority of
+[00:33:55] US way of feeling.
+[00:33:57] In 1922, TS Eliot in his famous essay, Tradition
+[00:33:57] and the Individual Talent, advised poets to
+[00:34:04] move away from individual emotions and embrace
+[00:34:04] the larger public feelings.
+[00:34:08] What was drama?
+[00:34:10] So there's that kind of larger public feeling.
+[00:34:13] It was, as Eliot suggested, a turning away
+[00:34:13] from the particular and embracing a passion
+[00:34:19] that spoke to you and universal.
+[00:34:21] It was a public self that was beyond passionless
+[00:34:21] objectivity, but about a passionate invocation
+[00:34:34] of a larger feeling.
+[00:34:39] I want to now switch from Bol and the '50s
+[00:34:39] to a contemporary Cuban slash Puerto Rican
+[00:34:47] artist, Margaret Gomez, who performed public
+[00:34:47] passion and queer feelings and brown feelings
+[00:34:55] a little off center, very off-off Broadway.
+[00:34:58] But that in part is what I think is important.
+[00:35:02] The public viewings that Margaret Gomez performs
+[00:35:02] are not sanitized gay Hispanic emotion.
+[00:35:10] Her focus is on feelings.
+[00:35:14] Marga's feelings are often musty ones, desirous
+[00:35:14] ones.
+[00:35:19] She takes the stereotype of the over the top
+[00:35:19] Latin spitfire, as well as the lesbian pervert
+[00:35:30] pathological thing, she just takes that bull
+[00:35:30] by the horns and she performs that out loud
+[00:35:37] in a very particular way that helps us not
+[00:35:37] run away from these feelings, or sanitizing
+[00:35:42] them in the way in which daytime TV will,
+[00:35:42] but think about them critically.
+[00:35:47] I'm going to show some of Marga's work.
+[00:35:51] I'm going to show five or 10 minutes of her
+[00:35:51] stand up.
+[00:35:56] This is a show called Cochina.
+[00:36:00] Was it Cochina?
+[00:36:02] Speaker 3: [inaudible].
+[00:36:04] Jose Munoz: Exactly.
+[00:36:06] She's a kid.
+[00:36:08] She's also a dirty woman.
+[00:36:09] Speaker 3: [crosstalk].
+[00:36:10] Jose Munoz: Yes.
+[00:36:11] Exactly.
+[00:36:12] At Cochina, she takes on that title, over
+[00:36:12] sexed, over the top, bigger.
+[00:36:20] And she performs those emotions out loud.
+[00:36:23] This is from a 2001 performance called Cochina.
+[00:36:33] Okay.
+[00:36:35] I'll share some of that.
+[00:36:48] She had different characters, different voices.
+[00:37:04] Margaret Gomez: Why don't you say you're welcome?
+[00:37:26] You ever hear that?
+[00:37:33] Thank you.
+[00:37:38] You're welcome.
+[00:37:43] You used to say it all the time.
+[00:38:01] Thank you.
+[00:38:07] You're welcome.
+[00:38:13] Don't they say that on MTV: thank you, you're
+[00:38:13] welcome?
+[00:38:41] What's wrong with that?
+[00:38:52] That's just good manners.
+[00:39:04] (music) Why are they playing the thong song
+[00:39:04] at Walgreens for Christmas?
+[00:39:38] That song isn't Christmas music, is it?
+[00:39:59] Is that the Christmas music now?
+[00:40:14] Is that going to play Jingle Bells thong song?
+[00:40:41] What does that mean?
+[00:40:53] Am I supposed to wear a thong for Christmas?
+[00:41:09] A little green thong?
+[00:41:16] Oh, no.
+[00:41:19] Hey, kiss me.
+[00:41:24] Walgreens boy.
+[00:41:27] Kiss me.
+[00:41:33] God, don't kiss me.
+[00:41:39] How could I mean don't kiss me?
+[00:41:58] Give me medicine.
+[00:42:10] I got to get food.
+[00:42:39] Oh, Ben and Jerry's.
+[00:42:51] God, I
+[00:43:21] love Ben and Jerry's.
+[00:43:31] I love when they have Ben and Jerry's in a
+[00:43:31] drugstore.
+[00:43:46] They didn't used to have food in a drugstore.
+[00:43:50] Oh, and they always have new favorite flavors.
+[00:43:55] All right, what we got here?
+[00:43:58] Why do we even [inaudible]?
+[00:44:00] And [inaudible] like...
+[00:44:01] Mmm, that sounds good.
+[00:44:03] Cheese Nips, tiramisu, and gum.
+[00:44:03] [inaudible] a sacrifice that.
+[00:44:08] Every mountain that I climbed.
+[00:44:10] Every road that I chose.
+[00:44:12] Every page that I turned.
+[00:44:14] Every battle that I fought.
+[00:44:17] Every [inaudible] that I took.
+[00:44:19] Every game that I made.
+[00:44:23] Every television that I hosted.
+[00:44:27] Every push up.
+[00:44:28] Every prayer.
+[00:44:29] Every [inaudible].
+[00:44:30] Every language.
+[00:44:31] Every book.
+[00:44:32] Everything.
+[00:44:33] Every cover charge that I paid.
+[00:44:35] Every weekend that I lost.
+[00:44:37] I did it not for fame, or fortune, or for
+[00:44:37] my health, or for the Lord.
+[00:44:44] I did it all for sex.
+[00:44:46] I would tell myself, this is for the children.
+[00:44:49] This is for the future.
+[00:44:50] This is for [Mia].
+[00:44:51] This is what I do for love.
+[00:44:55] This is for [inaudible].
+[00:44:57] But the truth is, the only reason that I have
+[00:44:57] ever gotten out of bed is so that I could
+[00:45:08] get back in bed as soon as possible with somebody,
+[00:45:08] anybody hot, sheep, stinky, ugly from outside
+[00:45:16] inside me grabbing handfuls of soaking hump
+[00:45:16] for the morning bus ride home with the clean
+[00:45:27] and quiet business people that can smell me
+[00:45:27] now.
+[00:45:35] Have a nice day.
+[00:45:37] [inaudible].
+[00:45:38] I couldn't go into a retirement account.
+[00:45:40] I settled on [inaudible].
+[00:45:42] I checked out the cop's ass during the riot
+[00:45:42] for my cause.
+[00:45:47] I bought a computer to have cyber sex with
+[00:45:47] Canadians.
+[00:45:52] I am a fucking pig.
+[00:45:54] Or, as my people say, I am a cochina.
+[00:46:01] Usually, in Spanish I'm not a kitchen.
+[00:46:24] It's actually pronounced cocina.
+[00:46:25] Cochina is bloody pig.
+[00:46:27] Cocina is kitchen.
+[00:46:28] Last year I'm a cochina's house [inaudible].
+[00:46:31] [inaudible].
+[00:46:32] But the world is a dirty place.
+[00:46:36] Don't touch anything.
+[00:46:38] Don't [inaudible].
+[00:46:39] If I were to see and authentic brand new soccer
+[00:46:39] ball... [inaudible] a soccer ball.
+[00:46:50] I just wanted to pick it up and taste it.
+[00:46:53] Non Latina women will say, "Oh, no, no.
+[00:46:57] We don't know where that's been.
+[00:46:59] Let's take a time out and we'll leave you
+[00:46:59] alone [inaudible]."
+[00:47:06] But a Latina woman woman will be more direct.
+[00:47:10] They would say, "Don't touch that.
+[00:47:13] Put that down.
+[00:47:14] It's caca.
+[00:47:15] Caca.
+[00:47:21] Everything we saw is caca.
+[00:47:22] Everything [inaudible] is caca.
+[00:47:23] Caca.
+[00:47:24] We don't want caca."
+[00:47:25] We didn't know where caca began and where
+[00:47:25] it ended.
+[00:47:29] That's how I was raised.
+[00:47:31] To up and end of the sky, now don't make no
+[00:47:31] caca.
+[00:47:36] I was raised to defend my elders, especially
+[00:47:36] the grandmamas.
+[00:47:41] Merry Christmas.
+[00:47:43] Jose Munoz: Isn't she great?
+[00:47:46] She's a biter.
+[00:47:48] She's great.
+[00:47:50] That was fun.
+[00:47:55] Gomez's public performance is amplified brown
+[00:47:55] and queer feelings.
+[00:48:06] [inaudible] structure of feeling [inaudible],
+[00:48:06] which is a way of being in the world, a surrogate
+[00:48:21] of belonging available.
+[00:48:22] I've argued against the dulling of particularity
+[00:48:22] and the ways in which knowing the self and
+[00:48:32] each other is about the various serious art
+[00:48:32] and performance of feeling.
+[00:48:36] That's basically the connection I'm trying
+[00:48:36] to make between these two over the top extravagant
+[00:48:40] figures, Bola de Nieve and Marga Gomez.
+[00:48:43] They have performed with feeling that is writ
+[00:48:43] large [crosstalk] excessive, that you won't
+[00:48:49] get otherwise.
+[00:48:50] The way in which Margaret Gomez just performs,
+[00:48:50] having this erotic eruption at the checkout
+[00:48:55] line at Walgreens, that's when she starts
+[00:48:55] getting all horny and crazy, she loses control.
+[00:48:59] Instead of running away from stereotypes,
+[00:48:59] she's just doing that over the top, inhabiting
+[00:49:09] them in this really excessive pronounced way.
+[00:49:25] And you won't see that, I would argue, in
+[00:49:25] most aspects of popular media that tries the
+[00:49:47] pig minority performances, or minority lives
+[00:49:47] and minority emotions.
+[00:49:52] So performances like Gomez's, and performance
+[00:49:52] histories and legacies like that of Bola de
+[00:49:59] Nieve, I'm suggesting a really important for
+[00:49:59] us to look to and analyze in relationship
+[00:50:07] to the way in which we're often overwhelmed
+[00:50:07] by sanitized domesticated image of ourselves
+[00:50:11] where certain particularities...
+[00:50:12] When I say us, I mean different groups, some
+[00:50:12] of which I belong to, some of which I don't
+[00:50:20] fit.
+[00:50:21] Their relationship to a bigger mainstream
+[00:50:21] sanitizing media process.
+[00:50:25] And the ways in which these performances of
+[00:50:25] excess and extravagance are really useful
+[00:50:30] to think about what's important about difference.
+[00:50:31] I'll stop there and I'll answer any questions
+[00:50:31] and talk.
+[00:50:34] Whatever you want.
+[00:50:35] Yes?
+[00:50:36] Speaker 5: Do you believe that in part of
+[00:50:36] the media portrayals of Latino or homosexual
+[00:50:39] culture?
+[00:50:40] Jose Munoz: It's not black or white.
+[00:50:41] In a book I published, I wrote a chapter on
+[00:50:41] The Real World.
+[00:50:42] Remember the season?
+[00:50:43] You probably saw it.
+[00:50:44] You were four when it came on TV.
+[00:50:47] When Pedro Zamora was on.
+[00:50:49] [inaudible].
+[00:50:50] That's my life, it really was.
+[00:50:52] But yeah, he was on.
+[00:50:54] There were good things and bad things about...
+[00:50:57] He was the first person dying of AIDS on TV.
+[00:51:00] He showed people with AIDS aren't monsters,
+[00:51:00] that they have lives, they have sex lives,
+[00:51:07] and they're not just stigmatized figures.
+[00:51:11] So that was great.
+[00:51:12] Other moments, he was really conservative.
+[00:51:14] He said and did some stuff that, to me, is
+[00:51:14] conservative in relationship to the way in
+[00:51:22] which the politics are raised in sexuality,
+[00:51:22] from my perspective, should be portrayed.
+[00:51:32] It's gray spaces all over the place.
+[00:51:37] Basically, I'm making this arguing for this
+[00:51:37] extreme, because I think as things move more
+[00:51:42] to the middle and we get these domesticated
+[00:51:42] packaged images, removes a certain kind of
+[00:51:56] difference, a certain kind of excess, which
+[00:51:56] I think has a value.
+[00:52:06] Speaker 5: But can't you say that the media
+[00:52:06] sanitizes everything that they produce or
+[00:52:18] portray?
+[00:52:19] Jose Munoz: Good question.
+[00:52:22] Do you think so?
+[00:52:24] No.
+[00:52:25] Speaker 5: I think she was setting up family
+[00:52:25] shows, the way that media portrays family
+[00:52:33] values that aren't necessarily true to life.
+[00:52:38] I mean, it's changed.
+[00:52:39] Jose Munoz: Right.
+[00:52:40] But here's the thing.
+[00:52:41] With this minority representation thing, there's
+[00:52:41] a scarcity of image around these different
+[00:52:50] lives.
+[00:52:51] But there's a whole abundance of images around
+[00:52:51] these dominant values and dominant representation.
+[00:52:56] I teach this class at NYU, it's 200 kids,
+[00:52:56] and it's called Art in the World.
+[00:53:02] I was telling Nancy about this.
+[00:53:07] It's overwhelming.
+[00:53:12] It's for first year freshmen.
+[00:53:16] I had a lot of fun teaching it, but they were
+[00:53:16] just like, "Why are all this colored people
+[00:53:28] art?"
+[00:53:29] They go, "Why all the gays?
+[00:53:31] Why all this feminist art?"
+[00:53:33] I'm like, "Well, because you don't really
+[00:53:33] get it otherwise.
+[00:53:38] You're a freshman at NYU.
+[00:53:39] Now it's time for you to catch up on the stuff
+[00:53:39] you were missing out on in Iowa."
+[00:53:45] I feel that's my job.
+[00:53:47] All apologies to Iowa.
+[00:53:49] But thank you.
+[00:53:51] Yes?
+[00:53:52] Speaker 6: A lot of times when I think of
+[00:53:52] mainstream media that has stuff like homosexual
+[00:54:01] stuff or Latino stuff, to me it sanitizes
+[00:54:01] because it only goes with the extreme, like
+[00:54:08] Will and Grace's Jack.
+[00:54:09] So to me, it would be seen that it's a sanitized
+[00:54:09] dump dull version because it only takes the
+[00:54:18] most ridiculous extreme of each stereotype.
+[00:54:22] It would seem more real if they had more in
+[00:54:22] the middle.
+[00:54:32] Jose Munoz: Yeah.
+[00:54:33] Jack, he's a pretty watered down queen.
+[00:54:35] That extreme is represented in relationship
+[00:54:35] to something that's really fun and cartoonish,
+[00:54:40] but not messy.
+[00:54:42] Speaker 6: Well, like a funny caricature.
+[00:54:46] I don't know.
+[00:54:47] Jose Munoz: Yeah.
+[00:54:49] It is kind of a caricature, right?
+[00:54:54] But I think something's lost.
+[00:54:58] Speaker 6: yeah .
+[00:54:58] Speaker 7: I think the fact that it's watered
+[00:55:05] down, well, not watered down but there's extremes
+[00:55:05] rather, is because it's not interesting to
+[00:55:13] portray a homosexual couple living in the
+[00:55:13] suburbs having a regular job, regular life,
+[00:55:27] a house, maybe kids, a dog and backyard.
+[00:55:35] It's not very exciting to look at that because
+[00:55:35] they go to work, come back and that's it.
+[00:55:59] And they lead a regular, pretty normal suburban
+[00:55:59] life, for example.
+[00:56:10] Or even if they were in the city, they had
+[00:56:10] an apartment.
+[00:56:29] I mean, it wouldn't be very exciting.
+[00:56:31] That's why you have to portray something that
+[00:56:31] captures, I think, the audience's attention
+[00:56:37] where you have Jack, who is definitely a watered
+[00:56:37] down queen because I have seen queens.
+[00:56:43] I've been to Queens and I've seen queens.
+[00:56:46] You have to same thing with Queer as Folk,
+[00:56:46] for example.
+[00:56:51] You have to portray that flamboyant type,
+[00:56:51] living on the edge type life, because if not
+[00:56:58] people are going to fall asleep.
+[00:57:01] Speaker 6: There is a new sitcom, though,
+[00:57:01] that's precisely about a suburban gay couple
+[00:57:09] with kids.
+[00:57:10] I haven't seen it, it just started a couple
+[00:57:10] weeks ago.
+[00:57:16] Speaker 8: Yeah, It's All Relative.
+[00:57:20] Jose Munoz: What's it called?
+[00:57:22] Speaker 8: It's All Relative.
+[00:57:25] Jose Munoz: Oh, right, right, right.
+[00:57:30] Yeah.
+[00:57:31] Speaker 8: [crosstalk].
+[00:57:34] The first sitcom that-
+[00:57:34] Speaker 6: That's the whole premise of 50
+[00:57:50] whites that come [crosstalk].
+[00:57:57] That's totally how I feel.
+[00:58:06] Don't tell me [inaudible].
+[00:58:13] Jose Munoz: I mean, a friend of mine is doing
+[00:58:13] the lesbian Queer as Folk where the writers
+[00:58:22] for the L word.
+[00:58:24] It's on Showtime, but she's talking about
+[00:58:24] the...
+[00:58:28] It's interesting to talk to her about it.
+[00:58:33] She's one of the head writers.
+[00:58:37] She's talking about the censorship.
+[00:58:39] The studio comes in, like, "No, you can't
+[00:58:39] share that.
+[00:58:48] You can't do that."
+[00:58:51] So they're really co, it's very woke.
+[00:58:58] Yes?
+[00:58:59] Speaker 9: Okay.
+[00:59:02] So shows like Will and Grace, you watch them?
+[00:59:11] Jose Munoz: Of course.
+[00:59:16] No, wait.
+[00:59:18] It's research.
+[00:59:19] Speaker 9: Got to get the right [inaudible].
+[00:59:25] Jose Munoz: [crosstalk].
+[00:59:27] Speaker 9: There's an element of it that you
+[00:59:27] might find enjoyable at some point during
+[00:59:42] that half an hour every whatever night of
+[00:59:42] the week.
+[00:59:51] Jose Munoz: I need some downtime.
+[00:59:53] Yeah, totally, of course.
+[00:59:55] But that doesn't mean I'm going to critique.
+[00:59:58] Speaker 9: Oh, I know.
+[00:59:59] Then what can you do?
+[01:00:01] What can we do if that kind of thing is enjoyable
+[01:00:01] to watch, but no, that's not actually the
+[01:00:16] reality?
+[01:00:17] What can you do to change that so that it
+[01:00:17] can still be enjoyable but people don't associate
+[01:01:06] with it?
+[01:01:14] Jose Munoz: Yeah.
+[01:01:26] I don't want to say that dog.
+[01:01:29] I just think there's a balance.
+[01:01:31] There's stuff like Margo's, or this old historical
+[01:01:31] stuff that's really interesting.
+[01:01:38] If you look at that, that gives us a new understanding
+[01:01:38] of how difference works, and how people are
+[01:01:48] different.
+[01:01:49] I'm setting that up as the thing you have
+[01:01:49] to move away from, only because of cultural
+[01:01:55] trends are towards that.
+[01:01:57] My talk is about the way in which something's
+[01:01:57] being lost on some level and get into the
+[01:02:20] value of what's important.
+[01:02:25] Speaker 9: Okay.
+[01:02:30] Jose Munoz: Thank you.
+[01:02:35] Yes?
+[01:02:37] Speaker 10: How much do you feel that it's
+[01:02:37] in both representation it's a performance
+[01:02:55] almost in the dominant culture?
+[01:03:05] All the excesses, say, of different variety
+[01:03:05] of groups, it's a way for...
+[01:03:11] I mean, Queer as Folk is a perfect example.
+[01:03:17] It's a way for dominant people who have strict
+[01:03:17] morals live play out their own sexual fantasies,
+[01:03:31] right?
+[01:03:32] And then you have watered down queens, who
+[01:03:32] are a way in which...
+[01:03:43] Either way, I see it.
+[01:03:48] Its a way to play out fantasies, or it's a
+[01:03:48] way of showing them just how they're like
+[01:04:00] us.
+[01:04:01] You're just like everybody.
+[01:04:03] See, that they're just like everybody else.
+[01:04:07] Or this crazy extreme that we can play out
+[01:04:07] our own fantasies and ideas and stereotypes,
+[01:04:16] and there's nothing in the middle.
+[01:04:19] Jose Munoz: Right.
+[01:04:21] I think the crazy extreme really isn't it
+[01:04:21] crazy extreme.
+[01:04:26] I think you won't see anything like what Margaret
+[01:04:26] did in relationship to dominant media, because
+[01:04:36] she's talking about really lascivious, sexually
+[01:04:36] aware and empowered, I guess, within the word
+[01:04:41] Latino lesbian.
+[01:04:42] And that's something that can't be represented
+[01:04:42] on some level until you get to this weird
+[01:04:51] guerrilla theater, a house with different
+[01:04:51] people.
+[01:04:55] I think that work's important.
+[01:04:58] I want to get that out, because I don't think
+[01:04:58] that Queer as Folk is an extreme.
+[01:05:06] Or shows like that, or things like that.
+[01:05:10] I also want to show the ways in which that
+[01:05:10] a lot of representations you get of sexuality
+[01:05:19] or queer sexuality in this media is always
+[01:05:19] about white folks.
+[01:05:26] In part, I wanted to show stuff like this
+[01:05:26] that does something different.
+[01:05:35] Speaker 10: So how about, say, access like
+[01:05:35] this is dangerous, or scary to the dominant
+[01:05:49] mainstream, and that's why it [inaudible].
+[01:05:59] You only get what dominant culture would see
+[01:05:59] as extreme, but what is actually middle.
+[01:06:19] But it's safe in some way to watch Queer as
+[01:06:19] Folk, as opposed to [inaudible].
+[01:06:39] Jose Munoz: Yeah.
+[01:06:42] So I'm making this argument for dangerous
+[01:06:42] emotions, messy emotions, like weird emotions.
+[01:07:00] Yes, in the back?
+[01:07:03] Speaker 11: I think it's like a double edged
+[01:07:03] sword, because what you're saying in the beginning
+[01:07:12] with Shakira and then [inaudible].
+[01:07:14] Because initially, what makes them so attractive
+[01:07:14] and what the media, probably their marketers,
+[01:07:18] play up is the fact that they're different.
+[01:07:19] I know Queer Eye for the Straight Guy is coming
+[01:07:19] out, and all you heard was gay men and straight
+[01:07:22] men.
+[01:07:23] And I'm like, oh, it's going to happen.
+[01:07:24] Part of what they play up originally, and
+[01:07:24] what makes...
+[01:07:29] Not necessarily.
+[01:07:31] I mean, they're obviously talented people.
+[01:07:34] But part of their whole marketing deal is
+[01:07:34] I'm different, I'm Latino, or whatever.
+[01:07:39] But then once they reach that fame, it's like,
+[01:07:39] okay, we know you're different, but now look
+[01:07:44] like us.
+[01:07:45] It's this really fine balance, I think.
+[01:07:48] Because at some point they're stifling their
+[01:07:48] roots.
+[01:07:51] But I mean, then you have Jlo singing Jenny
+[01:07:51] From The Block, like I'm so gorgeous and I'm
+[01:07:56] getting whiter every day.
+[01:07:57] [inaudible].
+[01:07:58] Jose Munoz: And she didn't care about the
+[01:07:58] block.
+[01:08:03] Yeah.
+[01:08:04] Speaker 11: Yeah.
+[01:08:05] It's just like [inaudible].
+[01:08:07] I think it sends mixed messages to them as
+[01:08:07] well as to the [inaudible].
+[01:08:20] Jose Munoz: The basic premise is talk in one
+[01:08:20] way is, you have more Shakira, you have more
+[01:09:03] of this stuff related to Latino media, for
+[01:09:03] example.
+[01:09:06] But hate crimes against Latinos and new immigrants
+[01:09:06] are skyrocketing all over the country.
+[01:09:11] People's lives are actually are more dangerous.
+[01:09:15] In New York cities, in Brooklyn and Long Island,
+[01:09:15] there's been a recent rash of church break
+[01:09:28] ins in Long Island.
+[01:09:30] New immigrant churches, first generation Mexicans.
+[01:09:34] And they're getting burnt out of their churches,
+[01:09:34] like Alabama in the '50s.
+[01:09:42] It's incredible.
+[01:09:43] So what does it mean that you have these media
+[01:09:43] icons that are sanitized and everyone feels
+[01:10:06] like they can enjoy that, but then you have
+[01:10:06] all this violence and this eroding of civil
+[01:10:29] rights of the [inaudible]?
+[01:10:35] And that's the reason I think it's important
+[01:10:35] to not find the promise that mainstream representation
+[01:10:45] systems give us of, this will make everything
+[01:10:45] better, because that's really not what that
+[01:10:51] [inaudible] is going to do.
+[01:10:53] Speaker 12: I think the problem is that when
+[01:10:53] people want to watch Queer Eye or watch Queer
+[01:10:58] as Folk, or whatever, they feel like they
+[01:10:58] know about homosexuality.
+[01:10:59] "Oh, I'm tolerant.
+[01:11:00] I watch Queer Eye."
+[01:11:01] Whereas they may not in the rest of their
+[01:11:01] life being that way.
+[01:11:02] They think that that's all there is to queer
+[01:11:02] life, or whatever, as opposed to...
+[01:11:03] Or same goes for Latino.
+[01:11:04] They think, "Oh, I'm tolerant.
+[01:11:05] I listen to JLo."
+[01:11:06] Jose Munoz: And they don't.
+[01:11:07] Speaker 12: Because they're not.
+[01:11:08] Jose Munoz: And the media does that, right?
+[01:11:09] There are a lot of people who are straight
+[01:11:09] up racist, but they think Oprah is their best
+[01:11:10] friend.
+[01:11:11] Or do they like Mike.
+[01:11:12] Or something like that, like, "I have a black
+[01:11:12] friend.
+[01:11:13] Her name is Oprah.
+[01:11:14] She comes into my house at 4:00 in the afternoon."
+[01:11:15] And it's still like that.
+[01:11:16] How does that relate to what actually is happening
+[01:11:16] with people's lives and their material conditions
+[01:11:17] of possibility when Arnold Schwarzenegger
+[01:11:17] gets elected Governor of California?
+[01:11:18] How does that work?
+[01:11:19] Yes.
+[01:11:20] Speaker 13: Yeah.
+[01:11:21] I was going to keep it on that.
+[01:11:22] How people can say, "I watch Queer Eye.
+[01:11:23] I see Queer as Folk.
+[01:11:24] So I know something about [inaudible]."
+[01:11:25] But by basing one's knowledge on just shows
+[01:11:25] like that you're ignoring the numerous amounts
+[01:11:26] of cultures that exist within homosexual [inaudible]
+[01:11:26] and mainstream portrayals of Latinos in the
+[01:11:27] US media.
+[01:11:28] They never fully portray those.
+[01:11:29] It's always a lack of personal Latin twinge,
+[01:11:29] or Latin highlights.
+[01:11:30] But it's never a full portrayal.
+[01:11:36] How do I explain this?
+[01:11:40] It's been [inaudible].
+[01:11:41] It's not a full portrayal of Latinos.
+[01:11:42] It's Americanized.
+[01:11:43] It's not taking the Latino culture into full
+[01:11:43] consideration.
+[01:11:47] It's always to get a little part of it.
+[01:11:49] You know what I'm saying?
+[01:11:50] Oh, that's cute.
+[01:11:51] It can work with this.
+[01:11:52] It's different.
+[01:11:53] [crosstalk]
+[01:11:53] Jose Munoz: That's really what I'm talking
+[01:11:54] about, I'm trying to get across, is it's taking
+[01:11:54] on their terms.
+[01:11:58] It's not taking on Latino culture's own terms,
+[01:11:58] or the experience of just Latinos in the US.
+[01:12:10] They're not thinking in those terms.
+[01:12:11] It's taking relationships to a mainstream,
+[01:12:11] and how these little spicy side dishes relate
+[01:12:13] to it now on some level.
+[01:12:15] But it isn't about paying attention to the
+[01:12:15] particular emotions, feelings, landscape of
+[01:12:21] what it means to be something like brown or
+[01:12:21] queer or whatever relationship to this historical
+[01:12:28] moment.
+[01:12:29] So that's why I think this stuff is [crosstalk].
+[01:12:30] Yes?
+[01:12:31] Speaker 14: I think the TV portrays Latin
+[01:12:31] people who essentially as being themselves,
+[01:12:53] because Latin people are very...
+[01:13:04] That even the [inaudible] is strong.
+[01:13:09] There's so many people that [inaudible] for
+[01:13:09] Latin.
+[01:13:10] I can be an American.
+[01:13:11] I can be a Cuban.
+[01:13:12] I can be anything.
+[01:13:13] But I'm Latin.
+[01:13:15] I mean, what happens to my culture?
+[01:13:18] They're not the same.
+[01:13:20] Nothing has never been the same, and everyone
+[01:13:20] has their own unique style that they just
+[01:13:34] put into me.
+[01:13:37] They just want to see what I say.
+[01:13:44] Oh yeah.
+[01:13:45] In every movie some Latin person is either
+[01:13:45] a maid or some gangster.
+[01:13:47] It's not like that.
+[01:13:48] If you got to my neighborhood you're not going
+[01:13:48] to see gangsters putting on someone like,
+[01:13:52] "Oh, yeah, give me your money."
+[01:13:54] It's not like that.
+[01:13:56] Jose Munoz: Right.
+[01:13:57] Totally.
+[01:13:58] And you don't get stories like this story
+[01:13:58] that Margaret tells about...
+[01:14:03] I heard you all laughing in the corner when
+[01:14:03] she was talking about caca.
+[01:14:08] When you're a little kid.
+[01:14:11] That was my mother.
+[01:14:13] She was all like, "Caca.
+[01:14:15] Don't touch that.
+[01:14:17] Caca.
+[01:14:19] Caca."
+[01:14:20] In that experience, you never get that.
+[01:14:21] But it's a particular relationship to the
+[01:14:21] world that you don't get.
+[01:14:27] All you get are, like you said, maids, drug
+[01:14:27] dealers, hookers and all that.
+[01:14:28] So yeah, all those particularities being lost.
+[01:14:29] But if we can share a laugh in relationship
+[01:14:29] to that story it's because there's some kind
+[01:14:34] of feeling of commonality that we understand
+[01:14:34] the relationships of Latina, for example,
+[01:14:36] which goes across Dominican, Cuban, Puerto
+[01:14:36] Rican, Colombian, et cetera.
+[01:14:37] Yes.
+[01:14:38] Speaker 15: Yes.
+[01:14:39] Thank you for your grace and [crosstalk].
+[01:14:40] Jose Munoz: Thank you.
+[01:14:41] Speaker 15: You mentioned a number of things
+[01:14:41] that I just want to write them down.
+[01:14:42] You mentioned stereotypes several times in
+[01:14:42] terms of particular [crosstalk].
+[01:14:43] And since the journey of stereotypes are predicated
+[01:14:43] on extremes, my question, of course, has to
+[01:14:44] do with it.
+[01:14:45] You said we should be more extreme.
+[01:14:46] Of course, my question would be, how do we
+[01:14:46] particularize the extreme?
+[01:14:47] The other thing that I wanted to mention is,
+[01:14:47] when you say media in a nebulous manner, I'm
+[01:14:48] more about let's narrow it down.
+[01:14:49] Let's write it down.
+[01:14:50] Something you've said in passing was, you
+[01:14:50] said, white people.
+[01:14:51] I think it is very important that we really
+[01:14:51] need to address that, because now that the
+[01:14:53] television has timidly produced a couple of
+[01:14:53] the lesbian or gay shows, you're about to
+[01:14:57] be hit with a spate of them by January.
+[01:14:58] But what I'm interested in is the fact that
+[01:14:58] there are a number of producers and directors
+[01:15:06] who are gay, and who are ensconced in those
+[01:15:06] positions, writers, and they again are propagating
+[01:15:07] the same stereotypes.
+[01:15:08] And when I said you mentioned white, which
+[01:15:08] you mentioned in passing, because white is
+[01:15:09] easier to look at, is if it's predominantly
+[01:15:09] in white control these images, what happens
+[01:15:10] is no matter what group you're representing
+[01:15:10] the groups considered the minority or the
+[01:15:11] other are always presented in the stereotypes
+[01:15:11] that we're all familiar with.
+[01:15:12] So as you were saying, you find the gangsters,
+[01:15:12] you find the maids, [inaudible], and so forth.
+[01:15:13] So that was the number of things I just wanted
+[01:15:13] to...
+[01:15:14] Jose Munoz: Yeah.
+[01:15:15] no, I mean, it's really great getting a whole
+[01:15:15] bunch of different points you raised.
+[01:15:16] I think that I'm using media in this really
+[01:15:16] admittedly nebulous way, because I'm trying
+[01:15:17] to talk about cultural trends, but there's
+[01:15:17] a lot of room to be more specific.
+[01:15:18] Certainly, I am passing off some of this distinction
+[01:15:18] between gay and queer.
+[01:15:19] I want to hold on to queer as being some kind
+[01:15:19] of politicized formation, as opposed to gay
+[01:15:22] that isn't necessarily politicized, right?
+[01:15:23] There are a lot of gay republicans.
+[01:15:24] There's a lot of gay dominant image making,
+[01:15:24] there always has been.
+[01:15:28] And the perpetuation of all sorts of stereotypes,
+[01:15:28] racist and homophobic, and sexist, et cetera.
+[01:15:30] What I'm trying to look at this marginal queer
+[01:15:30] culture, is what I'm calling it, a racialized
+[01:15:32] culture, in relationship to this dominant
+[01:15:32] gay culture that you can easily be folded
+[01:15:35] into.
+[01:15:36] Network television program can easily be folded
+[01:15:36] into all sorts of aspects of that representational
+[01:15:38] economy.
+[01:15:39] I agree with you.
+[01:15:40] None of these things equal progressive politics
+[01:15:40] on their own.
+[01:15:41] Progressive politics have to be spoken and
+[01:15:41] articulated in a certain kind of way.
+[01:15:42] So thank you.
+[01:15:43] I totally agree with what you're saying.
+[01:15:44] Speaker 16: I want to just put it on pause
+[01:15:44] for tomorrow afternoon?
+[01:15:45] Jose Munoz: For those who have been on National
+[01:15:45] Coming Out Days, they are [inaudible].
+[01:15:46] Speaker 16: [inaudible].
+[01:15:47] Jose Munoz: It has to be at 11:00, but we're
+[01:15:47] going to [crosstalk].
+[01:15:48] I'm getting on a train.
+[01:15:49] [crosstalk].
+[01:15:50] Tomorrow we're having an informal coming out
+[01:15:50] discussion here at the Red Pit with somebody
+[01:15:51] else as well.
+[01:15:52] So who's ever interested, please come by at
+[01:15:52] this time, at 4:30 PM here at the Red Pit.
+[01:15:53] How are we doing?
+[01:15:54] Speaker 16: Whatever [inaudible].
+[01:15:55] Jose Munoz: Yes?
+[01:15:56] Speaker 17: Thank you.
+[01:15:57] Awesome.
+[01:15:58] [inaudible].
+[01:15:59] Jose Munoz: [inaudible].
+[01:16:00] Speaker 17: You spoke a lot about the whitewashing
+[01:16:00] of the characters and the acts, but what about
+[01:16:01] the individuals and the performers, their
+[01:16:01] experience?
+[01:16:02] You know what I mean?
+[01:16:03] I guess you could say we watched Jennifer
+[01:16:03] Lopez blossom into this Boston wife that she
+[01:16:04] will be one day, right?
+[01:16:05] That's all an act.
+[01:16:06] That's just how she presents it, but what
+[01:16:06] about the individual trying to break into
+[01:16:07] the industry?
+[01:16:08] And thank you, Margaret Gomez, that she spoke
+[01:16:08] up once having to...
+[01:16:09] What was it the movie she was in?
+[01:16:10] Jose Munoz: Sphere.
+[01:16:11] Speaker 17: Yeah, but she didn't-
+[01:16:11] Jose Munoz: Second Kill.
+[01:16:12] Speaker 17: She didn't play a lesbian.
+[01:16:13] She didn't play a Latina.
+[01:16:14] There was none of that in this kind of a role,
+[01:16:14] but in order to make it she has to play these
+[01:16:15] characters that aren't necessarily who she
+[01:16:15] is.
+[01:16:16] Jose Munoz: Yeah, absolutely.
+[01:16:17] And actually, she did that as an experiment.
+[01:16:18] One thing that's fine about JLo and what we're
+[01:16:18] going to do is I get to know these people,
+[01:16:19] so I can hear these stories.
+[01:16:20] And she totally has a story about, okay, I'm
+[01:16:20] going to move to LA two years.
+[01:16:27] Even though she can't drive.
+[01:16:28] Speaker 17: [inaudible].
+[01:16:29] Jose Munoz: And she goes to LA for two years
+[01:16:29] to say, I'm going to try to do it.
+[01:16:30] And she gets one big movie with Sharon Stone.
+[01:16:31] And she is the Latina communications officer
+[01:16:31] or something, the underground horror movie,
+[01:16:32] or catastrophe giant shark movie.
+[01:16:33] I don't know what it was.
+[01:16:34] I didn't see it.
+[01:16:35] She was the second one killed.
+[01:16:36] This is what happened with scary movies, you
+[01:16:36] kill off the colored people first.
+[01:16:37] And then Queen Latifah went after her.
+[01:16:38] Queen Latifah was [inaudible], too.
+[01:16:39] So yeah, she just talked about this experiment
+[01:16:39] she did, what she was trying to do.
+[01:16:40] No more apologies and I'll try to work myself
+[01:16:40] into this stuff, and trying to make a difference
+[01:16:41] from inside.
+[01:16:42] And she moved back to Brooklyn.
+[01:16:43] She tried it and it was a failed experiment
+[01:16:43] for her in relationship to the kind of work
+[01:16:44] she wanted to do, and the kind of politics
+[01:16:44] and representation she wanted to put out there.
+[01:16:45] It's tricky.
+[01:16:46] I don't know how.
+[01:16:47] If I did, I'd...
+[01:16:48] Speaker 17: And that's another [inaudible].
+[01:16:49] Also, The George Lopez Show.
+[01:16:50] And what was that show on NBC about the druglord?
+[01:16:51] [crosstalk].
+[01:16:52] There we go, that show.
+[01:16:53] I can't hear it to extremes that were showing
+[01:16:53] up for television.
+[01:16:54] Again, Latino male characters, neither of
+[01:16:54] whom are playing up this machismo that you
+[01:16:55] mentioned before that's supposed to be typical
+[01:16:55] of Latinos.
+[01:16:56] Are they responsible?
+[01:16:57] The straight men, are they also responsible
+[01:16:57] for educating the community?
+[01:16:58] Or are they just supposed to play their roles?
+[01:16:59] Is the pressure more on the women to desexualize
+[01:16:59] those stereotypes?
+[01:17:00] Jose Munoz: Yeah.
+[01:17:01] That's a great question, I think, actually.
+[01:17:02] Totally.
+[01:17:03] And that's the thing I have to be attentive
+[01:17:03] to because I try to keep the race and sexuality
+[01:17:04] involved in the air, juggling them, and up
+[01:17:04] in the gender ball.
+[01:17:05] I have to watch myself.
+[01:17:06] Drops it.
+[01:17:07] You're right.
+[01:17:08] We see this burden much more put on Latinas.
+[01:17:09] They're also more stigmatized in different
+[01:17:09] ways.
+[01:17:10] Because being a macho is really different
+[01:17:10] than being the whore.
+[01:17:11] So there's a lot more burden of representation
+[01:17:11] put on Latino bodies in relationship to this
+[01:17:12] stuff.
+[01:17:13] And these guys they can't get rid of the stuff
+[01:17:13] in different ways.
+[01:17:14] I think that's a really good point actually.
+[01:17:15] I agree.
+[01:17:16] And again, that's why I wanted to show you
+[01:17:16] the different markups just because it's so
+[01:17:17] about unabashed female sexuality in this exclusive
+[01:17:17] way.
+[01:17:18] You got some good antidote to the ways in
+[01:17:18] which it gets packaged in Versace, or whatever
+[01:17:19] that is.
+[01:17:20] Thank you.
+[01:17:21] Yes?
+[01:17:22] Speaker 18: I don't know.
+[01:17:23] I think it's interesting how we were talking
+[01:17:23] about race, but sometimes...
+[01:17:24] I don't know.
+[01:17:25] The way I've heard it talked about it in a
+[01:17:25] lot of places that was a positive thing, exposing
+[01:17:26] gays as people that don't see it and how it's
+[01:17:26] not for once a negative stereotype.
+[01:17:27] I don't know.
+[01:17:28] But then you can also think of stuff like
+[01:17:28] The Cosby Show.
+[01:17:29] This is from my perspective.
+[01:17:30] Everyone's like, "Oh, it's just like your
+[01:17:30] family, right?"
+[01:17:31] You know what I mean?
+[01:17:32] No, it's not.
+[01:17:33] It is and it's not.
+[01:17:34] You know what I mean?
+[01:17:35] Stuff like that to people, as you said, in
+[01:17:35] Iowa, it becomes to represent everything.
+[01:17:36] So do you think there are some positives?
+[01:17:37] Is anything positive about it?
+[01:17:38] Jose Munoz: I think there's something positive
+[01:17:38] about getting that stuff out there and making
+[01:17:39] a dent in it.
+[01:17:40] But when that becomes the end onto itself,
+[01:17:40] when it stops at Cosby, that's when it becomes
+[01:17:41] a problem.
+[01:17:42] Or when it just stops at the gay best friend,
+[01:17:42] or whatever the stock character is, I think
+[01:17:43] it limits people's imaginations about what
+[01:17:43] it means to be this kind of person in the
+[01:17:44] world, historically and politically and all
+[01:17:44] of that.
+[01:17:45] So yeah.
+[01:17:46] I think there's a purpose to that stuff, but
+[01:17:46] then when it stops there it's a trap in a
+[01:17:47] way the dinner.
+[01:17:48] It's a dead end.
+[01:17:49] Yes?
+[01:17:50] Speaker 19: When you get tired [crosstalk].
+[01:17:51] What happens [inaudible] because what happens
+[01:17:51] is you get all those people said, they didn't
+[01:17:52] see Cosby as black, but they don't see` George
+[01:17:52] Lopez as black.
+[01:17:53] So that's the other side of it.
+[01:17:54] Jose Munoz: Yeah.
+[01:17:55] Or Oprah.
+[01:17:56] Or Michael Jordan.
+[01:17:57] Speaker 19: Exactly.
+[01:17:58] There's always a political subtext.
+[01:17:59] Jose Munoz: Think about it.
+[01:18:00] It's like an inoculation, right?
+[01:18:01] When they put a little dead piece of the virus
+[01:18:01] in you so you can't be affected by blackness
+[01:18:02] because you have this little deadened piece
+[01:18:02] of blackness in your bloodstream.
+[01:18:03] It's like that.
+[01:18:04] That's how it works in a way.
+[01:18:05] Yes, in the back?
+[01:18:06] Speaker 20: My question to you [inaudible].
+[01:18:07] How far would you take it then as far as the
+[01:18:07] media and...
+[01:18:08] Jose Munoz: Part of what I'm saying is we
+[01:18:08] can't depend on these dominant representational
+[01:18:09] roots.
+[01:18:10] We have to go out and find stuff that isn't
+[01:18:10] readily available.
+[01:18:11] We have to do this work and look for other
+[01:18:11] stuff because there's other ways to imagine
+[01:18:12] and think about things, and position ourselves
+[01:18:12] in the world.
+[01:18:13] Again, this is a dead end on some level if
+[01:18:13] it's only what we're looking at.
+[01:18:14] We have to look to work in art, or culture,
+[01:18:14] that gives us more in a way.
+[01:18:15] [inaudible].
+[01:18:16] Yes?
+[01:18:17] Speaker 21: [inaudible] wanting to ask.
+[01:18:18] I just wonder, as somebody who is social in
+[01:18:18] a sense, and I know that part of the problem
+[01:18:19] in the gay and lesbian [inaudible] has been
+[01:18:19] a debate over what image of gay and lesbian
+[01:18:20] stereotypes [crosstalk].
+[01:18:21] I'm wondering if the emphasis is on marginality
+[01:18:21] and difference, then how do you collectively
+[01:18:22] work together to organize to get equal civil
+[01:18:22] rights that [inaudible] have?
+[01:18:23] Jose Munoz: Well, I think for one thing, social
+[01:18:23] movements can't stop that identity.
+[01:18:24] They have to be about shared political struggle
+[01:18:24] and an economic deferment, and things like
+[01:18:25] that.
+[01:18:26] If our social movements to stop at gay and
+[01:18:26] lesbian for being that in and of itself is
+[01:18:27] a problem.
+[01:18:28] Because there's a-
+[01:18:28] Speaker 21: Right.
+[01:18:29] But part of the problem is marginalizing it,
+[01:18:29] so it's different.
+[01:18:30] Jose Munoz: Why is that?
+[01:18:31] Speaker 21: It's a problem.
+[01:18:32] It's part of the problem in women sometimes.
+[01:18:33] But you can't speak for everyone.
+[01:18:34] Jose Munoz: Again, I think we should really
+[01:18:34] learn from the women's movement, because the
+[01:18:35] women's movement, it's one of its biggest
+[01:18:35] internal pricings was the critique of women
+[01:18:36] of color from the inside.
+[01:18:37] Does that mean we just stop there?
+[01:18:38] Speaker 21: No, I don't think so.
+[01:18:39] Jose Munoz: So we have to find a way to, I
+[01:18:39] think, articulate difference in a way that
+[01:18:40] is conducive to politics, and not let different
+[01:18:40] speeds the moment where we stop thinking or
+[01:18:41] we stop talking.
+[01:18:42] And again, that's something I come up again
+[01:18:42] and again with teaching.
+[01:18:43] I insist on talking about race all the time,
+[01:18:43] for example, and I get the 18 year old, or
+[01:18:44] 19 year old, or however old they are, I don't
+[01:18:44] question, say, "Do we have to talk about race
+[01:18:45] again?"
+[01:18:46] I'm like, "Yes."
+[01:18:47] "But I didn't sign up for a race class."
+[01:18:48] "I don't care.
+[01:18:49] We have to."
+[01:18:50] To get past those mental habits where race
+[01:18:50] or difference is a limit to thinking or a
+[01:18:51] limit to modes of moving across social movements
+[01:18:51] and expansives, right?
+[01:18:52] Speaker 21: Right.
+[01:18:53] It's one of the major difficulties.
+[01:18:54] Jose Munoz: Absolutely.
+[01:18:55] Speaker 21: If people can beyond the boundary.
+[01:18:56] Jose Munoz: No, it's super hard.
+[01:18:57] It's super hard.
+[01:18:59] It's really super hard.
+[01:19:00] Speaker 22: How did the feelings work towards
+[01:19:00] that?
+[01:19:01] Because say to me you do something very tricky
+[01:19:01] there, right?
+[01:19:02] Jose Munoz: Yeah.
+[01:19:03] Speaker 22: Because these trailings are not
+[01:19:03] about difference, but they are about a cultural
+[01:19:04] specificity.
+[01:19:05] But then how do those feelings work for politics,
+[01:19:05] or for a political end?
+[01:19:06] Jose Munoz: In the way, in the formal academic
+[01:19:06] version of this talk, I talk about belonging
+[01:19:07] indifference, and how we belong to each other
+[01:19:07] and identify each other, recognize each other
+[01:19:08] politically and socially in relationship with
+[01:19:08] difference.
+[01:19:09] And difference is not about a fissure or a
+[01:19:09] breaking down.
+[01:19:10] It's about an expansive circuit of belonging,
+[01:19:10] which is what I try to talk about.
+[01:19:11] You might not recognize each other in relation
+[01:19:11] to race, for example, but there might be some
+[01:19:12] economic determinants that can bring social
+[01:19:12] movements into the space of coalition, at
+[01:19:13] least temporarily in relationship to whatever
+[01:19:13] goal or project.
+[01:19:14] And that's what I think has happened.
+[01:19:15] So that's what I'm trying to give feelings.
+[01:19:16] I'm not saying, oh, white kids who feel black,
+[01:19:16] they're black.
+[01:19:17] I'm not saying that at all.
+[01:19:18] That's not an argument for that.
+[01:19:19] It's an argument for there are ways in which
+[01:19:19] you feel different things in relationship
+[01:19:20] to our own points of difference.
+[01:19:21] And that might be the site for coalition.
+[01:19:22] And that would be a way to get past some of
+[01:19:22] the limits we've had in our history of organizing
+[01:19:23] or thinking critically, or trying to think
+[01:19:23] critically.
+[01:19:24] Okay.
+[01:19:25] Speaker 23: [crosstalk] Sorry.
+[01:19:26] [crosstalk].
+[01:19:27] Okay.
+[01:19:28] I completely agree with everything you're
+[01:19:28] saying.
+[01:19:29] And I completely agree that there's a severe
+[01:19:29] absence of representation of minority groups
+[01:19:30] in the media today.
+[01:19:31] Jose Munoz: Right.
+[01:19:32] Speaker 23: But I got to tell you, for every
+[01:19:32] 6'2, 130 pound one woman living in New York
+[01:19:33] City as a model and her little sister moves
+[01:19:33] in on TV, I can't fathom that I can relate
+[01:19:34] to.
+[01:19:35] Am I supposed to be whiter?
+[01:19:36] Am I supposed to be straighter?
+[01:19:37] Or am I supposed to step back?
+[01:19:38] You know what I mean?
+[01:19:39] There's-
+[01:19:39] Jose Munoz: No.
+[01:19:40] I mean, I think we should reject those images
+[01:19:40] and what they mean in relationship to your
+[01:19:41] own place in the world as a woman, for example.
+[01:19:42] That's poison.
+[01:19:43] That's bad media.
+[01:19:44] We can't be content with that.
+[01:19:45] We can't find our way in which we experience
+[01:19:45] the world in relationship to being this dominant
+[01:19:46] alphas because it'll just mess us up.
+[01:19:47] Speaker 23: Okay.
+[01:19:48] Jose Munoz: Okay.
+[01:19:49] Thank you all very much.

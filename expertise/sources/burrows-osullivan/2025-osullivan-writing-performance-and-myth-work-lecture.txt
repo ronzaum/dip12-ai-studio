@@ -1,0 +1,2105 @@
+Source: Identity Crisis Network: Simon O'Sullivan - 'Writing, Performance and Myth-Work' lecture and discussion (Culture.pl, YouTube auto-captions, uploaded 2025-07-28)
+URL: https://www.youtube.com/watch?v=0Z0XMKBOzm0
+Fetched: 2026-10-12 via yt-dlp (auto-captions) + vtt2txt.py
+
+Note: automatic captions. Names are mis-heard (e.g. 'Burroughs' = Burrows, 'plastic fantastic' = Plastique Fantastique, 'sleigh' = Slade). Quote only lines that read cleanly.
+
+[00:00:02] I'm happy to introduce our third keynote
+[00:00:05] speaker, Simon O. Sullivan, professor of
+[00:00:09] art theory and practice at GM College,
+[00:00:12] University of London, focusing on how
+[00:00:15] fiction and myth shape subjectivity and
+[00:00:17] worldmaking. His publications include
+[00:00:20] most most recently from magic and myth
+[00:00:22] work to care and repair the ancient
+[00:00:24] device on theory fiction and other
+[00:00:27] genres and in collaboration with David
+[00:00:29] Burrows fictioning the myth functions of
+[00:00:32] contemporary art and philosophy. He is
+[00:00:34] also part of the performance
+[00:00:37] collaboration collective plastic
+[00:00:39] fantastic. Today Simon will be
+[00:00:42] presenting his paper writing performance
+[00:00:44] and myth work. I give the floor to you
+[00:01:04] Uh, so I can't see the audience if I
+[00:01:06] don't wear my glasses. Uh, but I can't
+[00:01:10] read my paper. So, um, if I look blankly
+[00:01:16] There's also going to be a bit of a
+[00:01:18] shuffling of hands because I've got to
+[00:01:20] try and do the computer, the control,
+[00:01:23] and the mic. And uh my right hand's not
+[00:01:25] very dextrous. So,
+[00:01:27] uh so thanks to the organizers for this
+[00:01:30] great conference. Uh it's been a great
+[00:01:32] two days. Really thoughtprovoking for
+[00:01:36] me. Um so many different ideas and I'm
+[00:01:38] really pleased particularly to be part
+[00:01:40] of that last panel. It's really great to
+[00:01:42] be part of that. Uh and I'm really
+[00:01:44] pleased to be able to talk a bit about
+[00:01:45] some new work on newish work. It's kind
+[00:01:48] of uh three books that I published uh
+[00:01:51] all at the same time. And um I've not
+[00:01:52] really spoken about the three of them
+[00:01:54] before. So it's great to kind of reflect
+[00:01:57] and revisit that.
+[00:02:00] Uh and they're all about performance and
+[00:02:04] writing and what I call myth work or the
+[00:02:06] making of fictions, the constructing of
+[00:02:09] narratives, the claiming of authorship.
+[00:02:14] Um, and I think they're all to do with
+[00:02:16] the fiction of the self or the fiction
+[00:02:18] we have of oursel and how to get some
+[00:02:20] perspective on that or how to work with
+[00:02:20] that.
+[00:02:26] What else to say? Yeah, I'm hoping that
+[00:02:27] what I offer will have some traction
+[00:02:29] with some of you. I mean, it's it feels
+[00:02:31] a bit like a kind of report back from a
+[00:02:33] scene that I'm part of in London and the
+[00:02:36] South Coast and Goldmith. Uh, and I'm
+[00:03:06] So I'm going to introduce these three uh
+[00:03:08] research projects uh that all became
+[00:03:10] books. Um I don't know why that is. I
+[00:03:12] think I just work better on long form
+[00:03:15] writing projects. Uh in a way that's how
+[00:03:16] I kind of work best. they tend to have a
+[00:03:18] kind of four or five year leading and
+[00:03:21] it's something about um
+[00:03:23] being involved in a project that I have
+[00:03:25] a relationship with over time that kind
+[00:03:29] of speaks back to me uh
+[00:03:30] you know sometimes colleagues at
+[00:03:31] Goldsmith say you know how come do you
+[00:03:34] you write so many books and I I sort of
+[00:03:36] write to survive I get up in the morning
+[00:03:38] before the kids get up and I start
+[00:03:41] writing and um it's a way for me to kind
+[00:03:43] of make sense of things to gather
+[00:03:46] resources to understand where I
+[00:03:48] So this is the uh third of the books
+[00:03:50] that I'm going to come to last. It's on
+[00:03:52] theory fiction. Uh and it's involved
+[00:03:54] it's it goes through different forms of
+[00:03:55] writing and it's the one I'm going to
+[00:03:58] come to towards the end of my talk if
+[00:04:00] I've got time. If I haven't got time,
+[00:04:02] I'm just going to end with the first two
+[00:04:05] projects. So do do give me a nod at 4550
+[00:04:05] minutes.
+[00:04:17] So these are the two books that I wrote
+[00:04:20] first. Uh one's called from magic and
+[00:04:22] myth work to care. The other one's
+[00:04:24] called the ancient device. And um
+[00:04:27] they're both connected.
+[00:04:28] Uh and when I was writing them, I kind
+[00:04:30] of thought about them as the same book,
+[00:04:33] the same research project. uh almost as
+[00:04:34] if they were the same book concerned
+[00:04:38] with the same thematics but operate on
+[00:04:40] two different registers. Uh one on the
+[00:04:42] register of fiction that's the ancient
+[00:04:46] device and one on the register of well
+[00:04:48] theory I guess or actually I thought of
+[00:04:51] them more as the ancient device operates
+[00:04:55] through images and scenes and sequences
+[00:04:58] and the care of the the magic is myth
+[00:05:00] work was more to do with developing
+[00:05:10] and they both reflect on this idea of
+[00:05:12] the fiction of the self or how the
+[00:05:14] fiction we have of ourselves and how
+[00:05:15] that might be played with at least to
+[00:05:18] some extent and the relationship of that
+[00:05:21] to writing performance and landscape.
+[00:05:23] landscape was a particularly important
+[00:05:25] thing for both these books. Both a real
+[00:05:28] landscape out there and also an
+[00:05:30] imaginary landscape, an internal
+[00:05:32] landscape and the relationship between
+[00:05:46] So the cover of this book is by Tommo
+[00:05:47] Sullivan and an artist called Amry
+[00:05:48] Copstake.
+[00:05:52] and uh they let me borrow the image and
+[00:05:55] it's an image of the Falton drums.
+[00:05:57] Uh and the Falton drums make an
+[00:06:01] appearance in the book and in fact
+[00:06:03] they make an appearance in the myth work
+[00:06:06] book too. They're important objects for
+[00:06:09] me or props
+[00:06:14] or devices that trigger certain things.
+[00:06:17] Uh not least writing actually. And they
+[00:06:27] as a kind of temporal anamorphosis.
+[00:06:29] So you probably know the concept of
+[00:06:29] anamorphosis.
+[00:06:33] It's a kind of image function really.
+[00:06:35] It's a kind of something. It's usually
+[00:06:37] thought about in relation to kind of
+[00:06:39] painting actually. And the classic
+[00:06:41] example is Hans Holbines the ambassadors
+[00:06:44] uh where you have these two Renaissance
+[00:06:46] men of learning surrounded by the tools
+[00:06:48] of their trade and then in the bottom of
+[00:06:51] the painting you have this smear or this
+[00:06:55] blot or this void that makes no sense.
+[00:06:58] And it's only when you leave the room as
+[00:07:00] it were and look back.
+[00:07:02] So you're occupying a different posture
+[00:07:05] that you see what the uh the blot or the
+[00:07:06] smear or the void is. that it's a kind
+[00:07:10] of skull. So, one perspectival system
+[00:07:12] has to go out of perspective in order
+[00:07:14] for another one to come into being. And
+[00:07:14] um
+[00:07:18] yeah, actually when I was hearing Jack's
+[00:07:20] paper on and our architecture, I was
+[00:07:22] thinking actually anamorphosis is an
+[00:07:25] interesting example of a kind of a void
+[00:07:29] or a hole that's also another world if
+[00:07:31] you change your posture and perspective
+[00:07:33] on it. Anyway, I thought of these
+[00:07:36] objects as temporal anamorphosis. If you
+[00:07:39] have a certain position to them,
+[00:07:41] they summon a world or they summon a
+[00:07:50] And I think uh for me, writing and what
+[00:07:52] I'm calling myth work requires these
+[00:07:54] kind of props and triggers. I need these
+[00:07:58] kind of things uh to get me going.
+[00:08:00] So these drums are in the British Museum
+[00:08:04] in uh London. Um, they were found in a
+[00:08:07] child's burial in Falton, a little
+[00:08:09] village in North Yorkshire, and they
+[00:08:11] were buried with a a child, a
+[00:08:13] 12-year-old. And one of the drums, the
+[00:08:16] bigger drum, was buried next to the
+[00:08:18] head, the other drum was buried at the
+[00:08:20] hips, and the last drum was buried at
+[00:08:26] They're quite a rare example of kind of
+[00:08:27] Neolithic objects, certainly the British
+[00:08:30] Isles, that have features on them,
+[00:08:32] faces. In fact, they're more or less
+[00:08:34] unknown in the British Isles. You do
+[00:08:36] have in Europe, you do have some
+[00:08:38] examples, but they're certainly an
+[00:08:40] enigma. There's been different theories
+[00:08:44] written about them. Um,
+[00:08:45] the most recent theory actually is that
+[00:08:48] you tie a bit of uh string around them,
+[00:08:51] and they operate as measuring devices,
+[00:08:53] for example, uh in the landscape to
+[00:08:56] measure out henes and standing stones.
+[00:08:57] But for me, they're they're clearly
+[00:09:02] vessels or entities. Uh, and they've got
+[00:09:05] something to do with um grief for me,
+[00:09:07] grief work, because they're buried with
+[00:09:10] that child.
+[00:09:13] But anyway, they're devices uh from a
+[00:09:17] landscape of the past that are now in my
+[00:09:17] landscape
+[00:09:20] and have meaning for me. Actually,
+[00:09:23] sometimes when I go to uh
+[00:09:26] Goldsmith where I teach,
+[00:09:28] but that's another story.
+[00:09:30] teach at the moment. I when I've got a
+[00:09:32] bit of time on my hands, I go back to
+[00:09:33] look at them in the British Museum.
+[00:09:35] They've kind of like reeled me in. I
+[00:09:37] just stand in front of them, front of
+[00:09:39] the glass and look at them. I don't
+[00:09:40] really know what they are for me, but
+[00:09:43] they they seem to operate as devices or
+[00:09:54] I've written about them elsewhere as
+[00:09:56] kind of time travel devices and I've
+[00:09:59] also used them as props in teaching.
+[00:10:01] So the central story of the ancient
+[00:10:02] device that has a narrative of sort
+[00:10:05] concerns these cast of characters or
+[00:10:11] avatars ribbon head fox al king John
+[00:10:14] hair each of whom are somewhat broken
+[00:10:16] but draggled and looking for an escape
+[00:10:19] from where they are. and we meet them uh
+[00:10:21] on the road
+[00:10:23] traveling to a site in a landscape where
+[00:10:25] there's going to be a performance of
+[00:10:37] So these characters or avatars are
+[00:10:40] loosely based on the performance fiction
+[00:10:45] hustic which I'm part of. Um and these
+[00:10:47] figures or characters or avatars, these
+[00:10:51] composite figures, they travel or they
+[00:10:54] track across different regimes and
+[00:10:57] genres. So from here they travel from
+[00:10:57] performance
+[00:11:01] that's me as Fox at the Wising Art
+[00:11:04] Center into writing.
+[00:11:06] But I think the ancient device the book
+[00:11:09] is a performance itself of sorts. Um
+[00:11:12] certainly in the book a mumming play is
+[00:11:14] presented as a script within a book. So
+[00:11:16] again there's a mixing up of genres and
+[00:11:17] this is something I'm particularly
+[00:11:20] interested in uh smearing genres or
+[00:11:23] moving from different genre to genre.
+[00:11:27] But the idea of acting and acting as if
+[00:11:29] is uh present throughout the book and
+[00:11:30] actually plastic fantastic as well.
+[00:11:32] Actually when I talked to David about
+[00:11:34] this we see it as a kind of magical
+[00:11:37] technology. act as if this is the case
+[00:11:48] Something happens at the end of the play
+[00:11:50] in the book and the characters descend
+[00:11:51] into a second narrative, one that's
+[00:11:54] darker, more mythic and broadly speaking
+[00:11:57] therapeutic in character. So here the
+[00:11:59] idea of the fiction of the self, the
+[00:12:00] image we have of ourselves, the
+[00:12:02] narrative we tell ourselves and others
+[00:12:04] is explored in more detail. and this
+[00:12:08] idea of repair becomes important.
+[00:12:09] So I've been become increasingly
+[00:12:11] interested in this idea of care and
+[00:12:13] repair and practice partly because my
+[00:12:15] own experiences
+[00:12:17] um going through a brutal redundancy
+[00:12:19] process, my struggles with mental
+[00:12:21] health, seeing my students struggles
+[00:12:23] with mental health and trying to think
+[00:12:25] about how my practice of writing and
+[00:12:27] performance and my teaching might be
+[00:12:31] part of a practice of care and repair.
+[00:12:32] So, you can probably tell with this
+[00:12:35] piece of fiction um and the inclusion of
+[00:12:37] the scripts and the references to
+[00:12:41] therapy or a therapeutic logic um the
+[00:12:43] book plays with presentation and plays
+[00:12:53] The later parts of this book involve the
+[00:12:55] presentation of different scenes and
+[00:12:56] images, some of which are from the
+[00:12:58] different perspectives of these invented
+[00:13:01] characters alongside a series of kind of
+[00:13:03] resolutions. But part of the book's
+[00:13:03] intention
+[00:13:07] is to play around with causal effects,
+[00:13:10] trying to unpick
+[00:13:12] temporal sequencing, trying to reverse
+[00:13:14] cause and effect. And this is another
+[00:13:15] thing that I become increasingly
+[00:13:18] interested in this idea of retroactive
+[00:13:21] causation of things already being there
+[00:13:23] in the future
+[00:13:25] and kind of almost like hurling back
+[00:13:27] lines leading them leading you to it.
+[00:13:29] And I think this relates to writing. I'm
+[00:13:31] going to come back to this this idea
+[00:13:32] that these things are in the future
+[00:13:32] waiting.
+[00:13:37] And as I said throughout this book, the
+[00:13:38] idea of a landscape that's both
+[00:13:40] external, internal, and real and and
+[00:13:43] dreamlike and imaginative is crucial to
+[00:13:45] this journey. So again, there's
+[00:13:47] references with my own performance
+[00:13:47] group.
+[00:13:56] That's the more or less not all of us,
+[00:13:58] but some of plastic fantastic at the um
+[00:14:00] blime me, what's that? Dilston Grove in
+[00:14:02] London, which is a gallery in South
+[00:14:02] London.
+[00:14:15] So as well as this play with
+[00:14:17] presentation and different genres, I
+[00:14:19] think the ancient device uh is a work of
+[00:14:23] fiction and even an experiment in life
+[00:14:25] writing or auto writing. Although I
+[00:14:28] don't think it's really about exploring
+[00:14:30] myself, my biography. It's about kind of
+[00:14:32] stretching that out into a landscape and
+[00:14:35] looking at what figures and what objects
+[00:14:37] occupy that landscape and seeing where
+[00:14:39] they go, seeing what information they
+[00:14:41] might want to offer me. I think that's
+[00:14:51] So this particular writing project the
+[00:14:54] ancient device arises from this MA
+[00:14:56] course I teach in goldsmiths on art
+[00:14:58] writing and theory fiction and also one
+[00:15:01] on occulture the relationship between
+[00:15:03] magical practice and art practice which
+[00:15:05] looks at these new hybrid genres
+[00:15:07] emerging in the critical humanities and
+[00:15:09] the arts and contemporary art especially
+[00:15:11] and the way fiction's increasingly
+[00:15:13] deployed as a kind of method within
+[00:15:15] that. So I'll say more about that when I
+[00:15:17] get to the third part of my talk if I
+[00:15:20] get there but don't go on any tangents.
+[00:15:23] So that course uh encouraged students to
+[00:15:26] conduct their own myth work.
+[00:15:28] They would do pilgrimages to certain
+[00:15:31] sites in the landscape. They would
+[00:15:33] produce fanzines. Uh some would do
+[00:15:36] performances. Um there was a sense in
+[00:15:38] which there was a kind of using
+[00:15:41] different compon components to construct
+[00:15:43] imaginary landscapes and construct self
+[00:15:43] narratives.
+[00:15:56] Some of these ideas about myth work and
+[00:15:59] how fiction can be part of a practice uh
+[00:16:02] were from an ongoing
+[00:16:06] idea or concept uh called fictioning uh
+[00:16:08] about the instantiation
+[00:16:10] or materialization
+[00:16:14] or enactment of fictions within reality
+[00:16:16] and which resulted actually in this
+[00:16:18] co-authored monograph with David
+[00:16:21] Burroughs who's also a key figure of
+[00:16:23] plastic fantastic with me. He's at the
+[00:16:25] sleigh just up the road. So this was a
+[00:16:29] collaborative piece of writing and um
+[00:16:30] yeah I don't know if any of you have
+[00:16:32] done collaborative writing but it's a
+[00:16:36] very painful process. Um this is like a
+[00:16:37] five-year project that was very
+[00:16:39] difficult because you come up against
+[00:16:41] the the limits of yourself. you have to
+[00:16:43] deal with another subjectivity and it's
+[00:16:45] very challenging but incredibly
+[00:16:47] rewarding because of course you produce
+[00:16:49] something that you couldn't have
+[00:16:51] produced on your own. You produce this
+[00:16:53] kind of third thing between you and it's
+[00:16:56] a very um enriching and kind of
+[00:16:59] important thing.
+[00:17:01] So this book tracks through this idea of
+[00:17:03] fictioning or enacting fictions in the
+[00:17:05] world through three different points or
+[00:17:07] gathering poles as we understood them
+[00:17:08] where we gathered different practices
+[00:17:12] together. The first was mythopoesis
+[00:17:14] which we saw as the creation of worlds
+[00:17:16] and following delurs the summoning of a
+[00:17:19] people. Uh there was the second section
+[00:17:21] was on myth science which we thought
+[00:17:24] about in terms of exploring different
+[00:17:27] perspectives and uh Sun Ra was was our
+[00:17:30] key figure there and the last section
+[00:17:33] which was on mythot techchnesis and this
+[00:17:35] is the way the human machine
+[00:17:38] collaboration could produce and open up
+[00:17:40] other fictions and other modes of being.
+[00:17:44] So both David and I um
+[00:17:46] we're not of the school of lamenting
+[00:17:49] technological developments that you can
+[00:17:52] get with uh
+[00:17:54] some Frankfurt school philosophy and
+[00:17:56] befo for example. We were very very
+[00:17:59] interested in the way
+[00:18:00] machines can be used to open up
+[00:18:03] incorporal universes. You know they can
+[00:18:04] be used to kind of open up all sorts of
+[00:18:04] possibilities.
+[00:18:17] A further rationale of this project and
+[00:18:19] also the ancient device is that some
+[00:18:21] inquiries such as an inquiry into the
+[00:18:23] fiction of the self, the fiction we have
+[00:18:26] of ourselves require a fictional mode of
+[00:18:28] writing. Um, and I think storytelling
+[00:18:30] and fiction can be a way of obliquely
+[00:18:33] engaging with this and also conducting
+[00:18:35] this repair work. This is especially the
+[00:18:37] case when fiction involves a laying out
+[00:18:39] of different images and once again
+[00:18:42] landscapes that cross over from art into
+[00:18:45] life and help cohhere a sense of self.
+[00:18:45] So
+[00:18:49] yeah, I'm very taken I was very taken
+[00:18:51] with Jack's talk about destitution and
+[00:18:53] staying with the cut, staying with the
+[00:18:55] wound, staying with the void and not
+[00:18:59] seeking to build on that. But um
+[00:19:02] consistency is important to me. In order
+[00:19:04] to be able to go on, to be able to keep
+[00:19:07] going on, I need a consistency. Uh I
+[00:19:10] need to kind of um hold myself together
+[00:19:20] My take on this with collaboration with
+[00:19:22] David and the ancient devices, sometimes
+[00:19:25] we can produce or write something
+[00:19:28] that then speaks back to us as if it
+[00:19:35] We produce something that's of us but
+[00:19:38] not of us exactly or gives us some kind
+[00:19:41] of information. And um I suppose I feel
+[00:19:42] that this is a key thing about art
+[00:19:45] practice and it's why plastic fantastic
+[00:19:47] is really important to me uh as well as
+[00:19:49] writing practice. It allows me to be
+[00:19:52] involved with something that speaks back
+[00:20:01] The other key rational uh as I've
+[00:20:03] already said is this exploration of
+[00:20:05] performance in different ways. What is
+[00:20:06] performance? What does performance art
+[00:20:06] allow?
+[00:20:16] This is a character called Twiglet
+[00:20:18] uh that we summoned at Wising at the
+[00:20:26] So sometimes with these performances,
+[00:20:29] it's a question of um
+[00:20:29] channeling.
+[00:20:34] It's almost like you try and get
+[00:20:37] yourself out of the way
+[00:20:41] so that something behind you can speak.
+[00:20:43] And um
+[00:20:45] I think that's increasingly kind of what
+[00:20:47] we were doing with plastic fantastic. We
+[00:20:50] were trying to allow different fictions
+[00:20:57] Sometimes even these composite
+[00:21:10] So often these performances uh involved
+[00:21:13] audiovisisual work, props,
+[00:21:17] objects, various electronic devices,
+[00:21:20] samplers, drum machines, mics. It's a
+[00:21:23] collective performance uh that produces
+[00:21:25] something different for ourselves but
+[00:21:30] perhaps for any participant too. Um
+[00:21:33] it's not for an audience but I'm hoping
+[00:21:35] something resonates. I mean uh I thought
+[00:21:38] Martin's comments about the aesthetic
+[00:21:41] event not knowing what the outcome is
+[00:21:43] and the notion of indetermination. I
+[00:21:45] think that's a kind of a way into think
+[00:21:46] about how we understand plastic
+[00:21:46] fantastic.
+[00:21:58] But this book is also a performance in
+[00:22:02] itself uh just in a different genre.
+[00:22:03] Whilst writing it, I thought of the book
+[00:22:07] as itself a kind of device,
+[00:22:09] a kind of anamorphic object that gets
+[00:22:11] activated uh when it's in the right
+[00:22:14] place or when it finds the right reader.
+[00:22:16] So pulling back from this this kind of
+[00:22:19] work, this laying out of the self as a
+[00:22:22] landscape with figures or inventing
+[00:22:23] these figures that might be on that
+[00:22:25] landscape is what I call again myth
+[00:22:28] work. Writing out and claiming one's own
+[00:22:31] narrative. And I think that also
+[00:22:40] Well, that's a kind of academic take.
+[00:22:42] not really academic, but a kind of
+[00:22:44] academic take on what that was all
+[00:22:46] about. But in fact, I'm not really sure
+[00:22:49] what that book was. Um, I wanted it to
+[00:22:52] work as a piece of standalone fiction. I
+[00:22:54] didn't want to overdetermined it. It
+[00:22:58] started with a dream and then an object.
+[00:23:00] Is it successful?
+[00:23:02] Well, there's been a lot of silence and
+[00:23:05] confusion. A big kind of silence when I
+[00:23:08] put it out there.
+[00:23:12] one of those careerending books.
+[00:23:15] But then a few people resonated with it
+[00:23:17] strongly. Interestingly enough, it was
+[00:23:22] often people not in academia and not in
+[00:23:26] art, but people in role playing games,
+[00:23:29] therapeutic setups, different kind of
+[00:23:29] ecologies
+[00:23:34] um that sort of got it or kind of were
+[00:23:35] really enthusiastic about it. so much so
+[00:23:37] that actually a group of them are going
+[00:23:46] so that would make sense to me because
+[00:23:49] it was written as a kind of exploration
+[00:23:50] of the fiction of the self and as a kind
+[00:23:52] of therapeutic process or perhaps an
+[00:23:55] aesthetic therapeutic process
+[00:23:57] life writing or writing of survival
+[00:24:04] Yeah. Just some people, you know, it was
+[00:24:04] like
+[00:24:19] book number two.
+[00:24:21] So this is the second book and it's much
+[00:24:25] more straightforward uh a work of theory
+[00:24:26] although there are bits of fiction in
+[00:24:29] this too or bits of theory fiction and
+[00:24:33] auto writing in it. Um
+[00:24:35] each chapter ends with kind of a piece
+[00:24:36] of fiction or kind of piece of writing
+[00:24:38] for my own life. I wanted to write a
+[00:24:38] book
+[00:24:40] um
+[00:24:45] where I was exploring
+[00:24:47] the fiction of the self that I had and
+[00:24:49] looking at devices that had been
+[00:24:51] important to me. I wanted to write it
+[00:24:53] for my students. I wanted to write a
+[00:24:55] book that kind of showed my struggles,
+[00:24:57] but also
+[00:25:00] where I'd found my resources, where I'd
+[00:25:03] found the components to build devices
+[00:25:17] It's composed of 14 short essays that I
+[00:25:20] wrote either during or immediately after
+[00:25:22] writing the ancient device. So they're
+[00:25:25] kind of parallel and you get a sense of
+[00:25:27] what it does if you look at the
+[00:25:36] The first of the essays, don't worry,
+[00:25:39] I'm not going to go through all of them.
+[00:25:41] The first of the essays, Avatars,
+[00:25:43] egregor, and the writing of the self,
+[00:25:46] uh, was the one that was most closely
+[00:25:48] aligned with that fiction, the ancient
+[00:25:50] device, and with the various devices
+[00:25:52] that are in play with that piece of
+[00:25:54] fiction. It was the first of the essays
+[00:25:56] to be writen to be written, and it arose
+[00:25:58] directly from reflections I had when I
+[00:26:00] was writing that piece of long form
+[00:26:00] fiction.
+[00:26:05] In fact, the whole book arose from kind
+[00:26:07] of notes I was making as I was writing
+[00:26:09] the fiction of and suddenly I had this
+[00:26:11] collection of ideas. I thought, well,
+[00:26:13] I'll I've got to write these things out
+[00:26:27] So that book is also about how we unmake
+[00:26:30] and then make ourselves
+[00:26:34] or even how we might claim or produce
+[00:26:36] our own subjectivities.
+[00:26:39] How we uh we might be involved in some
+[00:26:41] kind of self- authorship which is what I
+[00:26:43] think I was also doing with the ancient
+[00:26:44] device or trying to do the ancient
+[00:26:47] device. Now this is an image from
+[00:26:49] plastic fantastic
+[00:26:50] uh the performance fiction. We do
+[00:26:52] drawings and comics and installations
+[00:26:55] and performances and this is one of
+[00:26:57] them. You some of you will recognize the
+[00:27:00] uh RSI leanian diagram from the late
+[00:27:04] writings of Lan uh the real the symbolic
+[00:27:06] and the imaginary and that's Lee Barry
+[00:27:08] in the middle there. There's a synthome
+[00:27:11] a knot that ties those three registers
+[00:27:11] together.
+[00:27:22] So in this myth workbook from magic and
+[00:27:25] mythwork to care and repair I track
+[00:27:27] through some psychoanalytic and skits
+[00:27:31] analytic resources and methods
+[00:27:34] especially from Lan's seminar on the
+[00:27:37] ethics which is a really important uh
+[00:27:41] book for me uh and Lan says in that book
+[00:27:44] on the um the ethics that the goal of
+[00:27:47] psychoanalysis is to become a cause of
+[00:27:50] oneself to claim one's own determination
+[00:27:50] um
+[00:27:58] which has resonances with Spinosa as
+[00:27:59] well this idea of claiming your own
+[00:28:00] determination
+[00:28:03] and the other resources were the later
+[00:28:06] writings about the RSI the real the
+[00:28:08] symbolic and the imaginary these three
+[00:28:11] registers of the subject and how for
+[00:28:14] some people
+[00:28:16] they're not knotted together the RSI
+[00:28:19] they drift apart
+[00:28:22] and therefore a new knot is needed to
+[00:28:24] tie them together and that new knot is
+[00:28:26] known as the synthome and it's a
+[00:28:29] practice or a process or an object that
+[00:28:31] helps tie these different knots together
+[00:28:34] and I think in a way that's what myth
+[00:28:36] work is or certainly for me certainly
+[00:28:38] writings like that and performance it's
+[00:28:40] a way of tying those knots together and
+[00:28:43] giving me consistency as a subject and
+[00:28:45] also I think the names that play with
+[00:28:48] plastic fantastic.
+[00:28:53] So here again, repair is about trying to
+[00:29:01] Maybe it's a bit like uh
+[00:29:03] don't if you know the Japanese art of
+[00:29:06] kitsungu where you have a broken ceramic
+[00:29:08] pot. Do you know that kind of practice?
+[00:29:10] You know when the pot is shattered and
+[00:29:13] then it's uh it's mended with gold. Uh
+[00:29:15] but you see the repairs, you see the
+[00:29:18] lines. So it's not a return to
+[00:29:20] normality. It's not kind of making a
+[00:29:24] fully functioning ego. It's kind of um
+[00:29:24] holding
+[00:29:28] those kind of moments of breakage and
+[00:30:05] Thank you. That's all I've got time for.
+[00:30:08] Rapid. Can anyone up there sort that
+[00:30:11] out? So great.
+[00:30:13] I'll see if I can go through and get to
+[00:30:28] &gt;&gt; Yeah. So, the other book that was really
+[00:30:30] important uh to me, another book that's
+[00:30:31] really important to me is the uh
+[00:30:34] Chaosmosis by FelixQari.
+[00:30:37] I first came across this a long time ago
+[00:30:39] in the kind of early 90s and I I
+[00:30:41] couldn't make head and a tail of it.
+[00:30:43] It was like some sort of piece of future
+[00:30:45] right from the future. It kind of felt
+[00:30:47] like science fiction but um it's been a
+[00:30:49] really important book for me. It's where
+[00:30:51] maps out his aesthetic paradigm talks
+[00:30:53] about the production of subjectivity
+[00:30:55] talks about aesthetic rupture and so on
+[00:30:58] and that became also important for the
+[00:31:00] mythwork book. Uh I took a lot of things
+[00:31:01] from gratuitary about how we might
+[00:31:03] produce ourselves, how we might be able
+[00:31:06] to break with one regime and uh produce
+[00:31:21] And then I also draw uh resources from
+[00:31:23] these two books. Uh I apologize that
+[00:31:25] this is a bit of a survey of kind of
+[00:31:27] things that I've kind of been interested
+[00:31:28] in, but it's interesting for me to look
+[00:31:30] back on why I looked at these. So this
+[00:31:32] is the capitalism and schizophrenia
+[00:31:36] project from Durs and Quitari. And um
+[00:31:38] yeah, they've just been key texts for me
+[00:31:40] kind of anti-edypus in terms of that
+[00:31:42] laying out of what the subject is. The
+[00:31:45] subject is just a residuum or a kind of
+[00:31:48] um side effect of a machinic process of
+[00:31:50] desiring production.
+[00:31:52] a thousand plateaus. Well, for all sorts
+[00:31:54] of different reasons, but maybe
+[00:31:55] particularly in relation to the
+[00:31:57] possibilities of transformation and
+[00:31:57] becoming
+[00:32:08] and then another book that was really
+[00:32:09] important uh this is one of them couple
+[00:32:11] of books is Thomas Metsinger's the ego
+[00:32:13] tunnel and particularly his work on
+[00:32:15] neuroscience and the idea of the
+[00:32:19] neoccentric subject uh or experience
+[00:32:21] without a subject or how we can be in
+[00:32:23] the world without a subjectivity. Uh I
+[00:32:26] think this is kind of hovering around a
+[00:32:28] little bit with the panel this idea of
+[00:32:30] another mode of being in the world
+[00:32:32] without a subjectivity without an
+[00:32:35] identity and what that might be like and
+[00:32:37] Thomas Maxinger explores that through
+[00:32:39] talking about lucid dreaming and various
+[00:32:42] kind of neuroscientific experiments. So
+[00:32:43] it was very interesting for me to bring
+[00:32:45] that into relationship with Duz and
+[00:32:47] Qatari. This is all in this chapter on
+[00:32:49] avatars and eager and the fiction of the
+[00:32:49] self.
+[00:33:03] Avatars, egregor, egregor, this idea of
+[00:33:03] entities,
+[00:33:08] uh, magical entities that you conjure
+[00:33:11] into existence
+[00:33:14] by an investment of energy, keep feeding
+[00:33:17] them. uh fictions that you feed like
+[00:33:20] plastic fantastic that you feed and then
+[00:33:23] have have their own agency in the world
+[00:33:25] start speaking back to you as if they're
+[00:33:28] from elsewhere.
+[00:33:30] So this idea of fictions that might take
+[00:33:33] on a reality, it has um resonances with
+[00:33:35] some of Isabelle Stanger's work, not
+[00:33:37] this book actually, but kind of her work
+[00:33:40] on animism and um being compromised by
+[00:33:42] magic and how we might come into
+[00:33:44] relationship with magic by understanding
+[00:33:47] it as fictions that have an effect in a
+[00:33:49] given millier. That was a very important
+[00:33:51] concept for me. Fictions that kind of
+[00:34:05] And then the cybernetic culture research
+[00:34:08] units which um I don't feel I need to
+[00:34:12] introduce to this particular audience
+[00:34:13] because it's interesting they've been
+[00:34:15] kind of hovering around this group from
+[00:34:19] war of kind of renegade academics. Um
+[00:34:22] but their idea of hyperstition,
+[00:34:23] the idea of the production of fictions
+[00:34:26] that then take on a reality and have an
+[00:34:28] impact on that reality or kind of
+[00:34:31] fictions working uh in different ways to
+[00:34:33] enact a certain kind of reality that
+[00:34:42] So many of the essays in that first
+[00:34:44] section of that book, the first part of
+[00:34:45] the book, they returned to and developed
+[00:34:47] some of this material in that first
+[00:34:48] essay. And they're all around these
+[00:34:52] ideas of writing, magical practice, and
+[00:34:54] once again, the fiction of the self. And
+[00:34:55] at the same time, they increasingly
+[00:34:58] developed this idea
+[00:35:00] of the device. I became obsessed with
+[00:35:03] this idea of devices, prompts, triggers,
+[00:35:03] devices.
+[00:35:09] And uh as is my want when I'm not
+[00:35:10] performing or writing I like to draw
+[00:35:10] diagrams.
+[00:35:16] So uh I try to draw a diagram of uh how
+[00:35:18] I was understanding
+[00:35:20] these different devices or a plane of
+[00:35:23] different devices. So that flat plane is
+[00:35:25] the plane of different devices whether
+[00:35:26] they're technical objects, scientific
+[00:35:29] devices, religious devices, aesthetic
+[00:35:32] devices, different objects and props.
+[00:35:35] And um I became interested in this idea
+[00:35:37] of that you see that that eye up there
+[00:35:40] the kind of perspective looking down um
+[00:35:42] which is often the theoretical
+[00:35:44] perspective looking down on that field
+[00:35:45] of devices and doing a theoretical
+[00:35:50] analysis. I became really interested in
+[00:35:53] dropping that down
+[00:35:55] to become one more device on that field
+[00:35:59] of devices rather than a position
+[00:36:08] And actually uh that device helped me
+[00:36:11] think through
+[00:36:12] the writings of another character that
+[00:36:14] was very important to me, Francois
+[00:36:16] Larowell, and his project of non-
+[00:36:19] philosophy. And it helped me think
+[00:36:22] through how Larowell's project was
+[00:36:25] trying to change perspective on
+[00:36:27] philosophy. So it wasn't an
+[00:36:27] allincclusive
+[00:36:31] cavalry man's perspective on the real
+[00:36:34] interpretations, but you drop down that
+[00:36:36] perspective onto a field of what he
+[00:36:39] calls phopictions.
+[00:36:41] So you're repurposing conceptual
+[00:36:41] resources
+[00:36:46] as almost like phopictional devices.
+[00:36:48] It's a kind of democrat radical de
+[00:36:49] democracy there. It's almost like kind
+[00:36:51] of knocking the cavalry man off the
+[00:36:53] horse so they come down onto that field
+[00:37:02] Diagrams are interesting
+[00:37:05] for me. They allow me to do all sorts of
+[00:37:07] things. Elsewhere, I played around with
+[00:37:15] literally laying them out on a tabletop
+[00:37:18] and then seeing what compatibilities and
+[00:37:20] synthesis might be allowed to
+[00:37:23] representing them diagrammatically.
+[00:37:25] That's become a really important
+[00:37:26] creative process for me in terms of
+[00:37:44] Diagramming was really important to this
+[00:37:45] work uh on the production of
+[00:37:48] subjectivity. Um
+[00:37:51] in fact that book is really about
+[00:37:53] refiguring different philosophers
+[00:37:56] concepts in relation to these diagrams
+[00:37:58] and putting them together. So for
+[00:38:02] example that diagram on the cover is uh
+[00:38:07] an upside down Bergsonian cone of memory
+[00:38:10] plugging into Lan's Taurus from the
+[00:38:12] ethics of psychoanalysis. But I suppose
+[00:38:14] I'm laughing there because the the
+[00:38:15] interesting thing for me about that is
+[00:38:19] that's also plastic fantastic's making
+[00:38:22] of a large glass a bit like Duchon's
+[00:38:24] glass that we put in a gallery. Um so
+[00:38:25] again I hadn't thought about this but
+[00:38:28] again it's the way it moves genres you
+[00:38:30] know these things move genres and how
+[00:38:32] that uh I don't know it's just very very
+[00:38:46] So this work on myth work from magic and
+[00:38:49] myth work to car repair also circulates
+[00:38:51] around key figures
+[00:38:53] and practices
+[00:38:57] and fictions that have been uh important
+[00:38:59] for my own myth work. uh which means you
+[00:39:01] know there are various repetitions and
+[00:39:04] refrains and I think this looping around
+[00:39:06] and this layering of references is
+[00:39:08] important to myth work. I suggest that
+[00:39:10] in some of the books in some of the
+[00:39:11] essays in the book and some of the case
+[00:39:13] studies I look at in so far as it
+[00:39:19] intense relationship with one's
+[00:39:22] materials constant return back to them
+[00:39:24] and then a back again and another
+[00:39:26] inflection on them. You know there's a
+[00:39:28] kind of circulation of key texts and key
+[00:39:31] figures that one keeps coming back to
+[00:39:35] same themes but from different resources
+[00:39:36] but that book also operates as a kind of
+[00:39:38] gathering of resources for I I started
+[00:39:40] to think well is this kind of idea of
+[00:39:42] myth work is it a larger kind of field
+[00:39:44] of practices and I started gathering
+[00:39:46] other practices for example this is an
+[00:39:49] image from Sophie Slade Johnson's
+[00:39:49] cedella
+[00:39:54] uh which was Sophie Lee Johnson's a kind
+[00:39:57] of artists in Southoun. She made a
+[00:40:00] pilgrimage into the marshes to a sacred
+[00:40:04] site at a well actually um and then did
+[00:40:05] a kind of certain kind of ritual
+[00:40:08] performance there and then restaged that
+[00:40:10] ritual in a gallery in um Peekom of all
+[00:40:14] places. She had the Crosier made that's
+[00:40:16] from the the carving on the stone there
+[00:40:17] and there was a kind of activation of
+[00:40:20] that scene across space and across time.
+[00:40:23] It's a really curious compelling
+[00:40:23] performance.
+[00:40:27] So in one of the chapters of the book
+[00:40:30] called magic and place I write about
+[00:40:33] CVella and how Sophie Le Johnson's
+[00:40:36] practice activates the landscape and
+[00:40:38] activates different temporalities
+[00:40:41] caught in the landscape layers of kind
+[00:40:55] that chapter also looks at um Mark
+[00:41:02] this is a magic power of bleakness and
+[00:41:06] this was uh at the tape Britain. Um
+[00:41:08] you'd walk into the tape Britain and
+[00:41:11] Mark had built a scale model of a kind
+[00:41:14] of motorway uh bridge that you literally
+[00:41:15] walked under. It's a motorway bridge
+[00:41:17] that he used to hang out with with his
+[00:41:20] with his mates when he was a teenager in
+[00:41:23] Liverpool on the whirl.
+[00:41:24] working-class kids, sports gear,
+[00:41:26] sniffing glue, hanging out there. And uh
+[00:41:29] something happened to Leki
+[00:41:32] when he was under that bridge. Um some
+[00:41:33] kind of entity, he says, or something
+[00:41:35] passed over. And actually, a lot of the
+[00:41:37] practice was about trying to work out
+[00:41:39] what that was about. What why was it
+[00:41:42] that place? Uh was there some sort of
+[00:41:43] connection with Neolithic barrel
+[00:41:45] chambers? Why had that entity come over?
+[00:41:47] And what you find is that image of the
+[00:41:49] bridge recurs in different genres. He
+[00:41:51] builds a scale model of it. It's a
+[00:41:53] massive thing in the tape modern. He
+[00:41:55] does this magic lantern thing of his uh
+[00:41:56] friends there. So there's something
+[00:41:56] around
+[00:42:00] trying to exercise a certain kind of
+[00:42:01] memory, not exactly a trauma, but a
+[00:42:04] memory, but also summon that memory. Uh
+[00:42:06] that meant it kind of related with
+[00:42:09] Sophie St. Johnson's work.
+[00:42:20] the other key resource and important
+[00:42:22] prompt for the essays as I've already
+[00:42:24] said was the teaching I was doing for
+[00:42:26] this course a culture and looking back
+[00:42:28] on the essays it's really that what is
+[00:42:30] up is it was a teaching situation I mean
+[00:42:31] I'm sure it's the same as a lot of you
+[00:42:33] guys but teaching is part of my practice
+[00:42:35] it's not kind of a
+[00:42:37] it's not like a thing I do and then I
+[00:42:39] get on with the research It's the
+[00:42:42] teaching is is the work somehow and it
+[00:42:45] was also seeing the um I was talking
+[00:42:46] with Scott about this just earlier
+[00:42:48] seeing the kind of mental health my own
+[00:42:49] struggles with mental health and then
+[00:42:51] seeing the mental health struggles of my
+[00:42:53] students you particularly anxiety and
+[00:42:55] depression uh that fed into this kind of
+[00:42:58] work. Uh so I want to thank them uh for
+[00:42:58] that.
+[00:43:12] So the essays in the second half of the
+[00:43:15] book are a bit more personal or a bit
+[00:43:19] more um autobiographical somehow.
+[00:43:21] They tackle some of the same themes but
+[00:43:22] they give a different kind of context
+[00:43:25] and they move away from academia and
+[00:43:27] they move away from the art art worlds.
+[00:43:29] So there's essays for example on
+[00:43:31] performance fiction and performance on
+[00:43:33] tabletop role playing games on
+[00:43:35] fictioning on dreaming
+[00:43:37] on uh teaching and writing as to care
+[00:43:39] and repair me trying to kind of fathom
+[00:43:41] but you know I might as well be honest
+[00:43:42] me trying to work out what I value
+[00:43:44] that's what it was it was like what do I
+[00:43:52] one of the chapters on archoictioning
+[00:43:54] was about how we might use objects from
+[00:44:01] And I suppose one way I thought about
+[00:44:03] these second section of essays is also
+[00:44:05] trying to map out the device that I am.
+[00:44:06] I suppose I have this intuition that if
+[00:44:08] I wanted to really do some other work,
+[00:44:10] I'd first have to thoroughly work out
+[00:44:17] So some of these essays in the second
+[00:44:18] half are about devices that have been
+[00:44:20] important to my own mental health, group
+[00:44:22] work, dreaming,
+[00:44:24] meditation, all sorts of things
+[00:44:24] actually.
+[00:44:29] And then as I say uh there was one on
+[00:44:31] archovictioning and also some material
+[00:44:34] on kind of uh landscape and trauma and I
+[00:44:37] tried to think about larger traumas. The
+[00:44:39] middle passage, the Atlantic slave trade
+[00:44:43] and uh the burning of the witches and
+[00:44:46] how that still haunts
+[00:44:47] the landscape of certainly of the
+[00:44:49] British Isles, how you can kind of see
+[00:44:51] that the burning of the witches, how
+[00:44:53] that's still there. You know, Stanganger
+[00:44:55] says that if you if you try, you can
+[00:44:55] smell
+[00:45:00] the smell of the burning witches. Uh so
+[00:45:01] trying to think about landscape and
+[00:45:04] trauma too and then also kind of archo
+[00:45:04] fictioning
+[00:45:11] and again I wanted to look at some
+[00:45:14] practices that maybe had a turn to the
+[00:45:16] past as a way of going on or surviving
+[00:45:18] or an activation of objects of the past.
+[00:45:21] So just a couple of examples. So I
+[00:45:22] looked at the work of an artist called
+[00:45:26] Varity Bert who uses kind of animation
+[00:45:28] uh goes out into this is the north of
+[00:45:30] England to the cup and ringstones in the
+[00:45:32] north of England. She does various
+[00:45:33] gatherings there and then she produces
+[00:45:36] these animations and
+[00:45:38] these strange props that are also in her
+[00:45:41] show. But this kind of whole setup
+[00:45:44] is about using images and objects of the
+[00:45:47] past in order to open up other kind of
+[00:45:47] possibilities.
+[00:45:54] I should say that uh you know Barrett is
+[00:45:55] also very interested in kind of
+[00:45:56] non-human landscapes. The kind of films
+[00:45:59] are really attending dropping down I
+[00:46:00] guess. Yeah. Dropping down dropping down
+[00:46:02] from that human perspective onto that
+[00:46:04] larger field of non-human entities and
+[00:46:07] intelligences and being part of that
+[00:46:17] Or another example of what I call
+[00:46:19] archoictioning. So these are these kind
+[00:46:21] of terms that I come up with is this
+[00:46:25] work by Ajo Arma.
+[00:46:29] So Arma walked the uh
+[00:46:32] the slave trails of Ghana, uh the coast
+[00:46:35] in Ghana, going from slaveport to slave
+[00:46:37] port. And at each uh and she'd often
+[00:46:40] walk with someone else and at each uh
+[00:46:44] beach, she would pick up the sand uh
+[00:46:45] from the slave trails and she would
+[00:46:47] bring the sand back and then she would
+[00:46:49] make these objects,
+[00:46:52] strange objects, strange kind of like
+[00:46:54] instruments or kind of devices. This
+[00:46:57] one's like a filial staff with a crown
+[00:47:00] on top of it. And she would encrust the
+[00:47:03] sand on these objects and place them.
+[00:47:05] This is in a gallery called AutoITALia,
+[00:47:07] almost like on a stage. And they look
+[00:47:10] like objects from a museum, like a
+[00:47:12] colonial extractive museum put on
+[00:47:22] But they're also like props or objects
+[00:47:25] that call to be used and enacted in a
+[00:47:27] certain way to bring something about.
+[00:47:29] And this is what I came particularly
+[00:47:31] fascinated by this turn to the past
+[00:47:35] producing these objects in order to
+[00:47:38] perform summon. Actually Arma talks
+[00:47:40] about these objects and some other
+[00:47:41] objects which are more like musical
+[00:47:44] instruments as producing a space of
+[00:47:47] healing in her terms.
+[00:47:47] Objects
+[00:47:59] from the past or invented objects
+[00:48:03] that open up another possibility
+[00:48:05] from within the world and from within
+[00:48:21] The group reconstructed one of the
+[00:48:23] Falton drums and produced this kind of
+[00:48:24] audio
+[00:48:28] sound piece which is a recording of the
+[00:48:30] um staff welfare center in North Umbrea.
+[00:48:33] If you work in an institution uh you'll
+[00:48:35] be aware of the staff welfare center.
+[00:48:37] This is usually a little room no one
+[00:48:38] goes to where you go if you feel a bit
+[00:48:41] sad at work. and they did a whole
+[00:48:42] project about the and they what they
+[00:48:44] want to do is try and interrupt and
+[00:48:46] interrogate the logics of that so-called
+[00:48:49] institutional care. It's a complicated
+[00:48:50] piece of work. It's not straightforward.
+[00:48:52] It's difficult to work out what's going
+[00:48:54] on. There's this weird soundtrack,
+[00:48:55] institutional soundtrack and these odd
+[00:48:59] objects. Um but it's something around
+[00:49:01] the care of the imagination, the opening
+[00:49:12] So, as is my want, I tried diagramming
+[00:49:16] this. Tried diagramming what archo
+[00:49:18] fictioning was, how that kind of worked.
+[00:49:20] And I'm sure some of you recognize this
+[00:49:22] diagram. It's from uh it's not well this
+[00:49:25] this is my version of a famous diagram
+[00:49:27] from Henry Bergson's book, Matter and
+[00:49:30] Memory. And Henry Bergson is really
+[00:49:32] trying to uh think through the
+[00:49:33] relationship of the past to the present
+[00:49:36] or the way memories don't go anywhere.
+[00:49:37] The past has not gone anywhere for
+[00:49:41] Bergson. There's nowhere for it to go.
+[00:49:43] Can't fall off the world. Um, it's all
+[00:49:46] around you. The past because you're
+[00:49:48] stapled on the present moment as a
+[00:49:50] sensory motor apparatus focusing
+[00:49:52] habitually on the present moment. The
+[00:49:54] past doesn't manifest itself. It's not
+[00:49:56] of interest to you. It's not of use. But
+[00:49:58] what Bergen says is that certain things
+[00:50:00] can happen
+[00:50:02] on the plane of matter
+[00:50:04] which is plane of matter. certain things
+[00:50:08] can happen and suddenly the past can
+[00:50:11] suddenly arrive and what he says needs
+[00:50:13] to happen and there needs to be a pause.
+[00:50:15] There needs to be well actually a
+[00:50:18] stopping of the world uh in J's terms
+[00:50:21] there needs to be a halting or a pause
+[00:50:23] and I became interested in the idea that
+[00:50:23] maybe
+[00:50:27] objects and props could work as triggers
+[00:50:31] or pauses to stop a world in order to
+[00:50:33] summon another one. So I started
+[00:50:34] thinking that maybe these objects could
+[00:50:36] be understood as being located at that
+[00:50:39] apex of the inverted cone of Bergen's me
+[00:50:42] of Bergenson's cone of memory. Objects,
+[00:50:44] practices, rituals that were in a
+[00:50:44] landscape
+[00:50:49] at certain kind of points that when they
+[00:50:51] were interacted with in a certain way
+[00:50:54] allowed something else to kind of uh be
+[00:51:04] So this particular diagram is then
+[00:51:06] related to Henry Bergson's cone of
+[00:51:09] memory and also another philosopher that
+[00:51:10] was really important to that magic and
+[00:51:14] myth workbook Gilbert Simon Don and uh I
+[00:51:16] wasn't so interested in Simon Don's
+[00:51:18] account of technical objects and
+[00:51:20] technicity and technical consciousness
+[00:51:22] that you get carried out with
+[00:51:24] Bernsteagler etc but I was interested in
+[00:51:27] um Simon Don's almost like marginal
+[00:51:29] remarks about a pre-technical
+[00:51:31] consciousness, what he calls a magical
+[00:51:33] mode of existence.
+[00:51:37] And uh in various passages he writes
+[00:51:39] about how the magical mode of existence
+[00:51:41] is not to do with movable technical
+[00:51:44] objects, but it's to do with a kind of
+[00:51:46] well a certain understanding of
+[00:51:49] landscape and privileged sites where the
+[00:51:51] exchange between man and cosmos becomes
+[00:51:53] possible. sounds very kind of strange
+[00:51:55] and it is for someone like Simondong
+[00:51:56] because there he is writing about
+[00:51:57] technical objects but it's almost like
+[00:52:00] the idea that uh landscape is a network
+[00:52:02] of privileged points where you want to
+[00:52:04] enact a certain thing. So this diagram
+[00:52:06] became a way of trying to think through
+[00:52:08] how in a given landscape at certain
+[00:52:10] privileged points certain kind of
+[00:52:21] So another way of saying all this is
+[00:52:25] that different themes, different genres,
+[00:52:27] different practices uh were all
+[00:52:29] important to me in these two books and
+[00:52:32] crossing a across genre and gathering
+[00:52:35] writings together. Uh and in fact I
+[00:52:38] think this writing against genre or
+[00:52:40] trying to kind of smear across different
+[00:52:43] registers I think this is what I finally
+[00:52:45] found particularly interesting. a desire
+[00:52:47] not to be captured by a particular
+[00:52:50] genre. I think that's with the important
+[00:52:52] thing. But to understand what genre one
+[00:52:54] was working in, what genre constitutes
+[00:52:56] oneself and one's identity and where the
+[00:52:59] edges of that might be. So in this way,
+[00:53:01] my essays in this book evidence a
+[00:53:04] refrain in my essays that dictate that a
+[00:53:06] magician must always make their own
+[00:53:08] tools, must make their own devices in
+[00:53:10] order to kind of act as if you have to
+[00:53:12] make your own devices to do it. And I
+[00:53:13] think that's what I was doing with the
+[00:53:15] books and to a certain extent what
+[00:53:17] plastic fantastic was doing. Although if
+[00:53:19] David Burroughs was here sat now he'd
+[00:53:22] say no that's not what plastic fantastic
+[00:53:36] I can end there. I've got the the third
+[00:53:38] section but actually I'm happy to I can
+[00:53:39] whist whistle through or we can just
+[00:53:43] call that a day. probably got enough.
+[00:53:45] Yeah. Do you want to hear about the last
+[00:53:47] book very briefly? Yeah. You all like
+[00:53:50] phasing out. Okay. I'll go through it
+[00:53:52] quite quickly. I suppose the reason I
+[00:53:54] wanted to put to the last book is like a
+[00:53:56] fans book, you know. It's like an
+[00:53:58] enthusiast book. It's like I've got an
+[00:54:01] enthusiasm for different genres of
+[00:54:03] writing. I've got an enthusiasm for
+[00:54:08] theory fiction, for auto writing, uh
+[00:54:11] for art writing.
+[00:54:13] Writing that plays with genre, writing
+[00:54:15] that kind of performs itself, performs
+[00:54:17] its content. I'm really interested in
+[00:54:20] writing that's not just about something
+[00:54:23] but does it or kind of writings that's
+[00:54:25] not just about another place but is from
+[00:54:27] it or summons it somehow. Writing is a
+[00:54:28] magical technology and I think that's
+[00:54:30] what this this and I will go through
+[00:54:32] quite quickly what this new book was
+[00:54:34] about. The last of the three. So they
+[00:54:37] were like a trilogy really. So it's a
+[00:54:39] short book. uh I pull back a little bit
+[00:54:41] and try to understand what is it I've
+[00:54:42] been doing with those other works and
+[00:54:44] how do I position it or reflect on what
+[00:54:46] I've been doing and uh you know I look
+[00:54:47] at these three different forms of
+[00:54:50] writing practice in this book uh it's
+[00:54:52] really only the first two which is
+[00:54:54] theory fiction and auto writing that are
+[00:54:56] really new genres of writing in the
+[00:54:57] critical humanities the other one art
+[00:54:59] writing is really in contemporary kind
+[00:55:01] of art practice
+[00:55:03] and I like the way these writings often
+[00:55:05] involve different registers besides
+[00:55:07] language besides text the way they'll
+[00:55:10] involve images or kind of drawings or
+[00:55:12] kind of maps, you know, or they'll
+[00:55:15] they'll they'll change even fonts and uh
+[00:55:18] methods of prom uh presentation.
+[00:55:20] So I go through lots of different
+[00:55:21] examples of this. I look at different
+[00:55:23] precursors within modernist writing,
+[00:55:25] Gertude Stein or kind of William
+[00:55:27] Burroughs and so on and so forth. Uh and
+[00:55:30] I also try and identify some key works.
+[00:55:31] But what I was really interested in and
+[00:55:33] what I want to kind of say to you here,
+[00:55:36] I was interested in writing as itself a
+[00:55:39] performance. Writing is itself kind of a
+[00:55:41] a performative kind of logic. What can
+[00:55:50] yeah, and the last there's the last
+[00:55:52] section of that book is actually on
+[00:55:55] large language models and um AI writing
+[00:55:58] programs and my experiments with them. I
+[00:55:59] suppose that's an example of what Dave
+[00:56:01] and I would call mythot techchnesis. You
+[00:56:03] know, our collaboration with writing
+[00:56:04] programs in order to produce something
+[00:56:06] that speaks back to us as if it's from
+[00:56:12] Okay. So, I'll just show you a few and
+[00:56:13] then I'll I'll end. And I should say
+[00:56:16] that this is all completely located to
+[00:56:18] my own scene, you know, in London and
+[00:56:20] the southeast of England and England.
+[00:56:22] And in a way, it's very very parochial.
+[00:56:24] I'm absolutely aware that there there'll
+[00:56:26] be so many scenes elsewhere. I'm sure in
+[00:56:28] Zarreb I know I just had a look at the
+[00:56:30] the journal some I think someone showed
+[00:56:32] me it's a fascinating journal about
+[00:56:33] theory fiction so there's these other
+[00:56:35] worlds in there but this I tried to
+[00:56:36] write about a scene that I'm kind of
+[00:56:38] part of
+[00:56:40] because for David Burroughs and myself I
+[00:56:45] think scenes are important um not clicks
+[00:56:47] but scenes where you write for each
+[00:56:48] other and you kind of part of something
+[00:56:50] that generates something that's more
+[00:56:52] than the sum of the individuals. It's a
+[00:56:55] crucial crucial thing for us.
+[00:56:58] So briefly put the uh argument is that
+[00:57:00] these new modes of writing perform their
+[00:57:02] content in some manner. So for example
+[00:57:04] with theory theory fiction there's a
+[00:57:07] kind of um performing of theory or a
+[00:57:09] dramatizing of theory that you often get
+[00:57:11] or put slightly differently there's a
+[00:57:13] kind of fictioning of theory bringing
+[00:57:14] fiction to theory or performing that
+[00:57:17] theory. So,
+[00:57:19] you know, an example, key example for me
+[00:57:22] would be Sadi Plants uh zeros and ones,
+[00:57:24] which um you know, science fiction is
+[00:57:26] part of her method. You know, fiction
+[00:57:27] comes in there. You know, at the
+[00:57:28] beginning of the end, she writes a bit
+[00:57:30] of science fiction to set it up.
+[00:57:32] Throughout that book, she quotes science
+[00:57:35] fiction authors. Not exactly a a theory
+[00:57:37] fiction book, but a book that deploys
+[00:57:39] fiction alongside its theory to produce
+[00:57:47] have to be careful of talking about Mark
+[00:57:49] in a conference because uh it's still a
+[00:57:50] bit raw. I don't know why that is but it
+[00:57:58] so Mark coined the term theory fiction
+[00:58:01] and writes about Burrows and Ballard and
+[00:58:03] Dillers and Bojelar and writes about how
+[00:58:05] fiction has a kind of theory register
+[00:58:06] and theory register has a fiction
+[00:58:08] register and how some fiction writers
+[00:58:11] are writing theory. Uh so this is Mark's
+[00:58:13] the latest book that's just come out,
+[00:58:15] Flatline Constructs, where he really
+[00:58:16] lays out that kind of theory of theory
+[00:58:20] fiction. Um
+[00:58:20] yeah,
+[00:58:24] maybe we can go into that in the
+[00:58:26] questions. I mean it's it's funny for me
+[00:58:28] how kind of when I write uh when I write
+[00:58:30] my stuff I mean I knew Mark Mark was a
+[00:58:32] colleague at Goldmith and a friend and
+[00:58:34] actually um
+[00:58:36] I would like to have had a conversation
+[00:58:38] with him about the weird and the eerie
+[00:58:40] and my own work on landscape but we
+[00:58:41] never got round to doing that
+[00:58:41] unfortunately.
+[00:58:46] theory fiction can also involve the
+[00:58:47] offering up of different perspectives
+[00:58:49] even different modes of existence which
+[00:58:51] is why it's such an appropriate form of
+[00:58:53] writing for the anthroposine or for kind
+[00:58:56] of decolonization you know it kind of it
+[00:58:58] can play with points of view and
+[00:59:01] perspectives um
+[00:59:03] this would be a great example harmon you
+[00:59:05] know this is a book about the
+[00:59:06] undercomings it's about black study it's
+[00:59:09] about collective black study against the
+[00:59:11] colonial enterprise of institutions it's
+[00:59:14] about logistics it's a book of political
+[00:59:14] economy
+[00:59:17] and then there are parts in it that are
+[00:59:20] just kind of channeling and poetic like
+[00:59:22] the repetition phrases that's
+[00:59:22] particularly
+[00:59:25] uh kind of Fred Motton stuff there's a
+[00:59:28] kind of rhythm to it uh some bits are
+[00:59:29] really difficult to read it's quite
+[00:59:32] tough other bits are just flowing it's a
+[00:59:35] book that that performs its content it's
+[00:59:37] not it's not about the undercommons it
+[00:59:40] kind of it's from them and helps call
+[00:59:47] I know this is on every syllabus now and
+[00:59:50] I know we're probably all kind of sick
+[00:59:52] to death of uh Donna Harowway is staying
+[00:59:54] with the trouble but you know that last
+[00:59:55] section of this book you know the
+[00:59:58] Camille papers where Harowway decides
+[00:59:59] she's going to kind of move into a
+[01:00:01] fictional register and deploy science
+[01:00:03] fiction to explore some of the concepts
+[01:00:05] that she' be writing about how to stay
+[01:00:06] with the trouble how to kind of live
+[01:00:08] with the kind of disaster of the
+[01:00:10] anthroposine and she has the device of
+[01:00:12] inventing avatar Camille, you know,
+[01:00:13] based on the Monic Butterfly, and she
+[01:00:15] tracks Camille's,
+[01:00:17] you know, through multiple generations.
+[01:00:19] Camille 1, two, three, four. And having
+[01:00:22] that kind of fiction allows her to
+[01:00:24] extrapolate concepts and develop them
+[01:00:27] over long sequences. So again, fiction
+[01:00:28] theory allows something that you
+[01:00:30] wouldn't get with theory. It's kind of
+[01:00:30] somehow
+[01:00:33] I know I'm going through this really
+[01:00:36] fast. You you're very very polite
+[01:00:37] listening to me talk about this last
+[01:00:37] book.
+[01:00:40] And I and I think you know theory
+[01:00:42] fiction also has resonances. It's not
+[01:00:45] the same but it has resonances with the
+[01:00:48] important work of Sadia Hartman on
+[01:00:50] critical fabulation. This idea of kind
+[01:00:54] of how fiction can work to um address
+[01:00:57] the silences and erases of the archive.
+[01:00:59] The way the archive and what gets
+[01:01:01] archived is a particular kind of
+[01:01:03] violence. It silences certain voices.
+[01:01:05] There's nowhere to go to find that. It's
+[01:01:07] been written out. So critical fabulation
+[01:01:16] Have I got five minutes just to finish
+[01:01:16] off?
+[01:01:22] Uh I think this book has been um hanging
+[01:01:24] around some of the other presentations
+[01:01:26] as well actually. Pretziardo's
+[01:01:29] uh Testo Junkie which is an amazing work
+[01:01:33] of kind of auto fiction or auto theory
+[01:01:36] uh that tracks Pretziardo's trans
+[01:01:39] journey uh protocol of taking
+[01:01:42] testosterone but also uses
+[01:01:45] the situation of a life a situated life
+[01:01:47] to think through larger political
+[01:01:50] economic social issues the kind of
+[01:01:52] circuits from a local to kind of a
+[01:01:54] global it's an amazing example of kind
+[01:01:57] of how an autoregister can do things
+[01:01:58] that kind of a normal book on kind of
+[01:02:08] And then the final register of that book
+[01:02:12] is art writing. And I I can't you know I
+[01:02:13] mean there's so much to say about art
+[01:02:15] writing, different forms of the artist's
+[01:02:16] books, different ways kind of art
+[01:02:17] writing works. But I thought I'd just
+[01:02:20] mention Linda Stupart's book Virus
+[01:02:21] because she's a kind of colleague from
+[01:02:23] nearby. And this book has got images,
+[01:02:27] drawings, um but also contains spells,
+[01:02:29] spells against kind of uh white
+[01:02:31] heterosexual male artist. It's great. I
+[01:02:33] mean, there's a sort of comic element to
+[01:02:35] it, but also um it's a performance. It's
+[01:02:37] got spells, text to be read out,
+[01:02:41] scripts. Uh it's just a really
+[01:02:46] interesting object. There we are.
+[01:02:48] Interesting object. It's like books of
+[01:02:50] props. Books of props and triggers and
+[01:02:50] devices.
+[01:02:54] And a book like that looks back to in
+[01:02:56] fact Stupard looks back to people like
+[01:02:59] uh Kathy aka Blood and Gutsson High
+[01:03:00] School which I'm sure you all know is
+[01:03:02] kind of classic example of a book that
+[01:03:04] suddenly you turn a page and there's the
+[01:03:06] dream maps you know these crazy kind of
+[01:03:09] landscapes turn another page and there's
+[01:03:11] Kataka's drawings and then plays around
+[01:03:24] Yeah. And art writing and theory can
+[01:03:26] also play around with different ideas of
+[01:03:28] authorship and different kind of
+[01:03:29] collaborations. For example,
+[01:03:33] collaborations with nonhuman agents. So,
+[01:03:37] uh this was KLR Mcdal's Pharmarmacco AI
+[01:03:38] which was written in collaboration with
+[01:03:41] Chuck GPT. uh and it's I think it's one
+[01:03:43] of the first booklength works that is a
+[01:03:44] you know example of that kind of
+[01:03:44] collaboration
+[01:03:51] okay finally then there's also writing
+[01:03:54] that kind of blurs different genres for
+[01:03:56] example genres between theory and
+[01:03:59] fiction a blurring of genres the
+[01:04:00] invention of new genres one of my
+[01:04:03] colleagues Maria Fusco says that one
+[01:04:04] good definition of art writing is that
+[01:04:06] each instance of art writing invents
+[01:04:08] itself as a genre which I really like
+[01:04:10] that idea of these singular kind of
+[01:04:10] genres.
+[01:04:14] But sometimes this writing in the case
+[01:04:17] of theory fiction works almost to bring
+[01:04:19] about its own kind of reality or to set
+[01:04:20] up its own seed. And I'm particularly
+[01:04:22] interested in this how a book can then
+[01:04:24] have this impact of producing a scene
+[01:04:27] around it and so on and so forth work
+[01:04:28] back almost on its conditions of
+[01:04:30] emergence. And I I think that's probably
+[01:04:32] the case with the the cybernetic culture
+[01:04:34] research book. And this is a book about
+[01:04:37] hyperstition, about fictions having an
+[01:04:39] impact on the world, about retroactive
+[01:04:42] causation, reverse causation, but also a
+[01:04:44] book that does that I think to a certain
+[01:04:56] yeah. And then there's also questions of
+[01:04:59] kind of style and um presentation and
+[01:05:01] presses. I thought I'd just mention a
+[01:05:03] couple. This is MA Bibliotech Sharon
+[01:05:06] Kibllin's press in uh near from where I
+[01:05:15] and uh this is urbanomic that published
+[01:05:17] the cybernetic culture research unit but
+[01:05:18] you know I suppose in a way these
+[01:05:21] presses not so much ergonomic but defin
+[01:05:23] they're positioned in a kind of
+[01:05:26] borderland of academic writing paracade
+[01:05:27] paracademia really that's what it's
+[01:05:30] become known as and in a way that
+[01:05:33] diagram I showed you uh where I tried to
+[01:05:36] relate that to France Larowell's non-
+[01:05:37] philosophy project where another way of
+[01:05:38] thinking about that Larl is trying to do
+[01:05:41] this to philosophy
+[01:05:43] you know cut the head of philosophy drop
+[01:05:45] it down philosophy with a big P not the
+[01:05:48] cavalry man off the horse and in a way I
+[01:05:49] think there's something about dropping
+[01:05:52] down that perspective that's also at
+[01:06:00] which is also why it has such a kind of
+[01:06:03] interesting relation relationship with
+[01:06:05] exploring other forms of life, other
+[01:06:07] modes of subjectivity, decolonization.
+[01:06:09] This book, M flesh, is a good example of
+[01:06:23] Okay. So I think this links these new
+[01:06:26] forms of writing, these new genres of
+[01:06:27] writing that I'm interested in to
+[01:06:30] performance more generally understood.
+[01:06:33] And perhaps our myth work
+[01:06:35] to say it one more time is to do with
+[01:06:38] moving across genres, playing with
+[01:06:38] fictions,
+[01:06:42] writing fictions, claiming fictions, the
+[01:06:45] deployment of them, stepping aside to
+[01:06:47] let something else come through. This is
+[01:06:50] the uh a setup that Plastic Fantastic
+[01:06:54] did with our tarot cards and our um
+[01:06:57] cartoons and various props that were
+[01:06:58] ready for a performance that was then
+[01:07:02] enacted in Dilston Grove.
+[01:07:09] I think that's it really. Thanks for
+[01:07:10] listening. It's been great for me to
+[01:07:12] kind of go over all that work and uh
+[01:07:13] research around performance and myth
+[01:07:15] work and I'm just hoping some of it has
+[01:07:17] some traction with you. I don't offer
+[01:07:20] this up as kind of
+[01:07:22] I wanted to kind of what I want to do
+[01:07:24] was kind of share
+[01:07:26] what me and this scene is doing and
+[01:07:28] hoping it would have some intersections
+[01:07:30] with some of what you're doing and that
+[01:07:32] would be we build some relations and
+[01:07:34] kind of some alliances. So it's not as
+[01:07:36] if I was trying to kind of um explain
+[01:07:37] performance fiction, explain
+[01:07:39] performance. It's almost like kind of
+[01:07:40] saying, "Look,
+[01:07:43] here are some devices.
+[01:07:44] Have you got some that you can share?
+[01:07:47] Can we build something together?" And uh
+[01:08:13] Thank you. Thank you Simon for this
+[01:08:16] wonderful wonderful uh lecture.
+[01:08:16] Uh
+[01:08:21] I have a lot of thoughts and uh
+[01:08:25] questions. I guess um the first thing I
+[01:08:27] would like to ask especially maybe
+[01:08:29] triggered with last night's lecture by
+[01:08:32] Jack is the question of temporality time
+[01:08:35] because uh talking about myth work. You
+[01:08:37] talk about the past, the present and the
+[01:08:39] future. So I'm just wondering how you
+[01:08:43] kind of u position this in regards to
+[01:08:46] maybe this kind of future looking
+[01:08:50] perhaps even utopian but of course not
+[01:08:52] like a static utopia but a more kind of
+[01:08:55] situated utopian thinking. Is there
+[01:08:58] something there around this?
+[01:09:00] &gt;&gt; Yeah, I mean I think I'm interested in
+[01:09:00] uh
+[01:09:03] survival.
+[01:09:08] I'm interested in carrying on and kind
+[01:09:10] of community
+[01:09:13] and uh how I can
+[01:09:15] how I can survive in this world. You
+[01:09:18] know, I I sometimes feel very very
+[01:09:21] vulnerable. Uh and actually
+[01:09:24] a lot of the things I value feel very
+[01:09:26] vulnerable too. It feels like it can
+[01:09:28] easily be stamped out by the mono world
+[01:09:31] of capitalism. I've seen it happen. Uh I
+[01:09:33] think vulnerability is a key part of
+[01:09:34] aesthetics. I think when Martin was
+[01:09:37] talking about the aesthetic moment, I
+[01:09:38] think that's also a moment of
+[01:09:41] vulnerability. Um, so what I look for is
+[01:09:43] kind of where are the places in this
+[01:09:45] world that open up other possibilities
+[01:09:47] for me? Are the possibilities of
+[01:09:48] community of the values of the ways of
+[01:09:50] being in the world? Where are my
+[01:09:54] resources? And um, at least tied to this
+[01:09:54] paper,
+[01:09:58] sometimes I think those resources are in
+[01:09:59] the past. Sometimes they're kind of
+[01:10:01] objects or practices that can be
+[01:10:04] activated in the present. to allow a
+[01:10:06] different kind of mode to come into
+[01:10:08] being. So there's a sort of complicated
+[01:10:10] relationship between turning to the past
+[01:10:13] in order to open up future relations.
+[01:10:13] And
+[01:10:16] you know another thing to say about all
+[01:10:19] that is you know I'm very have been very
+[01:10:20] interested in the thought of your delers
+[01:10:23] and gratitarian ders's idea really that
+[01:10:25] kind of
+[01:10:28] aesthetic practices are to do with um
+[01:10:30] they're future orientated. They're to do
+[01:10:32] with calling forth the people. their
+[01:10:34] pitch towards the future. And really
+[01:10:36] what I understand is meaning by that is
+[01:10:38] they're kind of trying to trying to call
+[01:10:42] something forth, open something up. Um,
+[01:10:45] and you maybe the last thing to say is,
+[01:10:47] you know,
+[01:10:50] there's something about laying time down
+[01:10:50] flat,
+[01:10:54] you know, to see times. I suppose it's a
+[01:10:56] cybernetic understanding of time to see
+[01:10:57] them time being connected by different
+[01:11:00] loops and circuits that allows for this
+[01:11:01] kind of travel that I'm really
+[01:11:03] interested in. I think it's a way of
+[01:11:05] kind of opening up things. That's a
+[01:11:07] rather kind of roundabout entity across
+[01:11:09] India, but it's something.
+[01:11:12] &gt;&gt; No, thank you. Yeah, I mean it goes back
+[01:11:14] to what you were talking about in your
+[01:11:16] lecture about crossing these uh
+[01:11:18] boundaries kind of working between
+[01:11:22] different u modes of uh genres and uh
+[01:11:25] practices either this uh performative
+[01:11:29] practice or writing book books obviously
+[01:11:31] this kind of more academic work uh all
+[01:11:34] as kind of uh making devices which I
+[01:11:35] find really interesting as kind of
+[01:11:38] triggers to think about these uh new
+[01:11:41] relations. Um I guess maybe if you would
+[01:11:44] explicit uh what kind of power do you
+[01:11:46] see in this non-belonging in a sense
+[01:11:49] that in this kind of liinal position
+[01:11:51] what kind of power is there and in
+[01:11:54] regards to also um kind of more
+[01:11:54] epistemological
+[01:11:58] conditions uh kind of different
+[01:12:01] knowledge production and finally you
+[01:12:04] know you talk about knots do you not kn
+[01:12:04] somehow
+[01:12:08] &gt;&gt; I think it's just something I've
+[01:12:10] developed that I seem to move between
+[01:12:12] genres and practices or I seem to kind
+[01:12:15] of have a also different registers that
+[01:12:17] I work in. Some of it sometimes it's not
+[01:12:20] really conscious but I I do think that
+[01:12:23] I'm not really
+[01:12:24] interested
+[01:12:28] in knowledge production. Exactly. You
+[01:12:30] know in the academy what the academy
+[01:12:32] understands of knowledge production. I
+[01:12:33] think I've kind of realized that that's
+[01:12:35] not really what I'm interested in. I'm
+[01:12:37] not interested in kind of contributing
+[01:12:40] towards that. I'm more interested in
+[01:12:42] kind of interrupting that or kind of
+[01:12:44] finding sites outside that where other
+[01:12:46] things become possible. And and the
+[01:12:48] other thing to say L is I just I I kind
+[01:12:51] of follow uh my interest and intuition.
+[01:12:54] So, you know, for example, I'll give you
+[01:12:56] an example. I mean, I I've become really
+[01:12:57] interested in role playing games. You
+[01:13:00] know, this is something that I kind of
+[01:13:02] when I was about 14, I would play these
+[01:13:04] games and you know, for a long time in
+[01:13:06] the 80s and 90s, you'd never say you
+[01:13:07] were from Dungeons and Dragons
+[01:13:09] background. You get left out the seminar
+[01:13:11] room. But I've had my own two kids now
+[01:13:13] and they've started playing them. And I
+[01:13:15] just became really interested about how
+[01:13:17] they these these two boys and therefore
+[01:13:19] myself could drop into these imaginary
+[01:13:22] spaces and um play around in these
+[01:13:24] spaces that were really real for them or
+[01:13:26] flip-flopping between real and fiction.
+[01:13:28] and how that had an impact on their
+[01:13:29] lives outside. It allowed them to
+[01:13:32] experiment with agency and so on and so
+[01:13:35] forth. And so, you know, immediately I
+[01:13:36] wanted to kind of move into those
+[01:13:37] worlds. So, I would, you know, go and
+[01:13:40] work and do role playing games seminars
+[01:13:42] and things like that. And I I suppose
+[01:13:44] another way of saying it is that kind of
+[01:13:47] I'm slightly problem driven, you know,
+[01:13:48] kind of there's something that kind of
+[01:13:49] nags at me and I kind of follow it like
+[01:13:54] a quarry, you know. Yeah.
+[01:13:54] &gt;&gt; Um,
+[01:13:57] yeah. Yeah, I mean you mentioned uh
+[01:13:59] roleplaying. These are topics that uh
+[01:14:01] we'll also have in the next panel that
+[01:14:01] also
+[01:14:03] &gt;&gt; I know I just mentioned it because I
+[01:14:04] know that kind of they're going to be
+[01:14:05] talking about it so I thought I' set
+[01:14:07] that up for them.
+[01:14:11] &gt;&gt; But um it's also focused on new
+[01:14:15] technologies and um I was wondering in
+[01:14:19] this kind of contemporary condition this
+[01:14:22] dissolution between this um the dilution
+[01:14:25] between fact and fiction that's kind of
+[01:14:28] weaponized as well. So it's um and
+[01:14:31] obviously new technologies which play an
+[01:14:33] important role in disa that have
+[01:14:35] disastrous effects on culture, politics
+[01:14:40] and things like that. Um so yeah, how do
+[01:14:41] you work in this tension? How do you
+[01:14:45] kind of relate to this uh tension?
+[01:14:47] &gt;&gt; It's a really good question and it's
+[01:14:48] kind of an important question that Dave
+[01:14:50] and I have been thinking through for
+[01:14:52] kind of a number of years since we wrote
+[01:14:53] fictioning because you're absolutely
+[01:14:54] right. you know, we're in a we're in a
+[01:14:56] post-truth terrain or a postfact terrain
+[01:14:58] where the deployment of fictions and
+[01:15:00] fictionings and hyperstitions are used
+[01:15:02] by the alt-rise. Uh just like the turn
+[01:15:03] to the past, you know, a lot of the
+[01:15:05] papers were about ethnationalisms,
+[01:15:08] the turn to the past is a way of kind of
+[01:15:10] reinforcing the power of the alt-right.
+[01:15:11] So, I think you're right. I think a lot
+[01:15:13] of the stuff that I'm interested in can
+[01:15:15] be taken up by the right as well. It's
+[01:15:17] not a kind of simple way of saying
+[01:15:19] fictioning uh the fiction of the south,
+[01:15:21] the turns to the past will somehow save
+[01:15:23] us. And and I think you know the way we
+[01:15:25] we've arrived at Dave and I is you you
+[01:15:27] look at on a casebyase basis kind of
+[01:15:29] what are the kind of what are they being
+[01:15:31] mobilized for? Is it to do with
+[01:15:33] obscuring obuscation? Is it to do with
+[01:15:35] kind of certain manipulation of power or
+[01:15:37] is it to do with kind of opening up
+[01:15:40] spaces for marginalized communities for
+[01:15:43] people to be able to breathe to go on?
+[01:15:45] you know, so we look at it a case by
+[01:15:47] case basis. And I think also, you know,
+[01:15:50] it's not as if
+[01:15:51] I would kind of say I'm not thinking
+[01:15:53] about the recent the most recent books
+[01:15:55] now, but fiction. It's not as if we were
+[01:15:57] we were ever trying to say that's the
+[01:15:59] only thing. There's a place for kind of
+[01:16:03] very serious work that um attends to
+[01:16:05] reality. You know, what's really going
+[01:16:07] on beneath the fictions? What is the So
+[01:16:08] there's real work for ideological
+[01:16:11] critique, for critiquing the fictions.
+[01:16:13] But I suppose my my intuition is that
+[01:16:15] there is also a place for um still for
+[01:16:17] mobilizing fictions, better fictions,
+[01:16:19] fictions for communities, for
+[01:16:21] marginalized people. That's that's where
+[01:16:23] I am with it. Yeah.
+[01:16:25] &gt;&gt; The way you work uh within these uh
+[01:16:29] kinds of new uh opportunities.
+[01:16:31] Uh thank you. I will open up for
+[01:16:43] Thanks so much Simon. Uh there are many
+[01:16:46] resonances with our presentation to come
+[01:16:48] which I'm looking forward to sharing
+[01:16:51] with you. Um one question I had uh is if
+[01:16:55] you had any reflections on the position
+[01:16:57] of the magician as a world summoner
+[01:17:00] versus the mystic as a world negator or
+[01:17:04] unworlder and the implications of these
+[01:17:06] two dichotoies. That's a great question.
+[01:17:08] The magician as world maker and the
+[01:17:10] mystic as world negator.
+[01:17:11] Is that right?
+[01:17:20] Yeah. I thought a bit about this when
+[01:17:22] Jack was talking actually about this
+[01:17:23] relationship of negation and
+[01:17:25] affirmation, you know, of kind of
+[01:17:27] worlding and unworlding and you know,
+[01:17:30] Jack saying that really they'd had
+[01:17:32] enough of kind of worlds. they wanted to
+[01:17:34] while stay with destitution and yeah the
+[01:17:38] kind of the mystic as a withdrawer or a
+[01:17:39] negation versus the kind of
+[01:17:42] proliferation of worlds and I mean I
+[01:17:44] suppose where I am with that is that
+[01:17:46] kind of
+[01:17:49] any real kind of negation
+[01:17:51] is also an affirmation of another world
+[01:17:53] that's where I am with that you know
+[01:17:57] it's you know any real affirmation of
+[01:17:59] another world is also a negation of of a
+[01:18:01] previous world and Delers was quite good
+[01:18:03] on this. I I hesitate to turn to Lurs
+[01:18:04] the whole time, but kind of he was he
+[01:18:06] was particularly good on this particular
+[01:18:08] thing. He said that he thought it was
+[01:18:11] certain people were drawn towards he
+[01:18:14] thought it was a style a style of life
+[01:18:16] that certain people are drawn towards
+[01:18:18] affirmation and certain people are drawn
+[01:18:19] towards negation as a style and
+[01:18:22] obviously for Dillers he's a spinist and
+[01:18:24] Spininoza's whole kind of um
+[01:18:26] philosophical system is based on joy
+[01:18:28] affirmation as a way of kind of forming
+[01:18:30] knowledge and all the rest of it and I
+[01:18:32] think in a way you know that's where I
+[01:18:36] am I'm kind of my inclination is is the
+[01:18:36] magician
+[01:18:38] you know, the affirmation of other kind
+[01:18:40] of worlds. But I but I think what that
+[01:18:44] turn towards other worlds implies is a
+[01:18:46] turning away, you know, that's what I
+[01:18:49] kind of think. And um
+[01:18:51] yeah, I think that's I think that's the
+[01:18:53] case. So in a way I would I I'd almost
+[01:18:56] kind of be tempted to say that kind of
+[01:19:00] that withdrawal or turning or the the
+[01:19:00] mystic
+[01:19:03] turning away from the world and the
+[01:19:05] magician making worlds can be incarnated
+[01:19:07] in this kind same figure. They're two
+[01:19:10] different kind of moments or movements.
+[01:19:12] Are you satisfied with that answer or
+[01:19:18] I mean,
+[01:19:20] it's a bit like kind of it's a bit like
+[01:19:21] this. I don't want to kind of get into
+[01:19:23] this because it's not really my place
+[01:19:25] because I'm not non-binary myself, but
+[01:19:26] certainly kind of thinking about my
+[01:19:29] students at Gwiss and this kind of idea
+[01:19:31] of non-binary. There's definitely a turn
+[01:19:34] away from no having nothing to do with
+[01:19:36] that military-industrial complex
+[01:19:38] patriarchy, that genocide in Palestine.
+[01:19:39] They're not having anything to do with
+[01:19:41] that. But they're not solely involved in
+[01:19:43] negation. They're also there's a sort of
+[01:19:45] like affirmation of a completely
+[01:19:46] different kind of way of being a
+[01:19:48] different kind of you know uh form of
+[01:19:51] existence and I'm I'm very taken with
+[01:19:53] that and maybe one last thing just for
+[01:19:55] you guys as well that kind of when I go
+[01:19:57] to um
+[01:20:00] seminars and symposiums on role playing
+[01:20:02] games as opposed to academic conferences
+[01:20:05] or art conferences I find a community
+[01:20:05] there
+[01:20:10] that's very open and very generous very
+[01:20:15] neurodyiverse very vulnerable. Um,
+[01:20:17] and I find that there's a home there and
+[01:20:19] I find that is a kind of really
+[01:20:21] affirmation of other worlds that I'm
+[01:20:28] &gt;&gt; Hi Simon.
+[01:20:34] uh you know like in in Platos Fedrus the
+[01:20:38] uh the the god thought brings the the
+[01:20:43] gift of of writing to to the king tamos
+[01:20:47] and uh and he the tamos says like I
+[01:20:51] don't want this because actually writing
+[01:20:54] is not a memory it's a prosthetics it's
+[01:20:57] externalization it's dangerous and also
+[01:21:00] it weakens 's brain. So this is like
+[01:21:04] this like ancient knowledge. So I Yeah.
+[01:21:07] So maybe writing is something to get a
+[01:21:10] rid of it to get a rid of something. So
+[01:21:11] can you tell us something about this
+[01:21:14] like writing ritual memory like I I'm
+[01:21:16] very much interested in this relation
+[01:21:18] between writing and memory because Yeah.
+[01:21:21] &gt;&gt; Yeah. Yeah. Well, I could I mean I'll
+[01:21:23] try Boris. I mean Yeah. Yeah, I mean I
+[01:21:25] think that idea kind of writing as a
+[01:21:27] prosthesis or false memory or kind of
+[01:21:29] it's a supplement, you know, to speech
+[01:21:31] or it's kind of representation.
+[01:21:34] But uh yeah, I mean my my relationship
+[01:21:35] to write I don't know if I don't want to
+[01:21:36] bring it down to my experience. My
+[01:21:38] experience of writing though is to do
+[01:21:38] with
+[01:21:44] kind of writing out writing out
+[01:21:45] something from the self to get a
+[01:21:47] perspective on that. I don't know how
+[01:21:49] else to put it really. writing is a a
+[01:21:52] bit like um a bit like sometimes I kind
+[01:21:55] of see tabletop role playing games or
+[01:21:59] plastic fantastic as a kind of landscape
+[01:22:01] that I'm looking at with different
+[01:22:03] figures as avatars where I'm getting
+[01:22:05] some information or I'm seeing different
+[01:22:08] things. It's a kind of way of
+[01:22:11] understanding who I am, my relations,
+[01:22:13] where the exits are, the possibilities
+[01:22:15] are and so on and so forth. And writing
+[01:22:17] performs the same role for me. this kind
+[01:22:19] of particularly the relationship I have
+[01:22:21] with um I know this is dropping down to
+[01:22:22] a personal thing but the relationship I
+[01:22:24] have with long form writing I already
+[01:22:26] mentioned this there's something about
+[01:22:28] having a relationship with a long form
+[01:22:30] piece of writing that can often start
+[01:22:33] off laying out a landscape and so on and
+[01:22:36] so forth but then as one goes and goes
+[01:22:39] and goes it starts taking on forms that
+[01:22:41] weren't expected and then your
+[01:22:42] relationship with it changes your
+[01:22:43] relationship changes where you're
+[01:22:47] suddenly having a relationship with a
+[01:22:49] that's telling you things, that's
+[01:22:51] telling you things that you didn't know.
+[01:22:52] You know, you're producing something
+[01:22:53] that's of you, but it's telling
+[01:22:55] something back to you. And for me, that
+[01:22:58] I think that's a key thing about writing
+[01:23:01] that it's kind of it's from you, but it
+[01:23:02] also arise from some other place. It
+[01:23:04] gives information from some other place.
+[01:23:07] So, so sure, yeah, I I recognize those
+[01:23:09] philosophical takes on writing as
+[01:23:12] supplement representation, you know, get
+[01:23:13] rid of writing. But for me it's a kind
+[01:23:15] of um
+[01:23:17] well it's a technology of kind of
+[01:23:19] egregor you know it's a technology of
+[01:23:21] kind of making something of me that then
+[01:23:23] speaks back to me. Yeah. Thanks for that
+[01:23:44] Okay, thank you so much for sharing your
+[01:23:47] work. Just this um sort of short
+[01:23:50] question. I was very struck by the very
+[01:23:52] start of your turn, the concept of
+[01:23:54] temporal anamorphosies.
+[01:23:56] &gt;&gt; Um and then I think later you also
+[01:23:58] talked in in your response about
+[01:24:00] temporal loops back and forth. I think I
+[01:24:03] recognize some of that from the CCRU
+[01:24:04] writing, but
+[01:24:04] &gt;&gt; yeah.
+[01:24:06] &gt;&gt; Yeah. What I'd be curious to hear more
+[01:24:09] about time, temporal anamorphoses, and I
+[01:24:11] just can't figure out how as well it
+[01:24:14] relates to these devices or the drums in
+[01:24:15] particular. If you just want to say
+[01:24:17] anything about time or
+[01:24:19] &gt;&gt; anamorphosis. Thank you.
+[01:24:22] &gt;&gt; Yeah. So, um,
+[01:24:24] an anamorphosis in kind of
+[01:24:26] representational, you know,
+[01:24:29] representational work is a kind of it's
+[01:24:31] something that kind of breaks the logic
+[01:24:33] of a particular painting or visual
+[01:24:34] field. I'm sure you know this. It's kind
+[01:24:36] of you. So, for example, that smear in
+[01:24:37] the Hullbind painting, there's something
+[01:24:40] about how in order to engage with what
+[01:24:43] that kind of smear is, the rest of the
+[01:24:45] representational system has to has to
+[01:24:47] recede out of focus in order for that
+[01:24:53] other reality to come into focus. And um
+[01:24:56] you know uh Lan writes about that
+[01:25:00] painting in relation to also how in that
+[01:25:03] painting the anamorphosis is also
+[01:25:05] another reality the real with the big R
+[01:25:07] death coming into focus you know and
+[01:25:09] that's what disrupts the symbolic order
+[01:25:12] of of the painting. So okay so kind of
+[01:25:14] an anamorphosis is something that kind
+[01:25:17] of can could we say an anamorphosis is
+[01:25:19] something that disrupts the world you
+[01:25:20] know it's a kind of break in a kind of
+[01:25:22] visual regime including this visual
+[01:25:25] regime it's a blocked it's a thing that
+[01:25:28] doesn't make sense but then when one
+[01:25:31] adopts the correct posture whatever that
+[01:25:33] might be in relationship to it reveals
+[01:25:35] another order of signification another
+[01:25:39] symbolic order a deeper symbolic order
+[01:25:40] I'm rehearsing that all for myself not
+[01:25:42] for you.
+[01:25:44] So I I suppose, yeah, I'm interested in
+[01:25:46] the idea that temporal anamorphosis
+[01:25:47] might work in the kind of same sort of
+[01:25:49] way. I mean, I've not really thought it
+[01:25:50] through in too much detail, but for
+[01:25:52] example, the Falton drums, you know,
+[01:25:55] what are they?
+[01:25:57] You know, they're kind of things in our
+[01:25:58] visual regime. Yeah, they are in the
+[01:26:00] British Museum. They're archaeological
+[01:26:02] objects. There's papers written on them.
+[01:26:03] Uh there's different kind of theories
+[01:26:05] about them, but there they are. They're
+[01:26:07] in our regime. And is it a question that
+[01:26:09] if we take on the right posture or
+[01:26:12] position towards them, if we see them or
+[01:26:14] engage with them in a certain way, what
+[01:26:14] happens,
+[01:26:17] can they kind of conjure a world around
+[01:26:20] them? World of the dead perhaps that
+[01:26:22] dead child or those landscapes of the
+[01:26:26] dead. Um, so yeah, uh, I'm playing
+[01:26:29] around there with this idea that maybe I
+[01:26:30] can use that idea of a spatial
+[01:26:32] anamorphosis and, you know, think about
+[01:26:34] it in terms of temporal anamorphosis. I
+[01:26:35] don't know if it completely works to be
+[01:26:37] honest but that's that's kind of one of
+[01:26:39] the gambits and and yeah the other thing
+[01:26:40] about the time loops and uh you're
+[01:26:42] absolutely right it's a kind of it's the
+[01:26:44] cybernetic culture research unit it's a
+[01:26:45] cybernetic notion of time isn't it that
+[01:26:47] there are different loops linking
+[01:27:00] um
+[01:27:05] I suppose I mean I don't know you know I
+[01:27:08] suppose I suppose my gut feeling is uh
+[01:27:10] what allows you to
+[01:27:12] go along those certain routes or follow
+[01:27:14] those certain routes what are the kind
+[01:27:16] of pastures what are the kind of moments
+[01:27:17] within the world that open up those
+[01:27:20] circuits uh and I suppose what I've been
+[01:27:22] trying to develop a little bit is there
+[01:27:24] might be certain objects or practices
+[01:27:26] performance or certain rituals certain
+[01:27:28] objects that do allow you to follow
+[01:27:30] those circuits and are they always
+[01:27:33] anamorph anamorphic um I don't know
+[01:27:37] really um I don't know I mean I because
+[01:27:39] part of me feels that plasty fantastic
+[01:27:40] again Dave wouldn't agree with this but
+[01:27:42] part of me feels that plasty fantastic
+[01:27:44] those performances I showed you part of
+[01:27:45] me feels they've got an anamorphic logic
+[01:27:48] to them there's something around there
+[01:27:50] they are in the real but they don't
+[01:27:53] quite make sense you know but if one
+[01:27:57] adopts the right position towards them
+[01:28:00] all sorts of things open up so yeah
+[01:28:01] that's the long answer the short answer
+[01:28:04] is I don't know whether morphosis is
+[01:28:05] connected to the time looping but I
+[01:28:08] suspect it is in my I suspect it is. Is
+[01:28:11] that are you satisfied with that? Yeah,
+[01:28:33] now. Okay, thank you Simon for this
+[01:28:35] unfolding of your practices. It's really
+[01:28:40] excellent to to get into what ditches
+[01:28:41] you have been crawling around in
+[01:28:44] together with delusurs and other ones.
+[01:28:49] It's great. But I have a many many
+[01:28:52] questions in ways. One Anna Cornblue
+[01:28:54] came out with a book quite recently
+[01:28:56] called immediacy
+[01:28:59] where she is strongly critical to
+[01:29:02] autofiction theory fiction
+[01:29:09] disqualifies
+[01:29:13] reflection of different kinds.
+[01:29:15] So one question that I have is sort of
+[01:29:19] how do you think about immersive in
+[01:29:23] regard to art and media
+[01:29:26] in particular in relationship to how to
+[01:29:28] position imagination
+[01:29:31] because somehow
+[01:29:34] personally I oscillate in between
+[01:29:35] thinking imagination in regard to
+[01:29:36] difference
+[01:29:41] and imagination in regard to imminence.
+[01:29:43] problem with with difference would be
+[01:29:47] that well then imagination is all in
+[01:29:50] language. Therefore
+[01:29:52] the context from which I imagine will
+[01:29:55] govern imagination. On the other hand,
+[01:29:57] if I think imagination over im
+[01:30:02] imminence, uh my problem is I cannot not
+[01:30:05] somehow also have disqualify kind of
+[01:30:08] performativity etc. because there is
+[01:30:10] something that is actual to or some form
+[01:30:14] of real. So I'm curious about how how
+[01:30:14] you
+[01:30:18] so the struggle that we have I believe
+[01:30:21] is exactly how to think imagination in
+[01:30:23] regard of
+[01:30:26] a difference in kind or or difference
+[01:30:29] that are not simply transformational
+[01:30:32] and then finally into maybe something
+[01:30:35] about how how hyperfiction
+[01:30:40] as a as a nar narrative technology that
+[01:30:43] exactly doesn't Hell that is ex exactly
+[01:30:47] not projecting the future but generating
+[01:30:47] futures.
+[01:30:58] Hello. Yeah, I'll try I'll try answer
+[01:31:00] those Martin although kind of they're
+[01:31:02] all very very difficult questions and um
+[01:31:04] I don't know that book in immediacy and
+[01:31:07] I can sort of see how certain forms of
+[01:31:09] writing like autofiction that foreground
+[01:31:12] the self might be critiqued because they
+[01:31:14] affirm immediacy over space of
+[01:31:16] reflection etc. I don't see it quite
+[01:31:18] like that. I mean, as I sort of
+[01:31:19] mentioned in relation to my own writing
+[01:31:21] practice, there's something about kind
+[01:31:23] of writing the self that opens up that
+[01:31:25] reflective space and opens up that
+[01:31:27] perspective. And I think as I as I
+[01:31:29] mentioned to you outside, I think kind
+[01:31:31] of having that perspective back on the
+[01:31:34] self is not a million miles away from
+[01:31:35] what you understand as the aesthetic
+[01:31:37] event. I think there's something
+[01:31:38] similar, not the same, but something
+[01:31:42] similar. Um, in relation to imagination,
+[01:31:44] yeah, I'm I'm also interested in kind of
+[01:31:46] imagination, imaginative worlds. how
+[01:31:48] they interact with the kind of real
+[01:31:50] worlds. And I I I think I recognize in
+[01:31:52] what you say there about imagination
+[01:31:54] that's kind of difference in degree
+[01:31:56] versus one that's difference in kind and
+[01:31:59] how I guess what you're saying is how an
+[01:32:02] imagination can just repeat the context
+[01:32:03] or can repeat what came before. How can
+[01:32:06] we generate something radically new? Uh
+[01:32:11] and I suppose uh for me that's partly,
+[01:32:12] if I'm answering your your question
+[01:32:15] correctly, partly what plastic
+[01:32:16] fantastic's about. It's about trying to
+[01:32:19] produce a kind of setup, a kind of
+[01:32:19] fiction
+[01:32:25] through what's available in the world,
+[01:32:28] almost like building a platform to allow
+[01:32:31] something that was unpredicted and and
+[01:32:33] unknown to happen. So, it's almost like
+[01:32:35] kind of using
+[01:32:37] the sort of difference in degree, the
+[01:32:41] context, what's available as a setup to
+[01:32:43] allow something different to occur,
+[01:32:44] something that was kind of unpredicted.
+[01:32:47] That's kind of how we kind of see it.
+[01:32:50] And uh the last bit of your question
+[01:32:54] about kind of yeah hyperfiction and yeah
+[01:32:56] well I I think this idea that fictions
+[01:32:58] might bring about a kind of reality or
+[01:32:59] they might bring about their own reality
+[01:33:01] as you know this is a kind of key thing
+[01:33:03] for hyperstition that kind of somehow
+[01:33:04] there was a way of writing fictions that
+[01:33:06] kind of brought about their own reality
+[01:33:08] and you you see that kind of with memes
+[01:33:10] and to a certain extently for the
+[01:33:12] cybernetic culture research unit there's
+[01:33:15] something about AI in in place there but
+[01:33:17] just on my own the level of my own
+[01:33:20] practice ice. I think what I'm
+[01:33:22] interested in doing is kind of producing
+[01:33:23] different fictions, whether they're in
+[01:33:25] writing, in performance or different
+[01:33:29] genres, um that will then unfold and
+[01:33:31] give me places and spaces to live and to
+[01:33:34] experiment and so on and so forth. So,
+[01:33:36] it's it's it's almost like kind of using
+[01:33:37] the methods and the tools I have
+[01:33:41] available to me to bring about some sort
+[01:33:43] of change in my kind of reality. I'm
+[01:33:45] aware that that's a slightly woolly
+[01:33:46] answer to your three quite deep
+[01:33:49] questions, but

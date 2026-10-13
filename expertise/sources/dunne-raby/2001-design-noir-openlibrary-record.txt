@@ -1,0 +1,27 @@
+Source: Design Noir (Birkhäuser, 2001), Open Library record
+URL: https://openlibrary.org/books/OL9090652M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL9090652M
+Title: Design Noir
+Subtitle: The Secret Life of Electronic Objects
+Publishers: ['Birkhäuser Basel']
+Publish date: September 1, 2001
+ISBN: ['9783764365660']
+Pages: 176
+Work: ['/works/OL16988699W']
+
+----
+
+Source: Design Noir (Bloomsbury, 2021 reissue), Open Library record
+URL: https://openlibrary.org/books/OL29432549M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL29432549M
+Title: Design Noir
+Subtitle: The Secret Life of Electronic Objects
+Publishers: ['Bloomsbury Publishing Plc']
+Publish date: 2021
+ISBN: ['9781350070639']
+Pages: 176
+Work: ['/works/OL5850051W']

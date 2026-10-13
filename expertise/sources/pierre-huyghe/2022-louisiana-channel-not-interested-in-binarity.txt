@@ -1,0 +1,375 @@
+Source: Artist Pierre Huyghe: "I'm not interested in binarity." (Louisiana Channel, YouTube, uploaded 29 Sep 2022; auto-captions, rough)
+URL: https://www.youtube.com/watch?v=WArGjRRF8Ec
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:17] I'm not here to address or to explain uh
+[00:00:20] to give uh answers you know to coot
+[00:00:22] Laurence vinner my dear Lawrence vinner
+[00:00:24] I would say it's about perplexity you
+[00:00:27] know if there is enough playful and
+[00:00:30] playful thoughtful
+[00:00:35] you know idas taking a sensitive
+[00:00:48] doing it's always difficult to just
+[00:00:50] point the moment in which you decide to
+[00:00:54] be an artist and of course it's a mix of
+[00:00:57] Desire chance uh opportunity there was
+[00:01:00] something in the banality of life in the
+[00:01:02] what was there that I could not deal
+[00:01:05] with and the need of something different
+[00:01:07] and that's what it probably pushed me
+[00:01:10] toward that direction I mean it take
+[00:01:13] time to define a language right uh uh
+[00:01:16] you I mean personally I was lost for
+[00:01:20] years uh not finding something that was
+[00:01:23] uh that I feel a satisfaction of uh that
+[00:01:25] I felt I F always something was looking
+[00:01:29] like something or or I was unhappy about
+[00:01:30] the way it could develop or it could
+[00:01:33] unfold uh or it was too trap or too
+[00:01:36] compact I I guess when I start to find
+[00:01:39] my language was a moment where I I I was
+[00:01:42] more interested about uh creating
+[00:01:46] situations uh rather than object uh in
+[00:01:48] general uh when I say object I don't
+[00:01:51] mean sculpture I mean something to have
+[00:01:54] a certain compact compactness right so
+[00:01:58] the day I could understood that uh
+[00:02:01] somehow uh he had help to construct from
+[00:02:15] ahead the work needed somehow to become
+[00:02:18] as you said before an environment or mil
+[00:02:21] um and I search around and there was a
+[00:02:22] part that they didn't use which was an
+[00:02:25] island on the on this River so now you
+[00:02:28] have a physical mil enclosed uh
+[00:02:30] surrounded by water once in while
+[00:02:33] there's a dam above and the the dam
+[00:02:37] open uh and as it open it overflow not
+[00:02:39] the entire Island but at least half of
+[00:02:40] it that's something that I was very
+[00:02:43] interested in I scann the whole island
+[00:02:46] um which is quite a large island it's
+[00:02:50] like a football field like size um every
+[00:02:52] detail the stone the the piece of food
+[00:02:54] the trees the human who were there
+[00:02:57] during the recording uh some trash of
+[00:03:00] the factory of the past um p Factory so
+[00:03:03] some metal machine parts and boats and
+[00:03:06] whatever you can imagine animals who
+[00:03:08] were there so now you have a place which
+[00:03:12] is a simulation or at least an simulate
+[00:03:14] environment not active yet of the whole
+[00:03:16] island you can circulate in that thing
+[00:03:19] now within that place uh I have two milu
+[00:03:21] one which is digital which is an oral
+[00:03:25] Network that generate mutation of the
+[00:03:27] existing element in the Island right so
+[00:03:28] you have the simulation the trees the
+[00:03:31] stone and then there's some
+[00:03:33] transformation of this element they
+[00:03:36] mutate they have shapes that is given by
+[00:03:38] the by the neural network we use
+[00:03:41] different other we use gun we use Del to
+[00:03:43] to just generate the shapes
+[00:03:46] simultaneously uh you have the physical
+[00:03:49] mil that we VAR is sensors uh that
+[00:03:52] capture the water level the toxicity of
+[00:03:56] the the soil the wind the the sun
+[00:03:58] movement of animal so the bioactivity
+[00:04:01] the chemical activ it is also capture in
+[00:04:04] real time once in a while once we take
+[00:04:07] because it's a volumetric object we take
+[00:04:10] aart and we implement it the the
+[00:04:13] mutation the digital simulation somehow
+[00:04:16] go out and is implanted is exceed it
+[00:04:19] exceed the simulation and uh it manifest
+[00:04:22] in the physical world so they also have
+[00:04:24] uh a life in themsel they will either
+[00:04:27] sustain or decompose over time they also
+[00:04:30] affect the place affecting the sensors
+[00:04:32] uh well that's the that's the project so
+[00:04:36] you as a as a as a witness you you you
+[00:04:39] penetrate the island you cross it's a
+[00:04:42] cross it's a it's a not a Jour will be
+[00:04:45] but it's a it's a walk through that mil
+[00:04:48] that two mil uh that
+[00:04:50] overlap um and and you arrive in front
+[00:04:53] of that screen that you see behind me uh
+[00:04:55] you understand that the camera itself
+[00:04:57] and only the the the the world is
+[00:05:01] changing as uncontrol in a non that I do
+[00:05:03] not control the way it change but the
+[00:05:06] camera also have a certain personality a
+[00:05:09] certain his own intelligence so the way
+[00:05:13] it capture is change over
+[00:05:13] [Music]
+[00:05:22] time the work that I did at documenta 13
+[00:05:26] it's called un that was a compost of a
+[00:05:29] park uh and in that compost which is a
+[00:05:32] place where things transform
+[00:05:34] change it's a place also where things
+[00:05:37] are unorganized they let the thing they
+[00:05:40] drop things in it's the back somehow the
+[00:05:43] the back of the park I use it in the
+[00:05:45] same methodology meaning the compost and
+[00:05:47] the fact that it's a place where you
+[00:05:51] throw things out I somehow increased
+[00:05:54] that methodology to just say what about
+[00:05:57] if I throw element of History uh in it
+[00:06:06] be within that place was that uh
+[00:06:09] statue and it's a very generic statue
+[00:06:11] somehow on that statue she have the head
+[00:06:15] uh cover and by a beehive um that be
+[00:06:19] have grow in time various plants around
+[00:06:22] that are usually plant that are linked
+[00:06:25] to either either physiologically or
+[00:06:27] psychologically affect the human
+[00:06:31] body this plants there bees are flying
+[00:06:33] all around making a polonization going
+[00:06:37] back and they are just uh be growing
+[00:06:39] growing growing that kind of organ
+[00:06:41] somehow on the on the body of that
+[00:06:43] person within that place there's other
+[00:06:45] kind of character there's a dog with a
+[00:06:49] pink leg you have a a tree that was a uh
+[00:06:53] Joseph B tree uh from the famous work of
+[00:06:57] Joseph B that is now drop on the place
+[00:06:59] and there ANS who are just eating the
+[00:07:03] tree slowly and slowly and moving around
+[00:07:06] so you have something that is obviously
+[00:07:09] endlessly actually changing modifying
+[00:07:12] you have contingency you have uh
+[00:07:14] unpredictability you have something that
+[00:07:18] is not exposed somehow it's not an
+[00:07:20] exhibition it's not order it's not
+[00:07:22] there's no Mis somehow somehow the work
+[00:07:26] always change in the context is in it
+[00:07:28] always take its environment so that's
+[00:07:31] what happened in in Kon we installed
+[00:07:32] it's actually exactly the work of
+[00:07:35] documenta It's The End Garden and in few
+[00:07:37] days they just pollinate and they start
+[00:07:38] so they start again they start again so
+[00:07:45] stage organization yeah of course and
+[00:07:48] and and collective intelligence are the
+[00:07:50] of course things who have interested me
+[00:07:54] at first and as other any animal it's
+[00:07:57] also the contingency that bring any
+[00:08:00] animal that I'm interested in they also
+[00:08:02] nicely um I love the fact that they they
+[00:08:05] they just go to different place they
+[00:08:08] connect things themselves um I'm
+[00:08:11] interested into that I do also I'm also
+[00:08:12] interested about the fact that they are
+[00:08:15] building I do do not
+[00:08:15] mind
+[00:08:20] that
+[00:08:24] shapes meaning
+[00:08:27] shift somehow I do not mind that things
+[00:08:30] are incomplete that the work are
+[00:08:33] incomplete enough to welcome other
+[00:08:36] conditions that they are not closed
+[00:08:38] enclos with the meaning with the
+[00:08:42] ontology with the truth uh um so they
+[00:08:45] have always the capacity to as I was
+[00:08:47] saying before to modify uh and
+[00:08:50] eventually to that the meaning modify
+[00:08:52] not only they the way they appear or
+[00:08:52] disappear
+[00:09:11] you have a construct uh a construct
+[00:09:13] environment what you see something very
+[00:09:17] gray you see kind of a broken Stone you
+[00:09:19] see you might have a feeling that there
+[00:09:21] was maybe
+[00:09:21] one
+[00:09:25] unity and you see that that Unity has
+[00:09:28] been broken into two pieces and within
+[00:09:31] that landscape you have different uh
+[00:09:35] animals they are all usually with very
+[00:09:37] poor color nearly black and white gray
+[00:09:40] and they are moving very very slowly the
+[00:09:42] animal has been selected for the
+[00:09:45] behavior as I always do they become
+[00:09:48] somehow it's like choosing character
+[00:09:51] without choosing narration you know you
+[00:09:53] have characters because you know that
+[00:09:56] they going to do again and again uh they
+[00:09:58] have instinctual Behavior so that is a
+[00:10:01] is a p turn somehow that will come back
+[00:10:04] and come back you can as if you will bu
+[00:10:07] a narrative not from creating you know
+[00:10:10] just based on the so you do not control
+[00:10:12] again the relation but you know that
+[00:10:14] each one have a particularity that will
+[00:10:16] come back it's a situation that will
+[00:10:20] repeat somehow but will modify each time
+[00:10:21] each time so it's not the same it's
+[00:10:25] never never the same but there is some
+[00:10:27] recurrency it's how to create a
+[00:10:29] situation that have no beginning and no
+[00:10:31] hand and not only that but there's no
+[00:10:34] linearity so you do not know what what
+[00:10:39] could occur at any time uh within and
+[00:10:41] that was a way to do kind of something
+[00:10:43] live rather than a something
+[00:10:46] recorded uh out of it it will be more
+[00:10:49] complicated somehow it's comp within
+[00:10:51] this using
+[00:10:54] um instinctual behavior that go beyond
+[00:10:56] the life of one single
+[00:10:59] entity um
+[00:11:07] [Applause]
+[00:11:14] occur I also at that time wanted to
+[00:11:17] bring other intelligence at play that
+[00:11:20] that somehow the ID is function like
+[00:11:22] really like a nearly as a metastas that
+[00:11:25] take different shape go through that
+[00:11:28] mure so the mil has to be sensitive
+[00:11:32] again here there was sensors uh the
+[00:11:35] place as we'd say was an old ice skating
+[00:11:39] ring I cut the floor of the ring and
+[00:11:43] using a logic game uh and within this
+[00:11:46] logic game he gave me a certain way to
+[00:11:48] cut it in the middle you have an
+[00:11:51] aquarium in which you have a this conus
+[00:11:54] textile which is who have like patterns
+[00:11:57] like uh that you can see in Game of Life
+[00:12:00] uh Ru 30 it's called that's somehow I
+[00:12:03] take the shell and I scan it and it give
+[00:12:06] the the tempo and that open or close the
+[00:12:09] ceiling uh who are this shape who are
+[00:12:12] like Black riverse Pyramid letting the
+[00:12:16] the Sun or the rain entering the place
+[00:12:19] on the other side you have a an black
+[00:12:21] thing which is an incubator and within
+[00:12:23] it there is cancer cell capture by a
+[00:12:25] microscope and we calculate when the
+[00:12:28] division if the division is fast or not
+[00:12:30] fast according to the environment right
+[00:12:33] around the that incubator the threshold
+[00:12:35] give a give a signal that trigger an
+[00:12:38] augmented reality so if you are in the
+[00:12:40] space you can actually look with your
+[00:12:43] phone and you see these kind of pyramids
+[00:12:45] and they just also themselves they
+[00:12:47] overlap with the the actual ones who are
+[00:12:50] there but a bit like here as I was we
+[00:12:52] were mentioning before what is happening
+[00:12:55] is that um same thing if there is a
+[00:12:58] certain amount of this virtual uh shape
+[00:13:02] flying around the space the place it
+[00:13:04] change it effect so if there is some a
+[00:13:06] certain amount of them within the
+[00:13:07] virtual world it affect the physical
+[00:13:10] world etc etc etc so there's the there's
+[00:13:12] different feedback loop what was
+[00:13:15] interesting is to find no master somehow
+[00:13:18] to find no Center uh within that place
+[00:13:20] somehow there's not
+[00:13:25] one um departure point uh within that
+[00:13:27] narrative I'm trying that the work
+[00:13:29] somehow uh
+[00:13:32] have his own uh
+[00:13:34] agency that mil it's really a mil that
+[00:13:37] have his own agency and somehow is
+[00:13:41] indifferent at least in this process to
+[00:13:44] the gays or to the public it doesn't
+[00:13:47] mean that do not affect
+[00:13:50] the I mean we can talk about the ants
+[00:13:53] who are there it's we can affect them
+[00:13:56] probably but it's not that they are
+[00:13:59] doing things for us right so that's what
+[00:14:22] work the monkey is wearing a human mask
+[00:14:26] it's mask that could be a mask of a
+[00:14:28] cyborg or maybe something that can go
+[00:14:28] from
+[00:14:32] come from no theater you don't know it's
+[00:14:34] have not really a precise definition of
+[00:14:34] the
+[00:14:38] Mask uh but it's enough a human mask you
+[00:14:41] recognize that as a human mask and it's
+[00:14:45] carried by a monkey that is wearing also
+[00:14:50] clothes and the mask is a young woman uh
+[00:14:51] or girl
+[00:14:53] eventually uh so you don't know if you
+[00:14:57] are facing actually a child a cyborg etc
+[00:15:00] etc um
+[00:15:02] the the monkey is doing is just
+[00:15:06] repeating an action so again this
+[00:15:09] Instinct uh something that he have also
+[00:15:11] learned so it's between learning and
+[00:15:15] Instinct the he has been um trained to
+[00:15:17] serve the client to bring the towel or
+[00:15:20] to bring the little sake bottle so you
+[00:15:23] see this animal in this um suspended
+[00:15:25] time where he
+[00:15:28] actually is in between instruction and
+[00:15:28] in
+[00:15:34] the relation with the mask that confuse
+[00:15:37] always person right once you put a mask
+[00:15:39] on someone and we have a mask uh we all
+[00:15:43] carry the human mask right uh it's not
+[00:15:46] that we not having a mask uh but of
+[00:15:46] course
+[00:15:51] uh you can see how people get still
+[00:15:53] confused looking at film for
+[00:15:56] example the they are sometime not able
+[00:15:59] to distinguish between what a character
+[00:16:01] what's the actor what's the role which
+[00:16:04] is three different things right so I'm
+[00:16:07] playing with this confusion and I'm
+[00:16:09] playing with the capacity the empathy
+[00:16:12] the classic empathy you have with the
+[00:16:14] character here being something that we
+[00:16:17] should have an empathy because it's
+[00:16:21] supposed to be human but it's a trap
+[00:16:23] the the human mask is a trap that
+[00:16:26] allowed us somehow to capture
+[00:16:29] otherness yeah you know when I start an
+[00:16:31] idea I never really I don't know what
+[00:16:34] the outcome will be I don't know the
+[00:16:37] truth is I take the the the thing that
+[00:16:37] somehow
+[00:16:43] uh will be the most coherent with the
+[00:16:47] with with the idea that I have uh one of
+[00:16:49] course is more linear process of the
+[00:16:51] film and in that regard the one with
+[00:16:54] human mask as I took the decision to do
+[00:16:56] a very conventional film the most
+[00:16:58] conventional I could do so it's very
+[00:16:58] classically
+[00:17:04] edited uh to to somehow make the the
+[00:17:08] medium itself the film being Disappear
+[00:17:08] Completely
+[00:17:12] um uh when I work with uh with
+[00:17:15] environment or mil it's very different
+[00:17:19] right um there is no linearity in that
+[00:17:22] regard simulation is kind of in between
+[00:17:25] somehow uh because there's no beginning
+[00:17:28] or end I think maybe that is something
+[00:17:30] that that accept simulation is an answer
+[00:17:43] regard I am not interested in B bity uh
+[00:17:47] I'm more in the queer Zone you know uh
+[00:17:50] I'm in the Quasi I'm in the in between
+[00:17:53] I'm in the I do not want again to to
+[00:17:56] control the politic between A and B
+[00:17:59] things are are not equal but
+[00:18:04] I consider them uh equally right uh uh
+[00:18:06] there's a certain form of
+[00:18:10] indifferentiation between them uh uh but
+[00:18:12] I distinguish them and I'm interested
+[00:18:15] about contingency in a certain way so of
+[00:18:17] what is not predictable of what is
+[00:18:21] unknown of what is so
+[00:18:24] meaning I think that has been somehow a
+[00:18:28] core of the work uh so I cannot say no I
+[00:18:31] I I I prefer to
+[00:18:42] um decision or some uh event occurring
+[00:18:45] within the work to others you know or to
+[00:18:48] whatever they are biotic or AB or
+[00:18:53] abiotic but yes I'm trying my best to to
+[00:18:53] this
+[00:18:57] intentionality to this to kind of sust
+[00:18:57] to
+[00:19:01] I'm still the one who have decided to do
+[00:19:04] that but I am trying within the within
+[00:19:09] the process of it to to to find ways to

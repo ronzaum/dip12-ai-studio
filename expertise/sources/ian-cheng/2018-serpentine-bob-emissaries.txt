@@ -1,0 +1,128 @@
+Source: Ian Cheng: BOB, Emissaries (Serpentine, YouTube, uploaded 12 Apr 2018; auto-captions)
+URL: https://www.youtube.com/watch?v=XFmMrcW2ZsM
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:03] bob is a sentient creature Bob stands
+[00:00:07] for value of beliefs and I wanted to use
+[00:00:10] the idea of a creature as a kind of
+[00:00:13] compositional space the way that a
+[00:00:15] painter has a canvas as a compositional
+[00:00:18] space or a filmmaker has sets cameras
+[00:00:20] special effects actors as their
+[00:00:22] compositional space I really wanted to
+[00:00:25] use the idea of a creature to hold and
+[00:00:28] contain ideas about metabolism life
+[00:00:32] cycle of course AI and long term growth
+[00:00:34] but also in the way that a painter might
+[00:00:37] tell you to mind the edges I now have to
+[00:00:39] mine the edges of a creature which are
+[00:00:41] how its born and how it dies out
+[00:00:43] decomposes the conditions under which
+[00:00:46] and evolve emerges and all these
+[00:00:49] concerns I felt that I could contain
+[00:00:51] within the idea of a creature so when
+[00:00:54] the viewer uses the iPhone they possess
+[00:00:57] a part of Bob's body and they see the
+[00:00:59] part of that body is possessing often a
+[00:01:02] kind of sub agent a little face the
+[00:01:05] analogy is that when you Skype with a
+[00:01:08] family member like your mom you see on
+[00:01:10] the screen not a representation of your
+[00:01:12] mom of course it's an image but you
+[00:01:13] never feel that it's a representation
+[00:01:16] you just feel it's a kind of interface
+[00:01:19] to your actual mom who's on the other
+[00:01:21] side of the world and I very much wanted
+[00:01:24] to create that feeling through the user
+[00:01:27] interaction this exhibition so midway
+[00:01:29] through the show the exhibition will
+[00:01:32] change to show demo stories trilogy
+[00:01:35] physically in the space of a certain
+[00:01:38] time then a search trilogies
+[00:01:40] trilogy of simulations about cognitive
+[00:01:44] evolution and the principal the main
+[00:01:46] feature of emissary's is that it
+[00:01:48] contains an ecosystem filled with many
+[00:01:51] very basic ai's characters who react to
+[00:01:54] their binary and changing environment
+[00:01:56] except for one character who I called an
+[00:01:58] emissary who instead of reacting to the
+[00:02:00] environment has a set of narrative goals
+[00:02:02] and very doggedly tries to follow those
+[00:02:04] goals almost like the way in which you
+[00:02:06] wake up in the morning and you plan a
+[00:02:08] day and try to stick to the plan that
+[00:02:10] central conflict in the series is this
+[00:02:13] narrative agent the emissary trying to
+[00:02:17] nap its plans on very vast changes
+[00:02:19] occurring amongst other characters in
+[00:02:20] the environment in the environment
+[00:02:23] itself and sometimes emissary succeeds
+[00:02:25] in overcoming those obstacles and
+[00:02:28] steering the environment toward its
+[00:02:30] narrative peers and other times the
+[00:02:32] environment and other characters steer
+[00:02:34] the emissary off course and off its
+[00:02:36] script I first became interested in
+[00:02:38] making simulations when I felt a deep
+[00:02:41] desire to see art that had a sense of
+[00:02:45] aliveness and that could change over
+[00:02:47] time and be a bit more out of control in
+[00:02:50] terms of its authorship for me more and
+[00:02:53] more I've come to feel that I want to
+[00:02:55] make art with a nervous system and by
+[00:02:58] that I mean art that can react and learn
+[00:03:01] on its own and can react to you or me as
+[00:03:03] a viewer I think art with the nervous
+[00:03:06] system starts to become something that
+[00:03:09] feels sentient that becomes that has its
+[00:03:12] own agency and you would forgive it for
+[00:03:14] not behaving we expect art in a museum
+[00:03:18] or an institution to behave perfectly as
+[00:03:20] planned to the perfection of the artist
+[00:03:23] now I'm trying to both adapt myself as
+[00:03:26] personally in my work to be more pliable
+[00:03:28] or adaptable to change
+[00:03:32] I figured by trying to make an artwork
+[00:03:34] that can change and hopefully change on
+[00:03:36] its own that you would have a
+[00:03:38] relationship to it the way that you have
+[00:03:40] a relationship to a pet or to a cousin
+[00:03:42] or to any other
+[00:03:44] living creature using artificial
+[00:03:46] intelligence in these artworks for me
+[00:03:48] presents an opportunity to think about
+[00:03:49] different models of the mind
+[00:03:53] so within Bob there isn't just one kind
+[00:03:56] of AI in fact there are several
+[00:03:58] competing models of AI there's one
+[00:03:59] aspect that deals with its memory and
+[00:04:01] emotional intelligence there's another
+[00:04:03] aspect that deals with its capacity to
+[00:04:06] engage with threats were friends and
+[00:04:08] there's the potential for Bob in the
+[00:04:11] design of his body and his metabolism to
+[00:04:13] accept in the future different models of
+[00:04:17] AI and have those ai's run the gamut of
+[00:04:21] Bob's bodily expressivity and I'm very
+[00:04:23] much interested in the idea of a society
+[00:04:26] of mind idea that even within us there's
+[00:04:28] multiple people inside of us the person
+[00:04:31] who's inside of us who comes out when
+[00:04:32] we're really hungry and can't think
+[00:04:34] about anything else as a person inside
+[00:04:35] of us who wants to nurture something
+[00:04:37] there's a person inside of us who wants
+[00:04:39] to be very playful it's the person
+[00:04:41] inside of us who wants to confront a
+[00:04:44] frontier and not stay at home and I
+[00:04:47] think these different people come out at
+[00:04:48] different moments in our own lives and I
+[00:04:52] really wanted to model an AI that could
+[00:04:54] contain all that I've realized that one
+[00:04:56] AI cannot contain that that in fact if
+[00:04:58] you combine multiple models of AI and
+[00:05:00] have them compete for agency or for the
+[00:05:03] spotlight and control of the body that
+[00:05:05] you would get something closer I think
+[00:05:07] and something more truthful to how

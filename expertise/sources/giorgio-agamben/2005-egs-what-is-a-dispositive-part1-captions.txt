@@ -1,0 +1,148 @@
+Source: Giorgio Agamben, 'What is a Dispositive?', lecture, European Graduate School, 2005, part 1 of 8; YouTube auto-captions with timestamps (errors possible)
+URL: https://www.youtube.com/watch?v=ua7ElsQFZPo
+Fetched: 2026-10-12 via yt-dlp (--write-auto-sub --sub-lang en) + vtt2txt.py
+
+[00:00:07] for reasons that I hope will become
+[00:00:10] clearer in the course of my lecture. I
+[00:00:13] am not satisfied the current English
+[00:00:17] translation of the term dispositive as
+[00:00:19] procedure or
+[00:00:22] apparatus and I would prefer
+[00:00:27] to keep nearer to the French region.
+[00:00:30] This is why I have proposed a probably
+[00:00:34] monstrous translation as dispositors.
+[00:00:38] Dispository the term is in the English
+[00:00:42] Oxford dictionary. It is an astrological
+[00:00:46] term that means the lord of a sign in
+[00:00:50] its relation to other planets.
+[00:00:54] Thus the dispositor as be being the lord
+[00:00:57] of the sign of the astrological sign
+[00:01:01] embodies all the forces and influences
+[00:01:06] that the planet exert on the individuals
+[00:01:09] inclining them binding them restraining
+[00:01:11] them in all possible ways. That's why
+[00:01:19] dispositivity by the way. So the the
+[00:01:22] question of terminology are important in
+[00:01:26] philosophy. Even if we do not reduce
+[00:01:29] philosophy to terminology like Fedri
+[00:01:33] Schlleg proposed to do, terminology is
+[00:01:36] extremely important. As a philosopher
+[00:01:40] whom I respect very much used to say,
+[00:01:42] terminology is the
+[00:01:46] poetical element in philosophy.
+[00:01:50] So giving name is the poetical moment in
+[00:01:53] philosophy. Of course, philosophers do
+[00:01:55] not need to define their technical
+[00:01:58] terms. Thus, Plato never as you know
+[00:02:00] defined his most
+[00:02:04] important technical term idea. That's
+[00:02:05] why since 2,000 years they are
+[00:02:09] discussing about it. On the contrary,
+[00:02:12] Spinoza prefers to define more
+[00:02:16] geometrical substantia capsu etc. And
+[00:02:19] the libraries also define the
+[00:02:23] mon I mean for mon etc
+[00:02:26] etc and every part of the discourse can
+[00:02:29] be can become a technical term. So the
+[00:02:32] hyphen in
+[00:02:35] haid in the belt
+[00:02:40] sign is a technical term. Yeah. And an
+[00:02:42] adverb glycol
+[00:02:46] in notw withstanding is a technical
+[00:02:49] term. And in the last text published by
+[00:02:54] the list limonance column unvi dots
+[00:02:58] column and dots are technical terms.
+[00:03:01] So what I'm suggesting here that
+[00:03:05] dispositive is a central technical term
+[00:03:07] in fuku
+[00:03:11] philosophy. He almost never really
+[00:03:15] defines it but in an interview of
+[00:03:19] 1977 he comes near to a
+[00:03:22] definition. I will just read a few lines
+[00:04:28] also
+[00:04:35] generalist. So let me now briefly resume
+[00:04:39] these statements. First this positive it
+[00:04:44] is a general and eterogeneous set. It
+[00:04:47] includes virtually everything linguistic
+[00:04:50] and not linguistic discourses,
+[00:04:54] institutions, architectures, laws,
+[00:04:57] police measures, scientific statement,
+[00:04:59] philosophical and moral proposition and
+[00:05:03] so on. But as he presides the
+[00:05:06] dispositive or dispositor itself is the
+[00:05:11] reso the network web established between
+[00:05:14] those elements.
+[00:05:17] Second, it has always a strategic
+[00:05:22] function. It's always inscribed in a jar
+[00:05:25] in a power game. So, it has a strong
+[00:05:27] relationship to
+[00:05:27] power.
+[00:05:32] Third, it's very general because it
+[00:05:35] includes the epistem and as you know the
+[00:05:38] episte defines for
+[00:05:42] fuko what allows in a certain society at
+[00:05:45] a certain time to distinguish between
+[00:05:47] scientific and not
+[00:05:50] scientific statement what you can say
+[00:05:51] and what you cannot say. So this
+[00:05:59] Let me make a quick genealogy of this
+[00:06:02] story first in Fuko and then in a more
+[00:06:02] general
+[00:06:08] frame. At the end of the 60s around the
+[00:06:16] writing Fuko does not imply the term
+[00:06:19] dispositive but he implies the term
+[00:06:19] positivity.
+[00:06:24] positivity when he tries to to name the
+[00:06:26] object of his
+[00:06:29] investigation. I always wonder where
+[00:06:34] Fuko could have find this curious term
+[00:06:37] positivity. Up to the moment I happened
+[00:06:43] to read Johnny essay introduc philosophy
+[00:06:46] the introduction to heaven's
+[00:06:48] philosophy you know the strong
+[00:06:51] relationship that linked fuko
+[00:06:56] and whom sometimes he refers to as
+[00:07:00] monmet. Now in chapter three of this
+[00:07:00] booklet
+[00:07:11] title reason history the ideas of
+[00:07:14] positivity and
+[00:07:14] destiny
+[00:07:19] analyzing writings in the so-called B
+[00:07:22] and the Frankfurt period that is to say
+[00:07:24] 1795 and
+[00:07:29] 96 he mentions and focuses on two books
+[00:07:37] French and Christian understand let's
+[00:07:39] take the first one is important only for
+[00:07:48] is
+[00:07:54] so makes a strong statement about these
+[00:07:58] two terms he writes we have Here two key
+[00:08:03] concepts we must always remember because
+[00:08:07] the whole Hegel's reflection focuses on
+[00:08:10] them. I mean the concept of positivity
+[00:08:19] So as as for the f as for the first term
+[00:08:22] the police shows that this concept in
+[00:08:26] eagle comes from the opposition between
+[00:08:31] natural religion and positive or
+[00:08:31] historical
+[00:08:36] religion. While the natural religion is
+[00:08:39] the immediate and general relationship
+[00:08:43] of man of human reason to the divine. A
+[00:08:48] positive or historical religion includes
+[00:08:52] all the set the whole set of concrete
+[00:08:57] beliefs, rights, rules, behavior which
+[00:08:59] appear at a certain moment and in a
+[00:09:02] certain place and are imposed from
+[00:09:12] Hippolit quotes a passage from Hegel
+[00:09:14] Hegel to the
+[00:09:18] positivity that must have awakened for
+[00:09:22] go attention and seems to contain some
+[00:09:25] intimations of the notion of
+[00:09:25] dispositive.
+[00:09:32] I quote, "A positive religion includes
+[00:09:36] feelings and beliefs which are imposed
+[00:09:41] by means of constriction to the souls of
+[00:09:44] individuals. It demands acts that are
+[00:09:47] the effect of a command and the result
+[00:09:48] of
+[00:09:54] obeyance. It's not far from disposal
+[00:09:54] dispositive.

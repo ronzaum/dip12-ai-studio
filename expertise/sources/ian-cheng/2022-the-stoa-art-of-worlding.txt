@@ -1,0 +1,1842 @@
+Source: The Art of Worlding: Creating the World You Wish to Inhabit w/ Ian Cheng (The Stoa, YouTube, uploaded 30 Nov 2022; auto-captions)
+URL: https://www.youtube.com/watch?v=Tmve0PidacQ
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:19] All right, everyone.
+[00:00:23] Welcome to the Stoa.
+[00:00:25] Excited about this session today. We
+[00:00:29] have Ian Cheng joining us and Ian's a an
+[00:00:31] artist known for his live simulations of
+[00:00:33] virtual ecosystems
+[00:00:37] that help reveal how living agents adapt
+[00:00:37] to
+[00:00:39] change in chaotic environments. Some
+[00:00:42] really cool stuff that that he does.
+[00:00:45] He's the author of this really cool book
+[00:00:47] which is the title of today's session,
+[00:00:49] Emissary's Guide to Worlding. I don't
+[00:00:49] have a
+[00:00:52] Kindle copy so it's on Kindle. I'd
+[00:00:54] definitely recommend checking it out.
+[00:00:56] And um
+[00:00:57] the blurb uh
+[00:00:57] uh
+[00:01:00] one of the blurbs is
+[00:01:02] Worlding is there's an unnatural art
+[00:01:04] emerging right for our strange and
+[00:01:06] complex time that is the art of Worlding
+[00:01:09] and that'll be the the initial point of
+[00:01:11] our inquiry today and how today's going
+[00:01:13] to work um
+[00:01:15] I'm going to have an exchange with Ian.
+[00:01:17] He might share some some of his screen
+[00:01:19] some of the work that he does and then
+[00:01:20] we'll pivot to Q&amp;A. So if you have
+[00:01:22] questions anytime pop in the chat. I'll
+[00:01:23] call on you and you can ask your
+[00:01:25] question to Ian.
+[00:01:28] Um so that being said, Ian, welcome to
+[00:01:28] Stoa.
+[00:01:32] Hi, thanks for having me.
+[00:01:34] I'm excited to be here. I love some of
+[00:01:36] the previous speakers you had
+[00:01:37] in your series so
+[00:01:40] yeah, super stoked to be here.
+[00:01:44] I think yeah, I did discover your work
+[00:01:46] through Ribbon Farm Venkatesh Rao.
+[00:01:49] Um and then I finally uh
+[00:01:51] read it this summer and I was like ah
+[00:01:54] this is so Stoa this type of session
+[00:01:55] with the models and framing
+[00:01:57] and so I reached out to you cuz I
+[00:01:58] thought it would be a benefit service
+[00:02:00] for people to getting exposed to your
+[00:02:00] work.
+[00:02:01] Um
+[00:02:04] And so
+[00:02:06] I was sensing we could start with just
+[00:02:07] level setting on some of the terms that
+[00:02:08] you use in the book and and some like
+[00:02:12] like world, worlding, artist mask. Um
+[00:02:14] So perhaps we could start with with that
+[00:02:16] if you're if you're cool. Like what is a
+[00:02:18] what is a world?
+[00:02:19] Yeah, sure.
+[00:02:21] Uh maybe just a really brief background.
+[00:02:23] Um I arrived to even writing that book
+[00:02:25] and thinking about the idea of worlds
+[00:02:27] because maybe um
+[00:02:31] say since 2012, early 2013,
+[00:02:32] uh the primary thing I've been doing in
+[00:02:34] my work as an artist is making
+[00:02:34] simulations
+[00:02:38] um using the Unity video game engine.
+[00:02:40] And uh
+[00:02:42] It all started really from just this
+[00:02:43] idea that I really wanted to make
+[00:02:45] artwork that felt alive, that had a kind
+[00:02:49] of dynamic dynamic to it. Um And where I
+[00:02:52] as the artist, the author of the work,
+[00:02:52] um
+[00:02:54] could be surprised by it. And of course,
+[00:02:56] you know, artists have done this with,
+[00:02:57] you know, living performers, with
+[00:02:57] animals,
+[00:03:01] uh with, you know, plants. Uh but I
+[00:03:04] really wanted to do something digitally
+[00:03:05] uh where, you know, I could be much more
+[00:03:07] fantastical, but still have that sense
+[00:03:09] of aliveness that I was wasn't making an
+[00:03:11] artwork that was um worked on to
+[00:03:13] perfection and became this kind of
+[00:03:16] static artifact, but kept on being this
+[00:03:18] dynamic system that I would be surprised
+[00:03:19] with. Hopefully the viewer, the audience
+[00:03:22] of the artwork could find delight and
+[00:03:23] surprise in it, too.
+[00:03:25] Uh emergent things could happen. And so,
+[00:03:27] that was really the start of making
+[00:03:29] simulations. And then over time I
+[00:03:31] realized that the thing that I became
+[00:03:33] more interested in is something maybe a
+[00:03:35] little bit abstracted from the kind of
+[00:03:37] nuts and bolts of making a simulation,
+[00:03:39] which is quite technical. Um as artistic
+[00:03:40] as I want to make it, it is at the end
+[00:03:42] of the day a kind of an engineering
+[00:03:44] project. Um
+[00:03:45] I realized the thing the artistic thing
+[00:03:47] I was really interested in is making
+[00:03:49] worlds. And so, I kind of
+[00:03:53] was batting around that idea for a while
+[00:03:55] uh about what the difference was uh um
+[00:03:59] and yeah eventually I came I kind of
+[00:04:02] tried to sum up all my thoughts and like
+[00:04:03] in a book
+[00:04:05] initially it was a a book called
+[00:04:06] Emissary's Guide to Worlding which was a
+[00:04:10] catalog made for this institution in
+[00:04:12] London called the Serpentine
+[00:04:14] where I did a show and my proposal to
+[00:04:16] them was to not do an artist catalog but
+[00:04:18] to actually like
+[00:04:20] use the artworks I'd made as maybe a
+[00:04:21] starting point to talk about this idea
+[00:04:24] of worlding and what a world is
+[00:04:26] because so much of maybe like the
+[00:04:28] reviews and the kind of the curators
+[00:04:30] were asking me about my work were always
+[00:04:33] talking about like world building um
+[00:04:34] and I was trying to think what's the
+[00:04:36] difference between world building and I
+[00:04:37] feel like I'm doing something or at
+[00:04:38] least I'm trying to do something
+[00:04:40] different by having this like living
+[00:04:41] agency trying to take care of it felt
+[00:04:43] more like a gardener as an artist rather
+[00:04:45] than like an architect if that makes
+[00:04:47] sense and so what is this feeling of
+[00:04:49] being this gardener
+[00:04:51] and it's not exactly world building and
+[00:04:51] so
+[00:04:54] I mean I think just to talk about world
+[00:04:56] building for a sec
+[00:04:59] for any of you who like write fiction
+[00:05:00] I think world building is pretty
+[00:05:02] self-evident and sort of just you know
+[00:05:02] making
+[00:05:05] or imagining the territory in which your
+[00:05:07] story will eventually live in it's quite
+[00:05:10] easy in a way to make a story set in I
+[00:05:12] live in New York like set in New York in
+[00:05:14] 2022 cuz
+[00:05:16] the entire mental model I have for New
+[00:05:18] York City is a given it's just like I'm
+[00:05:19] I'm living and breathing it every day so
+[00:05:21] it's very easy for me to imagine a scene
+[00:05:24] in a coffee shop in New York super easy
+[00:05:25] but you know if you have to imagine a
+[00:05:28] scene in a I don't know an alien bar on
+[00:05:29] some other planet and have to imagine
+[00:05:31] all the details to even get to the point
+[00:05:33] of writing a scene with
+[00:05:34] any kind of dramatic potential in it
+[00:05:36] well you have to kind of fill in all the
+[00:05:38] blanks there for what that culture is
+[00:05:38] what
+[00:05:41] unspoken assumptions there are and that
+[00:05:43] I would say is world building right kind
+[00:05:46] of making the territory
+[00:05:47] and that serves as a background for kind
+[00:05:49] of all of all of fiction.
+[00:05:51] Um, but I was thinking about worlding
+[00:05:52] and what and what a world really is and
+[00:05:54] I was thinking that a worlding is
+[00:05:56] actually something much more about much
+[00:05:58] closer to like um,
+[00:05:59] almost like raising a pet or raising
+[00:06:02] children. It's it's much more about
+[00:06:04] creating something that's alive.
+[00:06:04] Um,
+[00:06:10] The simplest idea I have for what a
+[00:06:13] world is maybe is we can get like into
+[00:06:15] kind of the technicalities of this. But
+[00:06:17] uh, I kept thinking it's sort of the
+[00:06:18] dumbest analogy I had when I first
+[00:06:20] started writing the book was oh, I kept
+[00:06:22] imagining oh, a world is sort of like
+[00:06:24] it's sort of like when you see uh, these
+[00:06:26] nature documentaries of a river forming
+[00:06:28] and the river is sort of like the main
+[00:06:32] spinal cord of um, of energy and of
+[00:06:35] movement and of um,
+[00:06:38] nutrients moving. But then start around
+[00:06:40] the river like you know, a little a
+[00:06:43] little plants and little like moss and
+[00:06:45] eventually wildlife start to form around
+[00:06:48] the river and the river becomes not just
+[00:06:49] a river
+[00:06:49] uh,
+[00:06:52] it becomes a whole um,
+[00:06:53] the river becomes a spinal cord or
+[00:06:55] almost a pretext for this other world to
+[00:06:57] emerge around it and the set of
+[00:06:59] relations in the plants and animals
+[00:07:00] around it. So I started thinking of a
+[00:07:02] definition of world and sounds kind of
+[00:07:04] technical first.
+[00:07:05] Um, but I started thinking that oh, the
+[00:07:07] world is sort of like a web of
+[00:07:09] relations. Um, think of it as a network
+[00:07:12] or a graph um, that that flourishes
+[00:07:14] around a repeatable game. In this river
+[00:07:15] analogy the repeatable game is the river
+[00:07:17] keeps flowing, keeps pushing stuff down
+[00:07:19] the thing. Um, and that's a point of
+[00:07:21] focus and it's the pretext for all this
+[00:07:24] other cool stuff to grow around it. Um,
+[00:07:26] when I think about like I don't know, a
+[00:07:28] new bar opening up in the Lower East
+[00:07:30] Side where I live, like the game is the
+[00:07:31] bar, right? Like the bar has to be
+[00:07:33] sustainable, you know, you have to you
+[00:07:35] know, make back its own money, has to
+[00:07:37] like survive and you know that the game
+[00:07:39] there is you're going to go there
+[00:07:40] they're going to serve alcoholic
+[00:07:40] beverages.
+[00:07:43] Simple enough, right? We all can play
+[00:07:45] that game. Everyone on both sides, the
+[00:07:48] cuz customer, the bartender, we all know
+[00:07:49] what the roles are, and our sense of
+[00:07:51] agency in that is already prescribed.
+[00:07:53] Same with video games, right? When you
+[00:07:54] play a video game, where your attention
+[00:07:56] goes and where your agency goes is
+[00:07:57] really relaxing cuz it's already
+[00:07:59] describing where what your agency is cuz
+[00:08:02] you have a role, and what the where your
+[00:08:03] attention should be. If it's like a
+[00:08:04] sports game with a ball, like your
+[00:08:06] attention should be on the ball. And
+[00:08:09] there's something quite relaxing and
+[00:08:11] deeply embedded into human civilization
+[00:08:13] in civilization to want to play games as
+[00:08:16] a way of constraining attention
+[00:08:18] and constraining agency because within
+[00:08:20] that constraint, you can actually find
+[00:08:22] all these sort of subplots about
+[00:08:24] yourself, about the game, about how you
+[00:08:26] socialize with other people. And so this
+[00:08:27] analogy of the bar is like you open up a
+[00:08:29] bar, you don't want to just open a bar
+[00:08:31] to make, you know, to break even. You
+[00:08:33] want to open up a bar to to create a
+[00:08:34] scene, all right? Right? Like to kind of
+[00:08:36] cultivate a
+[00:08:38] a kind of local culture around it.
+[00:08:40] Whether it ends up being a a biker bar
+[00:08:41] because like it ends up being on the
+[00:08:42] side of a highway and a bunch of, you
+[00:08:44] know, that's the that's the local
+[00:08:45] population ends up like wanting to use
+[00:08:47] it there. It becomes like a bar for a
+[00:08:49] particular, I don't know, Lower East
+[00:08:51] Side loft fashion stuff. Like, you know,
+[00:08:53] people fashion just chose your bar to
+[00:08:55] meet up at
+[00:08:56] and it just becomes that. I mean,
+[00:09:00] whether you you choose to accept what
+[00:09:01] emerges around it or reject it, I mean,
+[00:09:03] this is a point of
+[00:09:05] maybe aesthetics
+[00:09:06] of what you want the bar to be as a bar
+[00:09:08] owner, but inevitably if you allow it to
+[00:09:11] just go, it's you kind of start to have
+[00:09:13] a world. And so I kind of thought of a
+[00:09:16] world more as like the cultivation
+[00:09:18] the kick-starting of
+[00:09:20] of this kind of
+[00:09:22] this world, how to cultivate it, and
+[00:09:24] then eventually, you know, if a world is
+[00:09:25] really sufficiently a world, you should
+[00:09:27] be able to exit it. You should be able
+[00:09:30] to leave and it should have enough
+[00:09:33] flourishing interrelationships that are
+[00:09:35] valuable to people who are already in it
+[00:09:37] that it can kind of keep itself going
+[00:09:39] without you as original author.
+[00:09:41] And for me this was an important idea
+[00:09:42] because I was thinking so much about my
+[00:09:42] simulations,
+[00:09:48] the people who were it's exhibited
+[00:09:50] some collectors who own it the perpetual
+[00:09:53] problem for me which is like oh Ian you
+[00:09:55] know can I knock on your door in 10
+[00:09:57] years if we have a technical problem
+[00:09:59] with the simulation if I have to like we
+[00:10:01] need it serviced if we need some update
+[00:10:04] we need a patch for new like you know
+[00:10:07] operating system. And as an artist like
+[00:10:07] um
+[00:10:10] like I hate this idea it's my
+[00:10:12] responsibility of course but I also want
+[00:10:14] some sunset clause on like my own
+[00:10:16] responsibility for it. So I always start
+[00:10:17] start thinking about the world like the
+[00:10:18] most successful worlds to me are the
+[00:10:21] ones where either the founder dies has
+[00:10:25] to exit and yet it still keeps going and
+[00:10:27] maybe it's character or its spirit
+[00:10:29] changes a little bit
+[00:10:32] but if it stays alive I mean I guess if
+[00:10:33] it stays alive and necessarily has to
+[00:10:35] change its spirit a little bit like kind
+[00:10:38] of like a company that has a new CEO. um
+[00:10:41] but yeah so I started thinking about
+[00:10:43] this and how to keep a world alive as
+[00:10:44] its own like
+[00:10:46] as its own like end game that I
+[00:10:47] personally don't have much experience
+[00:10:47] with
+[00:10:49] but
+[00:10:52] maybe we'll start there.
+[00:10:54] And what's coming up and I I know you
+[00:10:55] mentioned this in the book
+[00:10:57] you know James Car's finite infinite
+[00:10:57] games
+[00:11:00] and people at this talk probably will
+[00:11:02] familiar with those terms how does that
+[00:11:04] map over and relate to a world like how
+[00:11:06] does Car's version of a game whether
+[00:11:09] finite infinite infinite map over to
+[00:11:11] your concept of a world?
+[00:11:13] Yeah this is such an influential book
+[00:11:15] finite infinite games. I mean my
+[00:11:18] takeaway from reading it
+[00:11:21] was that
+[00:11:23] like finite infinite games are quite
+[00:11:25] hard to actually achieve it's sort of an
+[00:11:28] ideal that we grasp for but maybe the
+[00:11:29] only true I think he even says at the
+[00:11:31] end the only true infinite game
+[00:11:34] is like nature itself in a way.
+[00:11:37] And that we we as human beings are of
+[00:11:39] course constructing finite games all the
+[00:11:41] time and of course can find ourselves
+[00:11:42] trapped in them. What I think is maybe
+[00:11:45] the compromise is finite games that you
+[00:11:47] can iterate, you know, that you can play
+[00:11:49] iteratively, that you can keep playing.
+[00:11:51] And it's like, you know,
+[00:11:54] maybe like a chess game is very finite,
+[00:11:57] but if you are a chess player
+[00:11:59] and you're playing it every day, you're
+[00:12:03] playing the same finite game repeatedly,
+[00:12:05] well, a kind of ethic emerges across
+[00:12:07] iterated games, right? Like you have to
+[00:12:09] kind of be a good player.
+[00:12:10] I started doing jiu-jitsu recently and
+[00:12:12] it's like if you're an in
+[00:12:14] jiu-jitsu at the jiu-jitsu studio, like
+[00:12:17] no one wants to spar with you.
+[00:12:18] And you're probably going to get ejected
+[00:12:21] from the the meta game of just being
+[00:12:22] there to play the game.
+[00:12:26] Every jiu-jitsu like roll match sparring
+[00:12:28] is very finite with very clear win
+[00:12:31] conditions and lose conditions.
+[00:12:33] But because it's iterative, it's very
+[00:12:35] the ethic of
+[00:12:37] the overall spirit and sport of
+[00:12:38] jiu-jitsu is
+[00:12:40] very humbling and not actually about
+[00:12:42] winning even though win states define
+[00:12:44] the finite game and of course define
+[00:12:46] jiu-jitsu when you're in competition.
+[00:12:48] It's really about channeling the spirit
+[00:12:52] of jiu-jitsu and using the
+[00:12:53] tight constraints of the finite game to
+[00:12:55] kind of
+[00:12:57] understand your body more, be more
+[00:12:59] embed more kind of knowledge in your
+[00:12:59] body,
+[00:13:02] kind of more non-positional knowledge in
+[00:13:04] your body. And
+[00:13:06] it's kind of in the iteration of finite
+[00:13:09] games where I think you can kind of
+[00:13:12] grow up or reach for an infinite kind of
+[00:13:19] And and is is like a like a world is
+[00:13:20] something that gives birth to an
+[00:13:23] infinite game? Would you
+[00:13:26] For example, I think if a world that can
+[00:13:29] actually keep going. Yeah, it the ideal
+[00:13:31] I think of any world is
+[00:13:34] um that it keep that it at least lives
+[00:13:37] its full lifetime uh without your adult
+[00:13:39] parental supervision. Uh again, I think
+[00:13:41] of it in terms of like pets or children.
+[00:13:43] Like, you know, you want to cultivate as
+[00:13:45] a parent I'm a parent of two kids now
+[00:13:49] and like as a parent I want to like
+[00:13:51] of course shape the reality like
+[00:13:53] shepherd um shepherd them. But at a
+[00:13:55] certain point I know myself they have to
+[00:13:58] go away and I have to also equally like
+[00:14:01] let go and uh the success of a world is
+[00:14:03] that you can let go and it can
+[00:14:05] autonomously, you know, go on its own on
+[00:14:08] its own. Of course, a world can also and
+[00:14:09] should maybe necessarily some world
+[00:14:11] should die, you know, like not all
+[00:14:12] worlds don't have to live forever.
+[00:14:14] Infinite games doesn't mean like
+[00:14:16] infinite time. I think it means more
+[00:14:18] that it has just the potential to keep
+[00:14:21] going uh with the definition like it's
+[00:14:23] infinite game is a game where that you
+[00:14:25] play with only rules that
+[00:14:26] mhm maybe you have to change the rules
+[00:14:29] to keep it going. Um and that strikes me
+[00:14:31] uh in a in a smaller infinite way like
+[00:14:33] that's the potential of a child, right?
+[00:14:35] Like we all everyone loves children we
+[00:14:38] put so much value on children because um
+[00:14:39] you know, they have the potential to
+[00:14:41] really surprise us and their life their
+[00:14:43] life path will definitely surprise us.
+[00:14:45] Um they should keep going without you
+[00:14:48] know, our scripting imposed onto them.
+[00:14:51] Our meaning adults. Um
+[00:14:53] Yeah. Yeah. So, we had uh Timothy
+[00:14:55] Morton's hyperobject on recently and
+[00:14:57] it's kind of mapping over the I think
+[00:14:58] this world is like a hyperobject that it
+[00:15:02] like it lives and it could die. Um
+[00:15:02] and
+[00:15:04] and you talked about like all these cool
+[00:15:06] concepts like uh um you know, creator's
+[00:15:08] hold and then the artist mask I want to
+[00:15:11] get to. But perhaps to ground people if
+[00:15:12] you had some examples on what a world
+[00:15:12] is.
+[00:15:15] Um like famous examples in in in
+[00:15:18] culture. Um could we go through some of
+[00:15:18] those?
+[00:15:26] I I keep thinking of like just like the
+[00:15:28] most local things that are around me in
+[00:15:29] my life right now. Like so I started
+[00:15:31] just like I started jiu-jitsu recently
+[00:15:33] and it's like this little studio in the
+[00:15:36] basement two blocks from my house. It's
+[00:15:39] run by like a black belt in jiu-jitsu
+[00:15:43] and a black belt in Muay Thai and
+[00:15:47] you know, they they started the studio
+[00:15:50] to train people to just in a pragmatic
+[00:15:52] way in the art of but
+[00:15:54] one self-defense, like that's one game.
+[00:15:57] Uh two, like competition jiu-jitsu. Um
+[00:15:58] so it's like the kind of the sport of
+[00:16:00] it. Um and that's that's the game.
+[00:16:01] That's what you pay membership for
+[00:16:03] ostensibly to learn that stuff. And you
+[00:16:05] just go into class and maybe you kind of
+[00:16:07] level up over time to like from white
+[00:16:10] belt to blue to purple to whatever to to
+[00:16:12] brown to black and
+[00:16:14] it's a very clear game. It's all martial
+[00:16:16] arts studios basically have the same
+[00:16:19] premise as a game. Uh and you but built
+[00:16:21] into it quite elegantly is you have to
+[00:16:23] keep going because it's such a body
+[00:16:24] thing. Uh and you have to learn it in
+[00:16:26] your body. The body is like the
+[00:16:28] reinforcement learning machine, right?
+[00:16:30] Like you have to do things repeatedly in
+[00:16:32] your body to learn things new physical
+[00:16:33] skills. Like when you're riding a bike,
+[00:16:35] uh learning to I don't know, ski, play a
+[00:16:37] sport, you got to just do it repeatedly.
+[00:16:39] You can't like knowledge you can't like
+[00:16:41] outsmart your way through uh learning
+[00:16:43] things in your body. And so it's quite
+[00:16:48] Um it's quite elegant such such
+[00:16:50] situation where in a martial arts
+[00:16:53] studio, you just have to show up and you
+[00:16:56] have to be a total idiot and loser,
+[00:16:59] clumsy person day in day out in order to
+[00:17:00] like embed this stuff in your body. You
+[00:17:03] can't just know it. Um you can't just
+[00:17:05] Wikipedia it. And so you have to show up
+[00:17:07] and that's the game. It's a repeatable
+[00:17:07] game.
+[00:17:08] Um
+[00:17:11] But of course what naturally emerges is
+[00:17:12] there's like little cliques that
+[00:17:13] emerges. Some people have closer
+[00:17:15] relationships with
+[00:17:15] um
+[00:17:18] the teacher than others. Um
+[00:17:20] some people fall in love. Uh Uh, there's
+[00:17:22] definitely people just hanging out on
+[00:17:24] the in-between moments of classes
+[00:17:25] just because at a certain point they
+[00:17:27] just enjoy each other's company or maybe
+[00:17:29] that's the only place they have outside
+[00:17:32] of their work, um, to kind of, uh, I
+[00:17:34] don't know, be someone to find their
+[00:17:37] identity. Um, there's so many ulterior
+[00:17:39] motives and I think that's the key of a
+[00:17:42] world is that ideally it can support all
+[00:17:45] these ulterior needs that people have
+[00:17:48] um, under the pretext of this this game.
+[00:17:51] Um, and the pretext isn't just a
+[00:17:52] pretext. It's something you should,
+[00:17:54] like, in jujitsu, everyone is motivated
+[00:17:56] to be there. You have to have this
+[00:17:58] demon energy inside to even show up.
+[00:18:00] It's almost tricking yourself. So, the
+[00:18:01] game is actually a trick for yourself
+[00:18:03] cuz you want to do the game cuz it's
+[00:18:05] interesting to you just as a baseline. I
+[00:18:07] like this game. And then all the side
+[00:18:09] effects of just showing up,
+[00:18:12] um, begin to emerge. And so, it it's
+[00:18:15] quite painless. Um, it's not effortful
+[00:18:17] for you to participate in the world and
+[00:18:18] have these other
+[00:18:21] often social needs met, um,
+[00:18:24] within the the the the the game of this
+[00:18:25] jujitsu studio.
+[00:18:25] Um,
+[00:18:28] all the while you're learning the skill,
+[00:18:29] you know, you feel like you're leveling
+[00:18:31] up over time if you're committed to it.
+[00:18:34] So, you have a sense of progress. Um,
+[00:18:36] I mean, there's tons of neurological
+[00:18:38] studies show that, you know, progress is
+[00:18:40] the surest sign of, um, you know,
+[00:18:42] positive emotion, uh, forward progress
+[00:18:44] towards a goal. And so, in a martial
+[00:18:45] arts studio they deliberately, you know,
+[00:18:47] there's there's the belt goal, there's
+[00:18:50] just simply how you perform on any given
+[00:18:51] in any given session, how well you do
+[00:18:54] with your sparring partner,
+[00:18:55] uh, all the mistakes you make, the
+[00:18:57] mistakes that you no longer make. You
+[00:18:59] sense yourself. And the partner that you
+[00:19:01] encounter is often a partner because
+[00:19:02] you're show showing up to essentially a
+[00:19:04] social scene now, someone who you've
+[00:19:05] already encountered before. And often
+[00:19:06] they will remark, "Oh, like, you got
+[00:19:08] better." Or like, "Oh, that's cool how
+[00:19:09] you did that there." Or like, "Oh,
+[00:19:11] you're still making that mistake." Um,
+[00:19:13] and so, uh, you have this feedback
+[00:19:15] reinforcement loop that's really built
+[00:19:16] into the culture of this particular
+[00:19:19] sport. And so, this becomes such a,
+[00:19:21] yeah, this becomes, I think it's just a
+[00:19:23] kind of self-fulfilling world. If these
+[00:19:26] instructors, if the teachers left, I'm
+[00:19:28] dead certain everyone there who's like
+[00:19:30] showing up will find either another
+[00:19:32] jiu-jitsu studio to like coagulate
+[00:19:34] around or like start to do it themselves
+[00:19:35] or, you know, look for a replacement
+[00:19:37] teacher. You know, like it's it's in a
+[00:19:39] way like it's the the spirit of the game
+[00:19:41] itself and the all the side effects, the
+[00:19:43] surplus that emerge around it are strong
+[00:19:45] enough to keep the world going.
+[00:19:45] Mhm.
+[00:19:47] Um,
+[00:19:49] and uh,
+[00:19:50] we got some questions in the chat
+[00:19:51] already and we're going to pivot that in
+[00:19:53] a moment, but
+[00:19:55] I wanted to share, um, sort of like a
+[00:19:57] really psychoactive aspect of the the
+[00:20:01] book is the two by two um,
+[00:20:04] of the four different types of artists
+[00:20:05] and on the
+[00:20:08] Y axis is the, um,
+[00:20:09] steering by stories and then steering by
+[00:20:12] God and then on the X axis is seeking
+[00:20:15] home versus seeking surprise. Um,
+[00:20:16] and then you got a cartoonist director,
+[00:20:18] uh, emissary and hacker. So, you can
+[00:20:19] kind of like pause this if you're
+[00:20:21] watching on YouTube and and and read a
+[00:20:24] little bit about it. Um, but this the
+[00:20:25] title of the session is like art of
+[00:20:27] worlding, right? Like the art form of it
+[00:20:30] and uh, the emissary and portal art
+[00:20:33] seems to be the thing there. So,
+[00:20:35] um, yeah, before we pivot to Q&amp;A, is
+[00:20:36] there anything you want to share here to
+[00:20:39] set the the frame of the question space?
+[00:20:42] Yeah, so, I mean, um, you know, part of
+[00:20:42] the
+[00:20:45] when I was trying to think about worlds
+[00:20:47] and worlding, um, you know, we've been
+[00:20:48] talking about it in kind of externalized
+[00:20:50] way, but of course so much, if you want
+[00:20:52] to be the creator of the world,
+[00:20:55] um, I mean, this is maybe the key.
+[00:20:56] Thanks for bringing this up. Like if you
+[00:20:58] want to be the creator of the world, um,
+[00:20:59] I had to think about the inner
+[00:21:01] psychology of what that means to be the
+[00:21:04] creator of a world. And, um,
+[00:21:05] it led me to this feeling that as an
+[00:21:08] artist, um, even before thinking about
+[00:21:10] worlding, I've realized there's
+[00:21:12] different parts of me that emerge that
+[00:21:14] are sometimes in effective and sometimes
+[00:21:16] really ineffective when I'm embarking on
+[00:21:17] a creative project, whether it's a
+[00:21:20] writing project or an artistic project.
+[00:21:21] Um actually, if you don't mind, can you
+[00:21:24] keep up that slide? Um
+[00:21:26] I'll have to just like look at it. Um
+[00:21:26] and
+[00:21:30] uh I ended up realizing that one way to
+[00:21:31] conceptualize the different parts of me
+[00:21:31] that
+[00:21:34] have to kind of show up at different
+[00:21:36] times when I'm working on let's say an
+[00:21:38] artwork uh are these different I call
+[00:21:40] them masks or you can maybe you think of
+[00:21:42] them as like demons or kind of
+[00:21:42] sub-personalities.
+[00:21:45] Um but they let the director, the
+[00:21:47] cartoonist, the hacker, and emissary.
+[00:21:48] They all kind of have to show up at a
+[00:21:52] certain point. Um
+[00:21:53] The most important one I think for the
+[00:21:55] case of worlding is
+[00:21:55] um
+[00:21:57] Well, maybe I'll just go through a
+[00:21:59] little bit. Like when I was making these
+[00:22:01] simulations, the first one that always
+[00:22:03] showed up for me was
+[00:22:05] in my case, the hacker. You know, I was
+[00:22:07] when I even just start the idea of
+[00:22:08] simulations, I was like, "Oh, I'm going
+[00:22:10] to this is 2012. I'm going to like take
+[00:22:12] a video game engine. I'm not going to
+[00:22:13] make video games. I'm going to make a
+[00:22:15] video game that plays itself, you know,
+[00:22:17] like I'm going to kind of like
+[00:22:18] flip the bit on what it means to you
+[00:22:21] even use this tool." Um I'm going to
+[00:22:22] tinker around with all the tools
+[00:22:24] available within it. I'm going to write
+[00:22:25] my own tools.
+[00:22:28] Um and on top of that, I I was kind of
+[00:22:31] in the context of the art world, like I
+[00:22:33] thought, "Oh, this is a niche, like a
+[00:22:36] kind of a very specific thing that I
+[00:22:37] don't know, it's kind of untapped. No
+[00:22:40] one else has really has approached
+[00:22:42] um making art in this way and definitely
+[00:22:44] not in a kind of professional art
+[00:22:47] context. And no one else has like tried
+[00:22:49] to package it in a way that would be
+[00:22:50] legible to someone who doesn't care
+[00:22:53] about any of simulation or um
+[00:22:55] video games or programming. Someone who
+[00:22:56] doesn't care about any of that. How
+[00:22:59] could I like hack my way into that? And
+[00:23:01] so, that's always where I started with
+[00:23:03] the simulations. And then this thought
+[00:23:05] of like how to um
+[00:23:05] um
+[00:23:09] um is that essentially make it legible
+[00:23:12] to a broader audience to
+[00:23:14] gallerists uh to curators to other
+[00:23:17] artists um about what I was doing
+[00:23:18] without being just like technical art
+[00:23:21] project like um uh
+[00:23:23] uh was was kind of involved this what I
+[00:23:25] call the cartoonist this archetype um
+[00:23:28] really trying to hone in on like um
+[00:23:30] an emotional through-line maybe there's
+[00:23:33] a character in the simulation um
+[00:23:34] maybe there's a problem that we're very
+[00:23:37] familiar with um that could of course
+[00:23:39] easily be staged and maybe like writing
+[00:23:41] or a drama but I'm staging in a
+[00:23:43] simulation but I'm still marrying this
+[00:23:46] new thing that's a simulation simulation
+[00:23:47] with like
+[00:23:49] I don't know a coming-of-age drama uh
+[00:23:50] like with a character or like even just
+[00:23:52] like a little pet um
+[00:23:54] I made this project called Bob which was
+[00:23:57] like a an autonomous AI agent but it had
+[00:23:59] Bob had to have a kind of cute face and
+[00:24:01] a kind of cartoony almost a
+[00:24:03] Miyazaki-like creature look and for me
+[00:24:04] this is the cartoonist coming out it's
+[00:24:06] really this thing that is the interface
+[00:24:09] to just um the most common denominator
+[00:24:10] in everyone's brain I mean so much of
+[00:24:12] making art for me I realize is making a
+[00:24:15] neural bridge from myself to the viewer
+[00:24:18] and the prosthetic is the artwork um but
+[00:24:19] really what I'm trying to do is I'm
+[00:24:21] trying to talk use the artwork to talk
+[00:24:22] to this a certain part of the viewer's
+[00:24:22] brain
+[00:24:23] um
+[00:24:26] my favorite movies my favorite artworks
+[00:24:28] you can clearly feel like like with
+[00:24:30] Miyazaki I love Miyazaki's movies
+[00:24:32] because you feel the age group that he's
+[00:24:34] talking to which is a literal
+[00:24:35] demographic like he's talking to
+[00:24:37] children like Totoro is for kids no
+[00:24:38] question but he's also talking to the
+[00:24:40] kid inside of me
+[00:24:41] um and I asked someone in Japan when I
+[00:24:43] did a show in Japan once like what does
+[00:24:45] Miyazaki mean here and the person's like
+[00:24:47] oh he's a really grumpy guy like but
+[00:24:49] love him or hate him
+[00:24:51] everyone in Japan grows up with Totoro
+[00:24:54] across generations and how crazy is that
+[00:24:56] to make an artwork where you're
+[00:25:00] essentially incepting some pattern of
+[00:25:01] Well, there's a kind of morality to
+[00:25:03] Totoro, a kind of aesthetic, a kind of
+[00:25:03] vibe.
+[00:25:06] You're incepting all of that into every
+[00:25:08] generation of child because that is the
+[00:25:10] media that they watch at that
+[00:25:12] impressionable age.
+[00:25:12] Um
+[00:25:15] And so I realized like also when I'm a
+[00:25:17] cartoonist, I'm trying to also consider
+[00:25:20] very strongly who the audience is in
+[00:25:22] terms of um
+[00:25:23] Ages may be the wrong word. I'm trying
+[00:25:24] to um
+[00:25:26] consider who the audience is in terms of
+[00:25:28] uh yeah uh
+[00:25:29] psychological development. Like where a
+[00:25:31] person What part of a person's
+[00:25:31] psychology
+[00:25:32] um
+[00:25:34] am I talking to?
+[00:25:38] Um so often I think now we see in art
+[00:25:40] artwork that is um
+[00:25:42] um especially really overtly political
+[00:25:45] artwork, it's really talking to uh like
+[00:25:47] a more adult or actually a more kind of
+[00:25:49] parental kind of ego state in a person's
+[00:25:52] brain. And you know, the parent ego
+[00:25:54] state, this is a Eric Berne idea, comes
+[00:25:55] from also from Freud, you can think of
+[00:25:57] it as a super ego. Um the parent ego
+[00:25:59] state is just like it's it's the part of
+[00:26:01] you that's very automatic. It's kind of
+[00:26:03] received, recorded wis- wisdom from the
+[00:26:05] culture imparted to you by probably your
+[00:26:08] own parents or early authority figures.
+[00:26:08] Um
+[00:26:10] And it's just a knee-jerk reaction to
+[00:26:12] kind of constraining chaos, constraining
+[00:26:14] entropy. And it's often outdated with
+[00:26:17] our current really um weird changing
+[00:26:19] environment. And so often when I see
+[00:26:20] political artwork, I think, "Oh, this
+[00:26:22] artwork, whatever I believe whether I
+[00:26:24] agree with or not, like oh it's just
+[00:26:26] talking to the parent inside of me."
+[00:26:26] And
+[00:26:29] it's not that interesting as an artwork.
+[00:26:31] Uh whereas what I love about Miyazaki is
+[00:26:32] it's talking to
+[00:26:34] um Different movies of his talk to
+[00:26:37] different as- different um
+[00:26:38] parts of my childhood. Totoro talks to
+[00:26:41] like maybe like my 5-year-old. Uh like
+[00:26:43] Princess Mononoke talks to like um some
+[00:26:46] rebellious teenage part of me like um
+[00:26:47] Howl's Moving Castle talks to like some
+[00:26:49] more like romantic young younger 20s
+[00:26:51] part of me. Um
+[00:26:53] But they all talk to like the child in
+[00:26:55] me. And so so much of the cartoonist I
+[00:26:57] think is just kind of dealing with this,
+[00:27:00] you know, pop psychology side of making,
+[00:27:02] uh, which is I think extremely essential
+[00:27:05] and totally not superficial in terms of
+[00:27:06] making art because art in the end of the
+[00:27:08] day is a form of,
+[00:27:09] uh, unabridged communication. You know,
+[00:27:11] if we could say it in words we would,
+[00:27:13] but sometimes we can't, uh, say or think
+[00:27:14] in words. We have to kind of make art
+[00:27:16] about it and kind of, um,
+[00:27:17] um, make art to even understand the
+[00:27:19] world we live in. And so it has to be
+[00:27:22] this multi-sensory, uh,
+[00:27:23] bridge between the artist and the
+[00:27:25] viewer. And so the cartoonist for me is
+[00:27:27] always very essential. I almost like
+[00:27:29] think too much about the cartoonist in
+[00:27:32] me. Okay, maybe just to be brief, um,
+[00:27:34] the director, that archetype,
+[00:27:35] I think of it as just basically the,
+[00:27:37] maybe the adult inside of me, just the
+[00:27:39] the overall planner, like here are the
+[00:27:41] deadlines. It's sort of like director of
+[00:27:42] a movie, you know, you actually just
+[00:27:45] kind of like the general of an army,
+[00:27:47] um, even if it's just the army of you,
+[00:27:48] even if you're just the general of these
+[00:27:51] other, um, parts of you. Um, and so I
+[00:27:52] think of the director as the person who
+[00:27:56] has like some macro vision, uh, of what
+[00:27:58] this thing is supposed to mean,
+[00:27:58] um,
+[00:28:01] and how to organize that. I mean, kind
+[00:28:03] of procedural in a way, like pretty, uh,
+[00:28:06] boring, but completely essential, uh,
+[00:28:06] especially,
+[00:28:09] more recently I've been doing
+[00:28:11] simulations and, uh, made this
+[00:28:13] anime-like film in the Unity video game
+[00:28:15] engine called Life After Bob, and it's
+[00:28:17] really like the complexity of the
+[00:28:19] organization to even achieve that
+[00:28:20] project to make a more complex artwork,
+[00:28:21] you kind of have to just start to get
+[00:28:24] organized. Um,
+[00:28:25] so those three masks I think are
+[00:28:26] probably most common. I think most
+[00:28:28] people in the creative world, um,
+[00:28:30] encounter them in themselves. And then
+[00:28:31] finally, when I was writing this book I
+[00:28:32] just thought, oh, there's there's a
+[00:28:34] missing quadrant here. There's something
+[00:28:35] else here. And that's for me what I call
+[00:28:38] the emissary. And it's,
+[00:28:40] maybe the the easiest analogy is sort of
+[00:28:41] like a gardener.
+[00:28:42] Uh, it's the person who has to kind of
+[00:28:47] maintain or take care, uh, um,
+[00:28:49] of a project, especially once it's
+[00:28:50] started or once it's even launched. In
+[00:28:52] my case with these simulations, there
+[00:28:54] was no
+[00:28:56] um, you know, things always emerged
+[00:28:58] after I initially launched the project
+[00:29:00] or started the project. You know, they
+[00:29:01] they were never complete in the same way
+[00:29:03] that software
+[00:29:04] the analogy of software is a good
+[00:29:05] analogy to the kind of art I make. You
+[00:29:07] know, classical classically, if you make
+[00:29:08] painting or sculpture, you kind of have
+[00:29:10] a finish line. A painting's done or a
+[00:29:11] sculpture's done at some point. Uh,
+[00:29:13] whether that takes 10 years or 10 months
+[00:29:14] or 10 days, you're you're going to come
+[00:29:16] up finishing and be done with it. Um,
+[00:29:18] but so much of creating complex systems
+[00:29:20] as the baseline for the artwork that I
+[00:29:22] make is essentially software. And the
+[00:29:24] analogies in software are much more
+[00:29:26] emissary-like. They're not finite.
+[00:29:27] They're actually quite infinite. So,
+[00:29:29] like, you know, when you release
+[00:29:30] software, you're releasing your alpha
+[00:29:33] and then you're releasing tons of bug
+[00:29:35] and patch fixes. And then you're of
+[00:29:36] course releasing features that are in
+[00:29:39] dialogue or response to the response
+[00:29:40] that you're getting from the viewer,
+[00:29:42] from your users.
+[00:29:44] Uh, and you're um, of course not letting
+[00:29:46] the user totally dictate where you're
+[00:29:47] going, but you're also definitely
+[00:29:49] adjusting to real time how people are
+[00:29:52] reacting to this dynamic system that
+[00:29:54] you've made. How useful is it? How how
+[00:29:56] much better could the UI be? How can you
+[00:29:58] make it more comfortable? What features
+[00:29:59] are so obvious that you wouldn't have
+[00:30:01] never seen from the inception of the
+[00:30:02] project, but are so clear once people
+[00:30:04] are using it. And so, I think of the
+[00:30:06] emissary as really this sort of
+[00:30:09] caretaker that kind of comes in after
+[00:30:12] you're no longer incubating um, a
+[00:30:14] project and you finally shown it to
+[00:30:16] people. People are interacting with it
+[00:30:18] if it's actually software or people are
+[00:30:19] just engaging with it if it's a work of
+[00:30:21] art. And then you're kind of iterating
+[00:30:24] and um, trying to give it life and
+[00:30:26] health in an ongoing spirit once it's
+[00:30:28] already launched. And this is a very
+[00:30:30] different mindset. I've learned this
+[00:30:31] most recently. I
+[00:30:33] released an NFT project. And for those
+[00:30:34] of you who are interested in any of
+[00:30:36] that, what's so funny about the culture
+[00:30:38] of NFTs is when you launch an NFT
+[00:30:38] project,
+[00:30:41] the people who end up
+[00:30:44] uh, collecting your NFTs
+[00:30:46] really want the emissary in you to come
+[00:30:48] out. They want to know like how are you
+[00:30:49] going to support the project next?
+[00:30:51] What's the next feature? What's the road
+[00:30:54] map? Um what uh what
+[00:30:57] um advantages or utility or uh special
+[00:30:59] like gifts will you give me if I hold on
+[00:31:02] to this NFT? It becomes like some weird
+[00:31:05] hybrid version of like uh a stockholders
+[00:31:06] meeting when you do a Discord with
+[00:31:09] people who hold your NFT, uh which is
+[00:31:10] which is amazing as an artist is an
+[00:31:12] engagement with the viewer that an
+[00:31:13] intimate engagement with the viewer that
+[00:31:15] I've never experienced before. So, it's
+[00:31:16] I don't mean any cynicism by it. It's
+[00:31:18] very interesting. But, it calls upon me
+[00:31:20] the emissary. And this is something that
+[00:31:22] as much as I've written about it and as
+[00:31:23] much as I've named projects after it
+[00:31:25] emissary like is the least developed
+[00:31:28] part of me that I'm um learning, you
+[00:31:29] know, I'm driving a car and building at
+[00:31:30] the same time. I'm learning as I go
+[00:31:33] here. And so, for me, I thought this is
+[00:31:36] quite a new part of the creative process
+[00:31:39] um because it's a new way of making art,
+[00:31:41] right? It only really has an opportunity
+[00:31:43] to emerge when you make art that has an
+[00:31:45] ongoing nature to it. Uh when you finish
+[00:31:47] your artwork if it's a finite artwork,
+[00:31:48] you really don't have to count on the
+[00:31:49] emissary for anything. So, it's kind of
+[00:31:51] an unpracticed part at least in creative
+[00:31:53] making art making. Maybe it's something
+[00:31:55] that comes out in like, I don't know,
+[00:31:57] maintaining your your home or your
+[00:31:58] family or things like this or
+[00:32:00] maintaining a pet. Um
+[00:32:01] but in terms of creative process, I
+[00:32:03] think it's a kind of a new thing. Maybe
+[00:32:05] the last thing I want to say is like I
+[00:32:07] wrote about this inner part of
+[00:32:10] how you as an individual
+[00:32:12] uh artist can make a world because I
+[00:32:14] thought maybe right around the time I
+[00:32:16] wrote it, which was um
+[00:32:18] let me see. It must have been 20
+[00:32:18] 18.
+[00:32:19] Um
+[00:32:22] I wrote an a kind of updated ebook
+[00:32:24] version in 2019.
+[00:32:24] Um
+[00:32:27] I think I wrote it because I sensed that
+[00:32:29] it was on the horizon that an individual
+[00:32:31] can make a world. You would think of
+[00:32:33] worlds as giant institutions of, you
+[00:32:35] know, like a school is a world, a bar is
+[00:32:36] a world. You can be an entrepreneur, but
+[00:32:37] then you need like a business partner,
+[00:32:39] and it becomes this big massive thing
+[00:32:40] uh or
+[00:32:43] in kind of a group um how do you say? Uh
+[00:32:44] a shared enterprise with other
+[00:32:46] stakeholders quite quickly. But, I
+[00:32:48] thought, "Oh, maybe now an artist can
+[00:32:49] make a world." An individual artist, you
+[00:32:50] could start to you could spin up a
+[00:32:52] world. And I think um for better or
+[00:32:55] worse, we're most acutely seeing this in
+[00:32:57] for example, like NFT world where like a
+[00:32:58] couple guys
+[00:33:00] uh an individual, a single person can
+[00:33:02] just like create an NFT project, and
+[00:33:04] suddenly if it's interesting enough, if
+[00:33:06] that simple game's interesting enough,
+[00:33:07] suddenly their Discord is populated with
+[00:33:09] tons of people, um people are talking
+[00:33:12] about it, um and a whole world emerges
+[00:33:15] around it, and in a sense, you could say
+[00:33:17] a most generous reading of NFT projects
+[00:33:18] right now
+[00:33:23] uh is like um the NFT is sort of like
+[00:33:24] sort of like the tree in the forest.
+[00:33:26] It's the tree, but the real artwork is
+[00:33:27] the network that gets created. It's the
+[00:33:29] world that gets created. And in a way,
+[00:33:32] the artist uh making NFT projects,
+[00:33:34] if I'm very generous about this idea, is
+[00:33:37] uh uh that their that their medium is
+[00:33:38] the the network, the the kind of the
+[00:33:40] social graph that gets that emerges from
+[00:33:41] it, and kind of maintaining that social
+[00:33:44] graph, and shaping it aesthetically
+[00:33:45] uh
+[00:33:45] um
+[00:33:49] through the concrete mechanisms of the
+[00:33:51] NFT and the kind of um the actual the
+[00:33:53] artwork around it. But, the artwork
+[00:33:53] itself
+[00:33:56] is probably the network. Um or I think
+[00:33:58] that's what it will emerge to.
+[00:33:59] Um I think there are other ways that uh
+[00:34:01] worlds emerge um that we all know about,
+[00:34:04] but to me, this the most exciting thing
+[00:34:05] is about the idea of an individual being
+[00:34:07] able to make a world almost
+[00:34:11] instantaneously overnight uh and have it
+[00:34:12] be an interesting enough inhabitable
+[00:34:15] place by other people um
+[00:34:17] maybe dies really quickly, too, as we're
+[00:34:19] seeing a lot in the crypto world. Um
+[00:34:21] but, yeah, I think now for more it's a
+[00:34:23] start it's an instant it's a gut feeling
+[00:34:24] now more than ever like worlds can just
+[00:34:27] kind of be created speedily. And there's
+[00:34:29] something to be said about speed. Ideas
+[00:34:32] can be old, but if they can be um
+[00:34:34] executed quickly, a whole other dynamic
+[00:34:36] emerges. I think that's kind of what
+[00:34:40] Yeah, um
+[00:34:43] I like that. And um
+[00:34:44] if the people in the the Zoom right now
+[00:34:46] here at the Stoa, uh
+[00:34:47] if any one of these roles resonate with
+[00:34:50] you or show up often, uh put in the chat
+[00:34:51] which one resonates with you most and
+[00:34:54] maybe what area in your life um curious
+[00:34:55] to to see that.
+[00:34:57] And um
+[00:34:58] at the
+[00:34:59] this has been quite psychoactive for me
+[00:35:01] and helpful for me. Like I view the Stoa
+[00:35:03] as like an artwork and I call myself the
+[00:35:05] steward here, which is I guess is akin
+[00:35:07] to like a gardener. Um
+[00:35:09] and then it's that that notion of uh and
+[00:35:10] I really appreciate what you just said.
+[00:35:12] Like it's one thing uh like inviting a
+[00:35:14] model in that just kind of nails like a
+[00:35:16] a role that needs to uh
+[00:35:18] be people need to be more aware of. So
+[00:35:20] the other thing being skilled at this at
+[00:35:23] this function at the emissary uh role.
+[00:35:23] Um
+[00:35:25] and uh
+[00:35:26] just add to that. It's funny you bring
+[00:35:28] that up. You just make you make a good
+[00:35:29] point. The Stoa is of course, yeah,
+[00:35:31] you're The the game is of course, you
+[00:35:34] know, you're you invite someone um
+[00:35:35] and then they do this talk, but of
+[00:35:37] course the meta game, the world that
+[00:35:39] you've made is this, right? And people
+[00:35:41] show up in a way of
+[00:35:42] perhaps for the individual like
+[00:35:44] conversation that you're now like about
+[00:35:46] to host,
+[00:35:47] but really it's for the kind of vibe
+[00:35:49] that you've created across individual
+[00:35:52] games you've played with uh the people
+[00:35:53] you've you you've spoken to and
+[00:35:55] interviewed. I think of the same way as
+[00:35:56] people who are podcast hosts, right?
+[00:35:58] Like the game is so brutally simple,
+[00:36:00] right? Like you're hosting a podcast.
+[00:36:02] Everyone has their own podcast now. Uh
+[00:36:04] and you just kind of record some stuff.
+[00:36:06] Um but the ones that are that are
+[00:36:07] worlds, the ones that we're all
+[00:36:09] attracted to are the ones where a world
+[00:36:10] has emerged around it, a certain
+[00:36:12] aesthetic has emerged around it. By
+[00:36:13] aesthetic I mean something that's
+[00:36:14] actually very specific. It's like
+[00:36:16] aesthetic is I mean sort of a dumb way
+[00:36:17] of thinking about it. I think of
+[00:36:19] aesthetics is like
+[00:36:20] it's sort of like what you love, right?
+[00:36:22] Like it's like the things that you're
+[00:36:23] allow you're allowing in and things
+[00:36:24] you're allowing out. It's a kind of a
+[00:36:26] boundary condition, right? Like um and
+[00:36:28] everyone has an aesthetic. You're No one
+[00:36:29] can universally let everything in and no
+[00:36:31] one is so closed-minded that they like
+[00:36:33] shut everything out and wither away. So,
+[00:36:35] everyone has aesthetic, especially if
+[00:36:37] you are in creative endeavors. Like, you
+[00:36:38] let things in and you let things out.
+[00:36:39] And the nature of what you let in and
+[00:36:40] what you let out, that's what I mean by
+[00:36:41] aesthetic.
+[00:36:44] And that's a necessary thing to have to
+[00:36:45] grapple with when you're making a
+[00:36:47] podcast, when you're making
+[00:36:50] an interview like series like this.
+[00:36:52] And so, yeah, social media for better or
+[00:36:55] worse has created a lot of emissaries.
+[00:36:58] Podcast hosts, influencers, people who
+[00:36:59] you know, have an active Twitter
+[00:37:01] account, after an active Twitter
+[00:37:03] identity, an active Instagram identity,
+[00:37:05] an active Tik Tok identity. The media
+[00:37:08] game is just posting.
+[00:37:09] But, you know, the ones that we're
+[00:37:10] attracted to start to create a kind of
+[00:37:12] world around them.
+[00:37:15] Yeah, and I think that the the edge with
+[00:37:17] a lot of the emissaries out there is um
+[00:37:20] the the creator's hold, you know, how to
+[00:37:22] how to release that wisely. Um and it's
+[00:37:24] kind of like one thing is like it's like
+[00:37:25] boundary work with vibes. That's That's
+[00:37:27] one of the rules of like the gardener or
+[00:37:28] the steward.
+[00:37:30] Um but then how do you release it? And
+[00:37:31] that's at my edge and it seems like
+[00:37:31] that's
+[00:37:34] at your edge as well.
+[00:37:34] Um
+[00:37:38] but let's pivot to a Q&amp;A and
+[00:37:44] Nathan, did you want to
+[00:37:47] unmute yourself and ask your question?
+[00:37:50] Yeah, sure. Can you hear me?
+[00:37:50] Yep.
+[00:37:50] Okay.
+[00:37:53] Yeah, I'll change my question up a
+[00:37:55] little bit. I'm just curious to get your
+[00:37:58] take on how you see
+[00:38:00] AI as a supplement to world building,
+[00:38:02] and how you see that affecting maybe
+[00:38:05] agency as an artist
+[00:38:07] and then as a human.
+[00:38:09] How do you see that affecting world
+[00:38:09] building?
+[00:38:13] Yeah, I think
+[00:38:19] it's a it's a bit like crypto. It's an
+[00:38:21] accelerating tool to make it so an
+[00:38:24] individual can spin up a world
+[00:38:26] that is
+[00:38:28] expansive and deep and fertile much
+[00:38:30] faster, you know.
+[00:38:30] Um
+[00:38:36] all these image diffusion tools uh
+[00:38:37] I mean, I don't have a specific example.
+[00:38:39] I mean, the way in which I can just
+[00:38:41] speak personally, the way in which I've
+[00:38:43] I I grapple with and use AI in my own
+[00:38:45] work is very different from the AI that
+[00:38:47] we hear about um
+[00:38:49] uh on the in the news. All these
+[00:38:50] diffusion models and stuff, which I
+[00:38:51] think is super interesting. We can talk
+[00:38:52] about that. The stuff that I've been
+[00:38:55] using in my simulations is much more of
+[00:38:58] a uh an AI agent-based approach. Um so,
+[00:39:01] when you have to make an AI agent, um
+[00:39:03] you have to deal with
+[00:39:05] the survival of the agent, how the agent
+[00:39:08] negotiates um some future expectations
+[00:39:10] with its current um situation with its
+[00:39:11] its current
+[00:39:13] virtual embodied situation, you know,
+[00:39:15] all the agents have a virtual body. And
+[00:39:16] so, it's a very different kind of AI
+[00:39:18] that I've been mostly engaged with.
+[00:39:18] Um
+[00:39:22] but all these new AI tools
+[00:39:23] you know, just to think about this for a
+[00:39:25] second, you know, uh for all of you
+[00:39:27] who've seen like all the stuff with
+[00:39:29] stable diffusion, the sooner that stable
+[00:39:31] diffusion, you know, this kind of um
+[00:39:33] text-to-image um
+[00:39:34] becomes real-time, like 24 frames a
+[00:39:36] second, you don't have to wait 30
+[00:39:37] seconds to get your image back.
+[00:39:39] Oh man, I mean, forget like making art
+[00:39:41] out of it. Like just imagine the future
+[00:39:43] of um
+[00:39:44] Zoom or chat or any kind of
+[00:39:46] communication medium. We communicate in
+[00:39:48] text and voice and in video right now,
+[00:39:49] but imagine being able to like
+[00:39:51] essentially like I'm I want to share a
+[00:39:53] thought with you. I kind of become a
+[00:39:55] master at crafting thought in the
+[00:39:57] language of these diffusion models and
+[00:39:58] literally like auto-complete as I'm
+[00:40:01] typing, it's re-diffusing it into like
+[00:40:02] the thing that closer to the thing I
+[00:40:04] want to share with you, and I share with
+[00:40:05] you. Maybe you're even experiencing what
+[00:40:08] I'm writing uh generating at the same
+[00:40:10] time as it's generating it and you're
+[00:40:13] seeing it, too, and it becomes closer to
+[00:40:15] telepathy or a richer visual language
+[00:40:17] rather than a textual language that we
+[00:40:20] can communicate with. This is crazy. I
+[00:40:21] mean, this to me is just like I mean,
+[00:40:23] every sci-fi author's dream. It's
+[00:40:25] definitely every child's dream. Like,
+[00:40:27] you just communicate with the full
+[00:40:28] dimensionality of thought, which is
+[00:40:31] visual, which is auditory, which is
+[00:40:32] linguistic. It's all those things
+[00:40:35] combined into kind of dream medium. And
+[00:40:37] I can just see like
+[00:40:38] a future
+[00:40:40] tech communication platform where
+[00:40:42] diffusion is like the medium itself.
+[00:40:44] You're just going back and forth
+[00:40:45] creating these
+[00:40:47] I don't know what to call them.
+[00:40:48] These kind of
+[00:40:51] This a visual language, dream language.
+[00:40:52] And you don't have to be like literally
+[00:40:54] telepathically hooked up to each other.
+[00:40:58] It's expressivity is so fluid
+[00:41:00] that it's basically as fast as you can
+[00:41:02] type or speak.
+[00:41:04] And that's that's that's pretty good.
+[00:41:05] And maybe there's one other point I
+[00:41:08] would want to just point out is like
+[00:41:10] I forgot who said it. Maybe it was
+[00:41:11] I don't remember who said it, but
+[00:41:13] someone's pointing out like what these
+[00:41:15] models really mean. I I knew intuitively
+[00:41:17] what they meant, but it was so beautiful
+[00:41:18] that I wanted to share it if I can
+[00:41:20] summarize it. Like, you know, previous
+[00:41:22] paradigms of computing were always about
+[00:41:24] solving making functions to solve
+[00:41:25] discrete solutions. Like, you make a
+[00:41:27] function and it poops out like a
+[00:41:29] very definite answer. What's so
+[00:41:31] beautiful about
+[00:41:32] deep learning, especially in the visual
+[00:41:34] arts, especially with these images, is
+[00:41:36] that you're creating a paradigm of
+[00:41:38] programming where the function poops out
+[00:41:39] a uh
+[00:41:41] a continuous set of solutions, literally
+[00:41:44] a gradient of solutions. And as you
+[00:41:47] shift your inputs, you get
+[00:41:50] you get answers in the neighborhood of
+[00:41:52] that thing to almost an endless variety.
+[00:41:55] And this is a very new paradigm
+[00:41:56] just on a technical level of
+[00:41:58] programming. You're not programming for
+[00:41:59] finite answers anymore. You're you're
+[00:42:01] programming for
+[00:42:04] a latent space, a gradient of answers, a
+[00:42:04] continuity
+[00:42:07] of answers.
+[00:42:08] This is like
+[00:42:09] I mean, there's a difference between
+[00:42:10] algebra and calculus, right? Like, in
+[00:42:12] calculus you deal with change and
+[00:42:12] continuities
+[00:42:17] and deltas and classic, you know,
+[00:42:18] like algebra you're just dealing with,
+[00:42:19] you know,
+[00:42:21] you solve for X and you get X. And this
+[00:42:23] is a huge paradigm shift and then to
+[00:42:24] appreciate it on a mathematical level it
+[00:42:27] made it really clear to me.
+[00:42:28] Yeah, I just want to share that because
+[00:42:29] I thought it was such a cool insight.
+[00:42:29] But
+[00:42:31] the reason why I'm saying that is that
+[00:42:33] lends itself to communication because we
+[00:42:35] all want to communicate expressively.
+[00:42:38] And expression is by nature it
+[00:42:40] continuous space. It's not on a finite
+[00:42:41] space. I mean, of course we want to all
+[00:42:43] say the perfect uh
+[00:42:44] phrase something the most in the most
+[00:42:46] perfect definition or the perfect tweet,
+[00:42:49] but we all value, you know, how we would
+[00:42:51] all say talk about the same thing
+[00:42:52] slightly different ways and that's a
+[00:42:54] continuity or how I would say the same
+[00:42:55] thing same idea in a slightly different
+[00:42:58] way for my own, you know,
+[00:43:00] for my own sense of variety for my own
+[00:43:02] just kind of where
+[00:43:04] maybe I had less coffee today than like
+[00:43:05] I normally do, so it's going to change a
+[00:43:06] little bit. And so the fact that we
+[00:43:08] could we're on the verge of having a
+[00:43:10] visual language that supports in its
+[00:43:13] bones this continuity of expression,
+[00:43:15] that's what's going to make it so
+[00:43:16] expressive as a medium in the future in
+[00:43:19] in the very very very near near future.
+[00:43:21] I think this is just so cool.
+[00:43:23] So whether that leads to worlds or not,
+[00:43:24] it'll definitely lead to like whatever
+[00:43:26] the next
+[00:43:29] I don't know, Zoom or WhatsApp or
+[00:43:29] yeah,
+[00:43:31] messaging platform there's that will
+[00:43:31] emerge.
+[00:43:34] On top of all the art that will emerge,
+[00:43:34] too.
+[00:43:36] I think it'll change the way we
+[00:43:36] communicate.
+[00:43:41] Thanks, Nathan.
+[00:43:48] Yeah, first thanks so much
+[00:43:50] for a wonderful and stimulating
+[00:43:53] presentation. Got me thinking about a
+[00:43:54] wide variety of different
+[00:43:57] elements. I'm a psychologist and so
+[00:43:59] I've found your two by two really
+[00:43:59] interesting.
+[00:44:02] In fact, I work, you know, you may know
+[00:44:05] John Vervaeke. I immediately sort of
+[00:44:08] saw, oh, his kind of
+[00:44:09] recursive relevance realization is about
+[00:44:11] exploration and conservation. So,
+[00:44:13] essentially surprise and homing. I
+[00:44:16] emphasize our person narrative and our
+[00:44:18] primate gut as it were. So, you can
+[00:44:20] immediately see that. And I'm just
+[00:44:21] curious then,
+[00:44:23] where was that just sort of an
+[00:44:25] inspiration? Were you building off of
+[00:44:25] anything?
+[00:44:28] Where are you kind of in that model and
+[00:44:30] kind of how you ground that because it
+[00:44:32] looked genuinely fascinating and it
+[00:44:33] afforded me
+[00:44:35] lots of different kind of resonances.
+[00:44:37] So, I deeply appreciated that.
+[00:44:40] Oh, thank you. It's great to hear.
+[00:44:41] Yeah, I mean, it came from my own
+[00:44:44] experience being an artist and
+[00:44:46] I was just thinking yeah, what are the
+[00:44:48] axes to define these kind of archetypes
+[00:44:50] and what they have in common. I had the
+[00:44:52] archetypes before I even had the axes in
+[00:44:54] a way and so I kind of fitted the axes
+[00:44:57] to understand just to kind of understand
+[00:45:00] the placement of the archetypes.
+[00:45:01] Yeah, staring by gut and staring by
+[00:45:03] story, I mean,
+[00:45:04] you know, I was writing that around the
+[00:45:05] same time I was starting to write this
+[00:45:08] anime series called Life After Bob and
+[00:45:09] it's literally I'm quite literally
+[00:45:11] thinking about story and about the
+[00:45:15] long-term arcs of characters and
+[00:45:17] and then simultaneously, you know, so
+[00:45:23] are very much in the present, are very
+[00:45:23] much
+[00:45:26] by some non-propositional just gut
+[00:45:28] feeling, something that's just
+[00:45:29] accumulated in my bones, in my muscle
+[00:45:31] memory, in my
+[00:45:34] just unconscious aesthetic. And so, I
+[00:45:35] just thought those would be natural
+[00:45:35] axes.
+[00:45:38] It's a very dumb answer in a way, but
+[00:45:39] they just kind of came from my just my
+[00:45:41] own experience. And
+[00:45:43] maybe the more and then this
+[00:45:45] seeking home and seeking frontier
+[00:45:46] um
+[00:45:50] I don't know, this is just a very basic
+[00:45:54] boundary condition I think of uh um
+[00:45:55] since I was since I was a kid, you know,
+[00:45:57] like um
+[00:45:59] I'm blessed with parents who don't call
+[00:46:00] me that much. You know, like they really
+[00:46:02] just don't call me. I have to call them.
+[00:46:04] Um most people I know, their parents
+[00:46:06] like most people my age, their parents
+[00:46:08] like call them. And in a way, they call
+[00:46:10] them to of of course be connected to
+[00:46:13] them, but I always saw it as a way to
+[00:46:15] to drag them back to an early state of
+[00:46:17] earlier state of development and to just
+[00:46:19] kind of larp being a child again so that
+[00:46:21] they can be more fully a parent again.
+[00:46:23] As a new as a new parent, I can fully
+[00:46:25] see myself becoming guilty of that as my
+[00:46:27] kids get older and I'm already trying to
+[00:46:29] fight the instinct to do that. And so, I
+[00:46:30] just thought oh and plus with like
+[00:46:32] parents who don't call me that much.
+[00:46:33] Literally, they don't they do not pick
+[00:46:37] up the they do not um call me and so um
+[00:46:39] I felt so much, you know, moving to New
+[00:46:41] York, pursuing being an artist, being an
+[00:46:44] artist in digital simulation, you know,
+[00:46:45] no Asian parent's going to say that
+[00:46:47] that's the recipe for success. And so,
+[00:46:49] but they never cuz they don't call me,
+[00:46:50] they don't know like what I'm really up
+[00:46:53] to until I just report back to them. And
+[00:46:55] so, I just thought oh I'm I'm I can go
+[00:46:56] out to the frontier and that's something
+[00:46:58] that maybe is already in my script
+[00:47:00] because of their hands-off approach that
+[00:47:02] I'm just allowed to just wander off. You
+[00:47:03] know, my parents are always one parent
+[00:47:05] was always working overseas in Asia when
+[00:47:06] I was a kid. I grew up in LA and the
+[00:47:08] other parent was working so I'd like
+[00:47:10] come home alone and like do my homework,
+[00:47:12] like, you know, like sometimes even make
+[00:47:13] dinner myself. So, I was very
+[00:47:15] independent. I'm an only child. And so,
+[00:47:17] seeking frontier just seemed like
+[00:47:19] something I kind of want to do. Um of
+[00:47:20] course you can take that also like just,
+[00:47:22] you know, seeking risk and seeking that.
+[00:47:24] I don't want to frame it as honorable as
+[00:47:26] like I'm a risk-taker. I'm just like I
+[00:47:28] don't know. I'm just kind of going out
+[00:47:29] there, seeing what's out there. I
+[00:47:30] wouldn't call that risk though. I mean,
+[00:47:32] some people might do that. Uh and then
+[00:47:33] seeking home, I think of as all the
+[00:47:36] parent people I know who like uh you
+[00:47:37] know, for what better or worse,
+[00:47:39] something inside them is programmed to
+[00:47:41] want to
+[00:47:41] mm
+[00:47:45] A seek comfort or at least refine things
+[00:47:47] that already exist, which is a form of
+[00:47:49] comfort and is a completely valid form
+[00:47:50] of comfort. You know, you think of every
+[00:47:54] Oscar-winning movie, there is sort of a
+[00:47:56] mm unspoken formula of to like winning
+[00:47:58] an Oscar. And if you're the kind of
+[00:47:59] filmmaker who kind of graduates from
+[00:48:01] film school and you want to like go down
+[00:48:03] the path of making like uh like an
+[00:48:06] honorable Oscar movie like you know you
+[00:48:07] you kind of have a range of subject
+[00:48:08] matter to work with you kind of a style
+[00:48:10] to work with you kind of have a gravitas
+[00:48:11] or seriousness that you kind of have to
+[00:48:13] live within and you can refine that you
+[00:48:14] know like there's always space for
+[00:48:17] refinement um but it's not it's not
+[00:48:20] seeking a frontier and it's not um
+[00:48:22] it's uh I guess yeah it's the opposite
+[00:48:24] of refinement and so yeah I just thought
+[00:48:25] those were kind of natural axes that
+[00:48:27] sort of fit these different artistic um
+[00:48:30] archetypes and I think we're all um
+[00:48:32] you know we all we have we have all of
+[00:48:35] them inside of us um but what balance in
+[00:48:37] which you play the play with them and in
+[00:48:38] what balance in which they naturally
+[00:48:40] emerge from you like I think that's all
+[00:48:43] to do with like yeah how like
+[00:48:44] how you've been raised your life
+[00:48:46] experiences and how conscious you are of
+[00:48:48] them right now.
+[00:48:49] That's beautiful. I don't think this is
+[00:48:51] a dumb answer at all. I I think you're
+[00:48:53] just you're hitting on some of the core
+[00:48:53] axes
+[00:48:56] of human psychology.
+[00:48:58] Oh that's that's really cool.
+[00:48:58] Cool.
+[00:49:02] Cool. Thanks Greg. Um
+[00:49:05] Christian uh you had a a question.
+[00:49:08] Yeah thanks Peter. Uh Ian and I I love
+[00:49:10] the the BJJ analogies and you know
+[00:49:11] what's amazing about BJJ right is
+[00:49:12] there's feedback you know what you're
+[00:49:14] practicing you're doing submissions
+[00:49:15] you're taking the back right you're
+[00:49:17] doing takedowns.
+[00:49:18] When you think about the masks what is a
+[00:49:20] good way to you know become more
+[00:49:22] skillful there and practice it and then
+[00:49:24] you know I I I think I'm stuck in the
+[00:49:26] director director a lot so you know not
+[00:49:28] getting stuck in different masks.
+[00:49:28] Thanks.
+[00:49:31] Well I think if you're stuck in the
+[00:49:32] director a lot you probably don't have
+[00:49:33] to consciously think too much about that
+[00:49:35] one anymore.
+[00:49:36] Um it'll just that's maybe you just like
+[00:49:38] your home state. Um
+[00:49:39] you know I'd say the cartoonist is
+[00:49:41] probably the most approachable and the
+[00:49:42] funnest one to like toy around with it's
+[00:49:42] like
+[00:49:46] I mean you could be very cynical about
+[00:49:48] it and you could read books about
+[00:49:51] persuasion or you know like you know
+[00:49:52] people don't
+[00:49:53] people aren't meritocratic, people
+[00:49:55] aren't rational, they go by their
+[00:49:56] emotion like all this kind of stuff and
+[00:49:58] that's definitely fair game for the
+[00:49:58] cartoonist.
+[00:50:02] Maybe a more benevolent and generous
+[00:50:04] approach is this thing I was talking
+[00:50:07] about Miyazaki which is more recent
+[00:50:08] realization cuz I've had to watch so
+[00:50:09] many Miyazaki films recently cuz of my
+[00:50:09] kids.
+[00:50:12] I think I've watched Totoro like 50
+[00:50:14] times now. Watched Howl's Moving Castle
+[00:50:14] like
+[00:50:16] probably 30 times now cuz it's my
+[00:50:18] daughter's new favorite movie. Ponyo
+[00:50:19] I've seen like I don't know
+[00:50:21] maybe 12, 16 times.
+[00:50:23] Well, tons. So, I'm just like glued to
+[00:50:25] Miyazaki not by choice but
+[00:50:30] this thing about an artwork um
+[00:50:33] targeting at you as the author
+[00:50:36] targeting a part a part of a person.
+[00:50:37] I always find that when I walk into an
+[00:50:39] exhibition or I read a book or I watch a
+[00:50:41] movie and you feel like it's trying to
+[00:50:43] talk to too many parts of you or it's
+[00:50:45] unclear what part of you it's talking
+[00:50:48] to, it feels like like I you don't want
+[00:50:50] to be there. It's again artwork is a
+[00:50:52] game too and as we're talking about
+[00:50:54] before a game is a way of constraining
+[00:50:56] telling you what to care about like
+[00:50:58] where your attention should go. You can
+[00:50:59] relax with an artwork cuz it's telling
+[00:51:01] you where your attention should be and
+[00:51:03] that's a that's a blessing. You want to
+[00:51:05] see art that where you don't have to
+[00:51:06] guess where your attention needs to be.
+[00:51:10] I mean, some artwork is deliberately um
+[00:51:10] hm
+[00:51:12] maybe some artworks are deliberately
+[00:51:15] trying to probe that but most artworks
+[00:51:16] you're trying to get to something else
+[00:51:19] and so you you tell the the audience
+[00:51:20] what the game is. You know, whether
+[00:51:21] that's in the subject matter or the
+[00:51:24] framing of the room that you're in. Um
+[00:51:26] you tell them what game you're playing
+[00:51:27] and I think that for me is such an
+[00:51:29] important aspect of being an artist. My
+[00:51:31] frame it that way for myself like it's
+[00:51:32] quite easy to be a cartoonist cuz that's
+[00:51:33] something I think we should all care
+[00:51:34] about if you're making artwork, if
+[00:51:36] you're writing something.
+[00:51:38] Um you have to know who you're It's a
+[00:51:40] stupid thing to say but you have to
+[00:51:42] a le- not know who your audience will be
+[00:51:43] cuz maybe you know, something will
+[00:51:46] emerge but who your audience is and the
+[00:51:48] audience isn't actually a person. I
+[00:51:50] think it's a psychological state inside
+[00:51:51] a person.
+[00:51:53] A pattern of behavior and specifically,
+[00:51:55] especially with movies
+[00:51:57] or media, it's a it's an age group
+[00:51:57] usually
+[00:51:59] that's still of course dormant inside of
+[00:52:01] you. I mean, I think about
+[00:52:02] I think about the other day, I was on a
+[00:52:04] plane and I was just browsing through
+[00:52:05] all the movies on Delta and they had
+[00:52:07] like 80, 90 movies. I'd seen like maybe
+[00:52:10] 30 of them. I'm just not I
+[00:52:11] for the first time in my life I was like
+[00:52:12] not compelled to watch a movie on the
+[00:52:15] plane. Not even rewatch a movie I loved.
+[00:52:17] And I was like, oh
+[00:52:19] I mean, I'm 38 years old like maybe at
+[00:52:21] certain point
+[00:52:23] you don't need movies anymore. I mean, I
+[00:52:25] would love I there are movies I will
+[00:52:27] absolutely watch cuz it tickles some
+[00:52:28] part of me
+[00:52:31] or out of support for someone or just
+[00:52:32] out of like
+[00:52:35] a kind of a vague interest.
+[00:52:35] Um
+[00:52:38] but I think the the adult in me does not
+[00:52:40] need movies. However, the child in me
+[00:52:43] totally needs movies. And um you know, I
+[00:52:45] will watch the new like the Dune part
+[00:52:47] two um
+[00:52:48] because it
+[00:52:50] it it attacks the child in me. You know,
+[00:52:52] I read the book, you know, I love the
+[00:52:54] world, you know, so much of Star Wars is
+[00:52:55] influenced by Dune. I love Star Wars as
+[00:52:57] a kid. And so it attacks the child in
+[00:53:00] me. Um but there's I don't know, 90% of
+[00:53:03] Netflix movies they're just they don't
+[00:53:04] they don't talk to that part of me. So
+[00:53:06] they're they're not for me.
+[00:53:07] That's not to say they're not for my
+[00:53:08] kids or they're not for a younger part
+[00:53:09] of me.
+[00:53:11] Um like all Tarantino films to me,
+[00:53:13] they're talking to the teenager in me.
+[00:53:15] You know, love him or hate him, I have
+[00:53:16] to like click play on a Tarantino film
+[00:53:18] cuz I know it's going to talk to some
+[00:53:20] part of my teenage brain. That's still,
+[00:53:21] you know, it's still part of me.
+[00:53:24] Um and so I think the cartoonist is a
+[00:53:26] really approachable um mask to get into
+[00:53:28] when you think about the psychology of
+[00:53:30] the viewer and what part you want to
+[00:53:33] talk to. And as an artist, it's fun to
+[00:53:34] activate that part of yourself in order
+[00:53:36] to talk to that person in that part of
+[00:53:38] the the viewer. Um you know, art is an
+[00:53:40] excuse to get in touch with all the
+[00:53:41] children inside of you. You don't have
+[00:53:43] just one child ego state. I think you
+[00:53:44] have a whole spectrum of children inside
+[00:53:45] of you.
+[00:53:47] Um and they say like, you know, the
+[00:53:49] music you know, the best music is
+[00:53:50] whatever music was
+[00:53:52] um coming out when you were a teenager.
+[00:53:53] And I think the same thing for movies.
+[00:53:55] Like the best movies are For me it was
+[00:53:57] like 1999 for me and I was like in What
+[00:54:00] was I in? Ninth grade or something?
+[00:54:01] I mean, yeah, they're good movie, you
+[00:54:02] know, like I don't know what was it?
+[00:54:05] Princess Mononoke, like uh
+[00:54:07] came out in like
+[00:54:10] God, I don't know. The Matrix, uh
+[00:54:12] I think like Waking Life, like Fight
+[00:54:15] Club, Being John Malkovich,
+[00:54:16] uh just like all these crazy like Three
+[00:54:18] Kings, all these like crazy for me at
+[00:54:20] least these really influential movies.
+[00:54:21] But it's also because I was that age.
+[00:54:24] Like those movies attacked perfectly
+[00:54:30] Thanks.
+[00:54:32] Thanks, Christian.
+[00:54:32] Um
+[00:54:35] Could you sneak in one more question, um
+[00:54:37] Ian? You're at a super hard stop but uh
+[00:54:38] Yeah, yeah, let's do one more question.
+[00:54:40] Sure, happy to.
+[00:54:43] Um and yeah, I'll I'll sneak it in. Uh
+[00:54:45] so, you know, this is the the Stoa and
+[00:54:46] we're you know, we care about philosophy
+[00:54:50] here um and wisdom. And Montaigne said
+[00:54:51] that philosophy is the most valuable of
+[00:54:54] all arts, the art of living well. And uh
+[00:54:56] Pierre Hadot kind of
+[00:54:56] like
+[00:54:59] said the real philosopher, uh the
+[00:55:00] ancient philosophers are artists of life
+[00:55:03] in contrast to like academic artists uh
+[00:55:04] philosophers who are like artists of
+[00:55:06] reason. Um so, I'm curious where do you
+[00:55:07] think the philosopher in the true sense
+[00:55:09] of the word, like a lover of wisdom,
+[00:55:12] would fall amongst the the different uh
+[00:55:16] artist mass that you uh presented here?
+[00:55:18] You're asking me which one's like kind
+[00:55:20] of most aligned with the philosopher?
+[00:55:20] Yeah.
+[00:55:29] I can't say for sure, but I would maybe
+[00:55:32] have some love for the emissary because
+[00:55:34] emissary has to continuously negotiate
+[00:55:36] the problems of life, whether it's the
+[00:55:38] life of the artwork or the world that uh
+[00:55:40] it's created.
+[00:55:43] They're in a constant feedback loop of
+[00:55:45] life dynamically, and they have to
+[00:55:48] either, you know, put kick things out or
+[00:55:50] accept things to come in and grow things
+[00:55:52] and destroy things in order to maintain
+[00:55:54] the life of the world or of the artwork.
+[00:55:56] And so, you know, philos-
+[00:55:57] I guess maybe to say to say really
+[00:55:59] briefly, wisdom,
+[00:56:00] you know, it's about choosing the right
+[00:56:02] problems to put your attention to, I
+[00:56:02] think.
+[00:56:06] Um it's very hard to
+[00:56:09] When you find a wise person, you just
+[00:56:09] um
+[00:56:12] I met
+[00:56:14] Uh how do I say My in-laws, they were
+[00:56:16] close to a
+[00:56:18] uh Tibetan Rinpoche called Gelek
+[00:56:19] Rinpoche. He's passed away now. But the
+[00:56:22] first I I only met him twice. And
+[00:56:24] when I shook his hand and he just said a
+[00:56:26] few words to me, like, I could sense his
+[00:56:28] immense wisdom because the words were so
+[00:56:30] precise. And I'm going to share with
+[00:56:31] them It's more personal. I'm going to
+[00:56:33] share with them what they were here. Um
+[00:56:35] but his words were so precise, and uh
+[00:56:37] you could sense in that precision, in
+[00:56:39] that economy, that he knew exactly what
+[00:56:42] to pay attention to in meeting me.
+[00:56:43] Really bizarre and eerie feeling.
+[00:56:44] Sometimes you feel that about people
+[00:56:45] where they can just, like,
+[00:56:47] I don't know, like, laser eye right into
+[00:56:50] you uh in in one scan, just like,
+[00:56:52] understand what the five words to say to
+[00:56:54] you are. And they weren't
+[00:56:55] earth-shattering words. They didn't
+[00:56:57] change my life. I'm just saying this
+[00:57:00] anecdote because it had power. The The
+[00:57:02] degree of precision
+[00:57:03] spoke to a certain wisdom that that
+[00:57:06] person emanated, and that had
+[00:57:07] like, an earth-shaking power at the
+[00:57:10] time. It felt heavy. Um the room felt
+[00:57:12] heavy. And
+[00:57:14] um yeah, I think of wisdom as choosing
+[00:57:15] the right problems, and I think of the
+[00:57:17] emissary as someone Someone who's
+[00:57:19] engaged in life has to necessarily
+[00:57:21] negotiate with how the world changes,
+[00:57:22] how they themselves change, and how
+[00:57:24] people change. And I think that is a
+[00:57:26] constant test
+[00:57:28] and muscle building of where to put
+[00:57:30] attention. And I think uh that's
+[00:57:32] probably the best arena for wisdom to
+[00:57:38] Yeah, that that answer resonates
+[00:57:38] um
+[00:57:41] cool. Uh
+[00:57:45] So, uh we'll gently close here and um
+[00:57:47] Ian, any parting words or thoughts you'd
+[00:57:49] like to leave us with? Perhaps where we
+[00:57:51] can find your work?
+[00:57:53] Um yeah, um you can see my work at
+[00:57:53] ianchang.com.
+[00:57:56] Um
+[00:57:57] and
+[00:58:01] um yeah, the anime series that I
+[00:58:03] started, the first episode's out. It's
+[00:58:06] called Life After Bob.
+[00:58:08] Hopefully, either later this year or
+[00:58:09] next year,
+[00:58:12] um it'll be it'll be on demand. Um
+[00:58:14] for right now, if by chance you are an
+[00:58:16] NFT holder of the various NFTs I've
+[00:58:20] released, you can stream it now. Um
+[00:58:22] and yeah, uh the last thing I would say
+[00:58:24] is maybe the thing I'm working on
+[00:58:26] currently is really just trying to
+[00:58:29] cultivate an unconscious language. Um
+[00:58:31] and I think for me as an artist, it's
+[00:58:32] often it's not taught in art school,
+[00:58:34] unfortunately. But, the thing that I've
+[00:58:36] had to relearn as an artist is how to
+[00:58:38] speak the language of the conscious
+[00:58:40] because that's the that is the way I
+[00:58:42] think to grapple with the more
+[00:58:44] interesting and troubling and scary
+[00:58:46] problems of our time and personally. Um
+[00:58:48] cuz if they're truly scary and they're
+[00:58:49] truly interesting and they truly grip
+[00:58:51] you, like you just don't have the answer
+[00:58:53] in an easy tweet. And you just can't
+[00:58:55] write the answer out cuz if you did if
+[00:58:56] you knew it wouldn't be a problem. And
+[00:58:58] so, you kind of have to you need some
+[00:58:59] other medium, you need some other
+[00:59:01] language. And your dreams are the way
+[00:59:03] initially, I think evolutionarily, your
+[00:59:05] dreams are a way of starting the process
+[00:59:07] of groping and facing a problem that
+[00:59:09] you're interested in. And so, and art is
+[00:59:11] then the cultural prosthetic of doing
+[00:59:14] that out loud um for the benefit of
+[00:59:17] yourself and other people. And so, just
+[00:59:18] as it maybe just iterate I'm just saying
+[00:59:20] this even for myself, like I
+[00:59:22] I'm committed to as an artist to trying
+[00:59:23] to speak the language of the conscious
+[00:59:23] more.
+[00:59:26] Um I I that's the best way to get out
+[00:59:32] Beautiful. Well said.
+[00:59:33] And people in the chat were talking
+[00:59:35] about a Stoa movie club. So perhaps when
+[00:59:37] your film gets released, we can
+[00:59:39] watch that here. And uh
+[00:59:39] Totally.
+[00:59:41] definitely check out
+[00:59:43] Ian's work
+[00:59:44] and then the book you can get on Kindle
+[00:59:46] at Psychoactive.
+[00:59:48] So Ian make some closing announcements
+[00:59:50] in a moment, but Ian thank you so much
+[00:59:52] for coming to the Stoa today. That was
+[00:59:53] an awesome session.
+[00:59:53] Um
+[00:59:54] And
+[00:59:57] Yeah, thanks for inviting me, Peter.
+[00:59:59] And then next up we have
+[01:00:01] our View Quake third View Quake book
+[01:00:03] club. This is like we read books
+[01:00:05] that give a View Quake that change our
+[01:00:05] paradigm.
+[01:00:08] And the next
+[01:00:10] book is the Dictator's Handbook. So on
+[01:00:12] Sunday you can check that out. We're
+[01:00:13] going to have a dialogue about it and
+[01:00:15] one of the authors going to come in next
+[01:00:17] week. Um
+[01:00:19] So that being said, Ian, everyone, thank
+[01:00:21] you so much for coming to the Stoa
+[01:00:21] today.

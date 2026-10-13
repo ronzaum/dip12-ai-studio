@@ -1,0 +1,421 @@
+Source: Ian Cheng Interview: A Portal to Infinity (Louisiana Channel, YouTube, uploaded 19 Oct 2017; auto-captions)
+URL: https://www.youtube.com/watch?v=TO6Luilc4Bo
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:01] [Music]
+[00:00:11] emissary's is a trilogy of simulations
+[00:00:14] live simulations all in the same
+[00:00:15] landscape but many thousands of years
+[00:00:18] apart and the real property that I
+[00:00:20] wanted to explore was creating a program
+[00:00:22] so that you never had a beginning an end
+[00:00:25] it was a process that was ongoing as
+[00:00:32] so I came across this book called on the
+[00:00:33] origin of consciousness and the
+[00:00:35] breakdown the bicameral mind by Julian
+[00:00:39] Jaynes I think around 2010 and it struck
+[00:00:42] me as a very radical kind of book it
+[00:00:45] came out in the late 70s but its premise
+[00:00:47] to me was still very alien and radical
+[00:00:49] and Julian James hypothesized that
+[00:00:51] humans weren't always conscious they
+[00:00:54] were in a way kind of like automatons up
+[00:00:57] until as early 3,000 years ago and when
+[00:00:59] they ran into a problem or stressful
+[00:01:01] situation which their life experience
+[00:01:04] and her habits couldn't resolve you and
+[00:01:07] I today would kind of think about it
+[00:01:09] imagine the possible stories of what our
+[00:01:11] life would be like if we went down this
+[00:01:13] route versus that route but he says that
+[00:01:15] ancient humans instead heard a voice and
+[00:01:17] that voice told them what to do and the
+[00:01:19] voice often sounded like their mom or
+[00:01:21] their dad or the village leader or and
+[00:01:23] eventually what they perceived to be the
+[00:01:25] gods and he said this voice was the way
+[00:01:28] in which people solved and their
+[00:01:30] problems under stress for many thousands
+[00:01:33] of years and that that ability was
+[00:01:35] almost if you can think of it as a kind
+[00:01:37] of app like our brains are sort of like
+[00:01:39] an iPhone and their iPhone in ancient
+[00:01:42] times just like iPhone 1.0 and now we
+[00:01:45] have iPhone like 10-point Oh with the
+[00:01:46] app of consciousness but the app
+[00:01:48] consciousness didn't exist for them and
+[00:01:49] instead they had to rely on these voices
+[00:01:51] but of course reality became more more
+[00:01:53] complex when people were dealing with
+[00:01:56] ecological disaster they had to migrate
+[00:01:57] and they became refugees and this is a
+[00:02:00] very difficult thing to do especially in
+[00:02:02] ancient times and different people with
+[00:02:04] different voices would conflict with
+[00:02:06] each other meet each other and then come
+[00:02:07] into conflict about which voices were
+[00:02:10] really true and his hypothesis is that
+[00:02:12] over time this new app emerged called
+[00:02:15] consciousness which is a way to project
+[00:02:17] yourself forward in time or backwards in
+[00:02:20] time in order to resolve your stress I
+[00:02:22] don't know if it's true but it's
+[00:02:23] certainly weird and it definitely
+[00:02:25] captured my imagination for making these
+[00:02:32] so I've been very interested in
+[00:02:34] artificial intelligence since I was an
+[00:02:36] undergrad and I very much wanted to
+[00:02:38] figure out a way to integrate that and
+[00:02:41] what I do as an artist and I was very
+[00:02:42] interested in emissaries to kind of
+[00:02:47] create my own model of the mind to make
+[00:02:48] the different agents and different
+[00:02:51] characters in the simulations react in
+[00:02:53] ways that are much more legible to us
+[00:02:55] not necessarily intelligent but like a
+[00:02:57] kind of a stupid dog
+[00:02:59] or like the way ants move I really
+[00:03:01] wanted to capture something more true to
+[00:03:03] nature than a kind of chaotic system
+[00:03:06] that was devoid of intelligence and I
+[00:03:08] thought of this model that rather than
+[00:03:10] trying to find the unified theory of
+[00:03:12] what consciousness is or how to make the
+[00:03:15] perfect AI which I'm now Google so far
+[00:03:17] be for me to even attempt that I decided
+[00:03:19] that a much more interesting approach
+[00:03:21] would be to collage together different
+[00:03:23] models of the brain both from philosophy
+[00:03:25] but also from computer science and video
+[00:03:27] games and how those models compete
+[00:03:30] inside each of the characters heads so
+[00:03:32] for example there's a threat model
+[00:03:36] that's based on how maybe first-person
+[00:03:38] shooter video games their AI is modeled
+[00:03:40] there's a kind of needs model based on
+[00:03:44] how the Sims did their AI in terms of
+[00:03:46] their need for hunger thirst need to
+[00:03:48] sleep all these kind of slightly urgent
+[00:03:51] but not super urgent behaviors and then
+[00:03:52] there's a narrative model which is I
+[00:03:54] think really close to the Julianne
+[00:03:56] Jane's idea that narrative consciousness
+[00:03:58] was an emergent thing that came after
+[00:04:01] these other lower forms of not lower
+[00:04:03] forms and more immediate and primitive
+[00:04:06] forms of making sense of the world and
+[00:04:08] so you put all these three things in one
+[00:04:09] head and it's like that movie inside out
+[00:04:11] where you have these competing agents
+[00:04:13] inside yourself you have multiple people
+[00:04:15] inside of you and they're all fighting
+[00:04:17] for control but only one of them gets a
+[00:04:19] spotlight at time the count uses the
+[00:04:21] analogy of a congress or like a
+[00:04:22] parliament you only get one speaker at a
+[00:04:25] time not person for that moment takes
+[00:04:26] control of the whole room and in the
+[00:04:28] case of like inside out or the
+[00:04:31] simulations that model takes control the
+[00:04:33] whole character and it's behaving under
+[00:04:35] conditions but then can very well be
+[00:04:39] pushed aside and taken over by someone
+[00:04:40] else it's a bit like also when you're
+[00:04:43] hungry you get hangry and when you get
+[00:04:45] hangry you turn into a different person
+[00:04:47] you're no longer your benevolent self
+[00:04:48] you're no longer some and think deeply
+[00:04:51] or make a joke you just want food and I
+[00:04:53] very much thought this was really true
+[00:04:57] to nature but hadn't been seen in either
+[00:04:59] video games or in more academic more
+[00:05:01] academic studies of artificial
+[00:05:04] intelligence so this was my plot or my
+[00:05:07] plan for how an assertion unfold it was
+[00:05:09] basically about this composition of the
+[00:05:12] mind that was strung through each of the
+[00:05:18] episodes the first simulation called
+[00:05:20] Emma steering squad of gods takes place
+[00:05:22] on the side of a volcano and the ancient
+[00:05:24] community is faced with the threat of a
+[00:05:26] volcanic eruption the volcano hasn't
+[00:05:28] erupted and lava hasn't flowed yet but
+[00:05:30] they feel the tremors of it and the
+[00:05:31] tremors become a threat because they
+[00:05:33] don't know whether to leave and uproot
+[00:05:36] their home or to stay and kind of called
+[00:05:38] a bluff of the volcano the emissary is
+[00:05:40] his little girl it's the daughter of the
+[00:05:42] shaman and she gets in the head by some
+[00:05:44] debris from one of the tremors when she
+[00:05:45] gets hit in the head
+[00:05:47] she actually stops hearing the voices
+[00:05:50] that the father hears and instead begins
+[00:05:52] to think in a way independently on her
+[00:05:55] own outside the community the simulation
+[00:05:58] follows her entirely as she tries to
+[00:06:00] convince everyone to leave but in the
+[00:06:02] process because there's so many near of
+[00:06:04] goals happening that involve other
+[00:06:06] characters who are very reactive
+[00:06:09] oftentimes she does not succeed or
+[00:06:11] oftentimes they recruit her into doing
+[00:06:14] whatever it is they need to do the scene
+[00:06:17] you're seeing with the emissary and the
+[00:06:20] snake boy is always for me a very
+[00:06:22] interesting moment because the snake boy
+[00:06:24] his character is to want to mansplain to
+[00:06:27] her what the snakes are doing so he's
+[00:06:30] always trying to talk over her and she's
+[00:06:32] trying to warn him this volcano is gonna
+[00:06:34] hit but he keeps trying to tell her that
+[00:06:35] these snakes are the most important
+[00:06:36] thing in the world and she needs to
+[00:06:38] understand and listen to him
+[00:06:40] and it's really I think quite satisfying
+[00:06:43] for myself when the snake boy gets like
+[00:06:46] run over by a pile of ash being obsessed
+[00:06:49] with the snakes and so she often becomes
+[00:06:52] distracted by them and this for me is
+[00:06:53] part of the pleasure watching this
+[00:06:55] simulation I did I've set up this
+[00:06:57] narrative premise and I've set up her
+[00:06:59] goals but for me as an artist it's also
+[00:07:01] an exercise and really losing control
+[00:07:04] and not being overly deterministic about
+[00:07:11] so the second simulation emissary works
+[00:07:13] uh perfection takes place thousands of
+[00:07:15] years later and the volcano has turned
+[00:07:18] into a kind of crater like a dormant
+[00:07:20] volcano where the interior edge of the
+[00:07:23] volcano has become this kind of fertile
+[00:07:26] winnie in paradise needs bread these
+[00:07:29] kind of mutant dogs they look like Shiba
+[00:07:32] dogs and in the landscape you see many
+[00:07:34] kinds of failed experiments of this dog
+[00:07:37] this premise of this simulation is that
+[00:07:39] one day this AI discovers the dead body
+[00:07:41] of a 21st century human the AI
+[00:07:44] resurrects is human but can only make
+[00:07:46] the human live for roughly twenty
+[00:07:48] minutes and instead of greeting the
+[00:07:50] human itself thinking that a human could
+[00:07:52] never fully understand and relate to the
+[00:07:55] AI it sends its best Shiba dog I call it
+[00:07:58] the Shiba emissary to go greet this 21st
+[00:08:01] century human and thinking that the
+[00:08:04] Shiba and the human would have an
+[00:08:06] rekindle this lifelong relationship
+[00:08:09] between man and dog and so the Shiba
+[00:08:12] emissaries goal and mission is to
+[00:08:14] extract the memories of the 21st century
+[00:08:17] human for the AI but of course as a dog
+[00:08:20] and of course a dog loves humans and so
+[00:08:22] the dog can't help but be seduced and
+[00:08:24] fall in love with the human again and
+[00:08:27] often in a way self-sabotage is its own
+[00:08:29] mission because of its love for this
+[00:08:29] person
+[00:08:34] so the final episode of the masseur is
+[00:08:36] called emissary sunsets the self and
+[00:08:38] again it's in the same landscape as the
+[00:08:42] first two emissaries but perhaps
+[00:08:44] billions of years in the future so far
+[00:08:45] in the future where the AI has become
+[00:08:48] not even an entity but a substance
+[00:08:51] almost like utility like water or gas in
+[00:08:54] the lumen it's decided that they're
+[00:08:55] going to be the immune system for the
+[00:08:57] landscape almost like your cells or
+[00:08:59] inside your body it's created a kind of
+[00:09:02] organism or a pack of organisms that are
+[00:09:04] very reactive to threats and want to
+[00:09:08] expunge any kind of radical mutation but
+[00:09:10] it kind of got so bored with that idea
+[00:09:12] that it decided to send a part of a
+[00:09:14] little part of itself down onto the
+[00:09:17] terrestrial plane and it kind of
+[00:09:20] possessed this plant and as it possesses
+[00:09:23] the plant it starts to fall in love with
+[00:09:24] life again it starts to kind of feel all
+[00:09:26] the sensations of life and starts to
+[00:09:29] gather up other plants to kind of give
+[00:09:31] it more agency but from the human's
+[00:09:34] perspective they see this as a serious
+[00:09:36] threat to their existence a serious
+[00:09:38] threat to the landscape their mission is
+[00:09:40] to expunge any radical mutations and
+[00:09:41] it's a bit like the village in
+[00:09:43] Frankenstein or how imagine if Jesus
+[00:09:45] came down and got really bored with
+[00:09:47] doing miracles and being benevolent to
+[00:09:49] everyone and stayed a little bit past 33
+[00:09:51] years and start just to mess around with
+[00:09:53] his powers it would be Keyes's would
+[00:09:56] become a kind of enemy of the state in a
+[00:09:59] way so the the main dramatic conflict of
+[00:10:01] emissary sunsets itself is this ai's
+[00:10:05] love for being alive but at the cost of
+[00:10:07] being increasingly a monstrous force
+[00:10:10] amongst the women and the conflict is
+[00:10:13] between those forces
+[00:10:16] so much of our cognitive development
+[00:10:18] isn't in isolation but rather in
+[00:10:21] relation to each other and especially as
+[00:10:22] kind of social mammals in relation to
+[00:10:26] what the group thinks not in a unified
+[00:10:29] or consensual way but just the presence
+[00:10:31] of another person is often enough to
+[00:10:33] influence how you think and what you do
+[00:10:35] in life and I really needed these
+[00:10:38] figures in the landscape to influence
+[00:10:41] the main emissary character not just for
+[00:10:44] our pleasure as viewers but also for the
+[00:10:46] AIS to kind of bounce off each other
+[00:10:49] which allows for what they call in
+[00:10:51] computer science for emergence effects
+[00:10:54] when you have multiple semi intelligent
+[00:10:57] agents you inevitably get effects that
+[00:10:58] are more than a sum of their parts and
+[00:11:01] you really need living characters to do
+[00:11:01] that
+[00:11:03] [Music]
+[00:11:07] so the look of emissaries is very much
+[00:11:09] inspired by the cartoons of Hayao
+[00:11:12] Miyazaki's a Japanese filmmaker is made
+[00:11:13] like movies like Princess Mononoke
+[00:11:17] Totoro Ponyo spirited away and very much
+[00:11:20] what I love in his movies is how
+[00:11:22] carefully he depicts culture and nature
+[00:11:24] with specificity nothing in the
+[00:11:26] backgrounds or the foreground are
+[00:11:28] repetitive that you might have similar
+[00:11:30] objects like five pigs in a row but they
+[00:11:32] all have unique faces and I very much
+[00:11:36] took from this the idea that in computer
+[00:11:38] animation it's so easy to copy and paste
+[00:11:40] is so easy to replicate things that look
+[00:11:43] like they come from each other and the
+[00:11:45] goal of emissaries visually was to make
+[00:11:47] it so that everything looked unique as
+[00:11:49] nature does when you go nature no rock
+[00:11:50] is the same even though there are
+[00:11:53] billions of rocks and so every rock in
+[00:11:56] the emissary's every face and emissaries
+[00:12:01] is unique and I've kind of fused or
+[00:12:03] wanted to fuse the disciplines of kind
+[00:12:06] of procedural generation with a
+[00:12:08] traditional and with a traditional 3d
+[00:12:11] animation to make unique motion capture
+[00:12:14] to make unique 3d models to make unique
+[00:12:17] rocks plants and animals as a way of
+[00:12:19] kind of replicating a sort of cartoonish
+[00:12:19] nature
+[00:12:24] I mentioned nature a lot it might work
+[00:12:26] because I think it is when we think
+[00:12:29] about nature we think about if it has a
+[00:12:31] kind of space or a force or container
+[00:12:33] that's very forgiving
+[00:12:36] we don't expect of nature complete
+[00:12:39] control we don't expect of nature total
+[00:12:42] determinism and I often felt when making
+[00:12:44] my work that I needed that container you
+[00:12:46] need to refer to nature in order to make
+[00:12:49] an analogy to I think the out of control
+[00:12:51] 'no status emulation could contain and
+[00:12:53] also to speak of doubt of control
+[00:12:55] nacelle we experience in our lives and i
+[00:12:57] think the nature served as the best
+[00:13:00] entryway or kind of best portal to think
+[00:13:04] about that you couldn't say a city or an
+[00:13:05] architecture because those are such
+[00:13:07] human things or such deterministic
+[00:13:09] things so i needed to go on to this
+[00:13:19] so emissaries is built on this video
+[00:13:22] game engine called unity and within that
+[00:13:24] it's the programming language is called
+[00:13:26] C sharp which is often used in video
+[00:13:29] game design for me using a technology
+[00:13:30] that's well support is very important
+[00:13:32] for me as an artist because I'm often
+[00:13:35] cautious about using technology for a
+[00:13:37] sake of it especially new technologies
+[00:13:40] for me often artworks that use really
+[00:13:42] new cutting-edge technologies only you
+[00:13:45] can at most become an experiment about
+[00:13:48] the technology itself and when I made
+[00:13:50] emissaries this in the spirit of that
+[00:13:52] stuff fading away into the background
+[00:13:54] and really for grounding this feeling
+[00:13:56] that you're watching a culture you're
+[00:13:58] watching a narrative and you're watching
+[00:14:01] a kind of extension of nature and I
+[00:14:02] needed the technology to be well
+[00:14:08] supported in a way almost invisible with
+[00:14:10] an art I think art has a very
+[00:14:12] complicated and conflicted relationship
+[00:14:14] with technology I think often technology
+[00:14:19] is seen critically from our perspective
+[00:14:20] and when it's used it's often deployed
+[00:14:25] and very tech for tech sake but I feel
+[00:14:28] that technology is maybe the one
+[00:14:31] underlying force that really forces us
+[00:14:35] as human beings to consider what the
+[00:14:37] container of human being really is and
+[00:14:38] how much it can stretch or where it will
+[00:14:42] break when we get technology that allows
+[00:14:45] us to have children outside of the womb
+[00:14:46] or when we get technology that allows us
+[00:14:49] to clone ourselves or when we get
+[00:14:52] technology that makes banks irrelevant
+[00:14:55] with like blockchain these force us to
+[00:14:58] reconsider what trust means what our
+[00:15:00] offspring means what it means to be a
+[00:15:03] parent and I think this is this
+[00:15:05] confrontation to these questions and
+[00:15:07] these realities are fundamentally
+[00:15:10] interesting and positive to consider and
+[00:15:13] for me as an artist I
+[00:15:16] I'd love to consider these questions
+[00:15:17] it's my passion it's my joy
+[00:15:17] [Music]
+[00:15:24] if there is a kind of moral dimension to
+[00:15:26] making simulations to making the
+[00:15:29] emissary's works is that I'm trying to
+[00:15:31] create simulations where a character is
+[00:15:35] confronted with cataclysmic or little
+[00:15:37] changes big changes that affect not only
+[00:15:39] themselves but the group and the central
+[00:15:42] drama as I think with most drama is when
+[00:15:45] an individual sees or has a perspective
+[00:15:47] that's different from the group and is
+[00:15:51] forced to either change themselves to
+[00:15:52] align with the group or hold their
+[00:15:54] beliefs steadfast and change the group
+[00:15:56] and I think if there's any political
+[00:16:00] dimension to my work it's that maybe
+[00:16:03] embracing certain kinds of change is
+[00:16:07] actually more healthy than not the hope
+[00:16:09] with the simulation is that it can
+[00:16:13] really occupy the tension across the
+[00:16:15] spectrum people looking for five seconds
+[00:16:17] as an image as an interesting image that
+[00:16:18] they've never seen before and they've
+[00:16:19] come back multiple times they haven't
+[00:16:20] seen that image before or that image
+[00:16:23] before or for five hours where you feel
+[00:16:26] like the way you look looking out a
+[00:16:29] window into the park and seeing kids
+[00:16:32] play or squirrels run out the tree or
+[00:16:35] you can watch and Zone in on one or two
+[00:16:37] characters and observe the story of
+[00:16:40] their whole life I really designed these
+[00:16:43] simulations to really mimic nature and
+[00:16:44] that you could shift your attention like
+[00:16:47] a birdwatcher you could if you had some
+[00:16:48] knowledge of what you're looking at you
+[00:16:49] could look at in one way if you had no
+[00:16:51] knowledge of what you're looking at you
+[00:16:52] can also experience the pleasures of
+[00:16:56] this kind of second nature it's for all
+[00:17:03] you

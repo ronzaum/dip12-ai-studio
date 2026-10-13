@@ -1,0 +1,104 @@
+Source: Jeremy Deller: Can Art Change the World? | Louisiana Channel (YouTube osvGqKDgeUQ, published 26 April 2024). English captions as supplied on YouTube; timestamps from the caption file.
+URL: https://www.youtube.com/watch?v=osvGqKDgeUQ
+Fetched: 2026-10-12 via yt-dlp --write-auto-sub --write-sub + vtt2txt.py
+
+[00:00:00] I think art can offer
+[00:00:00] personal salvation -
+[00:00:05] - in the way that religion did once.
+[00:00:08] I think it can change people's lives
+[00:00:08] on an individual basis.
+[00:00:12] Whether it can change whole societies,
+[00:00:12] I'm not sure.
+[00:00:15] I think art can be
+[00:00:15] a great reflection of society -
+[00:00:19] - but whether that means
+[00:00:19] it changes it is another matter.
+[00:00:21] Because if that's the case -
+[00:00:23] - then why don't we live
+[00:00:23] in an ideal society?
+[00:00:25] Because all these artists
+[00:00:25] have been making great art for years -
+[00:00:28] - and yet it’s still a mess.
+[00:00:30] So in a sense we've proved our case -
+[00:00:33] - that we can't change things
+[00:00:33] for the better throughout.
+[00:00:37] But I think we change individuals -
+[00:00:40] - the trajectory of their lives can be changed
+[00:00:40] through art and culture.
+[00:00:45] And that's what you want, isn't it?
+[00:00:45] You want to be changed.
+[00:00:47] That's why you go to an art gallery
+[00:00:47] or listen to music.
+[00:00:50] You want to go
+[00:00:50] to a different state.
+[00:00:53] SoI think that's fair enough.
+[00:00:55] Art certainly changed my life.
+[00:00:58] I think for the better.
+[00:00:59] And the arts and museum culture certainly did.
+[00:01:03] And music.
+[00:01:04] But if you're looking to artists
+[00:01:04] to change the world -
+[00:01:09] - I think you’re probably looking
+[00:01:09] in the wrong place.
+[00:01:12] It's like a last resort, really.
+[00:01:15] I mean, it's funny:
+[00:01:15] You go to a lot of events -
+[00:01:17] - well, I've been to a lot of events -
+[00:01:19] - where very, very rich people
+[00:01:19] go on and on about this.
+[00:01:22] Saying artists are superhuman,
+[00:01:22] they're going to change our lives.
+[00:01:26] They're going to do this...
+[00:01:27] There are people with literally
+[00:01:27] maybe even billions -
+[00:01:32] - maybe many, many millions.
+[00:01:34] People who actually are in a position
+[00:01:34] to change the world -
+[00:01:36] - if they wanted to.
+[00:01:38] Or make people's lives better.
+[00:01:41] But often all they do is just collect art.
+[00:01:43] Just buy art
+[00:01:43] and buy, buy, buy art.
+[00:01:46] Then maybe their money should
+[00:01:46] be going somewhere else?
+[00:01:49] That's sort of an unfashionable thing
+[00:01:49] to say as an artist.
+[00:01:52] Maybe it's because they never buy my work,
+[00:01:52] so I don't really care what they buy.
+[00:01:55] It seems like a waste of money, frankly.
+[00:01:57] But I...
+[00:01:59] I think super rich people
+[00:01:59] have a lot of faith in artists -
+[00:02:03] - which I think is unfair, really.
+[00:02:05] Because they should be doing
+[00:02:05] their bit as well.
+[00:02:08] And just buying art doesn't
+[00:02:08] actually make the world a better place.
+[00:02:13] It might make their lives a better place -
+[00:02:15] - and sometimes they open galleries
+[00:02:15] and that's a good thing, obviously.
+[00:02:23] I don't know.
+[00:02:24] I don't think
+[00:02:24] you should look to artists, really.
+[00:02:28] I mean, some artists do change the world.
+[00:02:30] I think Andy Warhol changed the world.
+[00:02:32] But then did he change it for better?
+[00:02:34] I don't know. It's not clear to me.
+[00:02:36] I think his legacy is very mixed.
+[00:02:38] The Beatles, I think,
+[00:02:38] change the world.
+[00:02:41] Rock and roll changed the world
+[00:02:41] and probably for better.
+[00:02:45] The Beatles definitely did for better.
+[00:02:47] And maybe other music movements.
+[00:02:51] Maybe music rather than art.
+[00:02:53] Art is still so refined in a way.
+[00:02:53] And so...
+[00:02:56] - we can all know about artists,
+[00:02:56] but I don't think...
+[00:02:58] Did Picasso make the world a better place?
+[00:03:00] It's not clear to me.
+[00:03:02] He made the world a more interesting place.
+[00:03:05] So maybe that is better.
+[00:03:07] But I don't think he changed
+[00:03:07] world politics necessarily.

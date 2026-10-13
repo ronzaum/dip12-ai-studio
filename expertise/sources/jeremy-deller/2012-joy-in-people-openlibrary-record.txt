@@ -1,0 +1,12 @@
+Source: Joy in People (Hayward Publishing, 2012), Open Library record
+URL: https://openlibrary.org/books/OL28774578M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL28774578M
+Title: Joy in People
+Subtitle: None
+Publishers: ['Hayward Gallery Publishing', 'Hayward Publishing']
+Publish date: 2012
+ISBN: ['9781853322945']
+Pages: 214
+Work: ['/works/OL21253609W']

@@ -1,0 +1,1295 @@
+Source: Life after BOB: The Chalice Study with Ian Cheng (De Balie, YouTube, uploaded 16 Mar 2023; auto-captions)
+URL: https://www.youtube.com/watch?v=JfhdgNazHRo
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:03] Um, my [snorts] name is Beatric Ruof.
+[00:00:05] I'm the director of the Hartwick Art
+[00:00:07] Foundation and together with Emily
+[00:00:09] Pathik, the director of the Reich
+[00:00:14] Academy for the Bill and Leonardo
+[00:00:18] from Memory James Memory James. We're
+[00:00:20] doing this today. [laughter]
+[00:00:23] Uh this project actually started at the
+[00:00:25] beginning of 2020 already and the
+[00:00:28] Reichkes Academy and the Hadri Art
+[00:00:30] Foundation decided to start a research
+[00:00:33] project together. Um, initiated really
+[00:00:36] by our mutual curiosity about how
+[00:00:40] artists are working at a time of rapid
+[00:00:42] technological change and to explore
+[00:00:44] future possibilities and the impact of
+[00:00:47] existing and upcoming technologies and
+[00:00:51] our work and also on the future of our
+[00:00:51] institutions
+[00:00:55] with Leonardo as mentioned before and at
+[00:00:58] Steiner who is also here in the audience
+[00:01:00] uh and memory jams we found great
+[00:01:03] partners to conduct act this project um
+[00:01:05] and its research uh which we at least
+[00:01:10] imagine to span until 2024.
+[00:01:13] This conference now is the first public
+[00:01:16] program of our project and we are very
+[00:01:19] thankful to Dali to collaborate with us
+[00:01:23] on this. Uh Yuri Yuri Alp just left for
+[00:01:26] the very important bookal which is the
+[00:01:29] most important uh event in Amsterdam as
+[00:01:32] we know. uh but will come he'll join us
+[00:01:34] tomorrow and we thank him very much for
+[00:01:37] again for a very very uh nice
+[00:01:39] collaboration and of course we want to
+[00:01:41] thank his great team to doing this with
+[00:01:45] us. Leonardo will speak a bit later
+[00:01:48] about the conference in general. Uh and
+[00:01:49] I wanted to tell you a bit about what
+[00:01:52] the Hartwick Art Foundation actually is
+[00:01:54] doing. Not sure if everyone knows
+[00:01:57] already. Uh we're working on a new
+[00:02:01] museum actually in Amsterdam just now
+[00:02:03] uh which will be the home to a collage
+[00:02:06] of many functions in one building and
+[00:02:09] also collage of many activities in one
+[00:02:11] building. We will have spaces for
+[00:02:14] communities to use, spaces to show art,
+[00:02:16] very traditional and its widest
+[00:02:19] appearances from timebased to physical
+[00:02:22] to virtual spaces for interdicciplinary
+[00:02:25] and hybrid forms of working and
+[00:02:28] experiences experiencing together and
+[00:02:30] spaces for living and working literally
+[00:02:35] inside the museum. Our questions are of
+[00:02:38] course what would we what would a space
+[00:02:42] for physical and virtual uh art be in
+[00:02:45] the future and what the making for art
+[00:02:48] would look like this. How can we support
+[00:02:51] also new generations of artists whose
+[00:02:53] needs and work meth methods are not
+[00:02:57] accounted for by current art world
+[00:03:00] models as they exist? How do continuous
+[00:03:02] changes in the technologies we use
+[00:03:05] influence the way that we think and the
+[00:03:08] ways of the thinking of artists too? Uh
+[00:03:10] how do they change communities,
+[00:03:13] audiences and art organizations beyond
+[00:03:17] the field of art regarding authorship,
+[00:03:19] regarding privacy, democracy and
+[00:03:22] decision making uh accessibility,
+[00:03:26] sustainability and economics in general
+[00:03:28] for art foundation. In this project is a
+[00:03:31] way to learn and to explore
+[00:03:34] to question how institutions in service
+[00:03:36] of artists production could look at
+[00:03:39] changing tools and continued
+[00:03:41] flexibilities of spaces for production
+[00:03:43] but also the product productivity of
+[00:03:47] spaces providing a relevant function in
+[00:03:49] the contemporary and continuously
+[00:03:52] evolving conditions of our reality.
+[00:03:54] We hope we can possibly prototype
+[00:03:56] workshops and networks for cultural
+[00:03:59] tenants in our future museum here in
+[00:04:01] Amsterdam where we want to continuously
+[00:04:04] host new ideas, technologies and
+[00:04:06] knowledge production in spaces,
+[00:04:09] workshops on programs as an offer to the
+[00:04:11] artists and to cultural producers
+[00:04:14] working with us in the institution but
+[00:04:17] also in the city and beyond.
+[00:04:19] Looking at the list of all the speakers
+[00:04:21] and participants who join us this
+[00:04:23] weekend, I'm sure we will be inspired
+[00:04:25] and come out of this conference with
+[00:04:29] many constructive questions, ideas and
+[00:04:31] also many relationships.
+[00:04:34] Thank you again to Diwali, Yuri Alre,
+[00:04:37] Yanti Mosulman who was very uh crucial
+[00:04:40] to organizing uh the event here at the
+[00:04:44] Dali. A big thank to Leonardo and Atu. A
+[00:04:46] big thank to Emily and the Reichkes
+[00:04:48] Academy. There were great workshops
+[00:04:51] already happening today. Emily, I'm sure
+[00:04:55] we'll be talking about. And I want to
+[00:04:59] personally really thank the artist uh at
+[00:05:01] artists the team of the Hartwick Art
+[00:05:06] Foundation, Astra Chuma and Henry
+[00:05:10] Sandro. Very special shout out for you,
+[00:05:12] Henry. [laughter]
+[00:05:14] There's a word in German which is called
+[00:05:17] thousands sasa. [laughter] That's what
+[00:05:20] you are. Uh I found a a translation into
+[00:05:22] English which is check of the trade but
+[00:05:23] I'm sure that's a very old-fashioned
+[00:05:26] style to say it but uh you're not only
+[00:05:28] handling our communication on our
+[00:05:31] relationship in all aspect but um this
+[00:05:35] was a great great job you did. Uh we
+[00:05:39] also want to thank Lara Ubo Navi. I hope
+[00:05:41] I pronounced that right. for introducing
+[00:05:43] us to new tools in communication and
+[00:05:46] taking care of our Discord community.
+[00:05:50] Passing on to Emily to continue our
+[00:05:50] talk.
+[00:05:54] Thank you so much, Beatrix. It's really
+[00:05:55] wonderful to see everyone here. Gosh,
+[00:05:58] the lights bright. Um, I'm going to
+[00:05:59] continue with thanks actually while
+[00:06:01] Beatrix started them. And I first of all
+[00:06:03] want to thank well the Hartwig Art
+[00:06:06] Foundation for the collaboration. Um we
+[00:06:09] embarked on a journey out of mutual
+[00:06:09] curiosity.
+[00:06:13] Uh and it's been well an exciting one so
+[00:06:16] far and I think this uh couple the
+[00:06:18] tonight and tomorrow will intensify that
+[00:06:22] and uh very curious and excited about
+[00:06:24] where that's going to take us. Um I do
+[00:06:26] also want to thank Henry for all the
+[00:06:28] incredible work. [laughter]
+[00:06:31] Um I'd also like to thank the Reichkes
+[00:06:34] Academy team, some of whom are here. um
+[00:06:36] uh Jaz who's uh uh one of our
+[00:06:39] specialists in the media lab um Jim
+[00:06:42] Fanale from our public program and
+[00:06:44] Matanga Halman who sadly couldn't be
+[00:06:47] with us this evening. Uh the character
+[00:06:51] for the um uh conference has been uh
+[00:06:53] created by Kevin Bray who's an alumnest
+[00:06:56] of ours and I wanted to say thank you to
+[00:06:59] him and also to Claraara Leia uh for the
+[00:07:02] graphic design work. Um we had some
+[00:07:03] really great workshops at the Rights
+[00:07:06] Academy today. Um so I want to thank all
+[00:07:09] of those uh who led those. Um Black Swan
+[00:07:13] uh Ing Chang Studio and the H. Um I have
+[00:07:15] to say it was really exciting to briefly
+[00:07:18] step into all of your worlds. Um and it
+[00:07:23] made uh yeah uh uh for me to to start
+[00:07:24] entering into this sphere that we're
+[00:07:27] exploring over these uh couple of days
+[00:07:30] was really inspiring. So, thank you for
+[00:07:32] your generosity and sharing uh what you
+[00:07:37] do. Um before I hand over to uh
+[00:07:38] Leonardo, I'd like to say a few words
+[00:07:40] about the rights academy and how we come
+[00:07:44] into this uh this world. Um we're an
+[00:07:46] artist res in residence program. We have
+[00:07:49] up to 50 artists working in our building
+[00:07:51] at one time and artists coming from all
+[00:07:53] over the world with a really wide range
+[00:07:55] of practices and ideas that they're
+[00:07:56] working on.
+[00:07:59] um we work in a monumental building. We
+[00:08:01] have a 150 year history and we have a
+[00:08:03] lot of workshops that are ranging from
+[00:08:07] analog to digital. So for us um it's
+[00:08:09] really an an environment for
+[00:08:11] experimentation for the artists who are
+[00:08:13] working in our building all year round.
+[00:08:16] And one of the exciting things is to see
+[00:08:18] how those experiments play out when
+[00:08:21] artists are working in in our in our
+[00:08:24] workshops and spaces. And quite often
+[00:08:26] that is moving between analog and
+[00:08:29] digital. And um Jaz for example was
+[00:08:31] telling me about artists an artist
+[00:08:34] that's working in ceramics and VR
+[00:08:35] crossing between different two different
+[00:08:38] workshops. We've seen artists coming in
+[00:08:40] as painters and going out and you know
+[00:08:43] working in more digital technologies. Um
+[00:08:45] today there was one of our paint painter
+[00:08:48] alumni and a a sculptor performer
+[00:08:51] alumnist creating avatars. So, it's a
+[00:08:53] really exploratory and
+[00:08:56] cross-disciplinary environment. Um, and
+[00:08:57] as an organization, we're very much
+[00:08:59] fueled by practice and by following
+[00:09:01] artistic practice and also trying to
+[00:09:04] anticipate where the future of practice
+[00:09:08] will go. And so, um, often it's a kind
+[00:09:10] of yeah chicken and egg scenario of
+[00:09:14] trying to like uh listen and uh witness
+[00:09:16] a lot of different experimentations, but
+[00:09:18] also trying to see what do we need to do
+[00:09:20] as our next steps. And so that's one of
+[00:09:23] the reasons why we wanted to start to
+[00:09:26] research this terrain. And so we with
+[00:09:27] the Heartvig Art Foundation found a
+[00:09:29] common interest and curiosity and
+[00:09:33] invited uh Leonardo and Art to to to to
+[00:09:36] work with us on this in collaboration
+[00:09:39] with our team and the Hartvik team.
+[00:09:41] Uh yeah, so we're very curious about
+[00:09:44] yeah where this will will lead us and
+[00:09:47] this event uh for us is about opening
+[00:09:50] this research up and learning listening
+[00:09:52] um hearing about what's happening in the
+[00:09:55] field in the widest sense. Um and also
+[00:09:57] to listen to the crit critical debates
+[00:09:59] that are playing out in this field to
+[00:10:01] also understand where do we locate
+[00:10:05] ourselves um and yeah as well to
+[00:10:07] understand more broadly the world that
+[00:10:10] we live and work in the context that
+[00:10:12] we're working in um and where the kind
+[00:10:15] of urgencies are in that. What are the
+[00:10:18] needs for artists but also more broadly
+[00:10:21] than that uh for a whole range of
+[00:10:23] cultural practitioners and how can we
+[00:10:25] widen out our the territories that we
+[00:10:30] work in and create uh cross-pollination.
+[00:10:30] So
+[00:10:34] yeah, we're also wondering what what
+[00:10:36] kind of role can we play in this field
+[00:10:39] and how can we position ourselves. So
+[00:10:41] having dropped into the workshops today,
+[00:10:45] it was already, I have to say, very um
+[00:10:47] compelling to see what types of worlds
+[00:10:49] are being created and what discussions
+[00:10:52] are playing out within them. So looking
+[00:10:54] forward to hearing more over the next uh
+[00:10:55] this evening and over the coming days.
+[00:10:58] And I'm going to pass over to uh
+[00:11:00] Leonardo to tell you a bit more about
+[00:11:06] Hi everyone. Um I'm going to be super
+[00:11:08] brief and straightforward. So first of
+[00:11:10] all let's continue the thank you to
+[00:11:12] Batrix and Emily for the introduction
+[00:11:14] but also yeah for the unwavering support
+[00:11:17] and the initiation of this project. Um
+[00:11:20] the conference so our goal with the
+[00:11:22] conference is really to critically
+[00:11:24] engage with the metaverse in two ways
+[00:11:26] both as a social cultural context in the
+[00:11:28] making as well as a moment of
+[00:11:30] convergence of different technologies
+[00:11:32] and you know what the implications
+[00:11:34] simply are for artists and the art field
+[00:11:36] in general. To reach this goal, we
+[00:11:38] essentially organized the conference to
+[00:11:41] be um an anthology of approaches if you
+[00:11:44] want by great international artist,
+[00:11:46] technologist and researchers. On the one
+[00:11:48] hand, these approaches really remind us
+[00:11:52] that the metaverse doesn't exist in a
+[00:11:54] vacuum. It is true that you know as soon
+[00:11:55] as I say metaverse, you're thinking
+[00:11:58] virtual worlds, you're thinking gaming
+[00:12:00] worlds, you're thinking Mark Zuckerberg
+[00:12:03] most likely. uh but thinking of it as
+[00:12:06] purely a virtual context um misses
+[00:12:08] really the big picture which is that the
+[00:12:10] metaverse however we want to define it
+[00:12:12] and I'm sure tomorrow we're going to
+[00:12:14] spend time on that it's really across
+[00:12:17] the um physical and virtual and so much
+[00:12:19] of the physical world influences it you
+[00:12:21] can think of you know laws and
+[00:12:22] regulations for instance or hardware
+[00:12:25] distribution that decides who can access
+[00:12:27] this or not the infrastructure that
+[00:12:29] sustain it uh the cost of the
+[00:12:31] infrastructure on the other And it's
+[00:12:33] also a moment in time and it's a moment
+[00:12:34] where you know decades in the making
+[00:12:37] technologies are coming to fruition for
+[00:12:39] mainstream application all at the same
+[00:12:42] time. I don't need to mention chat GPT.
+[00:12:44] I'm sure everyone is aware of it here
+[00:12:45] and and Delhi but you you know
+[00:12:47] blockchain is already more than 10 years
+[00:12:49] old and being applied you know to many
+[00:12:51] different fields. Game engines used to
+[00:12:53] be uh you know the keystone only of the
+[00:12:55] gaming industry but now they're
+[00:12:57] essentially the backbone of the inter
+[00:12:59] entertainment industry as a whole. And
+[00:13:01] there are countless examples of this. So
+[00:13:02] indeed what we're interested is the
+[00:13:04] overlap of these technologies because
+[00:13:07] this overlap creates frictions. Uh they
+[00:13:09] create opportunities and especially how
+[00:13:11] artists engage with these technologies
+[00:13:14] both pushing them forward but also
+[00:13:16] pushing against them.
+[00:13:17] Generally we just want you know this
+[00:13:20] conference to be a welcoming setting to
+[00:13:21] discuss all these critical topics. I'm
+[00:13:24] sure there are many opinions also many
+[00:13:26] feelings attached to it but we're just
+[00:13:27] you know we're just going to learn from
+[00:13:29] each other. So without further ado I
+[00:13:31] think I'm going to ask ask you to to see
+[00:13:34] it. Thanks a lot.
+[00:13:34] [applause]
+[00:13:43] So I'm sure everyone is itching to to
+[00:13:45] see the movie of course of Yan and then
+[00:13:47] hear from him. Uh just a few words. Uh
+[00:13:50] if you don't know the work already we're
+[00:13:52] not gonna watch it. It's about an hour
+[00:13:54] long. Life After Bob is an episodic
+[00:13:56] anime series built in the Unity game
+[00:13:59] engine and presented uh live in real
+[00:14:01] time. Tonight we see an episode in a
+[00:14:03] cinematic format, not in the interactive
+[00:14:05] one. And Life After Bob imagines a
+[00:14:07] future in which the internet extends
+[00:14:10] into our nervous system. Psychotropic
+[00:14:12] foods unify physical and psychic
+[00:14:14] realities into a fluid experience
+[00:14:17] stream. AI entities are permitted to
+[00:14:20] co-inhabit human minds and anomi or the
+[00:14:21] breakdown of ethical standards and
+[00:14:25] values reigns. So please enjoy the
+[00:14:25] movie.
+[00:14:27] [applause]
+[00:14:49] Hi everyone. Um, let me welcome Yan
+[00:14:53] Chang to the stage and you to the seats.
+[00:14:56] Come in. Come in.
+[00:14:56] [applause]
+[00:15:05] I trust most of you know Ian's work. But
+[00:15:06] let let's do the bio in the
+[00:15:09] institutional way. Ian Shanken is an an
+[00:15:10] artist living and working in New York.
+[00:15:13] His work has been widely exhibited
+[00:15:15] including part of solo presentation at
+[00:15:17] MoMA PS1 New York serpentine galleries
+[00:15:20] London in soul the shed New York there's
+[00:15:21] a very long list of countries where you
+[00:15:24] showed your work so let's say all over
+[00:15:24] [laughter]
+[00:15:27] and since 2012 changed a series of
+[00:15:30] simulations exploring an agent's
+[00:15:32] capacity to deal with an everchanging
+[00:15:32] environment
+[00:15:37] so thanks a lot for the work I fantastic
+[00:15:39] first of all uh thank you for your
+[00:15:41] attention I know it's a long to sit
+[00:15:43] through and uh it's getting late but I
+[00:15:45] really appreciate your attention for
+[00:15:45] this.
+[00:15:47] So there is so much in the in this movie
+[00:15:50] that it's kind of hard where to start
+[00:15:52] from. Uh we're going to start with a
+[00:15:54] couple of of questions and then you know
+[00:15:56] just include the audience. I'm I'm sure
+[00:15:58] there's several questions but my first
+[00:16:01] one is about what we didn't see because
+[00:16:03] of course we saw the cinematic version
+[00:16:06] of the work but there is um an
+[00:16:08] interactive simulation right part that
+[00:16:11] is actually how this is shot.
+[00:16:14] So my first question um [snorts] is
+[00:16:16] about simulation itself right like so
+[00:16:18] the entire world of life after Bob it's
+[00:16:21] a simulation in unity but simulation is
+[00:16:23] a big theme as well in the in the movie
+[00:16:25] you know there's a thousand lives
+[00:16:27] experiences that is we can call it a
+[00:16:29] self exploration simulation then you
+[00:16:31] have the destiny Bob which is a
+[00:16:34] selfoptimization simulation so why
+[00:16:36] simulation such a central has such a
+[00:16:39] central role in your work
+[00:16:42] um yeah well Well, growing up, I one of
+[00:16:43] my favorite video games was this game
+[00:16:45] called Sim City by Will Wright. And for
+[00:16:48] me, it was uh the first video game where
+[00:16:50] you played kind of like an abstract
+[00:16:52] mayor dealing with city planning, which
+[00:16:54] sounds so boring. You're dealing with
+[00:16:56] really bor seemingly boring systems from
+[00:16:57] the point of view of a child. Somehow
+[00:16:59] Will Wright
+[00:17:00] the magic trick that he pulled off in
+[00:17:01] that game was to make you fall in love
+[00:17:03] with all those systems like how to put
+[00:17:04] plumbing and electricity through a city,
+[00:17:07] how to zone commercial and real estate
+[00:17:09] and industrial like areas and how to
+[00:17:10] make that work for a city and then to
+[00:17:12] destroy it with a disaster. [snorts] And
+[00:17:13] if you've ever played Sim City, you know
+[00:17:15] the pleasures of building up a city in
+[00:17:18] this kind of systemic way and falling in
+[00:17:19] love with the city you build and then
+[00:17:21] destroying it and then rebuilding again.
+[00:17:23] And prior to that, all the games I ever
+[00:17:24] played, you played as an avatar. You
+[00:17:26] were shooting something. it was much
+[00:17:28] more like embodied. And so I became
+[00:17:30] obsessed with this idea that you could a
+[00:17:32] game could be more than just a game with
+[00:17:34] a goal, but rather almost like a super
+[00:17:36] hyper toy that you could prod and it
+[00:17:38] would give you a complex result and you
+[00:17:39] could prod in a different way. You could
+[00:17:41] see the butterfly effects or you could
+[00:17:42] uh try to engineer something really
+[00:17:44] complicated and you realize it has zero
+[00:17:46] effect on the total system. And so I
+[00:17:47] fell in love with systems through Sim
+[00:17:49] City and I've been I think I've been
+[00:17:55] This makes a lot of sense to me. I mean,
+[00:17:56] I'm a gamer as well. Less on the
+[00:17:58] simulation, more like linear
+[00:17:59] storytelling, but you know, this is not
+[00:18:01] your cup of tea. You're more into the
+[00:18:04] entire encompassing world. Um, you know,
+[00:18:06] Left After Bob, it's sci-fi, right? It's
+[00:18:08] it's an anime series actually, and
+[00:18:10] you're making more episodes, right?
+[00:18:11] I would love to.
+[00:18:13] Yeah. Like you mentioned seven as the
+[00:18:15] magic number, potentially seven more. Um
+[00:18:17] so I have a question around this because
+[00:18:19] you know like uh sci-fi whether that's
+[00:18:20] you know as a genre whether that's you
+[00:18:23] know movies novels video games it's
+[00:18:25] always about they're essentially thought
+[00:18:26] experiments right you you take this and
+[00:18:28] this condition you either drive them to
+[00:18:30] the extreme or you fast forward and you
+[00:18:33] get such future or such a world and then
+[00:18:35] in yours you you know your departure
+[00:18:39] point is there is an anomic crisis which
+[00:18:41] anomi if some of you don't know I had to
+[00:18:43] Google it personally it's a term from
+[00:18:45] sociology right that means like a crisis
+[00:18:48] in ethical and social standards, right?
+[00:18:50] That whether it's individual or or
+[00:18:50] shared.
+[00:18:53] Yeah. Maybe it's a general cloud over a
+[00:18:54] civilization where you don't can't
+[00:18:55] really orient yourself. You don't know
+[00:18:56] what means what. So, you don't know how
+[00:18:58] to move forward in your life. Um and
+[00:18:59] institutions definitely don't know how
+[00:19:01] to move forward in that situation.
+[00:19:03] Yeah. Right. So, so you take this this
+[00:19:04] condition and you push it to the great
+[00:19:06] anomic crisis and that's what sparks all
+[00:19:08] the tech to be invented. So, my question
+[00:19:10] would be like why was important for you
+[00:19:12] this anomic crisis as a topic right now
+[00:19:15] to investigate in your work?
+[00:19:17] Um, it was maybe something I was feeling
+[00:19:20] when making the work. Uh, I was
+[00:19:21] anticipating the birth of my first
+[00:19:24] daughter, Eden. And I was imagining the
+[00:19:25] world that she would grow up in. I was
+[00:19:27] also imagining myself at a certain
+[00:19:29] crossroads in my own life. And I had
+[00:19:32] read this Stephen King book. Um, he's a
+[00:19:35] horror novelist, uh, very prolific
+[00:19:37] writer. And he he was saying, "Oh, when
+[00:19:39] I when I was writing The Shining, I had
+[00:19:41] imagined what was the worst possible
+[00:19:43] father I could be." and he imagined
+[00:19:46] himself as a an alcoholic writer with
+[00:19:48] writer's block trapped in a cabin with
+[00:19:49] his family who he resented for his
+[00:19:51] writer's block and he would kill them.
+[00:19:53] That's The Shining. And I thought, "Oh,
+[00:19:54] what's the worst father I could be? I
+[00:19:56] was so anxious becoming a new dad." I
+[00:19:58] thought, "Oh, it's the guy who conflates
+[00:20:00] his work with his kid and tries to make
+[00:20:02] them the same thing." I think that's Dr.
+[00:20:06] Wong's primary error as a protagonist or
+[00:20:09] as a as a father in this film. Um, and
+[00:20:11] that conflation is the source of all the
+[00:20:13] conflict that um that generates this
+[00:20:13] movie,
+[00:20:16] right? I I didn't see The Shining coming
+[00:20:18] into this conversation, but [laughter]
+[00:20:20] the Sims and Shining, I I love the
+[00:20:23] references. So, you know, I I had the
+[00:20:24] opportunity to watch the movie a couple
+[00:20:25] of times, you know, to prepare for
+[00:20:27] tonight. And I have to say the first
+[00:20:29] time I watched it, I felt quite
+[00:20:31] disoriented. But you know not in a
+[00:20:33] negative way per se but you know the
+[00:20:35] movie is very intricate in the jumps in
+[00:20:37] perception that it makes you know like
+[00:20:39] you being chalice essentially. So you
+[00:20:41] you see what chalice perceives of the
+[00:20:43] outside world what chalice perceives of
+[00:20:45] her inner empire uh what chalice
+[00:20:47] perceives of the life of Z and all the
+[00:20:49] subplots. So there are many of these
+[00:20:51] jumps and that reminded me of the very
+[00:20:54] famous Zangi dreaming a butterfly you
+[00:20:56] know tale from from Dowist philosophy.
+[00:20:59] So is the dream the reality or the other
+[00:21:02] way around? So which reality of the many
+[00:21:05] that chalice experiences uh often at the
+[00:21:08] same time is more real?
+[00:21:11] Yeah. I mean I in the film you follow
+[00:21:12] her subjective experience through the
+[00:21:14] wavy verse and if it wasn't totally
+[00:21:16] clear there's certain scenes where maybe
+[00:21:18] you saw their mouth wasn't moving but
+[00:21:19] they were kind of talking in this echoey
+[00:21:22] voice and that was sort of the me the
+[00:21:23] the internet I imagine where the
+[00:21:26] internet would eventually um go move all
+[00:21:27] the way down and touch your nervous
+[00:21:29] system um through your brain into your
+[00:21:31] nervous system and that would open up a
+[00:21:33] whole world of possibilities of what you
+[00:21:34] experience physically. You could have
+[00:21:37] other people or entities drone you in
+[00:21:39] your body. So Bob did a lot of like
+[00:21:41] physical chores through Chalice's body,
+[00:21:43] dealt with conflicts with her father.
+[00:21:44] Meanwhile, Chalice was off in the wavy
+[00:21:48] verses kind of mental internet. And
+[00:21:50] yeah, I think you know so much of making
+[00:21:53] this film was I love Marvel movies and
+[00:21:54] one of the reasons why I love Marvel
+[00:21:57] movies is because and the it's genius
+[00:21:59] how they produced it. They produced each
+[00:22:01] Marvel movie focused on one character
+[00:22:03] before they got to the Avengers movie.
+[00:22:05] So you really earned and love started to
+[00:22:07] love each character first before you had
+[00:22:12] the mega almost um culmination of
+[00:22:14] different ways of being um being
+[00:22:15] generous with Marvel here. I mean, it's
+[00:22:17] also just but there's something
+[00:22:18] beautiful about that structure. And I
+[00:22:20] thought, oh, it would be so beautiful to
+[00:22:23] uh have this sandbox to speculate
+[00:22:24] different archetypes of being in the
+[00:22:26] 21st century. And if I could just focus
+[00:22:27] on one character at a time, in this
+[00:22:29] case, Chalice, and maybe I could do
+[00:22:31] further episodes that focused on some of
+[00:22:32] the other characters you met, and there
+[00:22:34] would be an Avengers episode at the end
+[00:22:35] where different ways of being in the
+[00:22:37] 21st century could meet. And for me,
+[00:22:39] Chalice, as I was writing this, it
+[00:22:42] became, I think, a new archetype of
+[00:22:44] unearned life experience. You know, we
+[00:22:46] talk about people with like unearned I
+[00:22:48] don't know like they're they're born
+[00:22:51] with a furnished home, but Chalice is
+[00:22:54] born a little bit with like a level up
+[00:22:56] uh in terms of like personal psychology.
+[00:22:58] She has this inner coach and at the end
+[00:23:00] of the film she has 10 years of unearned
+[00:23:02] life experience that she has to either
+[00:23:04] throw out and say this is AI just gone
+[00:23:06] crazy and wrong and therefore I'm
+[00:23:08] starting over but with a mentality of a
+[00:23:10] 10-year-old or in all this weird muscle
+[00:23:12] memory or I try to integrate and accept
+[00:23:14] some of this life that Bob had lived for
+[00:23:16] me many lives that Bob lived for me from
+[00:23:20] ages 10 to 20 and somehow
+[00:23:22] try to like move forward with that even
+[00:23:24] though it was unexperienced directly by
+[00:23:27] her and this I feel was a I landed by
+[00:23:29] the time I finished the film was a kind
+[00:23:30] of a new archetype of being that I
+[00:23:32] didn't I don't know it doesn't exist yet
+[00:23:34] but maybe it will.
+[00:23:36] No, it's very this is very interesting.
+[00:23:38] I would like to open Yeah. Oh, I already
+[00:23:41] see [laughter] I knew there Okay, Yant
+[00:23:48] Thanks. Could you tell us a little bit
+[00:23:50] about how the interactive versions
+[00:23:52] played? What is it? Uh is it through
+[00:23:54] through a screen? cuz I I saw a video
+[00:23:57] and it looked like it was um a room with
+[00:23:59] sensors in it.
+[00:24:00] Yeah. Yeah. Let me uh speak about that
+[00:24:02] for a moment. So,
+[00:24:04] you know, I made this in uh we started
+[00:24:06] working on this. I started working with
+[00:24:08] Veronica. So, who's here, my producer.
+[00:24:11] We started working on this in 20 like
+[00:24:13] late 2019. I thought, "Oh, I'm going to
+[00:24:14] have a kid. I'm going to I was
+[00:24:16] previously working on this like AI like
+[00:24:18] this kind of agent based AI stuff. I'm
+[00:24:20] like, oh, that's so hard, so rewarding,
+[00:24:21] but hard. I'm going to be easy on myself
+[00:24:23] and we're going to make a cartoon. How
+[00:24:25] hard could that be? Of course, it's like
+[00:24:28] so hard because it's all the all
+[00:24:31] the pos all the steps to make it are
+[00:24:32] seemingly wellnown, but they're like
+[00:24:34] they're no joke. You know, make up a
+[00:24:37] make a story that's like no joke. Um
+[00:24:39] cast hire, you know, and then I decided,
+[00:24:42] oh, why not? Let's make in the Unity
+[00:24:43] video game engine. So, it's a real time
+[00:24:46] cartoon. Sure, we need that challenge. I
+[00:24:48] say that faciciously a little bit, but
+[00:24:50] also I was anticipating thinking, well,
+[00:24:52] I'm an artist and in film production,
+[00:24:54] especially animation production, it's
+[00:24:56] extremely expensive to change your mind.
+[00:24:58] Like once you get down the road of
+[00:24:59] animating a scene, a character is
+[00:25:01] performing a certain way. If you don't
+[00:25:02] like it, it's going to cost you, I don't
+[00:25:03] know, hundreds of thousands, millions of
+[00:25:06] dollars to shift that performance. Pixar
+[00:25:08] has the luxury of doing that with a
+[00:25:10] shifting deadline. I had a deadline and
+[00:25:12] a budget. I thought, "Oh, if we could
+[00:25:14] use a Unity, the Unity video game
+[00:25:15] engine, which I've been using for my
+[00:25:17] simulations before, I could still be the
+[00:25:20] artist who changes his mind and be a
+[00:25:22] director of a film and we could iterate,
+[00:25:24] we could change the angles, we could
+[00:25:25] change the lighting, we could change
+[00:25:26] performances very instantly because it
+[00:25:28] was in a video game engine. I mean, not
+[00:25:30] completely painlessly, but quite quick.
+[00:25:32] So, we started there and then by the
+[00:25:34] time we were wrapping the production of
+[00:25:36] the narrative part, my daughter was
+[00:25:38] around 1 and a half, two and I've been
+[00:25:40] reading her this book called The Big Red
+[00:25:41] Barn, which is a very simple children's
+[00:25:43] book, kind of a bedtime routine about
+[00:25:45] animals going to bed at night in the
+[00:25:47] barn. Um, pretty basic. And she thought
+[00:25:49] it was basic, too. But the the images
+[00:25:52] are beautiful. And so, by the time I
+[00:25:53] don't know, three or four times reading
+[00:25:55] it, she would just tell me, "Daddy,
+[00:25:57] stop. Eden, go in." Meaning, she didn't
+[00:25:58] want me to flip the page. She wanted me
+[00:26:00] to go into the page. Her name's Eden.
+[00:26:02] She goes, she wants to go in. I like
+[00:26:05] what does that mean? And she goes in
+[00:26:08] like cow eat egg. And then I have to
+[00:26:09] improvise. Oh, what if the cow ate the
+[00:26:13] egg? And then um cow poop egg turned
+[00:26:16] into chicken. Haha. Like so she would
+[00:26:18] just kind of improvise like the
+[00:26:19] character she saw there and I would kind
+[00:26:21] of fill in the gaps as her dad. Thought,
+[00:26:23] oh if I was a if I was a kid now,
+[00:26:25] that's exactly what I would want for my
+[00:26:26] media. I'd watch the narrative a couple
+[00:26:29] times, metabolize that. Great. But if
+[00:26:30] the world was compelling enough, I would
+[00:26:34] want to go into it. And so toward the
+[00:26:35] end of production, because we were in
+[00:26:37] the video game engine start to develop a
+[00:26:39] feature called, I call it world watching
+[00:26:41] where you can pause the film at any
+[00:26:44] point. Uh, and you could, you know, the
+[00:26:45] typical like controller thing. You could
+[00:26:47] fast forward, rewind, but then you could
+[00:26:49] click on anything in the frame and the
+[00:26:50] camera framing would zoom in on that
+[00:26:52] object. We're in a video game engine, so
+[00:26:54] it's effectively a virtual dollhouse.
+[00:26:55] and it would bring up all the lore and
+[00:26:57] mythology from this Life After Bob Wiki
+[00:26:59] we made. You could rotate around it. You
+[00:27:01] could reframe the shot. It could kind of
+[00:27:03] fulfill this fantasy of going into the
+[00:27:05] film just a little bit. And for me, this
+[00:27:07] is a real prototype of how maybe media
+[00:27:10] in the future will be uh much more fluid
+[00:27:13] from kind of a passive narrative
+[00:27:15] cinematic mode that requires your full
+[00:27:17] attention and um tries to engage your
+[00:27:18] emotions to something more interactive
+[00:27:21] like a game or something exploratory um
+[00:27:24] where you can learn more about a world
+[00:27:25] that you love. I mean, if any of you
+[00:27:27] seen Spirited Away, like you want to
+[00:27:28] pause that movie every single frame
+[00:27:30] because it's chalk full of details that
+[00:27:32] you just want to love and eat up, but
+[00:27:33] you're not allowed to. And that's maybe
+[00:27:35] part of the lure, but I want to be
+[00:27:36] allowed to. And I think it's almost
+[00:27:49] Thank you. Uh there was a reference to
+[00:27:53] to Zoro Astra, I think, in the movie. If
+[00:27:54] I got this right, maybe you could
+[00:27:54] elaborate.
+[00:27:56] That's the kind of the the CEO's name.
+[00:28:00] The kind of wild reckless CEO's name. He
+[00:28:06] It is I mean yeah he he chose that name
+[00:28:14] um none that I would care to share here
+[00:28:16] but yeah like it's I mean it's not no
+[00:28:17] big secret but yeah like this kind of
+[00:28:21] proto religion uh that like maybe
+[00:28:24] preceded everything else I think Z maybe
+[00:28:26] some backstory he like saw himself as
+[00:28:29] some proto figure to a much bigger
+[00:28:29] universe
+[00:28:33] I have a I have a question on
+[00:28:34] [clears throat] I had the feeling there
+[00:28:37] were a lot of um influence of influences
+[00:28:39] in the movie from some philosophers. Can
+[00:28:42] you like tell me some more about the the
+[00:28:45] influences you took from maybe
+[00:28:47] philosophy to derive at the point of an
+[00:28:52] AI living a big part of your life?
+[00:28:54] Yeah, maybe the biggest book that had an
+[00:28:56] influence on what you just saw was this
+[00:28:57] book called What Do You Say After You
+[00:29:00] Say Hello? by um a psychiatrist
+[00:29:02] psychologist called Eric Burn and he was
+[00:29:05] a psych psychologist from the 70s. He's
+[00:29:05] famous for this thing called
+[00:29:08] transactional analysis. He thought that
+[00:29:11] in Freudian analysis where it's just a
+[00:29:13] patient, you know, laying down with the
+[00:29:14] therapist that the patient doesn't
+[00:29:16] accurately self-report. You know, you
+[00:29:17] kind of just tell your therapist stuff
+[00:29:19] that how you saw it. And he thought, oh,
+[00:29:22] if you observe people interacting with
+[00:29:24] other people, you kind of get a picture
+[00:29:26] into their true self. And he would
+[00:29:28] observe that a person after many many
+[00:29:30] thousands of patients doing transaction
+[00:29:33] analysis that every person had a child
+[00:29:36] inside of them, a parent and a an adult
+[00:29:40] ego state very similar to Freud's um it
+[00:29:43] ego super ego but um with some details
+[00:29:46] um um but the other thing that he wrote
+[00:29:47] [clears throat] was this thing about
+[00:29:49] life scripts and this is how what do you
+[00:29:50] say after you say hello and his idea
+[00:29:54] there was that everyone
+[00:29:56] especially children model their idea of
+[00:29:58] a lifetime which is way too long and
+[00:30:01] vast in detail to actually think about
+[00:30:03] on a story. And the most easy story that
+[00:30:05] a child's often exposed to an early age
+[00:30:08] is a fairy tale. So often a child might
+[00:30:10] model what they project their life to be
+[00:30:12] on a fairy tale character. That's why
+[00:30:13] fairy tales are so potent, he
+[00:30:16] speculates. And so this idea of a life
+[00:30:18] script is on one hand an orienting thing
+[00:30:19] of how your life might go. So you can
+[00:30:21] kind of park certain chapters in your
+[00:30:22] mind like are you going to go to school?
+[00:30:23] Are you going to go to college? I mean
+[00:30:25] the basic script might be go to college,
+[00:30:28] get married, have kids, retire, die,
+[00:30:31] right? Like classic script. Um but it
+[00:30:33] gets more complicated with like you know
+[00:30:36] uh up parenting and like neglect
+[00:30:39] and it gets u but turn but fairy tales
+[00:30:40] seem to cover the range of that.
+[00:30:42] Anyways, it dovetales nicely with this
+[00:30:45] thing that he points out that Carl Jung
+[00:30:46] said, which is that everyone lives out a
+[00:30:47] myth, but you might not know what that
+[00:30:49] myth is and you better find out because
+[00:30:51] maybe you find out that the myth is a
+[00:30:52] tragedy and you might want to rewrite
+[00:30:55] it. And um he proposes that this is the
+[00:30:58] whole point of therapy, psychoanalysis,
+[00:31:00] transaction analysis is the ability to
+[00:31:01] become aware of what your script might
+[00:31:03] be unconsciously and at least having the
+[00:31:05] choice to rewrite it or at least
+[00:31:06] choosing the parts of it that you still
+[00:31:08] like. And for me, this had a profound
+[00:31:09] influence on writing this and thinking
+[00:31:11] about, well, we're never really going to
+[00:31:13] escape that problem of a life script
+[00:31:14] because we can't conceptualize
+[00:31:16] individually what our life is going to
+[00:31:17] play out with. We need this prosthetic
+[00:31:19] of a story. So, it's going to be a
+[00:31:21] persistent problem in our future even
+[00:31:23] when we have AI to help us. I thought,
+[00:31:24] oh, that's a pretty interesting world to
+[00:31:26] to live in. And that was definitely the
+[00:31:28] basis for Life After Bob. The original
+[00:31:30] title, the cumbersome title for Life
+[00:31:32] After Bob was Life Scripts After AI.
+[00:31:42] Hi. Um, first of all, thank you and very
+[00:31:46] nice interesting movie and um I was just
+[00:31:49] thinking of starting uh learning Unreal
+[00:31:52] Engine to use um in my videos. So, it's
+[00:31:53] very motivating to see how great they
+[00:31:57] can turn up in I I heard you use Unity.
+[00:31:57] Um,
+[00:32:02] I don't have a question per se, but at
+[00:32:05] the expense of looking really stupid, I
+[00:32:07] have a confession.
+[00:32:11] Um, the way that Bob is portrayed in the
+[00:32:11] movie,
+[00:32:15] um, and how the how the character
+[00:32:18] relates to to it, uh, is a bit how I
+[00:32:23] feel talking to Chad GPT right now
+[00:32:26] because it's it's lit in a world where
+[00:32:29] we're living post Trump. I have this
+[00:32:33] unlimitedly knowledgeable entity that I
+[00:32:36] can access from any device that I carry.
+[00:32:40] And um it can give me ideas about
+[00:32:45] anything and everything. And um in the
+[00:32:47] in the in the detail above you write
+[00:32:50] what if AI can do your job of living
+[00:32:53] your life better than you. I don't know
+[00:32:55] if it's living my life yet, but it can
+[00:32:58] do my job better than me for sure. And
+[00:33:01] um yeah, there's so many tools coming up
+[00:33:03] every single day. It's even overwhelming
+[00:33:07] to try to catch up. I today experimented
+[00:33:10] with um with a music program that's the
+[00:33:12] first music program that's sounds really
+[00:33:16] decent. So basically, what do you think
+[00:33:18] about this is my
+[00:33:18] [laughter]
+[00:33:22] I mean I think I wrote Life After Bob to
+[00:33:25] speculate what that might be when I mean
+[00:33:27] it's a hyperbolic subtitle like you know
+[00:33:29] what if AI could live do your life
+[00:33:30] better than you do the job of living
+[00:33:32] your life better than you. Um because
+[00:33:34] Bob can drone Chalice's physical body, I
+[00:33:36] felt, you know, was entitled to that
+[00:33:38] hyperbole. But uh yeah, it's something I
+[00:33:40] wondered about when writing this. And
+[00:33:43] when you take away the basic things that
+[00:33:45] you think con
+[00:33:48] uh compose your like working identity,
+[00:33:50] like what you might be doing for work,
+[00:33:52] like well, what's left of you? You have
+[00:33:53] to kind of figure that out. And that's
+[00:33:56] an annoying and difficult question. And
+[00:33:57] I thought, oh, in the future where
+[00:33:58] there's more of that, more and more
+[00:34:00] people would have to confront that
+[00:34:01] introspective question.
+[00:34:04] and they would have to really, you know,
+[00:34:06] be annoyed by that question. Chalice is
+[00:34:08] really annoyed by that question. And I
+[00:34:11] thought, yeah, that's that's what you're
+[00:34:13] articulating now is basically the reason
+[00:34:14] why I want to make one of the reasons
+[00:34:16] why I want to make this film and explore
+[00:34:17] for myself in making a speculative
+[00:34:20] version of it. Now, it's so crazy that I
+[00:34:22] mean, we're maybe five steps away from
+[00:34:24] it existing. You can imagine chat GBT
+[00:34:27] being paired with uh a much more
+[00:34:30] inferential uh AI model that can like
+[00:34:32] start to like learn a little bit more
+[00:34:35] about the specifics of your own behavior
+[00:34:36] and then front-ended with something like
+[00:34:39] chat GBT like can talk to you in
+[00:34:41] different ways as you need to. I mean
+[00:34:43] it's the ultimate I don't know imaginary
+[00:34:47] friend, therapist, sibling, mirror self.
+[00:34:50] I mean it's a lot coming.
+[00:34:53] Hi, I want to thank you for your work
+[00:34:55] because it's super important. Hi, over
+[00:34:57] here. It's super important with the
+[00:35:00] upcoming of uh the cognitive internet
+[00:35:02] which is something that we are going to
+[00:35:04] see in the next few years and you were
+[00:35:07] talking about your gaming influences.
+[00:35:09] I'm a gamer as well and I was thinking
+[00:35:11] about the skill trees like the
+[00:35:13] deployment the visuals of a skill tree
+[00:35:15] and also the brain dancings from
+[00:35:18] cyberpunk and I wanted to ask you
+[00:35:19] because I thought like the memories were
+[00:35:22] like something like was just momentous
+[00:35:24] not something like were like downloading
+[00:35:26] into Charlie's brain. How how did it
+[00:35:28] work because it was a physicality to the
+[00:35:30] touching and the remembering of the of
+[00:35:33] the memories and also ask you about like
+[00:35:36] other gaming influences in in the movie.
+[00:35:37] Uh, are you referring to the part where
+[00:35:39] she has this like little pin and she
+[00:35:41] like pricks herself? Yeah. I was trying
+[00:35:43] to get at this idea that she doesn't
+[00:35:44] have the episodic memory like she
+[00:35:46] doesn't remember the the moment that
+[00:35:50] she, you know, raised Sheba dogs uh that
+[00:35:51] Bob did that for her, but somehow it's
+[00:35:53] in her body like this petting motion.
+[00:35:57] And so those pins were like almost um
+[00:35:58] markers [snorts] or landmarks that Bob
+[00:36:01] left for her so that if she pinned it in
+[00:36:03] the right place on her hand, it would
+[00:36:05] activate a certain muscle memory that
+[00:36:07] would give her a little bit more hint of
+[00:36:08] what the episodic memory would have
+[00:36:09] been. It's very weird to have muscle
+[00:36:10] memory where you don't know where it
+[00:36:12] comes from and we're filled with them.
+[00:36:13] Um there's a very famous book called The
+[00:36:15] Body Keeps the Score and it's like it's
+[00:36:17] about this really weird schism where
+[00:36:19] your body just knows certain things but
+[00:36:20] you don't remember it. So you don't have
+[00:36:22] a story for it. So you can't cohhere why
+[00:36:24] it's a part of you. And I think I was
+[00:36:26] trying to get a little bit of that um
+[00:36:29] physically. Um sorry, you're asking
+[00:36:30] about game something about games.
+[00:36:31] You mean game influences?
+[00:36:33] Yeah, the gaming influences because I I
+[00:36:35] thought like the the skill tree, the way
+[00:36:37] that you deploy uh the choices for the
+[00:36:39] future path were kind of similar with
+[00:36:41] the skill tree when you do like an RPG
+[00:36:43] and you are choosing your your path in
+[00:36:45] an RPG.
+[00:36:46] Yeah, so funny. I was thinking about
+[00:36:49] Yeah. RPG menus a lot recently. Um, it
+[00:36:50] is the moment in a game where you're in
+[00:36:53] the m thick of action and when you pause
+[00:36:54] it and look at your inventory of stuff,
+[00:36:56] that is an introspective moment. It's a
+[00:37:00] way we express introspection in a game.
+[00:37:02] Uh, and we like pause the world of the
+[00:37:03] game, the timeline of the game, and then
+[00:37:05] we go through our mental inventory of
+[00:37:07] what do we got to offer this situation
+[00:37:10] and to resteer it. And I think in a way
+[00:37:12] RPGs have already mastered that language
+[00:37:13] of how you flicker between action and
+[00:37:15] introspection. And so I wanted to borrow
+[00:37:17] a little bit from that. um could have
+[00:37:24] Yeah. Hi. Um thank you. It's a
+[00:37:27] fascinating movie. Uh so yeah my
+[00:37:28] question is about like I think there's
+[00:37:31] this kind of uh constant uh race about
+[00:37:33] uh what is it that the machine can do
+[00:37:34] better than humans and what is it that
+[00:37:36] humans can do better than the machine
+[00:37:39] and uh initially it was like physical
+[00:37:41] mechanical stuff and then it's uh well
+[00:37:43] the machine [clears throat] the AI can
+[00:37:45] make better decision but we are more
+[00:37:48] creative and now the AI is actually also
+[00:37:50] excelling at creativity but maybe we
+[00:37:53] have emotions and now we have like AI
+[00:37:54] that you can detect emotion perhaps
+[00:37:56] better than humans And so what's the
+[00:37:59] next thing? And u um
+[00:38:01] one of the thing that I think I see in
+[00:38:04] the movie and I that uh that I'm curious
+[00:38:07] uh if it's if it's if it's actually your
+[00:38:09] opinion is like there's this thing of um
+[00:38:12] um spirituality maybe not not
+[00:38:13] necessarily the religious sense but in
+[00:38:16] the sense of like finding who you are
+[00:38:18] and this is like something that is
+[00:38:20] intrinsically human or at least that we
+[00:38:22] still believe is intrinsically human. Uh
+[00:38:23] and in this movie it seems that you're
+[00:38:26] actually slightly uh on the one hand
+[00:38:28] like the Bob is actually living your
+[00:38:30] life and actually telling you you who
+[00:38:31] you should be which is impinging upon
+[00:38:34] the spiritual path but at the same time
+[00:38:36] all of a sudden that leaves time for
+[00:38:40] people to explore their godness and uh
+[00:38:42] the other part which is actually like
+[00:38:44] this is the AI because the is leaving
+[00:38:45] our life now we have the time to
+[00:38:47] actually engage into a spiritual path.
+[00:38:49] So this is like do you feel that this is
+[00:38:53] the next stage uh that the AI or the
+[00:38:55] machine has not reached yet and is it is
+[00:38:58] it about to reach there as well or not?
+[00:38:59] You mean in real life?
+[00:38:59] Yes.
+[00:39:04] You know the one thing that I um when I
+[00:39:06] see chat GPT or all the stable diffusion
+[00:39:09] stuff um so amazing or even self-driving
+[00:39:12] car stuff the one thing that's still
+[00:39:13] that we still furnish is its
+[00:39:15] motivations. Like in chat GBT you are
+[00:39:17] furnishing it with a prompt. this is
+[00:39:18] your motivation to start the
+[00:39:20] conversation going and it's responding
+[00:39:21] to you. So you're furnishing a
+[00:39:24] motivation and what I tried to what what
+[00:39:26] I think is maybe that that may be the
+[00:39:27] missing thing that will be fulfilled
+[00:39:29] very soon where we have AI that
+[00:39:31] furnishes its own motivations and wants
+[00:39:34] to align its some set of internal needs
+[00:39:36] whatever they might be they're not going
+[00:39:37] to be physiological needs with the
+[00:39:39] affordances of the environment and
+[00:39:41] that's going to be really crazy. Um it's
+[00:39:43] a bit abstract what I'm saying but do
+[00:39:44] you kind of know what I mean? Like when
+[00:39:45] you drive a when you enter a
+[00:39:47] self-driving car like a Tesla, you're
+[00:39:49] furnishing it with a destination. Like
+[00:39:52] it's not deciding it wants to, I don't
+[00:39:54] know, go to Roderdam. It would be
+[00:39:55] interesting if it did. And you would
+[00:39:56] want to know why it wants to go to
+[00:39:59] Roderdam. Um,
+[00:40:01] we're missing that. When that's going to
+[00:40:03] be furnished, I think pretty soon. And
+[00:40:04] it's something that I'm I was trying to
+[00:40:06] explore in earlier work with these
+[00:40:08] agent-based simulations where in order
+[00:40:09] to watch the agent do anything
+[00:40:11] interesting, it has to be furnishing its
+[00:40:13] own motivations. It's something I'm
+[00:40:15] continuing to work on now. Um, but
+[00:40:16] that's an interesting piece of the AI
+[00:40:19] puzzle. Motivation. We have sensing, we
+[00:40:23] have all the pattern recognition. Um,
+[00:40:25] but the motivational aspect is kind of
+[00:40:26] an interesting part that hasn't been
+[00:40:33] Thanks. Hey. Hi. Um I was just curious
+[00:40:36] to what extent you used also AI in the
+[00:40:37] uh in the process of making this movie
+[00:40:40] through Unity because I for example with
+[00:40:42] the emissary you really created like NPC
+[00:40:44] that were autonomous and creating all
+[00:40:47] the um the world building and narration
+[00:40:49] on their own and here if I understand
+[00:40:51] correctly this this this anime is really
+[00:40:53] your editing right that you do you did
+[00:40:56] or did you also let some some kind of
+[00:40:58] evolution through AI in the the choice
+[00:41:01] of the cutting of the scenes or the
+[00:41:04] camera angle camera or you just edit it
+[00:41:07] really control every step of the movie.
+[00:41:09] Uh the ladder I wanted to make my life
+[00:41:11] easy after having kids and
+[00:41:12] [clears throat] tried to do the ladder
+[00:41:14] which became way harder. You know if I
+[00:41:17] were to make this movie now with all the
+[00:41:20] onhand generative AI tools like I would
+[00:41:21] make this movie so differently. One of
+[00:41:23] the very first prototypes we did before
+[00:41:26] starting in pre-production was we
+[00:41:27] thought we'd give Unity, we'd render in
+[00:41:29] Unity a very basic version of the film
+[00:41:32] and we thought we could style transfer
+[00:41:33] like it to look like anime so we
+[00:41:35] wouldn't have to like take the effort to
+[00:41:36] like figure out what the characters
+[00:41:39] really look like and it was like a
+[00:41:42] Frankenstein mess. But now, my god, I've
+[00:41:43] seen people do it on Twitter already
+[00:41:45] like you can do it. And so were we to
+[00:41:47] make this thing same thing now, it would
+[00:41:49] probably be using a lot more generative
+[00:41:51] AI tools to just get at the iterative
+[00:41:53] process faster so you can just be an
+[00:41:55] artist more rather than be bogged down
+[00:41:57] with the expensive directorial process
+[00:42:01] that I think slows down like getting to
+[00:42:03] a better story, getting to a better
+[00:42:03] performance
+[00:42:10] all the way up.
+[00:42:10] Sorry.
+[00:42:18] Hey, thank you. Um, sorry if I'm
+[00:42:20] doubling down on this question because
+[00:42:22] I'm curious about your approach when you
+[00:42:25] use Persian mythology like Zorosrianism
+[00:42:27] because I'm not sure what you tried to
+[00:42:30] borrow uh from that kind of mythology
+[00:42:33] into your work uh or into this fiction
+[00:42:36] that you that you built.
+[00:42:37] You mean just that particular name
+[00:42:40] naming the character Z? No, because I I
+[00:42:42] remember there was a mentioning of Tor
+[00:42:45] Zarasian in the film. So, I'm not sure
+[00:42:48] if it was a direct uh reference to that
+[00:42:48] or
+[00:42:51] Yeah, it was the name of the the kind of
+[00:42:52] the CEO character.
+[00:42:52] Yeah.
+[00:42:55] Yeah. He named himself that or I guess I
+[00:42:58] named him as the author.
+[00:42:59] So, it's just a name. It's not
+[00:43:02] It's just a name. Yeah. Yeah. Yeah. Um I
+[00:43:03] I regret to inform you that part of the
+[00:43:16] Um, first of all, I really appreciate
+[00:43:19] about the amazing film and like while
+[00:43:24] watching your artwork, I could feel like
+[00:43:27] the parenting and also the stories the
+[00:43:29] story is about the Charlie's 10 years
+[00:43:32] old little girl and her Bob. And I'm
+[00:43:35] curious about like did your daughter
+[00:43:39] like the film and like did she also like
+[00:43:47] She liked it in so far as when she at
+[00:43:49] that age it was the only cartoon she was
+[00:43:52] allowed to watch cuz she would just like
+[00:43:54] beg mommy to just sit on daddy's lap
+[00:43:58] while daddy works like during co. So she
+[00:43:59] had no [laughter] other option but to
+[00:44:02] watch Life After Bob and eventually I
+[00:44:04] was like she can't be watching this she
+[00:44:05] should be watching Todoro. So we she got
+[00:44:05] Todoro.
+[00:44:18] Uh thanks for the great film. Uh I was
+[00:44:21] wondering within the in this world uh
+[00:44:24] what is the data set that Bob is based
+[00:44:28] on? Is it Dr. Wong or is it bigger as
+[00:44:31] did he create a bigger data set to base
+[00:44:34] the knowledge of Bob on?
+[00:44:35] Oh, that's an interesting question. You
+[00:44:37] mean like fictionally like what would it
+[00:44:41] what would it have been? Um, well, his
+[00:44:44] whole argument for why
+[00:44:47] he his whole argument for why the whole
+[00:44:49] movie had to exist and the whole chalice
+[00:44:50] study project had to exist is that he
+[00:44:53] gave Bob to Chalice at birth. So, the
+[00:44:55] data set started at her birth. the life
+[00:44:58] logs was like recording every chalice
+[00:45:02] neuro neuro firing uh every muscle spasm
+[00:45:04] and making sense of all that data from
+[00:45:07] birth and his argument was we can't know
+[00:45:09] what a destiny Bob will do to a person
+[00:45:11] until they get to a certain age so
+[00:45:13] therefore you know back off company like
+[00:45:17] let me do my R&amp;D for decades it was also
+[00:45:19] a way to procrastinate too you know to
+[00:45:20] claim that your product needs that much
+[00:45:23] incubation time and Z what starts the
+[00:45:25] story is he's just Anancy, it's been 10
+[00:45:27] years already. 10 years is way too long
+[00:45:29] already. And so he just like kind of
+[00:45:30] steals one of the prototypes and gives
+[00:45:32] it to Orlando, but it's inappropriate
+[00:45:33] because it's been barely trained on
+[00:45:36] Orlando. And he kind of shallowly infers
+[00:45:37] what Orlando's goal might be, which is
+[00:45:40] to win a a number one winner medal in a
+[00:45:43] cycling competition. It's like what does
+[00:45:45] a Olympic athlete do after they finish
+[00:45:46] the Olympics? It's a really big
+[00:45:48] existential question. So you can imagine
+[00:45:50] for Lando who's like a mediocre cyclist
+[00:45:53] at best. It's like even worse. And so
+[00:45:54] yeah, I think the data set's just
+[00:45:55] chalice since birth. All the nervous
+[00:45:57] system. Um,
+[00:45:57] yeah.
+[00:45:59] So it's yourself.
+[00:46:09] I think we have five minutes. So if you
+[00:46:11] have one or two last questions, think
+[00:46:13] them up. If there's someone else who
+[00:46:15] wants to ask a question, I've I've been
+[00:46:17] uh I've asked the question before, but I
+[00:46:20] was wondering at the end um Chalice
+[00:46:22] wants to relive all the experience that
+[00:46:25] that uh Bob lived for her. Is this like
+[00:46:29] also a bit of your own opinion on that
+[00:46:31] experiences are more important than for
+[00:46:39] Yeah, it's a good question. I
+[00:46:40] [clears throat] think the thing that Z
+[00:46:41] was trying to get out that Chalice tries
+[00:46:42] to explore at the end is this idea of
+[00:46:44] the subplot and what I was trying to get
+[00:46:47] out communicate there is if you can
+[00:46:49] imagine your own life there's like
+[00:46:50] certain details of your like I'll just
+[00:46:53] use myself an example like like my mom
+[00:46:55] made me do karate in fourth grade and I
+[00:46:57] hated it and I stopped thinking about it
+[00:46:58] as soon as I started hating it and we
+[00:47:01] stopped after the first karate lesson I
+[00:47:02] hated it haven't thought about it for
+[00:47:05] years and then suddenly like it's 2022
+[00:47:08] after co I find myself doing jiu-jitsu
+[00:47:10] like cuz a friend told me I'd be
+[00:47:12] interested in that and I thought, "Oh
+[00:47:13] yeah, that sounds okay. I'll try it."
+[00:47:15] And I fell in love with it. And I
+[00:47:17] realized, well, there was some thread
+[00:47:17] of,
+[00:47:21] you know, this kind of idea of physical
+[00:47:24] conflict in a protected environment that
+[00:47:27] is a martial art that started there. And
+[00:47:28] I feel like I'm picking up on some
+[00:47:30] subplot that is it's not them. I'm not
+[00:47:32] gonna do MMA. I'm gonna quit art and do
+[00:47:35] MMA. But it is the subplot in my life
+[00:47:37] that I feel is reactivating and
+[00:47:39] definitely enriching the other parts of
+[00:47:42] my life. And
+[00:47:44] it took a kind of a random friend to
+[00:47:46] like just suggest it, let alone a
+[00:47:48] randomly I definitely didn't remember
+[00:47:50] that random part of hating karate. I
+[00:47:51] wish I did because then maybe I would
+[00:47:53] have gone to it sooner. And so the
+[00:47:56] technology that Z invents and um tries
+[00:47:58] to force on everyone is called thousand
+[00:48:01] lives is to get all the different little
+[00:48:03] the crumbs of your life that had nothing
+[00:48:05] to do with your identity but you still
+[00:48:06] experience and maybe there's something
+[00:48:09] there's a a be there's a trail there
+[00:48:10] that you could follow that might
+[00:48:13] actually be uh a set of become a set of
+[00:48:15] options for what you might do when you
+[00:48:23] So one last thing maybe going after his
+[00:48:26] words and regarding your answer maybe
+[00:48:29] there's a difference between knowing
+[00:48:32] something and experiencing it. For
+[00:48:32] example,
+[00:48:37] you can know honey. You can know the
+[00:48:39] color of it. You can know the chemic
+[00:48:41] formula of it. You can read the
+[00:48:44] encyclopedia and read about honey. But
+[00:48:47] until you tasted it, you actually don't
+[00:48:50] know what it is. So maybe this goes
+[00:48:53] after your answer. So in order to really
+[00:48:55] know something, you need to experience
+[00:48:55] it.
+[00:48:58] I think so because when you know
+[00:49:01] something, it's a very lowdimensional
+[00:49:03] way of knowing it. When you experience
+[00:49:06] something, you're getting so many more
+[00:49:08] dimensions. You can't your conscious
+[00:49:10] mind can't even count and it goes into
+[00:49:11] your unconscious mind as far as I
+[00:49:13] understand. And this is a way more
+[00:49:16] powerful supercomput
+[00:49:18] uh to process experience and to make
+[00:49:20] sense of it to make it coherent maybe
+[00:49:21] even you know make it fantastically
+[00:49:24] coherent and but still that your
+[00:49:25] unconscious tries to make sense of
+[00:49:27] things that don't make sense in a way
+[00:49:29] that I think your conscious mind is way
+[00:49:31] too prudish and pedestrian to want to do
+[00:49:33] if it doesn't understand it. It's like
+[00:49:35] well that's stupid or uh that's just
+[00:49:37] like that other thing that happened
+[00:49:39] before. But your unconscious mind really
+[00:49:41] wants to work on problems it doesn't
+[00:49:42] understand and it can only really do
+[00:49:44] that if it's fed with lots of
+[00:49:46] experience. Um I totally agree with
+[00:49:46] that.
+[00:49:51] I think we're running out of time but
+[00:49:53] there is time during the drinks just
+[00:49:55] after this. So well thanks again for
+[00:49:56] sharing all of this with us.
+[00:49:58] Thank you. Thanks for your attention.
+[00:49:58] [applause]
+[00:50:07] So please enjoy the drinks. See you all
+[00:50:07] outside.

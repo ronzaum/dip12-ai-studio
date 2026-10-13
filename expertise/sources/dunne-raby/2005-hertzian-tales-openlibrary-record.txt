@@ -1,0 +1,12 @@
+Source: Hertzian Tales (MIT Press), Open Library record (2008 printing of the 2005 MIT edition)
+URL: https://openlibrary.org/books/OL29547252M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL29547252M
+Title: Hertzian Tales
+Subtitle: Electronic Products, Aesthetic Experience, and Critical Design
+Publishers: ['MIT Press']
+Publish date: 2008
+ISBN: ['9780262541992']
+Pages: 192
+Work: ['/works/OL5850052W']

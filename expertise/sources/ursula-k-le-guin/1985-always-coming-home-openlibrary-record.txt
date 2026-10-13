@@ -1,0 +1,12 @@
+Source: Always Coming Home (Harper & Row, 1985), Open Library record
+URL: https://openlibrary.org/books/OL3020726M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL3020726M
+Title: Always Coming Home
+Subtitle: None
+Publishers: ['Harper & Row']
+Publish date: 1985
+ISBN: ['0060155450', '006096023X']
+Pages: 523
+Work: ['/works/OL59846W']

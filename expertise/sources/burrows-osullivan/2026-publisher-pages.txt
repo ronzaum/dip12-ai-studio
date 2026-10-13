@@ -1,0 +1,66 @@
+Source: Publisher pages: Edinburgh University Press (Fictioning), Goldsmiths Press (From Magic and Myth-Work to Care and Repair), Triarchy Press (The Ancient Device)
+URL: https://edinburghuniversitypress.com/book-fictioning.html ; https://www.gold.ac.uk/goldsmiths-press/publications/from-magic-and-myth-work-to-care-and-repair/ ; https://www.triarchypress.net/ancient.html
+Fetched: 2026-10-12 via curl -sL (EUP, HTML meta) and fetch.py (Goldsmiths Press, Triarchy)
+
+## Edinburgh University Press, book-fictioning.html (HTTP 200)
+<title>Fictioning</title>
+meta description: Maps out the practice of fictioning as a new field of study for art and philosophyFictioning in art is an open-ended, experimental practice that involves performing, diagramming or assembling to create or anticipate new modes of existence. In this extensi
+(Imprint page of the free introduction PDF: (c) David Burrows and Simon O'Sullivan, 2019; ISBN 978 1 4744 3239 9 hardback, 978 1 4744 3240 5 paperback.)
+
+## Goldsmiths Press: From Magic and Myth-Work to Care and Repair
+Page count:
+
+ 192
+
+Published on:
+
+ 24 Sep 2024
+
+ISBN:
+
+ 9781915983046
+
+Price:
+
+ £26.99
+
+The practices of magic and contemporary myth-making in relation to landscape, performance, and writing.
+
+From Magic and Myth-Work to Care and Repair is a two-part book bringing together fourteen essays broadly concerned with the “fiction of the self” and with practices and explorations beyond that fiction. Each part of the book approaches this theme from a different angle.
+
+The first part, entitled “On Magic and Myth-Work,” deals with practices of transformation and with contemporary myth-making in relation to landscape, performance, and writing. The second part, “On Care and Repair,” gathers together essays that are more personal, but that also look to various technologies (or devices) of self-care alongside ideas of collaboration and the collective. Crucial throughout this exploration are questions of agency and self-narration, but also how these connect to larger issues around historical trauma, neoliberalism, and ecological crisis.
+
+
+
+## Triarchy Press: The Ancient Device
+The Ancient Device
+
+Simon O'Sullivan   
+
+The Ancient Device is the story of four somehow familiar, rather dishevelled, sometimes sympathetic characters: Hare, Fox-Owl, Ribbonhead and King John.
+
+We meet this dysfunctional and longing band of players on their journey to a site in the English landscape where they are to give a performance of sorts.
+
+Yet exactly who they are, where they are and what they are up to, becomes increasingly uncertain as the book draws us into the mist, exploring and experimenting with notions of narrative and plot, psychology and self, performance and place…
+
+Like the characters themselves, readers are unlikely to come out as they went in.
+
+The Ancient Device is both a novel and an exploration of what the author calls the ‘fiction of the self’. The title of the book refers to this fiction that we all necessarily inhabit, but also to performance as a kind of device (and, indeed, the book as a device too). At stake in this exploration is also the development of an idea of ‘myth-work’ and how narrative and the laying out of imaginary landscapes and figures can work as a form of repair.
+
+Publication: 1st September 2024
+
+List Price: £16.00 
+
+Format: ~ Paperback - 180pp
+
+Size: 14 x 21.6 cm
+
+ISBN: 978-1-917251-01-3​
+
+Tags: Performance, Walking, Pilgrimage, Mumming, Fiction of the Self, Myth-work, Fictioning, Art Writing, Theory-Fiction, Autofiction
+
+Buy the paperback (£16)
+
+Use code tpdirect at checkout to save 20%   (see shipping costs)
+
+Buy the ebook   (£

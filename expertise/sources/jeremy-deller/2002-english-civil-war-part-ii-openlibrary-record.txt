@@ -1,0 +1,12 @@
+Source: Jeremy Deller: The English Civil War - Part II (Artangel, 2002), Open Library record
+URL: https://openlibrary.org/books/OL8764594M
+Fetched: 2026-10-12 via curl -sL (openlibrary.org JSON API)
+
+Open Library edition record OL8764594M
+Title: Jeremy Deller
+Subtitle: The English Civil War - Part II
+Publishers: ['Artangel']
+Publish date: June 15, 2002
+ISBN: ['9781902201139']
+Pages: 160
+Work: ['/works/OL8773766W']

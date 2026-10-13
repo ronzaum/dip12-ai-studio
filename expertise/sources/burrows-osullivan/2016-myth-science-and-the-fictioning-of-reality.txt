@@ -1,0 +1,588 @@
+Source: Myth-Science and the Fictioning of Reality, Simon O'Sullivan, Paragrana 25 (2016) 2, pp. 80-93 (De Gruyter; published version on Goldsmiths Research Online)
+URL: https://research.gold.ac.uk/id/eprint/19700/1/Mythopoesis_Fictioning_publised_version.pdf
+Fetched: 2026-10-12 via curl -sL (PDF) + swift PDFKit text extraction (tools/pdf2txt.swift)
+
+[Journal pages 80-93. PDF page n = journal page 79+n. Markers below are JOURNAL page numbers.]
+
+=== JOURNAL PAGE 80 ===
+Paragrana 25 (2016) 2 De Gruyter Verlag
+Simon O’Sullivan
+Myth-Science and the Fictioning of Reality
+In what follows I put forward an idea of contemporary art practice as a form of myth-science,
+itself defined as a kind of fictioning of reality.1 Most of what follows has been developed in
+relation to the collaborative ‘performance fiction’ Plastique Fantastique (and especially in
+conversation with David Burrows) and thus, in acknowledgement of this parallel research
+programme, interspersed throughout the text are images from our practice and, in particular,
+a performance itself titled ‘Myth-Science’. 2 I hope that this local ‘scene’ might resonate on a
+more global level, but also that my comments will not be read as being solely tethered to this
+particular collaboration (indeed, my article intends the mapping of a more general trajectory
+in art). The article ends with a brief Coda on Felix Guattari’s concept – from Schizoanalytic
+Cartographies – of ‘fabulous images’ that offers another inflection on my theme.
+…theres some thing in us it dont have no name...it aint us but yet its in us...
+(Russell Hoban, Riddly Walker)
+1. Introduction: Art and the World
+(or, that which is in the world but not of the world)
+When art engages directly with the world as-it-is it already surrenders some of its
+power. It has to use more or less recognizable forms, languages, narratives – even if
+these are idiosyncratic and/or marginal in nature. Another way of saying this is that
+such art is both of and for the world in which it is situated – or, which amounts to the
+same thing, it already has its audience in place. Jean-François Lyotard says as much
+in his claim that art can simply ‘multiply the fantasies of realism’ rather than, pre-
+cisely, disrupting them (which, in Lyotard’s view, is art’s true avant-garde function)
+(Lyotard 1984, 74). Another way of putting this is that art does not necessarily offer a
+reassuring image of and to a subjectivity already in place (although it may of course
+operate in this manner).
+1 The article draws on and develops ideas first put forward in O’Sullivan 2014. The term myth-
+science is borrowed from Sun Ra and Afrofuturism more generally (see Kodwo Eshun’s discussion,
+“Synthesizing the Omniverse”, in Eshun 1998, 154-163). The artist Mike Kelley, in an essay on Olaf
+Fahlstrom (Kelley 1995), links the term more particularly to expanded contemporary art practice.
+2 “Myth-Science” was performed in 2014 at the “Webewoche” exhibition/event, Stroom den Haag,
+The Hague and at the “Schizo-Culture” exhibition/event, Space Gallery, London (see http://www.
+plastiquefantastique.org/performance25.html). Plastique Fantastique, for this performance, invol-
+ved myself and Burrows alongside Alex Marzeta and Harriet Skully.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 81 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 81
+In its engaged and oppositional form
+–
+institutional critique, for example
+–
+such
+art is still about the world. Indeed, the more engaged it is, the more it must mirror,
+however critically (or negatively), its object. Such critique, again as Lyotard once
+remarked, is trapped by its target, towards which it must, to some extent, adjust itself
+in order to engage. This kind of ‘critical’ art practice can operate as a kind of me-
+lancholic echo chamber in this sense (we might say that this is also the limitation of
+understanding art more generally as a form of ideology critique).
+The so-called ‘archival turn’ within contemporary art would be a softer example
+of this logic. Here, art practice becomes an archiving gesture, a framing and presen-
+ting of a subset of the world. An archive practice is first and foremost curatorial in
+this sense; it gathers together hitherto separate elements under a banner (a concept,
+a theme, a name, and so on), but, crucially, it does not necessarily transform these
+elements. Indeed, ultimately it offers nothing more than a product (or a series of
+products) designed to meet the desire for knowledge – when the latter is understood
+as knowledge of the world as-it-is.
+As has often been pointed out, the ‘Art World’ is insatiable in this respect; it
+requires evermore banners just as it creates ever more artist-archivist-curators (or,
+simply, new products and new consumers). Novelty here consists of new groupings
+of the what-already-is, the trumping of one set of knowledges with another, the iden-
+tification of counter or dissonant knowledges (that nevertheless operate on the same
+register of typical ‘meaning’). Indeed, knowledge becomes the currency of such
+practices (knowledge is power as the saying goes – at least power of a worldly kind).
+On the other hand, can art ever be anything but the presentation of a subset of the
+world, seeing as it is a practice that takes place in that very world? Here, the defini-
+tion of a world
+–
+what it includes and what it excludes
+–
+is crucial insofar as we might
+make the tentative claim that art can be specifically other-worldly without meaning
+it is somehow outside the world as-it-is (indeed, how could it be?). In fact, an art
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 82 ===
+82 Paragrana 25 (2016) 2
+practice that attempts to operate completely divorced from the world – understood
+here as our dominant contemporary conditions – runs the risk of irrelevance, esca-
+pism or simply being a sophisticated form of withdrawal.
+Nevertheless, it is certainly the case that art’s ‘materials’ are not simply of the
+world as constituted. As such, it follows that its audience – an audience adequate and
+appropriate to it – is not always already in place. Art, in this sense, can be understood
+as untimely, or as in time, but also out of time. It is, as it were, future-orientated.
+Gilles Deleuze’s writings on art foreground this strange temporality of art
+–
+that “its
+people are missing” (Deleuze 1989, 208-211), or, more prophetically, yet-to-come.
+Art draws something forth from already existing subjectivities in this sense.
+But how might this untimeliness manifest itself? What form might it take? One
+thing is clear: it will not be easy to understand. If it is a communication, it will be one
+without meaning (to paraphrase Lyotard once more), when meaning is understood
+as a register of knowledge – or, to introduce another term, as part of the code of the
+world as-it-is. Hence the important idea that something might be of the world but
+not of the (dominant) code of that world (might, in this sense, be occult). This might
+mean that such practices – that communicate without meaning – are not taken se-
+riously or simply frustrate, bore, annoy or irritate. At an extreme they will be imper-
+ceptible, at least, according to dominant regimes (and codes) of visuality (hence the
+importance of learning to see, or, which amounts to the same thing, of attending to
+our own particular production of subjectivity). It is the edges of our ‘understanding’
+that are important in this sense – this is where everything happens.
+The importance of these kinds of practices is then that they offer something dif-
+ferent to the what-already-is. This might be simply a diversion – or, at any rate, dis-
+missed as one, as not part of the dominant code (or, apparently, a threat to it), hence,
+ultimately unimportant. But in other cases, and for different subjects, they are points
+of inspiration and radical difference that might then be developed and mobilized into
+a different way of being in the world (and with this foreshadow a different commu-
+nity yet-to-come). Here an art practice presents something more germinal than para-
+sitic. It can be the seed of something genuinely new. In an increasingly homogenized
+and homogenizing neoliberal present that offers only more of the same – a present
+that overcodes all options – these points of difference can themselves become poli-
+tically charged. Indeed, when the political scene offers no new models, art steps up.
+Here, in fact, it might be less a case of already worked out models than experimental
+probes, affective scenes, proto-subjectivities, and such like. Art can generate the feel
+of something different in this sense.
+But to construct a genuinely new form of coding one needs material, hence, also in
+this task, the importance of the scrambling of already-existing code or the importing
+of more alien code from elsewhere (outside of typical art-world culture) ... at least as
+a first step. This is a mixing that is both spatial and temporal in nature (more on this
+in a moment). Ultimately an art practice can then take off from this hybridity and
+begin to work on its own terms, producing its own (autonomous) coding. For examp-
+le, it might throw up images or forms that seem to come from a ‘somewhere else’,
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 83 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 83
+but that also have some kind of strange relevance to the world as-it-is. Untimely
+images. It might also begin to recycle and re-use its own motifs, nesting one set of
+fictions within another, so as to produce a certain complexity
+–
+a density even. The
+idea that a practice might involve moves in a game for which one does not know the
+exact rules echoes this logic of strangeness and autopoietic functioning.
+2. Fictioning: Synchronic and Diachronic Operations
+(or, speaking back and speaking in tongues)
+One way of articulating this particular logic of art practice is as a ‘fictioning’: the
+production of untimely images – that speak back to their producer (1); and the lay-
+ering of motifs to produce an accretion of sorts, resulting in an opacity (2).
+(1) As far as the first of these goes, it might be that a practice just presents the
+result: the final image (or images). Here the relative strangeness of the image (its
+difference to the what-already-is) is foregrounded. On the other hand, it might lay
+out the procedure and protocols that allow this image to step forth from its dark
+background. Indeed, it might be that a practice stages this event, or even that practice
+is a name for it (and it is in this last sense that art practice is a very particular type
+of research programme). Performance can involve what we might call this magical
+function: the summoning forth of something hitherto unknown and unseen. Colla-
+boration, or more specifically, collectivity
+–
+a scene of some kind
+–
+is also crucial
+for this operation. How else can one make something that is of one but not of one
+at the same time? That is intended but produces the unintended? For ‘I’ is indeed a
+stranger, but it is only through a specific practice that this stranger can foreground
+itself from the habitual and familiar. It should be pointed out here that collectivity
+(again, a scene) need not involve more than a single individual. As Deleuze and
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 84 ===
+84 Paragrana 25 (2016) 2
+Guattari remark at the beginning of A Thousand Plateaus, we are always already
+more than one.3
+Art speaks back in this sense. It is both cleverer and dumber than its progenitors.
+This is not to evacuate the subject from the picture. Indeed, such art – like all art – is
+made for subjects (images and objects made ‘for’ other images and objects may be
+many things, but art is not one of them – although I will suggest a caveat to this point
+in a moment). Nevertheless there is something about this fictioning
+–
+this production
+of something non-subject
+–
+that is specifically object-orientated, to use the current
+valence. It is as if the goal here is to extract a certain objectness (something non-
+human) from an all-too-human subject.
+This is the synchronic aspect of fictioning.
+(2) In terms of the second aspect, time itself becomes a material insofar as the
+accretion happens through time, across a work, or across multiple works. It might
+be that this passage is imperceptible, only able to be tracked by the recurrence of
+the motifs – or (in Plastique Fantastique’s case) avatars – that appear, disappear
+then reappear (perhaps in a different form), each with their own operating logics,
+their own speeds (and slownesses). An art practice has a certain duration in this
+sense – or even multiple durations. A kind of aesthetic ecology is produced which
+means the practice has more in common with a series, or again, a scene, than with an
+object per se.
+The elements of an art practice can travel in this sense. Fragments of previous
+codes (and characters) make a re-entry, spliced with other more recent experiments.
+Such work is a palimpsest even when it looks relatively simple. Another way of ar-
+ticulating this logic is that a practice nests its own fictions within itself. This kind of
+temporal density comes from the fact that any given moment – any given image of
+the practice that we see
+–
+is an extraction from a process, even a narrative (at least
+of a kind), that goes from the depths of the past of the work towards a future that the
+work itself helps to bring about (a practice can be a backward-hurled fragment of a
+future world in this sense).
+This is the diachronic aspect of fictioning.
+Art is simple but complex in this sense. It inserts itself into a variety of regis-
+ters (signifying and asignifying) but it also refers to itself (it is, as it were, inward
+looking). Or, more accurately, it works on itself ... follows lines of enquiry, repeats
+certain moments, accelerates some motifs ... slows others down ... in so doing, art
+itself constitutes a world – its own world (as well as the terms in which it may be
+‘understood’). And this, ultimately, is its power.
+3 “The two of us wrote Anti-Oedipus together. Since each of us were several, there was already quite
+a crowd” (Deleuze/Guattari 1988, 1).
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 85 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 85
+3. From Collapsing Worlds to Points of Collapse (or, a holding pattern of
+minimum consistency)
+In a way, both of the above modes of fictioning involve a layering. Again, the first is
+spatial, the second temporal. It is this spatio-temporal density – which results in the
+production of a different space-time – that constitutes art when it is a practice rather
+than simply the production of a commodity (the production of untimely images
+does share with the commodity form a certain magical character – this is a kind of
+‘counter-sorcery’ pitched against the phantasmagoria of the commodity).
+The increasing availability and relative affordability of digital imaging and edi-
+ting technology means that there is now the possibility of a more accelerated mixing
+of different temporal and spatial worlds and, as such, of increasing this density –
+and, with it, producing ever stranger spatialities and temporalities. Such technology
+also allows its user to alter the speeds of the different images and sequences being
+deployed. This might mean the introduction of a different character (or a different
+speed) into a different scene that has its own duration, or, indeed, the insertion of one
+scene into another. In this strange dream-time a virtual ‘third thing’ is introduced bet-
+ween the two. A no-place and a no-time. An ‘erewhon’ when and where other things
+become possible. This is also an indirect answer to the ever present ‘now’ of commo-
+dity culture insofar as it often involves recourse to a recent past (alongside its ima-
+gined futures) – a line to that which has been too easily and eagerly forgotten in the
+ever increasing and insatiable desire for the apparently new (it is this recalling of a
+past in a future-to-come that marks out some of the best recent digital art practices).4
+This collapsing of hitherto separate worlds – and the concomitant production of
+a ‘new’ landscape, a new platform for dreaming
+–
+is another definition of fictioning,
+4 This is the subject of a further parallel essay-in-progress on “Myth-Science as Residual Culture and
+Magical Thinking”.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 86 ===
+86 Paragrana 25 (2016) 2
+especially when it is no longer clear where the fiction itself ends and so-called reality
+begins (or where reality ends and the fiction begins). Fictioning inserts itself into the
+real in this sense – into the world as-it-is (indeed, it collapses the so-called real and
+the fictional), but, in so doing, it necessarily augments and, indeed, changes our rea-
+lity (not least as, again, it summons an audience that is appropriate and adequate to
+it).5
+This is fictioning as mythopoeisis: the imaginative transformation of the world
+through fiction.
+This particular sense of fictioning dovetails with the idea of post-internet art, or
+art that is made from and for the web of images that now doubles – and troubles – our
+own world of things. As such it might be said that the collapsing worlds we produce
+have their own life outside of our control, or, indeed, anyone else’s. Ultimately, they
+do not rely on being seen to operate as agents (after all, who, nowadays, can see all
+the images that are generated?). They are already in contact and ‘communication’
+with image-worlds that are increasingly not of human generation. Once again the
+question here is whether such worlds that operate divorced from any kind of subject
+can be called art (who, after all, is there to call them anything?). It is perhaps more
+accurate to say that they become art when confronted by an interlocutor (although
+this will not necessarily be a ‘human’ in the sense of a particular historical diagram,
+with an inside and outside, a centered ‘self’, and so on. More on this other subject
+in a moment).
+Is art the only place where we find this logic of collapsing worlds? Or, indeed,
+the spatial and temporal layering I have just laid out? Certainly other aspects of
+culture utilize the latter, albeit only partially and somewhat reductively. Fashion,
+for example (as spatial layering), or the mini-series (as a form that involves longer
+durations than the typical film or, indeed, the novel). In terms of collapsing worlds
+we need only look at the post-continuity cuts of recent pop videos (but also note that
+a strange continuity is maintained ‘behind’ the videos themselves in the ‘lives’ of the
+celebrities as narrated on-line and on TV). This amounts to saying that our particular
+(and, as it were, dominant) world (or let us now give it its other name: capitalism)
+generates its own experiments outside of art
+–
+experiments that in some senses doub-
+le art’s own probe heads.
+But in art, the processes that I have just outlined are accentuated beyond the rea-
+sonable. Art is like a joke pushed to an extreme in this sense. From a certain perspec-
+tive it is like an ongoing absurd repetition, a gesture beyond the logics of the market.
+5 The concept of ‘hyperstition’ as developed by Nick Land (and the Cybernetic Culture Research
+Unit (Ccru)) might be usefully brought to bear here insofar as it likewise points to elements of fiction
+making themselves real. Alex Williams, co-writer of the “Manifesto for Accelerationist Politics”,
+provides a useful gloss on this in his essay on accelerationist aesthetics in which hyperstition is
+defined as “narratives able to effectuate their own reality through the workings of feedback loops,
+generating new sociopolitical attractors” (Williams 2013, 9). It seems to me that art practice as
+fictioning
+–
+as I have been defining it
+–
+involves both a narrative function (at least of a sort) and ‘so-
+ciopolitical attractors’ (untimely images) generated by the latter, but also generative of them in
+turn. For more on Land and Ccru’s concept of hyperstition (in relation to myth-science) see
+O’Sullivan 2016b.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 87 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 87
+Indeed, art does not have to maintain even a modicum of good/common sense in this
+respect – or, to say it again, is not necessarily involved in the production of typical
+knowledge.
+Crucially, with art, this often means that something unrecognizable, often acci-
+dental, is introduced into the mix. Chances can be taken
+–
+after all, there is no au-
+dience to please, except for the very specific audience that is looking for something
+that does not please them (at least, as they are presently constituted). This is the in-
+troduction of something random, something that is, as it were, unwelcome and spoils
+any ready-made and too-neat schema or logic. It is the introduction
+–
+or excavation
+– of rupture, a point of collapse.
+In this sense the art practice is not, ultimately, simply the production of subjec-
+tivity (at least when this is tethered to dominant regimes of subjectivation). It is not
+therapeutic, however that might be defined. A practice certainly needs a sense of
+cohesion, but it also needs these points of collapse – or else it risks just presenting
+more-of-the-same. I have written about this – with David Burrows – at more length
+and in relation to Guattari and Jacques Lacan elsewhere (see Burrows/O’Sullivan
+2014). Suffice to say here that an art practice might be a kind of holding pattern
+– maintaining a minimum consistency – for these points of collapse. Indeed, this
+might, again, be a definition of fictioning: the production of a myth of some kind that
+binds the holes and presents and pitches them to an audience.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 88 ===
+88 Paragrana 25 (2016) 2
+4. Conclusion: Reclaiming the Unconscious
+(or, a message not to you but to something ‘within’ you)
+It is not news to say that Capital has colonized time as well as space, but this needs
+also to be thought in terms of more imaginary registers, that is to say, not just within
+reality per se with its typical spaces, places, times and durations, but also in terms
+of our unconscious worlds. As has also been remarked often enough, the failure of
+politics is also the failure of the imagination. Capital, we might say, has increasingly
+co-opted even our dream worlds – that repository of images that give us a life beyond
+the plane of matter.
+Indeed, this unconscious – understood in a Bergsonian sense (as a virtual reser-
+voir that subsists but that is habitually masked by more utilitarian and pragmatic
+interests)
+–
+is being colonized by commodity culture, and not least by Web 2.0 and
+its logics. Facebook and Twitter and all the other filtering super-nodes of a once wild
+– and un-enclosed – web offer up a restricted repository of images (and especially in-
+terfaces), ever available, seemingly varied, but, in fact, often just more-of-the-same.
+The result of this is not only a poverty in the sense of the homogenization performed
+by these image-banks, but also an alienation: we become the spectators of our own
+subjection insofar as these images and interfaces are not of us, or, at least, are only
+of a part of us (that part which can be represented by such images and their attendant
+algorithms). This is not to say that creativity is impossible here. Indeed, as I sugges-
+ted above, many of the most interesting post-internet practices concern themselves
+with the digital, and, at the sharp end, the algorithmic. It is to say, precisely, that
+social media filters our experiences, flattens subjective modellings and, ultimately,
+is concerned more with markets and consumers than with difference and creativity.
+Another way of thinking about the fictioning function of art practice is then as a
+counter to some of these logics – as the reclaiming and unleashing of this uncons-
+cious. Art practice – at least as I have attempted to articulate it here – can produce
+new images and sequences – new myths and new dream worlds. Again, this is not
+simply to refuse or resist the existing conditions. In fact, it might well mean plugging
+in to the productive and generative aspects of capitalism
+–
+the deterritorialized flows
+that are typically and subsequently reterritorialized, siphoned off. Following Deleuze
+and Guattari’s Anti-Oedipus, such art might be said to ‘accelerate the process’ (De-
+leuze/Guattari 1984, 240).6
+An important aspect of fictioning, in this sense, is participation in the fiction.
+This does not necessarily mean that an audience/spectator is invited into the work
+– often an artwork is inhospitable (it refuses to give ground). But it does mean that
+the produced fiction offers something. It is from and for a collectivity (again, even if
+this is just an individual) – albeit one that is masked by more typical (atomized and
+hyper-individualized) subjectivity.
+6 In terms of the connections
+and differences
+–
+between these claims for art practice and the Prome-
+thean impulse as mapped out by accelerationist writers such as Ray Brassier and Reza Negarestani
+see O’Sullivan 2017.
+–
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 89 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 89
+It is also in this sense that this fictioning performs its own alienation: alienation from
+and for an already alienated subject (indeed, alienation is the given – the very ground
+–
+of these practices). Here fictioning’s difference from the world as-it-is means it will
+alienate the subject as-it-is, but, at the same time, speak to the subject yet-to-be. It
+is a message not to you but to something within you (or, it solicits its own kind of
+audiences, which amounts to the same thing).
+It is also for this reason that difficulty, complexity, the refusal of meaning, and
+so forth are not always the signs of elitism or a deliberate mystification/obscurifica-
+tion, but the sign of something that will not give ground to the world as-it-is, will
+not pander to the demand to make sense (at least, following the dominant codes of
+meaning and top-down decisions about what should have meaning). It is also, in this
+sense, that art must invent the criteria by which it is ‘understood’, which does not
+necessarily involve the register of interpretation (to follow Lyotard again, meaning
+might mean simply that we are ‘set in motion’ by the work). Every practice, if it is a
+practice, is its own genre in this sense – and, as such, to say it again, constitutes its
+own world. But that other place from where art is pitched is also a world, one whose
+very edges are now revealed by this doubling. Ultimately, an art practice maintains a
+critical function in this respect insofar as it turns away from that other myth-system
+which it has revealed as such. Myth-science is a good name for this world-building
+– and world-breaking – technology.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 90 ===
+90 Paragrana 25 (2016) 2
+Coda: Guattari and Fabulous Images
+In the section ‘Genet Regained’ in Schizoanalytic Cartography, Guattari offers ano-
+ther inflection on the relation between fiction and life
+–
+or, more especially, the con-
+nection of poetics to a politics that is itself understood as the summoning/production
+of a people.7
+In Genet’s case, Guattari suggests that there is a ‘subterranean process’
+– a kind of ur-processuality – that characterizes, but that is also prior to, the work
+and life of the author and that it is this ‘ground’ that provides a link between the two
+(a link between the clinical and the critical).
+This understanding of an intimate connection between art and life suggests that
+the former should not be considered simply a representation of the latter, or indeed,
+be simply defined as a utopian imaging. Although in his own solo work Deleuze uses
+the term fabulation (a concept borrowed from Henri Bergson), Guattari here sug-
+gests that Genet does not so much offer what Guattari calls a ‘derealising fabulation’,
+but rather ‘fabulous images’ (amongst other things) that are involved in a particular
+‘image function’, part of a processual praxis that ultimately opens the reader up to
+new universes of reference and, consequently, the production of a new subjectivity.8
+Art is not an inert reflection of the world-as-it-is in this sense, but a kind of subjective
+technology
+–
+a fictioning
+–
+involved in the production of a different mode of being
+in the world.
+Guattari writes of Genet’s fascination with the Black Panthers as an example of
+this image function: ‘the ways of being and dressing of the Black Panthers, which
+almost overnight change the way black people as a whole perceive the colour of their
+skin or the texture of their hair for example’ (Guattari 2013, 222). Crucially, Guattari
+also suggests that:
+one can legitimately broaden this expression to all the imaginary formations that, from this same
+perspective, acquire a particular
+–
+transversal
+–
+capacity to bridge times of life, existential levels as
+much as social segments, even
+why not
+–
+cosmic stratifications. (Guattari 2013, 220)
+The image function of art operates as a connector between regimes, a bridge bet-
+ween different existential levels of life. It also offers up a point of inspiration around
+which a different kind of construction can begin to occur – and, as such, attain
+7 And in this sense Guattari’s ideas offer a compelling supplement to his and Deleuze’s concept of
+a minor literature which also involves this address to a people-yet-to-come. See especially Chapter 3,
+“What is a Minor Literature?” in Deleuze/Guattari 1986, 16-27; and, for a discussion of the minor
+in relation to contemporary art, Chapter 2, “Art and the Political: Minor Literature, the War Ma-
+chine and the Production of Subjectivity”, of O’Sullivan 2006, 69-97. (Thanks to Theo Reeves-
+Evison for first pointing me towards Guattari’s essay on Genet.)
+8 Deleuze discusses Bergson’s concept of fabulation (or ‘story telling’) in the last few pages of
+Bergsonism (Deleuze 1991, 106-112) where it is portrayed as a mechanism that produces an interval
+within society through which ‘creative emotion’ might arise. Elsewhere, Deleuze uses the concept
+of fabulation more specifically in relation to a political project (as bridge between the critical (work)
+and clinical (author)). See, as indicative, the essay ‘Literature and Life’, where Deleuze suggests
+that “It is the task of the fabulating function to invent a people” (Deleuze 1997, 4).
+–
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 91 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 91
+consistency. Here fiction operates as the friction
+–
+the cohering mechanism
+–
+for a
+different subjectivity.
+The first stage in this processuality
+–
+‘modular crystallization’
+–
+involves the
+production of various images and names that collapse different universes together
+(including, crucially, a shuttling between signifier and signified, content and expres-
+sion). Guattari suggests that this is somewhat akin to what Freud writes about in his
+work on jokes and on dreams. We might say it is the work of condensation.
+The second stage involves the production of ‘fabulous images’ themselves,
+which enlarge:
+fields of virtuality, allowing new Universes of reference and singular modalities of expression to
+emerge by conjugating heterogeneous voices. In two words, it is a matter of producing another real,
+correlative to another subjectivity. (Guattari 2013, 225)
+These fabulous images – points of condensation that become points of conjunction
+(achieving, it seems to me, a certain density)
+–
+operate as probe-heads, experimen-
+tal devices that themselves map out a different reality (‘another real’), which, as
+Guattari suggests, is ‘correlative to another subjectivity’.
+The third and final moment is when these images themselves become ‘existential
+operators’ – or synapses – for new kinds of enunciation whose ‘function is to pro-
+duce a singular temporality, a specific way of discursivising subjectivity’ (Guattari
+2013, 229). This is when art becomes what Guattari calls elsewhere a Z-Point, that
+operates as a point of cohesion but also (and this relates to some of my previous
+comments about collapse) as a void point, a line to an Outside.9
+Guattari writes about
+a kind of self-fashioning – or ‘self divination’ – that proceeds from these points
+(Guattari 2013, 229).
+Henceforth, numen no longer affixes itself to the marrow of images, but finds itself distilled in much
+more molecular praxes, if you will, appropriate for transforming the everyday perception of the
+world and eschatological horizons. (Guattari 2013, 230)
+With this stage the crossing is made from art to life – or, to put this differently, there
+is a rhythm produced that crosses over the gulf. Art becomes what Foucault might
+call a technology of the self in so far as it provides a different kind of anchor point
+for a different practice of living. Indeed, here the poetic function meets the political
+one and art
+–
+as fictioning
+–
+announces and helps produce a new subjectivity (along-
+side a new relation to the Outside) against what William Burroughs, and then Gilles
+Deleuze, once called Control.10
+9 I have written at more length about these mutant nuclei and how they cohere subjectivity around
+themselves in O’Sullivan 2012, 96-103. For more on how these points might also be holes to an
+Outside, see Burrows/O’Sullivan 2014.
+10 See Burroughs 2014 and Deleuze 1995. I go in to more detail about the possible contours and con-
+cepts – from a Deleuzian perspective – of an artistic war machine that might be pitched against
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 92 ===
+92 Paragrana 25 (2016) 2
+References
+Burroughs, William S. (2014): The Limits of Control. In: Sylvère Lotringer (ed.): Schizo-Culture:
+The Book. New York: Semiotext(e), 38-43.
+Burrows, David/O’Sullivan, Simon (2014): The Sinthome/Z-Point Relation or Art as Non-Schizo-
+analysis. In: Ian Buchanan/Lorna Collins (eds.): Deleuze and the Schizoanalysis of Visual Art.
+London: Bloomsbury, 253-278.
+Deleuze, Gilles (1989): Cinema 2: The Time-Image. Trans. H. Tomlinson/R. Galeta. Minneapolis:
+University of Minnesota Press.
+Deleuze, Gilles (1991): Bergsonism. Trans. H. Tomlinson/B. Habberjam, New York: Zone Books.
+Deleuze, Gilles (1995): Postscript on the Societies of Control. In: Negotiations: 1972-1990. Gilles
+Deleuze. Trans. M. Joughin. New York: Columbia University Press, 177-182.
+Deleuze, Gilles (1997): Literature and Life. In: Essays Critical and Clinical. Trans. D. W. Smith/M. A.
+Greco. Minneapolis: University of Minnesota Press, 1-6.
+Deleuze, Gilles/Guattari, Félix (1984): Anti-Oedipus: Capitalism and Schizophrenia. Trans. R.
+Hurley/M. Seem/H. R. Lane, London: Athlone Press.
+Deleuze, Gilles/Guattari, Félix (1986): Kafka: Towards a Minor Literature. Trans. D. Polan. Minnea-
+polis: University of Minnesota Press.
+Deleuze, Gilles/Guattari, Félix (1988): A Thousand Plateaus. Trans. B. Massumi. London: Athlone
+Press.
+Eshun, Kowdo (1998): More Brilliant than the Sun: Adventures in Sonic Fiction. London: Quartet.
+Guattari, Félix (2013): Genet Regained. In: Schizoanalytic Cartographies. Trans. A. Goffey. London:
+Bloomsbury, 215-230.
+Control in O’Sullivan 2016a.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM
+
+=== JOURNAL PAGE 93 ===
+Simon O’Sullivan, Myth-Science and the Fictioning of Reality 93
+Kelley, Mike (1995): Myth Science. In: Öyvind Fahlstrom: The Installations. Ostfildern: Hatje Cantz,
+19-27.
+Lyotard, Jean-François (1984): The Postmodern Condition: A Report on Knowledge. Trans. G.
+Bennington/B. Massumi. Manchester: Manchester University Press.
+O’Sullivan, Simon (2006): Art Encounters Deleuze and Guattari: Thought Beyond Representation.
+Basingstoke: Palgrave Macmillan.
+O’Sullivan, Simon (2012): On the Production of Subjectivity: Five Diagrams of the Finite-Infinite
+Relation. Basingstoke: Palgrave Macmillan.
+O’Sullivan, Simon (2014): Art Practice as Fictioning (or, myth-science). In: diakron, no. 1. http://www.
+diakron.dk (last accessed 19 October 2015).
+O’Sullivan, Simon (2016a): Deleuze Against Control: Fictioning to Myth-Science. In: Theory Culture
+Society. 2 June, 2016. doi: 10.1177/0263276416645154.
+O’Sullivan, Simon (2016b): Accelerationism, Prometheanism and Myth-Science. In: Amy Ireland/
+Baylee Brits/Prudence Gibson (eds.): Aesthetics After Finitude. Melbourne: re:press, 171-189.
+O’Sullivan, Simon (2017): Accelerationism, Hyperstition and Myth-Science. In: Ed Keller/Tim Matts/
+Benjamin Noys (eds.): Accelerationism and the Occult. New York: Punctum Books, forthcoming.
+Williams, Alex (2013): Escape Velocities. In: E-Flux #46, 1-11.
+Unauthenticated
+Download Date | 1/13/17 11:52 PM

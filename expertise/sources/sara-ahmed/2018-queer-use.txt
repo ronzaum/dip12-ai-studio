@@ -1,0 +1,654 @@
+Source: Queer Use (feministkilljoys blog post, 8 November 2018; text of her Queer Use lecture)
+URL: https://feministkilljoys.com/2018/11/08/queer-use/
+Fetched: 2026-10-12 via fetch.py
+
+Queer Use | feministkilljoys
+
+ feministkilljoys
+
+killing joy as a world making project
+
+Skip to content
+
+Home
+
+About
+
+← What’s the Use?
+
+Warnings →
+
+Queer Use
+
+ Posted on November 8, 2018 by feministkilljoys 
+
+I am sharing my lecture Queer Use that I have given a number of times over the past two years for Sexual Cultures Research Group, Queen Mary, CLAGS at CUNY, UC Berkeley, qUCL, Melbourne University and most recently LGBTQ+@cam, Cambridge University. The lecture draws primarily from my forthcoming book, What’s the Use? On the Uses of Use, which will be published by Duke University Press in October 2019. There are also a few examples from the chapter on Lesbian Feminism in Living a Feminist Life (2017). I have added references but I have not amended the text. I am very grateful to everyone who listened, asked questions and shared stories about queer uses of all sorts of things!
+
+It has been important to me to give this lecture Queer Use to centers and programmes dedicated to LGBTQ studies: we need to have spaces to do our work, to create shelters so that we can be disruptive!
+
+I gave Queer Use as the Kessler lecture at CLAGS in December 2017. I was honored to receive the Kessler Award, which is given to scholars who have “produced a substantive body of work that has had a significant influence on the field of LGBTQ Studies.” Queer awards are always for queer communities; field creation is our collective task. It was so wonderful to share the occasion with Chandra Frank, my former PhD student who is doing such important queer and feminist of colour work as scholar and curator; Sarah Franklin, my partner in life, as well as in queer theory and feminist crime (!), and Judith Butler whose work has been such an inspiration to me, and who taught me to think of queer and feminist work as a derailing. There is a video of the lecture (and Chandra’s, Sarah’s and Judith’s generous words) here, which is captioned.
+
+When I gave Queer Use for LGBTQ+@cam, I was very glad my queer family was with me.  I dedicated my lecture to them, to Sarah and Poppy, as I did my book. The video of the lecture is here. It is this version I am sharing.
+
+Sara Ahmed, Queer Use, Lecture presented at LGBTQ+@cam, Cambridge, November 7, 2018.
+
+I want to start my consideration of queer use by attending to uses of queer. Queer: a word with a history; a word that has been flung like a stone; picked up and hurled at us, a word we can claim for us. Queer: odd, strange, unseemly, disturbed, disturbing. Queer: a feeling, a sick feeling; feeling queer as feeling nauseous.  In older uses of queer – queer to describe anything that is noticeable because it is odd – queer and fragility were often companions. In one of George Eliot’s essays, “Three Months in Weimar” the narrator describes the sound of an old piano thus: “it’s tones now so queer and feeble like those of an invalided old woman whose voice could once make a heartbeat with fond passion” (1884, 91-2). Feeble, frail, invalid, incapacitate, falter, weak, tearful, worn; tear; wear; queer too, queer is there, too. These proximities tell a story. A queer life might how we get in touch with things at the very point at which they, or we, are worn or worn down; those moments when we break or break down, when we shatter under the weight of history. The sounds of an old piano evoking the sound of an invalided old woman: could this evocation vibrate with affection? Could a queer heart beat with passion for what is wavering and quavering?
+
+That some of us can live our lives by assuming that word “queer,” by even saying “yes” to that word  shows how a past use is not exhaustive of a word or a thing however exhausted a word or thing.  As Judith Butler notes in Excitable Speech: “An aesthetic enactment of an injurious word may both use the word and mention it, that is use the word to produce certain effects, but also at the same time make reference to that very use, calling attention to it as a citation, situating that use within a citational legacy, making that use into an explicit discursive item to be reflected on rather than a taken for granted operation of ordinary language” (1997, 99). We can disrupt the meaning of an insult by making its usage audible as a history that does not decide, once and for all, what a word can do.  To queer use might be to make use audible, to listen to use; to bring to the front what ordinarily recedes into the background.
+
+Sometimes words are reused as if they can be cut off from their history, when an insult is thrown out for instance, and reaches its target, but is defended as just banter, as something you can, should, make light of. If we reuse the word queer we hold onto the weight; the baggage.  Eve Sedgwick suggests that what makes queer a “politically potent term” is how it cleaves to “childhood scenes of shame” (1993, 4). Queer acquires force and vitality precisely because we refuse to use the word to make light of a history. To recycle or reuse a word is to reorientate one’s relation to a scene that holds its place, as memory, as container, however leaky.
+
+Queer as reused; reuse as queer use. In today’s lecture I will be drawing on arguments from a book I have recently completed, What’s the Use. In the book, I follow use around, the way I followed happiness in The Promise of Happiness, and the will in Willful Subjects. Use is a small word with a big history, a busy word; use has had and does have many uses. Following use has allowed me to connect bodies of work that are usually assumed to be distinct such as literatures in design, psychology and biology that make use of use to explain the acquisition of form. Following use has allowed me to explore how worlds are shaped, as it were, from the bottom up.
+
+Uses of Use 
+
+In this section I want to meditation on use as biography, a way of telling a story of things.   Use when used as a verb can mean: to employ for some purpose, to expend or consume; to treat or behave toward; to take unfair advantage of or exploit; to habituate or accustom. Use is a relation as well as an activity that often points beyond something even when use is about something: to use something points to what something is “for.” Some objects are made in order to be used. We might call these objects designed objects. What they are for brings them into existence. A cup is made in order that I have something to drink from; it is shaped this way, with a hole as its heart, empty, so that it can be filled by liquid.  We might summarise the implied relation as “for is before.” However even if something is shaped around what it is for, that is not the end of the story. As Howard Risatti notes in A Theory of Craft
+
+Use need not correspond to intended function. Most if not all objects can have a use, or, more accurately be made useable by being put to use. A sledgehammer can pound or it can be used as a paperweight or lever. A handsaw can cut a board and be used as straight-edge or to make music. A chair can be sat in and used to prop open a door. These uses make them “useful objects” but since they are unrelated to the intended purpose and function for which these objects were made, knowing these uses doesn’t necessarily reveal much about these objects.
+
+Use can correspond to intended function, but use does not necessarily correspond to an intended function. This not (not necessarily) is an opening.  I am not so sure if uses are quite as unrevealing about things as Risatti implies at least here (“knowing these uses doesn’t necessarily reveal much about these objects”). I am being told something about the qualities of a sledgehammer that it can used to be a paperweight. That a sledgehammer can be used as a paperweight tells me about the heaviness of the sledgehammer. Something cannot be used for anything, which means that use is a restriction of possibility that is material. Nevertheless there is something queer about use; intentions do not exhaust possibilities. The keys that are used to unlock a door can be used as a toy, perhaps because they are shiny and sliver; perhaps because they jangle.  Queer uses, when things are used for purposes other than the ones for which they were intended, still reference the qualities of a thing; queer uses may linger on those qualities, rendering them all the more lively.
+
+Queer use might also be understood as improper use; queer use as perversion. The word perversion can refer not only to deviate from what is true or right but to the improper use of something. We would not call the child who turns the key into a toy a pervert, even if that is not what a key is for; the child is expected to play with things. But a boy who plays with the wrong toy, a toy hoover for instance that is intended for a girl (the fact that toy hoovers even exist is of course deeply concerning), might be understood as perverted or at least as on the way to perversion. Correcting the boy’s use of the toy is about correcting more than behaviour in relation to a toy; it is about correcting how the boy is boy.  The figure of the pervert comes up as the one whose misuse of things is a form of self-revelation.
+
+Note also Rissati’s argument that use makes something usable, which implies that a possibility follows an actuality, a reversal of a usual sequence. Use seems to have a strange temporality. Use can also make something used.  When we think of something as being used, we might also think of buying something second-hand.   Like this book – it is a book on hands that was handy. A used book is usually cheaper than a new book. The more signs of usage = less value unless the user is esteemed, when the value of a person can rub off on the value of a thing. Marx discusses wear and tear in relation to machines: “The material wear and tear of a machine is of two kinds. The one arises from use, as coins wear away by circulating, the other from non-use, as a sword rusts when left in its scabbard” ([1867] 1990, 528).  Marx showed how machinery intensifies rather than saves labour: you have to get the most of the machine before it wears out, a wearing that is passed on to workers, wearing as passing on and passing out; used as used up.
+
+Wear and tear in this economy is the loss of value determined by the extraction of value.  To value use might require a change of values. We might value worn things, broken things, for the life they lived, for how they show what they know: the scratch as pedagogy, the wrinkle as expression. To value use would not be to romanticize what is preserved as a historical record: signs of life can be signs of exhaustion, which is to say, signs of life can be signs of how a life has been extinguished. Perhaps we can think of use as a record of the fragility of a life. In writing about use, I have deliberately made use of “used books.”
+
+A book on hands that was handy
+
+With this book in my hands I can tell others have been here before. I think of the reader who circled the word grief. I cannot trace you but you left a trace.
+
+Use leaves traces in places.
+
+Something might be in use or out of use.  When something breaks, it might be taken out of use rather like this cup, which has lost its handle.
+
+It is a rather sad parting.
+
+When we think of something in use, we might think of a sign on a door:  occupied.
+
+This sign tells us that the toilet is in use.
+
+It tells us that we cannot use the toilet until whoever is using the toilet is finished. Use often comes with instructions that are about maintaining bodily and social boundaries. Sometimes instructions are about who is allowed to use what for what. Take this image.  
+
+The sign is another kind of use instruction.
+
+It makes a claim that the door is in constant use in order to justify that instruction: keep clear! If you were to park a car or a bike in front of the door, you would become an obstruction. Becoming an obstruction describes the fate that awaits some uses and users.
+
+Or take this image of a post box.
+
+This sign politely asks the would-be poster not to use the post box by posting a letter into the box.
+
+If the toilet was occupied because it was in use, the post box is out of use because it is occupied. Although of course from another point of view, it is in use. The post box has provided a home for nesting birds. Intended functionality can mean who something is for, not just what something is for. This means that: something can be used by those for which it was not intended. Queer use: when something is used by those for whom it was intended.
+
+Can I add here that it was when I was writing my conclusion to the book that I realised that others have used “queer use” in this way : as we can note in this article from 1899 referring to the queer use for cloisters. One wonders if the queer use for cloisters might extend beyond where they store their machines.
+
+If we go back to a post-box that it can become a nest still tells us something about the nature of object; what allows the box to be used to post letters, that slips is how the birds can enter. If a change of function does not require a change of form, a change of function does require a sign, “please do not use,” to stop what would be usual: posting a letter through the box.  The sign, we assume, is temporary. That box will come back into use as a post box when it ceases to be a nest.
+
+Back into use: use can involve comings and goings.   Take the example of the well-trodden path. The path exists because people have used it. Use involves contact and friction, the tread of feet smooths the surface; the path is becoming smoother, easier to follow.
+
+.
+
+The more a path is used the more a path is used.
+
+How strange that this sentence makes sense. Without use a path can disappear, becoming overgrown, bumpy; unusable.    
+
+Like this path, we know it is a path because of a sign but you can hardly see the sign for the leaves. 
+
+Use can be necessary for preservation. Use it, or lose it: this is not only a mantra in personal training; it can become a philosophy of life. Not using; not being.
+
+If not using can mean not being, use becomes useful as a technique. You can stop something from existing by making it harder to use. Use can also be a frame: a pad might appear unused because the pencil marks have been erased. Frames of use have uses. For example, many uses of land were not counted as uses because land use in Western culture was understood in terms of cultivation. The labour theory of property was also a theory of use. John Locke’s Two Treatises, made extensive use of use:  “it cannot be supposed [the land] should remain common and uncultivated” such that “he gave it to the use of the industrious and rational” ([1689] 1824, 149). Use is defined here as or restricted to agriculture and cultivation. Land that has not been cultivated becomes wasteland, unused, and thus available to be appropriated.   Edward Said was attuned to this use of use; he described how Palestine was rendered “a whole territory essentially unused, unappreciated, misunderstood . . . to be made useful, appreciated, understandable” (1979, 31, emphasis Said’s).  
+
+You can declare something unused or ensure something becomes unused as the grounds for justifying an appropriation.
+
+Used paths have many stories to tell. A path can appear like a line on a landscape. But a path can also be a route through life. Collectivity can be acquired as direction; the more a path is traveled upon the clearer it becomes. A path can be cared for, kept clear, maintained.
+
+Heterosexuality: a path that is kept clear.
+
+That straight path is maintained not only by the frequency of use, and a frequency can be an invitation, but by an elaborate support system.  When it is harder to proceed, when a path is harder to follow, you might be discouraged; you might try and find another route.
+
+A consciousness of the need to make more of an effort can be a disincentive.
+
+Just think of how we can be dissuaded by perpetual reminders of how hard something would be. Deviation is hard. Deviation is made hard.
+
+Use can ease the passage of things. William James cites the work of Dumont to make sense of habit:  “Everyone knows how a garment having been worn a certain time clings better to the shape of the body than when it was new. A lock works better after being used some time; at the outset a certain force was required to overcome certain roughness in the mechanism.”([1819] 1950: 105, emphasis mine). A garment becomes more attuned to the body the more the garment is worn. I will return to the well-used garment in due course.  The example of the lock and the key suggests that it is through use that things become easier to use.   If use takes time use saves time; less effort is required to complete an action.
+
+The idea that use keeps something alive, or that use makes something easier to use, is supplemented by another idea central to the emergence of modern biology: that use in making something stronger, and disuse, in making something weaker, shapes the very form of life. For example, Lamarck the French naturalist who first used the word biology in its modern sense, offered a law of use and disuse: “a more frequent and continuous use of any organ gradually strengthens, develops and enlarges that organ, and gives it a power proportional to the length of time it has been so used; while the permanent disuse of any organ imperceptibly weakens and deteriorates it, and progressively diminishes its functional capacity, until it finally disappears.”  These acquired modifications for Lamarck can be inherited, what we called simply use inheritance.  Lamarck’s famous example is the giraffe’s neck, although he only uses this example once. For Lamarck the giraffe’s neck grows longer not through volition but as an effect of repeated efforts that become directional. He describes: “efforts in a particular direction, when they are sustained or habitually made by certain parts of a living body, for the satisfaction of needs established by nature or environment, cause an enlargement of the parts and the acquisition of a size and shape that they would not have obtained if these efforts had not become the normal activities of the animal exerting them” (Lamarck ([1809]1914, 123, emphasis mine). When an effort becomes normal, a form is acquired.  When such form is acquired, less effort is needed; the giraffe does not have to reach so high to reach the foliage.  Use inheritance translates as: the lessoning the effort required to survive within an environment.
+
+ We can pause here and pull out some of the queer implications of Lamarck’s argument. If norms become forms, forms lag behind norms.  Stephen Gould also suggests that the lag between behavioral change and formal change accounts for some of the “oddest” and most “curious” of animal inventions. Gould’s examples include Flamingos which dwell in hypersaline lakes:  “few creatures can tolerate the unusual environments of these saline deserts” (24). The Flamingos have an unusual way of feeding “with their heads upside down” (25). This “flip flop” is described as “complete and comprehensive” not only in form but also in motion (32). The action is also described as “topsy-turvy” (32). Gould concludes that a “peculiar reversal in behavior has engendered a complex inversion of form” (32).  Queer use could also reference such inversions; how things end up the wrong way up: “An organism enters a new environment with its old form suited to other styles of life. The behavioral innovation establishes a discordance between new function and inherited form” (36-37). A temporal discordance between past and present is manifest as discordance between form and function.  Forms can be understood as “temporal drag” to use Elizabeth Freeman’s (2010) terms: the visceral “pull of the past on the present.” When forms drag behind functions that dragging is expressed queerly in “imperfections and odd solutions cobbled together from parts on hand” (The Flamingo’s Smile, 37).
+
+I will return to lingering forms and odd solutions in due course. Lamarck does imply that a use for something would bring it into existence. This was one of the reasons Charles Darwin was rather disparaging about Lamarck’s work because of the implication he heard (rightly or wrongly) that organism will what they need into existence.   We can find evidence of Darwin’s disparagement in another used book; Darwin’s personal copy of Lamarck’s Historie Naturale. He wrote in the margins: “because use improves an organ – wishing for it, or its use, produces it!!! Oh.” Despite how Darwin and Lamarck appear to deviate at least from Darwin’s point of view on this question of use, Darwin himself often represents natural selection and the law of use and disuse as working together.  And it is interesting to note that Darwin offers a reuse of the architect metaphor, despite how this metaphor risks the implication of design:
+
+Let an architect be compelled to build an edifice with uncut stones, fallen from a precipice. The shape of each fragment may be called accidental; yet the shape of each has been determined by the force of gravity, the nature of the rock, and the slope of the precipice,—events and circumstances, all of which depend on natural laws; but there is no relation between these laws and the purpose for which each fragment is used by the builder….The shape of the fragments of stone at the base of our precipice may be called accidental, but this is not strictly correct; for the shape of each depends on a long sequence of events, all obeying natural laws…. But in regard to the use to which the fragments may be put, their shape may be strictly said to be accidental. ([1859] 2009, 118-9).
+
+An architect can be a builder who makes use of stones without cutting them in order to fit a design. The stones are thrown up, or available, according to natural laws. These stones were not made in order to be used, like a cup is shaped so that it can be filled by water. If the shape of a stone is determined by a long sequence of events, it is an accident that the shape of this stone fits the shape of the hole in the wall.   You are more likely to use a stone that happens to fit that space; use as hap, use as happenstance, use as, even, happy. I will return to Darwin’s happy use of the architect metaphor in due course.
+
+The Institutional as Usual
+
+My task in this section is to thicken the account of use offered thus far by thinking about the institutional as usual. We learn about the institutional from those who are trying to transform institutions. In an earlier project I talked to diversity workers about their work. And going back to the data I have realised how diversity work requires becoming conscious of use. Diversity workers are trying to transform institutional habits, not to follow the well-used paths; not to go the way things flow.
+
+Of course at another level diversity seems to be the things are flowing, a rather well travelled path.
+
+Diversity can be used as an arrow even, which can be an instruction: go that way!
+
+The ease with which diversity travels might be why diversity work is hard work.  One diversity worker describes how diversity “is a big shiny apple” with a rotten core, “it all looks wonderful but the inequalities aren’t being addressed.”  The word diversity is used more because it does less; diversity becomes a sign of the difficulty of getting through. This same practitioner described her own work thus: “it’s a banging your head against a brick wall job.”   A job description becomes a wall description. If you keep banging your head against the brick wall, but the wall keeps its place, it is you that gets sore. And what happens to the wall?   All you seemed to have done is scratched the surface.
+
+This is what diversity work often feels like: scratching the surface, scratching at the surface.
+
+Doing diversity work means you collect wall stories; the wall becomes data; condensed information about institutions. Let me share with you a wall story:
+
+ When I was first here there was a policy that you had to have three people on every panel who had been diversity trained. But then there was a decision early on when I was here, that it should be everybody, all panel members, at least internal people. They took that decision at the equality and diversity committee which several members of SMT were present at. But then the director of Human Resources found out about it and decided we didn’t have the resources to support it, and it went to council with that taken out and council were told that they were happy to have just three members, only a person on council who was an external member of the diversity committee went ballistic – and I am not kidding went ballistic – and said the minutes didn’t reflect what  had happened in the meeting because the minutes said the decision was different to what actually happened (and I didn’t take the minutes by the way). And so they had to take it through and reverse it. And the Council decision was that all people should be trained. And despite that I have then sat in meetings where they have just continued saying that it has to be just 3 people on the panel. And I said but no Council changed their view and I can give you the minutes and they just look at me as if I am saying something really stupid, this went on for ages, even though the Council minutes definitely said all panel members should be trained. And to be honest sometimes you just give up. 
+
+It seems as if there is an institutional decision. Individuals within the institution must act as if the decision has been made for it to have been made. If they do not, it has not. A decision made in present about the future is overridden by the momentum of the past : the past becomes a well-worn path, what usually happens, still happens. In this case, the head of personnel did not need to take the decision out of the minutes for the decision not to bring something into effect.   I have called this dynamic “non-performativity”: when naming something does not bring something into effect, or when something is named in order not to bring something into effect.
+
+The wall: that which keeps standing.  The wall is a finding.  Let me summarise the finding: what stops movement moves.  In other words, the mechanisms for stopping something are mobile, which means when we witness the movement we can miss the mechanism. This is important as organisations are good at moving things around; creating evidence you are doing something is not the same thing as doing something. This is why I have called diversity workers institutional plumbers: they have to work out not only where something is blocked but how it is blocked. In our example, what stopped something from happening could have been the removal of the policy from the minutes; it could have been the failure to notice this removal; but it wasn’t. It was the way in which those within the institution acted after the policy had been agreed.
+
+Agreeing to something can be another way of stopping something from happening.  
+
+A diversity policy can come into existence without coming into use.   I noted earlier how a sign is often used to make a transition from something being in and out of use, such as in this case of the post-box. Institutions are also postal systems.  Maybe the diversity worker deposits the policy in the post-box because she assumes the box is in use.  The post-box that is not in use might have another function: to stop a policy from going through the whole system. The policy becomes dusty, rather like Marx’s rusty sword; from rusty to dusty. A policy can become unusable by not being used.
+
+Consider too all the energy this practitioner expended on developing a policy that did not do anything. The story of how the wall keeps standing is the same story as the story of how a diversity worker becomes shattered; as she says “sometimes you just give up.”   May be you end up feeling used up, limp, spent rather like this tube of toothpaste.
+
+As if you have nothing left to give.
+
+Or you might fly off the handle, to recall that broken cup.
+
+To fly off the handle can mean to snap or to lose your temper.
+
+Or maybe you feel like you are losing it. To lose a handle on things can mean to lose yourself; you become the one who cannot handle it.
+
+You don’t have to say anything to be heard as breaking something. Another practitioner describes: “you know, you go through that in these sorts of jobs where you go to say something and you can just see people going ‘oh here she goes.’”  We both laughed, recognising that each other recognised that scene. The feminist killjoy, that leaky container, comes up here; she comes up in what we hear. We hear each other in the wear and the tear of the words we share; we hear what it is like to come up against the same thing over and over again.  We imagine the eyes rolling as if to say: well she would say that.  It was from experiences like this that I developed my equation: rolling eyes = feminist pedagogy.
+
+I think it is important to note that the policy that was stopped by not being used was a policy about how academic appointments are made.  Appointment panels thus become places to go, if you want to learn more about how institutions are reproduced; how decisions are made about who is “appointable.” A person in a diversity training session I attended shared that people in her department used an unofficial criteria for appointability of whether someone was “the kind of person you can take down to the pub”. They wanted someone who can inhabit those spaces with them, being with as being like; someone they can relate to, drink with.  I remember one time a woman of color was being considered for a job, she worked on race and sexuality, and someone said in a departmental meeting with concern, “but we already have Sara,” is if having one of us was more than enough. There was a murmured consensus that she replicated me, even though our work was different. There was no such concern about other areas. Concern; no concern; how things stay the same by seeing others as the same.
+
+I want to go back to my discussion of uses of use. An institution is an environment. Environments are dynamic; it is because environments change that uses change. An institution, however, is also a container technology.   You reproduce something by stabilizing the requirements for what you need to survive or thrive in environment.  When a requirement is stabilised it does not need to be made explicit. Use becomes a question of fit. Remember Darwin’s use of the architect metaphor? The builder uses the stone that happens to fit. Institutions too are built. It can appear as if the moment of use is hap: that this person is selected because they just happens to fit the requirements rather like a stone is selected because it just happens to be the same shape and size as the hole in the wall.   Hap can be used ideologically: as if they here because they happened to fit rather than they fit because of how the structure was built.  
+
+A structure: the gradual removal of hap from use in the determination of a requirement. In Lamarck’s model, use becomes inheritance, in shaping form it lessens of effort required to do something within an environment. When you fit, and fitting here is formal, a question of form, you inherit the lessening of effort.  It is not just the constancy of use that eases a passage. Some have more paths laid out more clearly in front of them because they already fit a requirement.  For as before acquires a new resonance here: when a world is built for some, they come before others.
+
+Not Fitting
+
+People do come to inhabit organizations that are not intended for them; you can make the cut without fitting.    If you arrive into an organization that is not built for you, you experience this for as tight or as tightening. If you are the one for whom an institution is intended for is loose; the institution appears as open because it is open to you.     This is why I think of an institution as an old garment:  it has acquired the shape of those who tend to wear it such that it is easier to wear if you have that shape.  And this is why I think of privilege as an energy saving device; less effort is required to pass through when a world has been assembled around you. If you arrive with dubious origins, you are not expected to be there, so in getting there you have already disagreed with an expectation of who you are and what you can do, then an institution is the wrong shape.
+
+Annette Kuhn describes how as a working-class girl in a grammar school she feels “conspicuously out of place.” She describes this sense of being out of place by giving us a biography of her school uniform; how by the time her ill-fitting uniform came to fit, it had become “shabby” and “scruffy.” The word “wear” originally derives from the Germanic word for clothing. It then acquires a secondary sense of “use up, gradually damage” from the effect of continued use on clothes. It is not just that when something is used more it fits better. If you cannot afford to keep buying new clothes, scruffiness becomes a sign of not fitting.
+
+Not fitting can be about the body you have, about your own requirements.  When you don’t meet the requirements you become to borrow Rosemarie Garland Thomson’s important term, a misfit. She describes being a person with a disability in an ablest institution as like being a “square peg in round hole” (2011, 592).(1)  Fitting becomes work for those who do not fit; you have to push, push, push; and sometimes no amount of pushing will get you in.
+
+You can be a misfit given what has become routine. An organisation that organises long meetings without any breaks assumes a body that can be seated without breaks. If someone arrives who cannot maintain this position, they do not meet the requirements.  If you lay down during the meeting you would throw the meeting into crisis. 
+
+A social justice project might require throwing meetings into crisis.
+
+Perhaps because organisations are trying to avoid such crises, misfits often end up on the same committees (otherwise known as the diversity committee). We might end up on diversity committee because of whom we are not: not white, not cis, not able-bodied, not man, not straight. The more nots you are the more committees you end up on! We can be misfits even on these committees. A woman of colour academic describes: “I was on the equality and diversity group in the university. And as soon as I started mentioning things to do with race they changed the portfolio of who could be on the committee and I was dropped.” I noted earlier that diversity might be used more because it does less. The word race might be used less because it does more.  Any use of the word race is thus an overuse.  She added: “whenever you raise something, the response is that you are not one of them.” Not one of them: using words like race seems to amplify what makes you not fit, picking up what you are not.  Perhaps a not is heard as shouting, as insistence, a stress point, a sore point, an exclamation point.
+
+Sometimes turning up is enough to bring a history up, a history that gets in the way of an occupation of space. A door is closed because of who enters.  At other times the door seems to be open, you might even be welcomed. Think of how diversity is often represented as an open door or as a tag line, minorities welcome; come in, come in, tag-line, tagged on; tag along. Just because they welcome you it doesn’t mean they expect you to turn up.  A woman of colour describes her department as a revolving door, women and minority stuff enter only to head right out again: whoosh; whoosh.
+
+You can be kept out by what you find out when you get in.
+
+The nuclear family, as an institution can appear to be open, perhaps you are the queer aunties, come in, come in. But heterosexuality can also become an occupation, filling the room, water in a cup, full, fuller still, no room, no room; greetings, statements, heterosexuality given casually for children as projections of the future, even my dog Poppy has been given such an assignment (if only Poppy could meet Tommy, they could be boyfriend and girlfriend). It can feel like you are watching yourself disappear: watching your own life unravel, thread by thread. No one has willed or intended your disappearance. They are kind, they are welcoming. Just slowly, just slowly, as talk of family, of heterosexuality as the future, of lives that you do not live, just slowly, just slowly, you disappear.
+
+I think back to our post-box.  There could be another sign on that post-box: “birds welcome.”
+
+A sign can be a non-performative. 
+
+This sign teaches us how we can “not do” things with words. Because if the post-box was in use, the birds would be dislodged by the letters, a nest destroyed before it could be created. You can stop others from using a space by how that space is being used.  I noted earlier that use is a restriction of possibility that is material. You can use the paper for some things and not others because of the material qualities of paper. But it is not just that use is a restriction of possibility that is material. Restrictions can also become material through use. What is material to some, leaving you with no room, no room to breathe, to nest, to be, can be what does not matter to others because it does not get in the way of their occupation of space; it might even enable their occupation.
+
+You can turn up and find a space is already occupied.  You turn up at a hotel with your girlfriend and you say you have booked a room. They catch you in a glance and they hesitate. A hesitation can speak volumes. This reservation says your booking is for a double bed, is that right madam? Eyebrows are raised; a glance slides over the two of you, catching enough detail. Are you, sure madam? Yes that’s right; a double bed. You have to say it, again; you have to say it, again, firmly. I mentioned earlier my equation rolling eyes = feminist pedagogy. I have another one.
+
+Raised eyebrows = lesbian feminist pedagogy
+
+Really, are you sure?  This happens again and again; you almost come to expect it, the necessity of being firm just to receive what you have requested. Disbelief follows you wherever you go; still. One time after a querying, are you sure madam, are you sure, madam, you enter the room; twin beds. Do you go down; do you try again? It can be trying. Sometimes it is too trying, it is too much, and you pull your two little beds together; you find other ways of huddling.
+
+Queer use: another way of huddling, of keeping each other warm.
+
+For some to be is to be in question. Is that your sister or your husband? That was a question asked to me by a neighbour once. Who are you? What are you? Where are you from? As a brown woman living in the UK I am used to being asked that question. Where are you from? Where are you really from? It as a way of being told you are not from here; brown, not from here, not here, not. These questions can dislodge you, you come to wait for them; waiting to be dislodged changes your relation to a lodge.
+
+A lodge can be about how you are received. You might walk into a seminar room with a white man; you are both professors. But you feel the gaze land upon him: plop, plop.  You don’t appear as professor because you are not how a professor usually appears.  And he is addressed as the professor.  If you were to say “hey I am a Professor too” you would be heard as drawing attention to yourself.  Diversity work: how you end up appearing as drawing attention to yourself. You stick out like a sore thumb. It can then be assumed you are talking walls because you are sore.  A lecturer who I interviewed for my complaint project describes: “I have been told I have a chip on my shoulder, that I’ve got a chip on my shoulder because I am Jewish, that I have a chip on my shoulder because I am foreign, living in this country and you’re upset about Brexit, or because your gay and you are just looking for the problems. And you start thinking am I looking for these problems, I just turn it inwards is it me, is it my fault: I lie awake at night thinking is it actually a problem with me here.” Chip, chip: if we chip away at the old block no wonder they keep finding that chip on our shoulders. The more nots you are the more chips they find!
+
+But it can be hammering and you can end up feeling that the problem is with you. That feeling I would add is a feeling of structure; how you are stopped from doing something; from being something.
+
+What you have to say or do in order not to be passed over can be heard as a complaint about being passed over. And sometimes we do indeed have to complain about what or who is passed over. When I shared the reasons for my resignation, in protest at the failure of the institution to deal with sexual harassment, I became quite quickly the cause of damage, what a mess Sara, look how much work you have created.
+
+I became a leaky pipe: drip, drip. 
+
+Organisations will try and contain that damage; public relations works as damage limitation. And this is how diversity often takes institutional form; damage limitation. There is hope here; they cannot mop up all of our mess. One spillage can lead to more coming out; can lead, does lead. A leak can be a lead. After I shared my reasons for my resignation, many people shared with me their own stories, their own institutional battles.
+
+Just loosen the screw a little bit, a tiny little bit, and you might have an explosion. We need more explosions.
+
+Conclusion: Queer Vandalism
+
+Damage limitation: this is how organisations end up using paper, paper as papering over; to paper over the cracks, the leaks; the means by which blemishes on an institutional record are not recorded. Perhaps these blemishes become ours; we become damaged goods.
+
+Paper too can be papered over. In Queer Phenomenology (2016) I called into a question a fantasy of a “paperless philosophy” as part of a critique of how philosophy might be orientated toward a certain kind of body, one for whom materiality would be an unnecessary distraction, one who has time freed for contemplation by how others do the paper work, the domestic work, the care work, diversity work.
+
+Paper matters. Paper can also be queer; paper can be used queerly. I am reminded of Homi Bhabha’s discussion of uses of the Bible in “Signs Taken for Wonders.”   Bhabha cites the Missionary Register from 1817:  “Still [every Indian] would gladly receive a bible. Any why? That he may store it up as a curiosity, sell it for a few pice, or use it for wastepaper. Such it is well known has been the common fate of those Bibles distributed in this place. Some are seen laid up as curiosities, by those who cannot read them: some have been bartered in the markets; and others have been thrown into the snuff-shops, and used as wrapping paper” (1985, 163-4), The Bible in not been properly read is willfully destroyed; the Bible becomes a curiosity; reused or usable for other purposes, wrapping paper, waste paper.
+
+Of course the missionaries narrate the fate of the Bible in the colonies as a result of the inability of the natives to be able to digest it: “It is true, that such of the Natives as can read, have leisure enough to read the whole Bible; but they are so indolent, so fond of eating and sleeping, or so lost in their vicious pursuits, that unless something at once brief, simple, and powerful be presented, it will not be likely to be read by them, and, if read, it will not be likely to arrest their torpid and sensual minds” (1817, 186). If racism is used as an explanation of the failure of digestion, rendering the racial other a queer subject (“vicious pursuits” “torpid and sensual minds”), racism is used because of the failure of the colonial mission to transform the minds of the colonized into willing vessels.
+
+The demand to use something properly is a demand to revere what has been given by the colonizer. Empire as gift comes with use instructions.  If not to be subjected to the will of the colonizer is to queer use or even to become queer through misuse (perversion as self-revelation), to queer use is to live in proximity to violence.  To queer use is to linger on the material qualities of that which you are supposed to pass over; it is to recover a potential from materials that have been left behind, all the things you can do with paper if you refuse the instructions.  That recovery can be dangerous.  The creativity of queer use becomes an act of destruction, whether intended or not; not digesting something, spitting it out; putting it about.
+
+Queer use in other words can be understood as vandalism: “the willful destruction of what is venerable and beautiful.” Earlier I described diversity workers as institutional plumbers. We might from this description assume that diversity workers are appointed to unblock the system. But a blockage can be how the system is working.   The system is working by stopping those are trying to transform the system.    This means that: to transform a system we have to stop the system from working.  When you stop the machine from working, you damage the machine. The plumber might need to be a vandal, or we might have to pass as a plumber (fixing the leak) to become a vandal (making it bigger). We might have to throw a wrench in the works or become, to use Sarah Franklin’s (2015) terms “wenches in the works,” throw our bodies into the system trying to stop the same old bodies from being assembled, doing the same old things. The “wench in the works” has a queer kinship with the feminist killjoy, a kinship of figures can be a kinship of persons, as non-reproductive agents; those who are trying to stop what usually happens from happening.
+
+We might need to become quite willing to become an obstruction. Protest too is framed as vandalism: not only as damage to property but as motivated by a desire to cause damage.
+
+We have might have to park our bodies in front of that gate.
+
+We can become obstructions by virtue of existing or by questioning the virtue of an existence. Even to open up a question about how to live, how to love, can be framed as damage.  Queer as snap, snap: as if you are cutting up the family with a pair of scissors just by arranging your life in a different way.
+
+Not following something as destroying something: no wonder they find us to be destructive.
+
+So much is reproduced by the requirement to follow. Within the academy you might be asked to follow the well-trodden paths of citation; to cite properly as to cite those deemed to have already the most influence. The more a path is used the more a path is used.   
+
+The more he is cited the more he is cited.
+
+A path is kept clear through work; occupation depends upon erasure; such and such white man might become an originator of a concept, an idea as becoming seminal, by removing traces of those who were here before.  Indigenous feminists, black feminists and feminists of colour have crafted new routes by what or who we refuse to let disappear: I think of work by Zoe Todd (2016), Eve Tuck (2018) and Alexis Pauline Gumbs (2016).  Speaking of whiteness in the academy or of colonialism as the context in which Enlightenment philosophy happened is to bring up the scandal of the vandal. Decolonizing the curriculum as a project has been framed as an act of vandalism, a willful destruction of our universals; knocking off the heads of statues, snapping at the thrones of the philosopher kings.
+
+If throwing open the question of how to live or who to read is deemed damaging, we are willing to cause damage, to turn that judgement into a project.  And vandalism becomes a tactic when we have to cut a message off from a body, when a message if traced to a source would compromise the source. If organisations try and contain what would damage their reputation, we find other ways to get information out. We might need to use guerrilla tactics, and we have a feminist and queer histories to draw upon; write names of harassers on books or on walls.
+
+Yes, the scratches, we are back to those scratches. 
+
+What is treated as damage can be a message sent out: we can reach each other through what seems mere scratch and scribble.
+
+The requirement to be inventive is not just a matter of communication. Audre Lorde in her poem “A Litany for Survival” evokes “those of us,” who “love in doorways coming and going in the hours between dawns” (1988: 31). You might have to use the less used paths, turn a doorway into a meeting place; you might have to try to slide by undetected because being seen is dangerous when you are seen as dangerous.   Queer use can be a matter of survival, becoming fainter as your best chance of being at all.
+
+And so: there are queer possibilities not only in use, how materials can be picked up when we refuse an instruction, but in not being of use. A much used book might give us a glimpse of other fainter trails. There is a discussion in Origins of vestigial organs, as parts that are no longer useful but linger however dwindled such as the small eye of the blind mole; these parts are sometimes called left overs. Vestigiality is the retention of structures or attributes of ancestral species that have lost their functionality; another version of the strange temporality of use. Let me quote from Origins: “Rudimentary parts, as it is generally admitted, are apt to be highly variable… their variability seems to result from their uselessness, and consequently from natural selection having had no power to check deviations in their structure” ([1859] 2009, 118-9, my emphasis).
+
+Uselessness: it can be a deadly assignment. I think we know this, a history of whom and what is discarded, how the fragments are swept up and away. We can pick up these pieces. We can find other ways of telling the history of use and uselessness, hearing a queer potential in a sentence from a much-used book. That potential: not being selected is not to be checked; to have more room to roam, to vary, to deviate; to proliferate. If queer use can be about survival, followed the less well used path in order not to be detected, queer use can also be about creativity, the variations that are possible when you are not selected or rewarded for going the right way. But: not being selected can also mean not being supported. And so: we create our own support systems, queer handles; how we hold on; how a life can go on, when we are shattered, because we are shattered.  No wonder then: the stories of the exhaustion of inhabiting worlds that do not accommodate us, the stories of the weary and the worn, the teary and the torn, are the same stories as the stories of inventiveness, of creating something, of making something.
+
+I think of Lorde. I always think of Lorde. Audre Lorde spoke of herself as a writer when she was dying. She wrote: “I am going to write fire until it comes out of my ears, my eyes, my noseholes–everywhere. Until it’s every breath I breathe. I’m going to go out like a fucking meteor!” (1978: 76-77).
+
+And so she did
+
+And so she did
+
+She goes out, she makes something. She calls this capacity to make things through heat “the erotic.”  Lorde describes : “There is a difference between painting a black fence and writing a poem, but only one of quantity. And there is, for me, no difference between writing a good poem and moving into sunlight against the body of a woman I love” (1984: 58). Words flicker with life, like sunlight on her body.
+
+A love poem
+
+A lover as poem
+
+We can break open a container to make things. We watch the words spill. They spill all over you. I think too of Cherrie Moraga’s poem “The Welder.” Moraga speaks of heat being used to shape new elements, to create “the intimacy of steel melting, the fire that makes sculpture of your lives, builds buildings” (1981: 219).  We have to build our own buildings, when the world does not accommodate our desires. When you are blocked, when your very existence is prohibited or viewed with general suspicion or even just raised eyebrows (yes they are pedagogy), you have to come up with your own systems for getting things through.
+
+How inventive
+
+Quite something
+
+Not from nothing
+
+Something from something
+
+A kitchen table becomes a publishing house
+
+A door-way becomes a meeting place
+
+ A post-box becomes a nest
+
+Can this be a queer inheritance; how we inherit from past struggles to exist; small modifications, the widening of a passageway or an opening just enough to enable more to get by or to get through; a sociability as worn as wisdom, secret passages, meeting places, shelters, passing information down a line about where to go, what to do? So much can happen from a struggle to be, from the friction of being rubbed up the wrong way; inversions, beaks that end up the wrong way up, what we cobble together out of necessity from parts at hand.
+
+ How odd that from necessity we might become alive to possibility; how odd, how queer.
+
+We can make this image our queer teacher.
+
+It teaches us that it is possible for those deemed strangers to take up residence in spaces that have been assumed as belonging to others. The post-box could have remained in use; the nest destroyed before it was completed; the birds displaced. A history of use is a history of such displacements, many violent, displacements that are often unrecognised because of how things remain occupied. It is because of this occupation, this settling of history, this weight; that queer use requires more than an act of affirming the queerness of use. Queer use is the work we have to do to queer use.
+
+Queer use is work; it is hard and painstaking work; it is collective and creative work; it is diversity work.
+
+This image has something else to teach us: creating a shelter and disrupting usage can refer to the same action.  Thank you.
+
+**********************************************************************************
+
+(1) My book is deeply indebted to Rosemarie Garland Thomson’s work on misfitting as well as to other scholars in disability studies who have offered some of the most important critiques of the “uses of use” (and in particular of usability) including Aimi Hamraie, Jay Dolmage, Margaret Price, Tanya Titchkosky and Alison Kafer.
+
+References
+
+Butler, Judith (1997). Excitable Speech: On The Politics of the Performative. London: Routledge.
+
+Darwin, Charles (1868). The Variation of Animals and Plants Under Domestication, Vol 1 and 2. London: John Murray.
+
+————————-[1859] 2009. Origin of the Species. 6th Edition. Cambridge: Cambridge
+
+University Press.
+
+Eliot, George  (1884).  Essays and Leaves from a Notebook. Edinburgh: Blackwood.
+
+Franklin, Sarah (2015). “Sexism as a Means of Reproduction,” New Formations, 86: 14-33.
+
+Freeman, Elizabeth (2010). Time Binds: Queer Temporalities, Queer Histories. Durham: Duke University Press.
+
+Garland-Thomson, Rosemarie  (2011). “Misfits: A Feminist Materialist Disability Concept,” Hypatia: A  Journal of Feminist Philosophy. 26(3): 591-609.
+
+Gould, Stephen  (1985). The Flamingo’s Smile: Reflections in Natural History. New York: W.W. Norton.
+
+Gumbs, Alexis Pauline (2016). Spill: Scenes of Black Feminist Fugitivity. Durham: Duke University Press.
+
+James, William ([1890] 1950). The Principles of Psychology, Volume 1. New York, Dover Publications.
+
+Kuhn, Annette [1995] (2002). Family Secrets: Acts of Memory and Imagination. London: Verso.
+
+Lamarck, Jean Baptiste [1809] (1914). Zoological Philosophy. Trans Hugh Samuel Roger Elliot. Cambridge: Cambridge University Press.
+
+Locke, John  [1689] (1824). Two Treatises of Government. London: C and J. Rivington.
+
+Lorde, Audre (1988). A Burst of Light, Essays. Ithaca, New York: Firebrand Books.
+
+——————–(1984). Sister Outsider: Essays and Speeches, Trumansburg: The
+
+Crossing Press.
+
+———————-(1978). Black Unicorn. New Rork: W.W.Norton.
+
+Morago, Cherrie (1981). “The Welder,” in Cherrie Morago and Gloria Anzaldúa  (eds). A Bridge Called by Back: Writings by Radical Women of Colour.  Watertown: Persephone Press. p.219.
+
+Risatti, Howard (2007). A Theory of Craft: Function and Aesthetic Expression. University of North Carolina Press.
+
+Said, Edward (1979). “Zionism from the Standpoint of Its Victims,” Social Text, 1: 7-58.
+
+Sedgwick, Eve Kosofsky (1993). “Queer Performativity: Henry James’s The Art of the Novel.” GLQ: 1, 1: 1-14.
+
+Todd, Zoe (2016). “An Indigenous Feminist’s Take On The Ontological Turn: ‘Ontology’ Is Just Another Word For Colonialism,” Journal of Historical Sociology. https://onlinelibrary.wiley.com/doi/abs/10.1111/johs.12124. Np.
+
+Tuck, Eve (2018). “Losing Patience for the Task of Convincing Settlers to Pay Attention to Indigenous Ideas,” in Linda Tuhiwai, Eve Tuck and K. Wayne Yang (eds), Indigenous and Decolonizing Studies in Education,  New York: Routledge.  pp. 13-16.
+
+Share this:
+
+ Share on X (Opens in new window)
+ X
+
+ Share on Facebook (Opens in new window)
+ Facebook
+
+Like this:
+
+Like Loading…
+
+ About feministkilljoys 
+
+ feminist killjoy, affect alien, angry queer woman of colour 
+
+ View all posts by feministkilljoys → 
+
+ This entry was posted in Uncategorized. Bookmark the permalink. 
+
+← What’s the Use?
+
+Warnings →
+
+ 11 Responses to Queer Use 
+
+ Meera Ghani says: 
+
+ November 11, 2018 at 9:46 am 
+
+This brought tears to my eyes.
+
+Tears because I recognised, tears because it’s so exhausting to be a misfit, tears because I’m exhausted, tears because I see kinship, tears because I felt release. Thank you Sara!
+
+Loading...
+
+ Reply 
+
+ feministkilljoys says: 
+
+ November 23, 2018 at 4:57 pm 
+
+Thank you for your recognition!
+
+Loading...
+
+ Reply 
+
+Pingback: Things I read in Week 46 of 2018 – Asinine Tech
+
+ Ramona Zadissa says: 
+
+ November 28, 2018 at 9:31 pm 
+
+After your lecture in Cambridge, we had a brief talk about how queers of colour end up being footnotes and that maybe – hopefully – we would all somehow find the way to connect to each other. I have been thinking about it ever since and I wish to thank you again for giving me the use of Walls for understanding elements of my everyday life, how the Walls, not only disrupt progress but also keep the “footnotes” separated from each other, blocking the connection, creating the sense of isolation. Thank you. I wish I had words to describe how liberating it has been for me to finally have names for the elements I encounter on my queer path.
+
+Loading...
+
+ Reply 
+
+Pingback: Queer Use — feministkilljoys – sexuality and space
+
+Pingback: MA in Computational Arts blog
+
+Pingback: Why complain? | feministkilljoys
+
+Pingback: Intersections, objects, ethics, and emotions | Queeries & Clareification
+
+Pingback: Use is a Life Question | feministkilljoys
+
+Pingback: Sara Ahmed’s Work on Institutions | Introduction to Doctoral Studies in English
+
+Pingback: Familiar referencing, familial references – Francesca Hearing
+
+Leave a ReplyCancel reply
+
+Recent Posts
+
+ Killjoys In Translation
+
+ A Killjoy’s Answer
+
+ Define Women! And Other Patriarchal Instructions
+
+ Setting The Table, Some Reflections on Why Tables Matter
+
+ Some observations on the use of “Protected Beliefs” (and the misuse of Employment Tribunals)
+
+Recent Comments
+
+becoming tables or b… on Killjoys In Translation
+
+Killjoys In Translat… on Resignation
+
+The documentary Kill… on Hello feminist killjoys!
+
+The documentary Kill… on Hello feminist killjoys!
+
+Cole P on The Complainer as Carceral Fem…
+
+Archives
+
+February 2025
+
+December 2024
+
+July 2024
+
+June 2024
+
+May 2024
+
+April 2024
+
+December 2023
+
+November 2023
+
+October 2023
+
+July 2023
+
+June 2023
+
+March 2023
+
+September 2022
+
+June 2022
+
+March 2022
+
+October 2021
+
+September 2021
+
+August 2021
+
+June 2021
+
+April 2021
+
+January 2021
+
+December 2020
+
+August 2020
+
+July 2020
+
+March 2020
+
+January 2020
+
+October 2019
+
+July 2019
+
+May 2019
+
+April 2019
+
+February 2019
+
+December 2018
+
+November 2018
+
+October 2018
+
+June 2018
+
+May 2018
+
+March 2018
+
+February 2018
+
+December 2017
+
+November 2017
+
+October 2017
+
+August 2017
+
+July 2017
+
+June 2017
+
+May 2017
+
+March 2017
+
+February 2017
+
+January 2017
+
+November 2016
+
+October 2016
+
+August 2016
+
+July 2016
+
+June 2016
+
+May 2016
+
+April 2016
+
+March 2016
+
+February 2016
+
+January 2016
+
+December 2015
+
+November 2015
+
+October 2015
+
+June 2015
+
+May 2015
+
+April 2015
+
+March 2015
+
+February 2015
+
+December 2014
+
+November 2014
+
+October 2014
+
+September 2014
+
+August 2014
+
+July 2014
+
+June 2014
+
+May 2014
+
+April 2014
+
+March 2014
+
+February 2014
+
+January 2014
+
+December 2013
+
+November 2013
+
+October 2013
+
+September 2013
+
+August 2013
+
+Categories
+
+Uncategorized
+
+Meta
+
+Log in
+
+Entries feed
+
+Comments feed
+
+WordPress.org
+
+Subscribe to Blog via Email
+
+ Join 5,679 other subscribers 
+
+Follow me on Twitter
+My Tweets
+
+Follow me on Twitter
+My Tweets
+
+ feministkilljoys 
+ About 
+
+ Powered by WordPress.com.
+
+Discover more from feministkilljoys
+
+Subscribe now to keep reading and get access to the full archive.
+
+Continue reading
+
+ Loading Comments...
+
+%d

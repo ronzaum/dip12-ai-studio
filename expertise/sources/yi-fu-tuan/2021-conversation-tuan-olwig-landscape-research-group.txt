@@ -1,0 +1,1157 @@
+Source: Conversation with Yi-Fu Tuan and Kenneth Olwig, Landscape Research Group 'Landscape and Goodness' symposium; YouTube upload 2021-06-08
+URL: https://www.youtube.com/watch?v=C24agoJ202U
+Fetched: 2026-10-12 via yt-dlp --skip-download --write-auto-sub --write-sub --sub-lang en --sub-format vtt, then vtt2txt.py (YouTube auto-captions: no punctuation, errors possible)
+
+[00:00:00] [Music]
+[00:00:04] so
+[00:00:08] uh welcome to this which is the first of
+[00:00:10] the landscape research group's
+[00:00:13] landscape and goodness uh symposium
+[00:00:16] uh which takes place at various times
+[00:00:18] over the coming week we have a number of
+[00:00:18] events
+[00:00:21] um i am tim waterman the chair of the
+[00:00:23] landscape research group and i will be
+[00:00:25] facilitating tonight's
+[00:00:27] event and uh the question and answer
+[00:00:30] session at the end um
+[00:00:33] i can't begin to tell you how excited
+[00:00:34] and honored i
+[00:00:37] am to introduce tonight's conversation
+[00:00:40] uh ken olwig is a very good friend and
+[00:00:41] mentor to me
+[00:00:44] uh and he futuan though i've only just
+[00:00:45] met him once now twice
+[00:00:49] in person uh has been speaking to me
+[00:00:50] with his warm and
+[00:00:53] wise voice through his books since i was
+[00:00:54] a student
+[00:00:57] uh so i feel like i know you somehow
+[00:00:57] yifu
+[00:01:02] already um both of their voices
+[00:01:04] can be heard in my work and and i'm sure
+[00:01:06] the same is true for so many of you in
+[00:01:08] the audience tonight and i was just
+[00:01:09] mentioning to
+[00:01:12] ifu and ken that the next presentation
+[00:01:14] this evening which is about palestinian
+[00:01:14] landscapes
+[00:01:17] one of the presenters is my former
+[00:01:18] student so there's
+[00:01:20] there's a lineage of ideas here that's
+[00:01:23] just wonderful to to see
+[00:01:26] uh yifutuan is celebrating his 90th
+[00:01:26] birthday
+[00:01:30] today and for most of those years he's
+[00:01:32] been one of the most important
+[00:01:34] voices in geography in the world and
+[00:01:36] certainly the primary voice
+[00:01:39] in humanist geography his books uh
+[00:01:44] space and place um and topophilia
+[00:01:48] um are amongst the most widely read
+[00:01:50] and enduring texts in geography and
+[00:01:52] landscape studies and all his books both
+[00:01:56] before and after are no lesser treasures
+[00:01:58] kenneth olwege one of the preeminent
+[00:01:59] scholars in landscape
+[00:02:02] studies today was tuan student at
+[00:02:02] minnesota
+[00:02:05] and has gone on to write using tools
+[00:02:07] derived from philology and law the books
+[00:02:09] nature's ideological landscape and
+[00:02:13] landscape nature and the body politic
+[00:02:15] which uh yifuf i remember correctly you
+[00:02:16] contributed the
+[00:02:21] many of his most important and
+[00:02:22] influential essays have recently been
+[00:02:24] published in the collection the meanings
+[00:02:25] of landscape which i
+[00:02:28] i think it's in my office but yifu you
+[00:02:30] have a copy of it you can hold up right
+[00:02:33] yeah okay
+[00:02:33] [Music]
+[00:02:37] um but you're not here today to hear me
+[00:02:37] talk
+[00:02:40] uh i will return to moderate the
+[00:02:41] question and answer
+[00:02:45] um please feel free to talk in the chat
+[00:02:48] and direct questions for uh our speakers
+[00:02:50] in the question and answer panel so
+[00:02:53] let me hand over now to yifu and ken and
+[00:02:55] happy birthday
+[00:02:57] foo from me from the landscape research
+[00:02:59] group and from the audience i'm sure
+[00:03:01] there are lots of happy birthdays uh
+[00:03:04] showing up in the chat
+[00:03:07] okay okay thank you
+[00:03:09] i i have to i have a thing to begin with
+[00:03:11] just to explain the
+[00:03:15] situation um and i want to say first of
+[00:03:16] all happy birthday ifu
+[00:03:19] i remember we celebrated your birthday
+[00:03:21] in the black forest inn in minneapolis
+[00:03:23] many years ago and had their wonderful
+[00:03:24] black forest
+[00:03:27] chocolate cake yes
+[00:03:30] but i just wanted to explain uh just the
+[00:03:34] people listening uh that as you can see
+[00:03:35] from my uh
+[00:03:38] corona haircut uh i'm i'm
+[00:03:40] living in the countryside in voluntary
+[00:03:42] isolation from the plague
+[00:03:45] just like the storytellers and picacios
+[00:03:46] de cameron
+[00:03:48] since my only narrative stimulation is
+[00:03:50] the endless reruns of a british
+[00:03:52] detective tv series broadcast on danish
+[00:03:52] tv
+[00:03:55] i live in denmark i must apologize that
+[00:03:57] these have become my
+[00:04:00] sole intellectual frame of reference
+[00:04:02] i've lost everything else
+[00:04:04] a favorite series is called the young
+[00:04:06] morse which is a prequel to the older
+[00:04:09] series about an oxford police detective
+[00:04:10] named morse
+[00:04:12] using this frame of reference i think
+[00:04:13] people might likewise think
+[00:04:16] of this conversation as being a prequel
+[00:04:18] to the thursday panel on the legacy of
+[00:04:18] ifutwan
+[00:04:23] this is because the ifu i know best is
+[00:04:24] the young ifu
+[00:04:26] the minnesota evil who tested the
+[00:04:28] chapters from topophilia
+[00:04:30] on we students before publishing the
+[00:04:32] book that made his early reputation
+[00:04:35] i missed an activistic throwback from
+[00:04:35] before
+[00:04:38] ifu became the famous wisconsin
+[00:04:39] humanistic geographer
+[00:04:43] known best to thursday's panelists
+[00:04:46] so in order to be able to frame our
+[00:04:47] conversation about goodness within a
+[00:04:47] landscape
+[00:04:51] context we have been talking together
+[00:04:51] about
+[00:04:53] taking our point of departure in a
+[00:04:56] tripartite approach to landscape
+[00:04:57] built on the metaphor of a suburban
+[00:04:59] house and garden
+[00:05:01] if could you say something about this
+[00:05:03] framework there
+[00:05:08] yes i um let me
+[00:05:19] my relation with ken is is strange
+[00:05:23] because how it turns out
+[00:05:26] is well he was officially
+[00:05:30] my phd student in minnesota
+[00:05:33] but in the course of time he had become
+[00:05:35] the scholar
+[00:05:40] and i'm the one who i'm the popularizer
+[00:05:43] so in that very learned book
+[00:05:47] landscape nature and body
+[00:05:51] politic you know i try to
+[00:06:01] make a little more accessible to the
+[00:06:06] ordinary student what the
+[00:06:09] scholar has done so
+[00:06:13] i was happy at the opportunity
+[00:06:17] to provide a forward to this
+[00:06:22] learned work that you're all familiar
+[00:06:26] with and just before
+[00:06:30] you know this interview came on
+[00:06:33] i started to look at that book again and
+[00:06:34] the more
+[00:06:36] more recent book the meanings of
+[00:06:36] landscape
+[00:06:43] and it occurred to me that
+[00:06:47] if i were a young student
+[00:06:50] and i look at this these
+[00:06:54] key texts as well as some books
+[00:06:59] by by my other students
+[00:07:08] i feel that i'm not
+[00:07:11] up to it i mean do i have to know all
+[00:07:11] that
+[00:07:15] to study landscape it just seemed
+[00:07:15] overwhelming
+[00:07:20] but when i started you know
+[00:07:25] there were not this kind of scholarship
+[00:07:30] so that i was encouraged to jump in
+[00:07:35] in those days when the field was not
+[00:07:40] so heavy with scholarship
+[00:07:43] so to come back to the question that
+[00:07:46] ken just raised which was
+[00:07:46] that
+[00:07:54] this book um
+[00:07:56] the landscape nature in the body
+[00:07:56] politics
+[00:08:01] has influenced me greatly because so
+[00:08:03] much my life
+[00:08:07] is teaching and so
+[00:08:14] in explaining
+[00:08:19] uh a tense difficult scholarship
+[00:08:36] i adopted a device of simplification
+[00:08:41] which is to
+[00:08:44] use a diagrammatic approach that is
+[00:08:45] instead of
+[00:08:48] the complexities in the main body of the
+[00:08:48] work
+[00:08:52] i simply said which is so
+[00:08:55] historical which draws on on the
+[00:08:58] reader's knowledge of history and the
+[00:09:01] most students don't have it
+[00:09:05] so i then
+[00:09:08] made it simple by saying well what about
+[00:09:13] let's take a current american landscape
+[00:09:16] and not treat us historically just
+[00:09:19] simplify to something you all know
+[00:09:22] and that's a that's what i call the
+[00:09:22] tripartite
+[00:09:27] division on one hand there is
+[00:09:31] a house say a suburban house
+[00:09:35] with a picture window and
+[00:09:39] in front of the house is the lawn
+[00:09:42] it's the formal landscape and behind the
+[00:09:42] house
+[00:09:46] is the backyard and
+[00:09:49] that's where you know you you have
+[00:09:53] barbecues and it's it's where you grow
+[00:09:53] vegetables
+[00:09:58] and it's not where you bring guests
+[00:10:02] up so this
+[00:10:06] this picture i present to students
+[00:10:09] they all understand what i'm getting at
+[00:10:14] well
+[00:10:25] this tripartite division um
+[00:10:28] somehow captures also uh
+[00:10:33] three notions of of goodness or virtue
+[00:10:37] if you like and uh we all know what the
+[00:10:37] backyard
+[00:10:43] virtue is and it is communal
+[00:10:46] we are informal we just
+[00:10:48] chat and have a great time as i say
+[00:10:50] barbecue england
+[00:10:55] and um so the backyard
+[00:11:00] is is the land of
+[00:11:04] landscape that um
+[00:11:07] can uh expose uh
+[00:11:11] with great uh historical depths
+[00:11:14] but i i just want them to to have this
+[00:11:16] picture of the backyard
+[00:11:20] which is a unit of land a unit of land
+[00:11:24] where people live so
+[00:11:28] you can extend this notion to
+[00:11:31] to the ecological faith
+[00:11:35] emphasis in landscape architecture
+[00:11:39] we want to develop land
+[00:11:43] that is ecologically sound
+[00:11:48] and that's somehow also communal
+[00:11:52] well then there's the house the house
+[00:11:55] is not part of the landscape as such but
+[00:11:58] it's necessary as the um
+[00:12:01] the dividing point dividing line the
+[00:12:02] house is
+[00:12:05] a social world uh where
+[00:12:08] you are more formal especially the
+[00:12:10] living room
+[00:12:14] and the beyond the house is is the scape
+[00:12:18] is it's lawn
+[00:12:24] it's the formal part of this tripartite
+[00:12:27] division and so let me just
+[00:12:30] in kind of three words summarize
+[00:12:34] what i thought the behavior of goodness
+[00:12:37] is involved so the backyard is
+[00:12:40] easy to understand that's the communal
+[00:12:40] virtue
+[00:12:44] that we are neighbors and we are king
+[00:12:44] where
+[00:12:47] we're friends um
+[00:12:52] in in this house itself the virtue is
+[00:12:52] social
+[00:12:59] you know it's where etiquette begins
+[00:13:02] and it's the virtue of being polite of
+[00:13:02] being
+[00:13:07] being nice and
+[00:13:10] beyond the house is
+[00:13:14] this formal garden uh the lawn usually
+[00:13:18] but it could be a formal garden
+[00:13:21] and that's that's the view that's the
+[00:13:21] prospect
+[00:13:25] the view and the prospect uh prospect
+[00:13:26] has
+[00:13:29] both a spatial in the temporal uh
+[00:13:32] notion um so
+[00:13:36] it is when you stand at the picture
+[00:13:38] window and look out
+[00:13:40] you're you're looking at a kind of an
+[00:13:40] ideal
+[00:13:45] not a place where people barbecue or
+[00:13:48] it's not communal it's visual almost
+[00:13:48] totally
+[00:13:53] what you see and that is
+[00:13:57] connected to the third virtue which i
+[00:14:00] for lack of background better words i i
+[00:14:02] call it intellectual
+[00:14:07] so that covers to my mind what it means
+[00:14:11] what landscape means but also in a sense
+[00:14:20] good i guess also you could say the
+[00:14:22] house is divided between the kitchen and
+[00:14:24] so on in the back and the
+[00:14:26] dining room in the front or the living
+[00:14:27] room in the front
+[00:14:31] uh in your 2013 book romantic geography
+[00:14:34] in search of the sublime landscape
+[00:14:36] you wrote about the lure of the wild
+[00:14:38] which is to say the sort of landscapes
+[00:14:39] that the scientist
+[00:14:42] alexander von humboldt explored this i
+[00:14:44] would imagine is the landscape
+[00:14:45] viewed from the picture window of the
+[00:14:45] house
+[00:14:50] your first book was the
+[00:14:55] 1959 pediments in southeastern arizona
+[00:14:57] presumably a version of your doctorate
+[00:14:59] at the university of california
+[00:15:01] berkeley this suggests that you were
+[00:15:03] once a young romantic humboltian
+[00:15:05] scientist exploring and braving the
+[00:15:06] sublime deserts
+[00:15:09] of the american southwest how is it that
+[00:15:10] you were
+[00:15:12] attracted to this desert how did it come
+[00:15:14] about that you did this dissertation in
+[00:15:14] geomorphology
+[00:15:21] uh yes i've always been
+[00:15:24] kindred exploring you know this
+[00:15:28] topic but with snow focus and
+[00:15:31] uh i mean the story
+[00:15:33] i i've told it probably more than once
+[00:15:35] which is basically
+[00:15:37] when i was a graduate student at
+[00:15:37] berkeley
+[00:15:42] i went on a field trip with chinese
+[00:15:42] students
+[00:15:46] to death valley and
+[00:15:50] chinese culture doesn't include
+[00:15:53] camping so we're all amateurs
+[00:15:56] and when we arrived at this valley uh
+[00:15:58] it was dark at three o'clock in the
+[00:15:59] morning and
+[00:16:02] there was a dust storm so we couldn't
+[00:16:03] see anything
+[00:16:08] and we were too um amateurish to put up
+[00:16:09] the tent so
+[00:16:13] i slept just in my sleeping bag
+[00:16:16] just outside and when i woke up
+[00:16:19] you know i was confronted by this
+[00:16:24] death valley and it was just
+[00:16:27] um but you say of course anyone anyone
+[00:16:27] who
+[00:16:32] has not seen a desert to
+[00:16:36] suddenly have it before you you know
+[00:16:39] from the dark
+[00:16:39] [Music]
+[00:16:43] dust storm to this beautifully
+[00:16:43] illuminated
+[00:16:49] lucid landscape
+[00:16:53] it's kind of overwhelming and i can see
+[00:16:53] why
+[00:16:56] it's made into a national monument i
+[00:16:56] mean
+[00:17:00] it it's striking but
+[00:17:03] what really made it unusual
+[00:17:07] for me was that on the one hand
+[00:17:11] i felt that this landscape the desert
+[00:17:14] is totally alien to to me i've never
+[00:17:14] been
+[00:17:19] seeing it before on the other hand
+[00:17:23] it's something intimate i mean
+[00:17:26] i feel that that desert
+[00:17:30] that lifeless desert represents
+[00:17:33] something in me
+[00:17:37] and and then i um i couldn't quite
+[00:17:40] capture what i'm trying to say and then
+[00:17:41] i used
+[00:17:45] t.s eliot's notion that
+[00:17:48] sometimes our feeling cannot be directly
+[00:17:51] who we are cannot be directly uh
+[00:17:55] expressed but there's there's something
+[00:17:57] some image perhaps that
+[00:18:00] that captures it and he calls it
+[00:18:03] uh objective correlative
+[00:18:07] so the objective correlative of
+[00:18:10] who i am is the desert
+[00:18:20] you know we we are rather like that
+[00:18:24] in in finding who we are um
+[00:18:28] i mean a different kind of notion
+[00:18:31] experience but somewhat
+[00:18:35] analogous is is to fall in love
+[00:18:44] this person you met many people but
+[00:18:55] that is somehow important to you part of
+[00:18:56] you
+[00:19:03] so and did that yeah did you did uh
+[00:19:07] yeah sorry yeah so so that's how
+[00:19:11] it it got started because i thought
+[00:19:14] is this unique to me i mean what about
+[00:19:15] other people
+[00:19:19] and so that that led me to
+[00:19:22] you know do research on other people's
+[00:19:30] did carl sauer or um
+[00:19:33] play a role in this or or or yeah with
+[00:19:34] the course
+[00:19:39] yes khalsa played a role in that
+[00:19:42] he talked about things that were not
+[00:19:42] considered
+[00:19:47] geography at all i mean he was deep into
+[00:19:47] genetics
+[00:19:52] on one hand and
+[00:19:56] i was a student when he was preparing
+[00:20:00] uh his lectures at columbia university
+[00:20:03] which turned into agricultural origins
+[00:20:05] and dispersal
+[00:20:09] that's such a bold um
+[00:20:12] theoretical idea behind
+[00:20:15] agricultural origins and
+[00:20:17] you know i was inspired by it by that
+[00:20:19] kind of
+[00:20:29] karl starr's notion of
+[00:20:35] landscape i don't mean his uh
+[00:20:38] his uh scholarly writing on landscape
+[00:20:42] i mean his personal feeling about it
+[00:20:46] is is the backyard
+[00:20:50] in in kent's landscape
+[00:20:53] as i interpreted it that is
+[00:20:57] his his ideal is something folksy
+[00:21:01] and communal which he found everywhere
+[00:21:05] among the um the uh
+[00:21:08] the pre-modern people the indians for
+[00:21:08] instance
+[00:21:12] or the uh mexicans peasants
+[00:21:17] and so on so that's his idealization
+[00:21:26] no track with the escape
+[00:21:30] the the formal landscape
+[00:21:34] at all so that's where
+[00:21:39] we differ and i was just a
+[00:21:43] naive student so i couldn't actually to
+[00:21:46] point this out to carl sark but you know
+[00:21:48] this guy
+[00:21:50] denounces what energy you know he wants
+[00:21:50] this
+[00:21:54] forty ecological sounds uh
+[00:21:58] land as distinct from the skate
+[00:22:02] uh and yet oh sorry i shouldn't
+[00:22:03] you know this doesn't sound right but
+[00:22:11] i mean how can it be folksy communal
+[00:22:15] and uh planting corn
+[00:22:19] and yet have drive around your mercedes
+[00:22:22] so uh that led me really to think more
+[00:22:22] deeply
+[00:22:27] of how humans think about these things
+[00:22:31] and and how um in a way contradictory
+[00:22:34] we can be that we don't really fully
+[00:22:34] recognize
+[00:22:38] ourselves
+[00:22:43] and and what about jb jackson he
+[00:22:45] had an affinity for the desert as well i
+[00:22:45] think
+[00:22:49] yes jb jackson uh
+[00:22:53] often visited um khalsa
+[00:23:01] perhaps the only american aristocrat
+[00:23:03] that i know because
+[00:23:06] he comes from well to do ramen boston
+[00:23:06] family
+[00:23:11] and was educated in switzerland
+[00:23:14] that meant he spoke german and french
+[00:23:18] fluently and and he didn't need
+[00:23:23] a job and so he
+[00:23:36] uh 50s and
+[00:23:39] well just let me tell a story but the
+[00:23:39] j.p
+[00:23:40] jackson
+[00:23:51] he's lifting uh all by himself in a
+[00:23:54] beautiful building that he designed
+[00:23:57] so he was and he um
+[00:24:01] patronized the uh
+[00:24:06] mexi-american settlements villages
+[00:24:11] and he tried to revive their culture
+[00:24:16] he would try to revive their festivities
+[00:24:19] so he was the lord of the manner
+[00:24:23] but there were other well-to-do
+[00:24:26] uh people from the east and so
+[00:24:29] one day he invited all of us
+[00:24:32] to to have dinner
+[00:24:35] on top of your restaurant in this
+[00:24:38] uh in the mountains of
+[00:24:46] and after that we got the
+[00:24:54] and the one the person said well
+[00:24:58] let's be frank uh
+[00:25:02] we are all from the east end
+[00:25:08] yeah we're all the failures from the
+[00:25:08] east
+[00:25:13] that's why we end up in mexico
+[00:25:15] but i trumped that by saying right
+[00:25:16] you're all
+[00:25:20] failures from the east but i'm a failure
+[00:25:28] so uh yeah so i mean that's how i got to
+[00:25:30] know jb jackson but
+[00:25:34] he's really uh a cosmopolitan
+[00:25:37] the first time i met him i mean
+[00:25:41] i was in my office in new mexico
+[00:25:44] and he just came in and
+[00:25:47] introduced himself of course i knew him
+[00:25:48] but he didn't know me
+[00:25:51] at the time i didn't think he knew
+[00:25:53] anything about me
+[00:25:56] but then she he put two
+[00:26:00] large volumes on my desk and said
+[00:26:03] uh would you please review them for me
+[00:26:07] for the magazine landscape
+[00:26:10] and both have key volumes were
+[00:26:13] in german and
+[00:26:16] i'm praying my chairman is just
+[00:26:16] rudimentary
+[00:26:20] i mean he was that kind of person you
+[00:26:21] know he assumed
+[00:26:24] that any scholar would of course know
+[00:26:26] german and french
+[00:26:36] so i think yeah i think you should
+[00:26:38] adjust your hello a little
+[00:26:41] so we can see you yeah so the learner's
+[00:26:42] side of
+[00:26:44] of him but another thing that i greatly
+[00:26:44] admire
+[00:26:48] is that he runs around on his motorbike
+[00:26:52] with a gang and again
+[00:26:54] often got into legal trouble and he had
+[00:26:57] to bail them out
+[00:26:59] so it's in this sense that i thought of
+[00:27:00] him as
+[00:27:04] an aristocrat someone who
+[00:27:08] uh see the goodness in community
+[00:27:11] in land so that's where he
+[00:27:16] shares counsel's view but in his life
+[00:27:20] he didn't he wasn't driving
+[00:27:23] a mercedes he was riding a motorbike
+[00:27:25] with a gang
+[00:27:28] that's the romantic side then i
+[00:27:40] i have long wondered about this
+[00:27:42] transition you made on the road to
+[00:27:45] minnesota as it were uh how it came
+[00:27:45] about
+[00:27:48] and uh and i think that had this
+[00:27:49] transition from the sciences to the
+[00:27:50] humanities
+[00:27:53] and i think it had something to do with
+[00:27:55] the desert and at minnesota you taught a
+[00:27:57] splendid course called
+[00:28:00] attitudes to dry lands which seemed to
+[00:28:00] me
+[00:28:04] to transition between the two one of the
+[00:28:06] things you talked about was the fact
+[00:28:07] that there were a number of different
+[00:28:09] ethnic groups in the desert
+[00:28:11] of the southwest and that for each group
+[00:28:13] the desert was effectively a different
+[00:28:13] landscape
+[00:28:16] could you say something about the
+[00:28:18] differences between the perceptions of
+[00:28:18] the desert
+[00:28:21] landscape between the groups and is it
+[00:28:22] possible to say that for one group the
+[00:28:24] desert was the vista from the front of
+[00:28:25] the house
+[00:28:38] well this
+[00:28:41] tripartite division didn't apply
+[00:28:45] uh to these villages uh
+[00:28:48] settlements in northwestern
+[00:28:51] uh new mexico
+[00:28:55] and that's because although they are
+[00:28:55] different
+[00:28:59] so they were indian settlements uh
+[00:29:02] uh there were a
+[00:29:05] moment there's a moment settlement and
+[00:29:07] there's a
+[00:29:09] a white american settlement or in
+[00:29:09] northwest
+[00:29:15] but basically they were all land
+[00:29:19] uh in the division that is
+[00:29:23] they were culturally different
+[00:29:26] but they're all engaged in making a
+[00:29:26] living
+[00:29:37] so they didn't have
+[00:29:41] that aspiration that
+[00:29:45] there's maybe more to life than just
+[00:29:49] surviving just making some place
+[00:29:53] ecologically sound isn't there something
+[00:29:56] more more challenging which is the
+[00:29:56] notion
+[00:30:01] of skate out there
+[00:30:04] so so they left it but
+[00:30:07] once i discovered my affinity
+[00:30:11] for the desert then obviously i thought
+[00:30:15] or what other people and other cultures
+[00:30:19] have this fascination
+[00:30:21] with the desert and of course that of
+[00:30:22] course i wasn't
+[00:30:26] alone there were very famous people uh
+[00:30:29] but at that time got interested in in uh
+[00:30:34] uh t e lawrence florence of arabia
+[00:30:37] uh later a movie came out i mean he was
+[00:30:37] just
+[00:30:40] totally fascinated uh
+[00:30:43] by the desert and and there were others
+[00:30:43] so
+[00:30:48] i got into the more scholarly uh
+[00:30:51] part but
+[00:30:54] then i said what is there what is
+[00:30:58] the commonality between me and
+[00:31:01] and lords of arabia and
+[00:31:05] others who wanted
+[00:31:12] and
+[00:31:19] and this led to uh
+[00:31:23] something else and let me do it this way
+[00:31:27] and that is uh people
+[00:31:30] often ask me why do you
+[00:31:33] do the kind of geography you do
+[00:31:37] it doesn't seem to be the the standard
+[00:31:47] i i said there are three three uh
+[00:31:50] answers one is the most superficial
+[00:31:54] and that is um you know
+[00:31:57] i traveled a lot since the child i never
+[00:31:58] settled anywhere
+[00:32:00] and so i'm just interested in all this
+[00:32:02] so that's
+[00:32:05] enough that they're not really
+[00:32:05] interested
+[00:32:08] in anything deeper but if someone asks
+[00:32:08] me
+[00:32:13] you know go to a little deeper
+[00:32:16] uh the deepest
+[00:32:19] is the one i've already explained
+[00:32:22] and that's my encounter my almost
+[00:32:22] mystical
+[00:32:26] encounter with the desert
+[00:32:29] so but i i didn't say that because they
+[00:32:31] seem so
+[00:32:33] uh personal and that they're not really
+[00:32:34] interested
+[00:32:37] so the superficial answer is that you
+[00:32:39] know i travel a lot so i do
+[00:32:43] something the second level
+[00:32:47] is my fear of uh
+[00:32:50] being lost of disorientation
+[00:32:53] well nobody likes to be lost but i'm
+[00:32:53] just
+[00:32:58] just absurd
+[00:33:01] but there's one instance of it and i was
+[00:33:04] i was in the philippines
+[00:33:08] and i was strolled into a rain forest
+[00:33:11] in the philippines and i entered the
+[00:33:11] forest
+[00:33:16] just by say 100 yards
+[00:33:20] and then i got totally lost
+[00:33:22] i just stood there there was no reason
+[00:33:25] to go one direction than another
+[00:33:29] and when i was in that situation
+[00:33:33] i saw everywhere around me
+[00:33:37] evidence symptoms of decay
+[00:33:41] smelling decay and death
+[00:33:44] which is uh which is
+[00:33:48] somewhat perverted response because
+[00:33:50] you could say i was surrounded by life
+[00:33:53] it's rainforest
+[00:33:56] so people love the rainfall some people
+[00:33:56] do
+[00:34:01] because of the abundance of life
+[00:34:04] but to me
+[00:34:07] it doesn't read that way
+[00:34:10] i somehow overlook the growing things
+[00:34:11] and only
+[00:34:14] see things that have died
+[00:34:26] so that's the reason the desert has
+[00:34:28] another appeal
+[00:34:31] because i was seldom really lost in the
+[00:34:31] desert
+[00:34:36] the landmarks maybe a mile away but i
+[00:34:38] can see it clearly that orange
+[00:34:42] me in any case the sun is the most
+[00:34:42] always
+[00:34:46] there so i can orient myself by the
+[00:34:49] position of the sun
+[00:34:52] so i i almost never get lost
+[00:34:55] in the open clear landscape of the
+[00:34:55] desert
+[00:35:00] whereas the rain forest is a place
+[00:35:07] totally disoriented and surrounded by
+[00:35:07] decay
+[00:35:13] i i interpreted the this landscape
+[00:35:14] you're describing
+[00:35:18] from your course a bit differently i saw
+[00:35:18] the
+[00:35:22] on the one hand the native americans
+[00:35:25] are with their gardens cultivating
+[00:35:25] things
+[00:35:29] that for them it really wasn't a desert
+[00:35:31] and and their gardens i though i've
+[00:35:32] never seen them i imagine they would
+[00:35:32] look
+[00:35:36] fairly messy to a
+[00:35:38] white anglo-american settler and on the
+[00:35:39] other hand you had the
+[00:35:42] anglo-american settlers the texans with
+[00:35:43] their big tractors
+[00:35:45] making very straight lines and firing
+[00:35:47] and irrigating the land
+[00:35:49] and making the desert bloom they thought
+[00:35:51] that the desert was
+[00:35:53] a wasteland and they were going to make
+[00:35:55] it bloom so i see them as more
+[00:35:57] the people looking out the window seeing
+[00:35:59] a scene in front of them
+[00:36:02] regulating it spatially and so on as
+[00:36:03] opposed to the
+[00:36:05] the native americans uh any case this
+[00:36:06] bigs up to my
+[00:36:09] question which i guess giving our time
+[00:36:11] probably is going to be the last
+[00:36:14] um one of my favorite books of yours
+[00:36:18] is your 1968 the hydrologic cycle and
+[00:36:19] the wisdom of god
+[00:36:23] a theme in geoteliola
+[00:36:25] geoteliology got it and i think
+[00:36:28] it might mark the watershed between tuan
+[00:36:29] the geomorphologist
+[00:36:33] and ifu the humanist uh can you tell me
+[00:36:34] something about how you came to write
+[00:36:36] this book and how the desert
+[00:36:39] might play a role in it yes
+[00:36:43] i am i was
+[00:36:48] a faculty member at new mexico where
+[00:36:50] the geography department had only two
+[00:36:51] faculty members
+[00:36:55] so which means i had to teach everything
+[00:36:57] including physical introduction to
+[00:37:00] physical geography
+[00:37:05] and i find physical geography
+[00:37:08] even though it's not my field at that
+[00:37:09] time but
+[00:37:12] easy to teach because it's something
+[00:37:14] systematic about
+[00:37:17] it and i was struggling to find the same
+[00:37:21] thing in human geography
+[00:37:24] so in teaching physical geography i said
+[00:37:26] what is it
+[00:37:30] that that makes it uh easy
+[00:37:34] because it's it's it's kind of logical
+[00:37:37] and i find that it's the hydrologic
+[00:37:37] cycle
+[00:37:41] in those days we we use the textbook
+[00:37:45] um and textbooks in physical geography
+[00:37:47] almost always start with
+[00:37:50] hydrological cycle and
+[00:37:54] once i start teaching it
+[00:37:56] i find that it's useful to start with
+[00:37:58] hydrological cycle
+[00:38:02] because then it leads me to to
+[00:38:02] everything
+[00:38:07] to landforms and to to to climate
+[00:38:16] and
+[00:38:27] crossed with my interest
+[00:38:31] in the desert
+[00:38:35] and that is the hydrological cycle
+[00:38:39] turns out to be deeply
+[00:38:43] ingrained in western thinking
+[00:38:46] and it's not just the natural science
+[00:38:46] idea
+[00:38:50] uh it's intimately related with
+[00:38:54] um theological thinking
+[00:38:56] uh from the at least from the 17th
+[00:38:58] century onward but even
+[00:39:05] and the basic idea is
+[00:39:08] the psych hydrological cycle
+[00:39:11] the physical geographer talks about in
+[00:39:24] also because the way
+[00:39:34] waters the earth
+[00:39:43] but then as a physical geographer i find
+[00:39:43] that
+[00:39:51] god has left out the sahara
+[00:39:56] desert there are lots of deserts not
+[00:39:56] watered
+[00:39:57] so
+[00:40:04] my interest in a scene
+[00:40:07] that captures many elements of physical
+[00:40:07] geography
+[00:40:12] become also
+[00:40:15] integrated with my interest in in the
+[00:40:15] desert
+[00:40:21] i'd just like to say something personal
+[00:40:21] here
+[00:40:25] at the end in that uh my my grandfather
+[00:40:26] a danish
+[00:40:29] uh immigrant was a prospector in the
+[00:40:30] sierra nevadas and
+[00:40:33] roamed through with a donkey with a mule
+[00:40:35] and a pickaxe and his
+[00:40:38] young swedish wife and he brought me as
+[00:40:38] a
+[00:40:40] as my grandfather he brought me through
+[00:40:42] the area and showing me
+[00:40:44] the landscape and the clues to what was
+[00:40:47] in it in the geology so i became
+[00:40:48] through him very interested in studying
+[00:40:50] geomorphology and geology
+[00:40:53] and when i applied to college uh to go
+[00:40:54] to college
+[00:40:56] i applied to two places one was new
+[00:40:58] mexico where you were then teaching
+[00:41:01] and the other was shimer college and i
+[00:41:03] was going to go there to study
+[00:41:05] geology and i would have probably had
+[00:41:07] you as a teacher
+[00:41:08] but instead i took the other route the
+[00:41:10] humanistic route and wound up still
+[00:41:11] having you
+[00:41:13] as my teacher at the when i went to
+[00:41:15] graduate school so it was a kind of
+[00:41:19] funny uh coincidence there in any case
+[00:41:20] uh i think this has been a wonderful
+[00:41:22] talk uh i've you've now cleared up a lot
+[00:41:22] of my
+[00:41:26] uh thinking about this how it fit in and
+[00:41:28] uh so i would just like to greet you
+[00:41:30] again with
+[00:41:32] uh your a birthday greeting i wish i had
+[00:41:34] some chocolate cake from the
+[00:41:38] from the black forest in but uh
+[00:41:41] sorry well uh can you be willing to
+[00:41:43] answer a couple of questions from the
+[00:41:44] audience no
+[00:41:47] joe tried to um there's there's one that
+[00:41:50] um it it doesn't have a direction but
+[00:41:53] it uh i think it i'd sort of like
+[00:41:55] both of you to speak to it in a way
+[00:41:56] because it speaks about deserts and
+[00:41:58] islands and ken
+[00:42:00] has written recently about islands and
+[00:42:03] about the idea of isle centrality
+[00:42:05] and of course the desert is a place that
+[00:42:07] we consider to be remote
+[00:42:10] and the idea of remoteness in landscape
+[00:42:12] is quite an important one
+[00:42:15] and what ken does in his essay is he
+[00:42:16] says that
+[00:42:19] well islands are a remote if basically
+[00:42:21] if you're a landlubber
+[00:42:24] but if you're a seafaring person or if
+[00:42:24] you're an
+[00:42:27] islander everything revolves around the
+[00:42:28] islands and everything
+[00:42:28] um
+[00:42:34] derives from from that so so being on on
+[00:42:36] an island or a peninsula means that
+[00:42:37] you're in the middle of everything
+[00:42:38] rather than being
+[00:42:42] remote um are there ways in which the
+[00:42:46] desert perhaps is anything but a remote
+[00:42:46] place
+[00:42:50] in your experience with it or does the
+[00:42:52] desert somehow always contain a sense of
+[00:42:52] remoteness
+[00:42:58] well well i briefly answered is that
+[00:43:07] well people don't literally live in the
+[00:43:07] desert
+[00:43:12] except maybe um in arabia
+[00:43:15] but i mean they settle down in
+[00:43:19] as i move about in oasis
+[00:43:22] oasis is an island
+[00:43:26] in the in the desert so that idea of
+[00:43:26] island
+[00:43:31] is actually captured in that green spot
+[00:43:34] the oasis in the desert
+[00:43:38] um and um
+[00:43:42] also just reading about explorers
+[00:43:45] i find how although they love the
+[00:43:48] bleakness of the desert
+[00:43:51] and yet they find comfort
+[00:43:54] in the stove that they have brought
+[00:43:57] along the cooker meal in the tent
+[00:44:01] so there is the home or an island of
+[00:44:04] nurture surrounded by the utter
+[00:44:06] bleakness of the desert
+[00:44:11] [Music]
+[00:44:16] yeah i could add my own two cents to
+[00:44:17] this and that
+[00:44:20] following up on what ifu said well a lot
+[00:44:21] of what the
+[00:44:23] settlers of the united states had to
+[00:44:24] cross was desert
+[00:44:27] and they called the vehicles they
+[00:44:30] crossed the desert in prairie schooners
+[00:44:35] which says something about the boat also
+[00:44:38] i've also my thesis that i wrote for ifo
+[00:44:39] was about the uh
+[00:44:41] the danish heathlands of west jutland
+[00:44:43] and that the heathlands were often off
+[00:44:45] often compared to a desert but they were
+[00:44:45] also
+[00:44:50] tracklists which are the ceo also is you
+[00:44:52] you don't leave a track you can't see
+[00:44:52] where
+[00:44:55] people have been before uh and
+[00:44:59] this uh means that you navigate actually
+[00:44:59] in these areas and
+[00:45:01] if it was talking about not getting lost
+[00:45:03] but the reason he was not lost was he
+[00:45:04] was able to
+[00:45:06] navigate according to the different
+[00:45:07] arroyos or things
+[00:45:10] sticking up or rocks and so on so he was
+[00:45:12] actually like crossing it and this is
+[00:45:14] the kind of uh
+[00:45:17] navigation you do with the portolan map
+[00:45:21] not the uh uh euclidean geometry of a
+[00:45:24] uh of the standard map that we use today
+[00:45:25] so it's a very different way of
+[00:45:27] orienting yourself in place
+[00:45:30] and space and i suppose that may and of
+[00:45:31] course ifu has a history
+[00:45:35] of living on islands uh taiwan
+[00:45:38] and uh the philippines uh so on
+[00:45:41] the british isles even so there is we
+[00:45:41] have
+[00:45:46] something in common there
+[00:45:50] right um there are a few other questions
+[00:45:51] if um
+[00:45:54] if you if you have time for them um
+[00:45:57] and in a way i'm trying to kind of roll
+[00:45:59] the questions together if i can
+[00:46:01] um but but it's a little bit difficult
+[00:46:03] there's one that's asking about
+[00:46:05] uh any experience you might have yfu
+[00:46:06] with the
+[00:46:10] uh gobi desert and the the the idea of
+[00:46:12] buddhism perhaps now you speak about the
+[00:46:14] hydrological cycle
+[00:46:19] and about god uh but but is a
+[00:46:23] how does how to spin that one um is
+[00:46:25] there a different sense of that of the
+[00:46:27] desert in buddhism in its relationship
+[00:46:27] with
+[00:46:31] deity well china
+[00:46:34] chinese attitude to the uh
+[00:46:38] the desert or the the wilderness is
+[00:46:45] different um so
+[00:46:48] it just doesn't work
+[00:46:51] to to use almost english terms to
+[00:46:55] apply to the chinese situation
+[00:46:59] so there's no frontier romanticism
+[00:47:03] as in america for instance
+[00:47:12] is part of the notion that
+[00:47:14] there's somewhere something very
+[00:47:14] appealing
+[00:47:19] uh in in in the wilderness
+[00:47:22] something good positive about it uh
+[00:47:25] whereas the chinese i mean the word
+[00:47:29] uh that's often used yeah
+[00:47:32] has only negative meaning uh
+[00:47:35] so if they go there to the gobi or
+[00:47:35] whatever
+[00:47:39] is there backed into it they have no
+[00:47:39] choice
+[00:47:43] they couldn't stay um the exhausted land
+[00:47:46] they have to push to the frontier but
+[00:47:46] reluctantly
+[00:47:54] um so there's an
+[00:47:57] another question maybe this is for both
+[00:47:58] of you and
+[00:48:02] maybe is a good place for us to begin to
+[00:48:06] wind up the discussion is there's this
+[00:48:08] horribly big question where where uh
+[00:48:10] robin moore is asking any thoughts about
+[00:48:11] the future of the
+[00:48:15] planet at this critical point in history
+[00:48:19] um and i think when we put this
+[00:48:21] event together for for this december one
+[00:48:23] of the questions that we had was
+[00:48:25] should we be talking about post-pandemic
+[00:48:27] landscapes or the pandemic and landscape
+[00:48:27] and
+[00:48:29] we all kind of agreed that the last
+[00:48:31] thing we wanted to talk about
+[00:48:34] was the pandemic and what we most wanted
+[00:48:35] to talk about
+[00:48:38] was the notion of goodness and what it
+[00:48:40] is to be good together and what it is to
+[00:48:41] be good in
+[00:48:44] landscapes and i just wonder uh
+[00:48:46] whether and i know ken is probably going
+[00:48:48] to play devil's advocate
+[00:48:51] here too because ken's a little bit
+[00:48:55] bad cop to to to my good cough and youfu
+[00:48:57] also i think to your
+[00:49:02] lance the future of landscape and the
+[00:49:03] future of
+[00:49:07] of human goodness um
+[00:49:09] how are the two tied up that's an it's
+[00:49:11] an immense question but i think it's
+[00:49:18] yes well well i was
+[00:49:22] in china in 2005 and gave uh
+[00:49:25] you know lectures on this and that and
+[00:49:32] um a student
+[00:49:36] asked about
+[00:49:39] you know the the uh
+[00:49:43] the ecological world is is
+[00:49:47] it is admirable can be admirable
+[00:49:58] it's also eating and being uh
+[00:50:02] and being eaten i mean it's bread
+[00:50:07] in into some craw so the question was
+[00:50:11] what uh what i think about that
+[00:50:14] and about the way that we abuse
+[00:50:19] nature just for food i mean that's basic
+[00:50:22] and uh so the answer i came up with is
+[00:50:24] this kind of buddhist
+[00:50:28] and i said it's okay to eat to destroy
+[00:50:32] others provided that we are also willing
+[00:50:33] to be destroyed
+[00:50:37] and to be eaten uh
+[00:50:40] at the social level this
+[00:50:44] is the case because when we help others
+[00:50:47] energy comes out of ourselves you know
+[00:50:49] if you really help another person
+[00:50:52] you're drained you're being eaten so to
+[00:50:52] speak
+[00:51:05] two things one is the hydrologic cycle
+[00:51:08] book was it since if i write another
+[00:51:09] book god
+[00:51:10] allows me to write another book it will
+[00:51:13] be about a be a book called
+[00:51:17] the earth is not a globe and this
+[00:51:19] idea was inspired by the book the
+[00:51:21] hydrologic cycle because
+[00:51:24] what it basically showed was that the
+[00:51:24] that
+[00:51:28] people were saying that uh nate
+[00:51:30] deserts were unnatural because the
+[00:51:31] hydrologic cycle
+[00:51:33] was supposed to be perfect but what had
+[00:51:36] happened was we had the great fall the
+[00:51:38] man's sin and so on the earth instead of
+[00:51:40] having a perfect hydrological cycle
+[00:51:44] got all broken apart as a ruin and
+[00:51:47] and this um this meant that the earth
+[00:51:48] had gone to pot
+[00:51:52] and but so the ideal was the cycle
+[00:51:55] and uh newton actually commissioned
+[00:51:57] or paid uh through the royal society for
+[00:51:58] a book
+[00:52:01] uh uh arguing that the earth
+[00:52:03] had this perfect hydrologic cycle and i
+[00:52:05] think the same problem applies
+[00:52:07] with the whole debate about global
+[00:52:07] warming
+[00:52:11] which confuses things because the earth
+[00:52:13] the climate is changing
+[00:52:15] but not in a global way and i think this
+[00:52:17] confuses a lot of our discussions
+[00:52:20] that a lot of what could be done i would
+[00:52:21] say that the global view is like the
+[00:52:23] view from the window
+[00:52:26] the scientific rather geometric view
+[00:52:28] whereas the view from the
+[00:52:30] backyard is more we can do a lot of
+[00:52:32] small things in different places
+[00:52:34] according to the place specificity of
+[00:52:36] the place so that's sort of
+[00:52:40] my idea there and and uh so i see a
+[00:52:41] problem created by this
+[00:52:43] notion of the earth as a globe which is
+[00:52:45] which it is not
+[00:52:48] it's not a euclidean figure
+[00:52:51] the other part uh it has to do with
+[00:52:55] um the fact that ifu tends to
+[00:52:59] com oppose different ideas to each other
+[00:53:02] so you have originally he wrote
+[00:53:02] topophilia
+[00:53:05] which was enormously uh well accepted
+[00:53:07] but i remember ifu saying at one point
+[00:53:09] oh i wish i had never written that and
+[00:53:10] what he did was he went on and wrote
+[00:53:13] place and space so he counterposed the
+[00:53:15] view from the backyard to that from the
+[00:53:17] front of the house in a sense
+[00:53:19] and i think the same thing has to do
+[00:53:21] with goodness
+[00:53:24] uh he wrote in his darker younger days
+[00:53:27] uh he wrote this book landscapes of fear
+[00:53:27] where he actually
+[00:53:30] talks about pandemics and epidemics and
+[00:53:32] he talks about
+[00:53:34] problems with them that are very
+[00:53:35] relevant today
+[00:53:37] incredibly relevant to what we're doing
+[00:53:39] today and i think that
+[00:53:42] there must be also a way of talking
+[00:53:43] about the pandemic
+[00:53:46] but also seeing the goodness
+[00:53:49] of seeing how goodness and evil relate
+[00:53:51] to each other in this context
+[00:53:53] and i see for example the fact that so
+[00:53:55] many people have discovered they don't
+[00:53:57] have to go to fitness centers they can
+[00:53:58] go out in nature
+[00:54:01] enjoy the flowers and enjoy the desert
+[00:54:01] or whatever
+[00:54:04] as a as a thing that's good that has
+[00:54:05] come from this
+[00:54:08] so that's my uh sort of bad cop
+[00:54:11] idea we that i think the landscapes of
+[00:54:13] fear and the landscape of goodness
+[00:54:15] have a dialectical relationship how do
+[00:54:17] you like that
+[00:54:20] yes that's good and i'm kind of baffled
+[00:54:21] by it
+[00:54:30] that only bad news sales
+[00:54:32] i mean newspapers only give you the bad
+[00:54:32] news
+[00:54:36] you know floods and wars
+[00:54:39] and human goodness if there is any is
+[00:54:46] so i'm baffled why
+[00:54:50] topophilia which is kind of optimistic
+[00:54:53] tends to have done well
+[00:54:57] whereas i thought landscape of fear
+[00:55:00] would be still well because it's full of
+[00:55:02] negative views
+[00:55:04] but they didn't know that way people
+[00:55:06] didn't want to see landscape
+[00:55:10] in that way someone pushed me for my
+[00:55:11] book cleanse came up here
+[00:55:15] okay there's still so much positivity in
+[00:55:17] landscapes of fear
+[00:55:20] i mean you talk about and distress for
+[00:55:22] example the fact that
+[00:55:24] that you stress good stress you know the
+[00:55:25] kind of
+[00:55:29] yeah the kind of thrill that comes from
+[00:55:29] risk
+[00:55:32] uh is actually good so so what you
+[00:55:34] managed to do is to find a good side
+[00:55:35] even to
+[00:55:37] to fear which is characteristic of your
+[00:55:40] optimism i think
+[00:55:43] yeah basically optimistic and
+[00:55:48] uh i suppose that's why i
+[00:55:51] i i didn't aim it but if
+[00:55:55] if i still have to write about my
+[00:55:57] achievements my vita you know you still
+[00:55:59] have to write that
+[00:56:02] my latest would be hey guys
+[00:56:05] i'm 90 of that for achievement
+[00:56:05] [Laughter]
+[00:56:13] okay birthday i think
+[00:56:15] yeah i i know there's been so many
+[00:56:16] birthday greetings in the
+[00:56:21] in the chat um and so much appreciation
+[00:56:24] um so this is a this is i think the
+[00:56:26] perfect place to end it and i can only
+[00:56:29] give my most humble thanks to to both of
+[00:56:31] you for such a wonderful evening
+[00:56:34] thank you thank you

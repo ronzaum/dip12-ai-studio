@@ -1,0 +1,1398 @@
+Source: Broken Earth & Built Earths: Architectures at an Inhuman Impasse (Yale School of Architecture lecture, 6 April 2023; YouTube auto-captions, uploaded 7 June 2023)
+URL: https://www.youtube.com/watch?v=pE7N8Xf1eXk
+Fetched: 2026-10-12 via yt-dlp + vtt2txt.py
+
+[00:00:01] Okay.
+[00:00:06] Thank you. Thank you.
+[00:00:06] Um
+[00:00:10] it's great to see this room so crowded.
+[00:00:13] Uh welcome everyone and um
+[00:00:16] I really want to uh two kinds of
+[00:00:16] welcome.
+[00:00:17] Um
+[00:00:20] first specifically and wholeheartedly
+[00:00:22] welcome our guest tonight who are here
+[00:00:24] for this year's open house for accepted
+[00:00:24] students.
+[00:00:27] Uh congratulations.
+[00:00:30] I've said this a couple of times today.
+[00:00:30] Uh
+[00:00:33] it was a particularly difficult year to
+[00:00:36] get in, so bravo to you and I hope you
+[00:00:38] have enjoyed your time with us today.
+[00:00:40] And for the people who are joining us
+[00:00:42] via Zoom cuz you couldn't make it to the
+[00:00:45] open house, equal congratulations
+[00:00:46] uh to you.
+[00:00:49] Um it's an equal pleasure to welcome
+[00:00:52] everyone to the annual David W. Roth and
+[00:00:54] Robert H. Simmons Memorial Lecture,
+[00:00:55] which is going to be given this evening
+[00:00:57] by Kathryn Yusoff.
+[00:00:59] The lecture was established in the year
+[00:01:02] 2000 through a generous gift from W.
+[00:01:05] Mason Smith III, who received his Master
+[00:01:08] of Architecture from Yale in 1965
+[00:01:10] in honor of his two classmates, the
+[00:01:13] aforementioned David W. Roth and Robert
+[00:01:14] H. Simmons.
+[00:01:16] And it was the intention that the
+[00:01:19] speaker not be an architect. Uh the gift
+[00:01:22] says this is to reinforce the broad
+[00:01:24] goals of the profession,
+[00:01:27] which to my mind is that we need to be
+[00:01:29] well-educated people. Um
+[00:01:31] previous lectures in this series include
+[00:01:34] the sociologist Saskia Sassen, the
+[00:01:36] author Elaine Scarry, the philosopher
+[00:01:39] Karsten Harries, the film director Liam
+[00:01:41] Young, and the new media scholar Wendy
+[00:01:43] Chun. So it's a real pleasure to add
+[00:01:45] Kathryn Yusoff to that list.
+[00:01:47] Professor Yusoff is a geographer and
+[00:01:50] holds this incredibly great title,
+[00:01:53] Professor of Unhuman Geography, um at
+[00:01:55] Queen Mary University in London. She
+[00:01:58] received her BA from Northumbria
+[00:02:00] University, her MA from Bath Spa
+[00:02:03] University, and her PhD from the Royal
+[00:02:05] Holloway University of London.
+[00:02:08] Her work focuses on dynamic Earth events
+[00:02:10] such as biodiversity loss and and
+[00:02:13] extinction and abrupt climate change and
+[00:02:15] her research draws on Earth science,
+[00:02:17] critical human geography, and feminist
+[00:02:17] philosophy.
+[00:02:21] She serves on the editorial boards of
+[00:02:23] the Geographical Journal, the writing
+[00:02:25] group of the European Science Foundation
+[00:02:27] and has had articles published in
+[00:02:30] Technosphere, Social Text, Feminist
+[00:02:32] Review, and Theory, Culture, and Society
+[00:02:34] among many, many other scholarly
+[00:02:36] journals and collections.
+[00:02:38] Her most recent book entitled A Billion
+[00:02:41] Black Anthropocenes or None
+[00:02:42] was published by the University of
+[00:02:44] Minnesota Press.
+[00:02:46] Please join me in welcoming Kathryn
+[00:02:48] Yusoff for her lecture entitled Broken
+[00:02:50] Earths and Built Earths: Architectures
+[00:03:09] Thank you so much and it's amazing to
+[00:03:11] see such a packed
+[00:03:14] space. I feel very honored to be here
+[00:03:15] and I just want to start with some
+[00:03:18] thanks to the MED
+[00:03:21] working group, Juliana, Samaha, Emily,
+[00:03:25] Alberta, Austin, Bruno, and Decolonize
+[00:03:27] Easling for this invitation.
+[00:03:30] It's a real joy to step outside the
+[00:03:33] world of geography and to kind of be in
+[00:03:35] dialogue and be in an extended dialogue
+[00:03:38] with architecture.
+[00:03:40] And thank you for the exemplary
+[00:03:43] logistics that enabled my smooth passage
+[00:03:45] here yesterday evening from Richard
+[00:03:45] Defunia.
+[00:03:49] So, I want to start by thinking about
+[00:03:53] the question of broken Earth
+[00:03:57] um, in the context of built Earths. Um,
+[00:03:59] so I start out from this premise that
+[00:04:02] the questions of scale and participation
+[00:04:04] that are newly raised in the
+[00:04:04] Anthropocene
+[00:04:10] and its, uh, epoch of geologic change
+[00:04:14] give a new kind of, uh, understanding of
+[00:04:16] what we might understand
+[00:04:19] uh, comprehend as architecture. So here
+[00:04:20] we might think of architecture
+[00:04:23] understood as a geographic practice of
+[00:04:23] coherences
+[00:04:29] towards or contrary to the practice of
+[00:04:31] colonial Earth that built this new
+[00:04:33] geologic state. So here what I'm
+[00:04:35] suggesting is that the Anthropocene is a
+[00:04:39] manifestation of colonial afterlives and
+[00:04:42] its material practices and its, um,
+[00:04:48] So where does architecture begin and
+[00:04:51] where does it end if the Earth has been
+[00:04:53] geoengineered through colonial
+[00:04:57] materialisms and its processes of a made
+[00:04:57] Earth?
+[00:05:01] So if we see the Anthropocene as a
+[00:05:02] particular kind of geo-social
+[00:05:04] arrangement of the practice of
+[00:05:06] colonialism and its engagement with the
+[00:05:09] Earth and the material subjugation of
+[00:05:11] the racialized poor and indigenous
+[00:05:13] communities, what is the cost of
+[00:05:16] architectural forms that continue to
+[00:05:18] propagate the myth of architecture as
+[00:05:21] isolated from the mine and the memory of
+[00:05:24] life worlds and prior materialisms that
+[00:05:27] were held in place?
+[00:05:29] So architecture's approach within
+[00:05:31] modernity and the genre of natural
+[00:05:33] resources has often been to produce a
+[00:05:35] language of materiality that is
+[00:05:37] independent of its former Earth
+[00:05:39] attachments and location.
+[00:05:43] Indeed, architecture is the genre within
+[00:05:45] which the transformation of place-based
+[00:05:48] material worlds becomes one in which
+[00:05:50] place is created anew, often with
+[00:05:52] materials severed from the life worlds
+[00:05:55] that that have sustained them elsewhere.
+[00:05:58] So, territory is no longer a destination
+[00:06:00] or an accomplishment of conquest, but a
+[00:06:03] property of the inhuman dimensions of
+[00:06:06] matter in the Anthropocene.
+[00:06:09] The radioactive waste soil and Portland
+[00:06:13] cement is a classic, apparently, stage
+[00:06:16] 11 Anthropocene fossil, according to new
+[00:06:18] classifications and mineralogy. At a
+[00:06:20] time when mineral diversity is
+[00:06:23] experiencing this punctuation event
+[00:06:25] owing to the pervasiveness of what's
+[00:06:27] called near-surface effects of human
+[00:06:30] industrial society.
+[00:06:33] So, this um talk
+[00:06:36] consists of two uh precepts of broken
+[00:06:38] earth and built earths in the
+[00:06:41] Anthropocene, and I want to lead on to a
+[00:06:44] proposition of an impasse as a way to
+[00:06:47] bridge these differentiated or rifted
+[00:06:49] and what I think of as raced earths um
+[00:06:52] that the talk focuses on.
+[00:06:54] So, the first kind of precept that I
+[00:06:56] want to introduce is the idea of a
+[00:06:59] broken earth as a rifted earth, where
+[00:07:02] specialities are enacted and maintained
+[00:07:05] through the proposition of race.
+[00:07:07] So, the Anthropocene proclaims a sudden
+[00:07:11] concern with exposure of environmental
+[00:07:13] harm, but it does so in the wake of
+[00:07:15] histories in which these harms have been
+[00:07:17] mainly imported to black and brown
+[00:07:19] communities under the rubric of
+[00:07:22] civilization, progress, modernity, and
+[00:07:22] capitalism.
+[00:07:26] Which is to think colonialism as a
+[00:07:30] world-ending iterative practice.
+[00:07:32] It began with the end of worlds.
+[00:07:35] The ending of indigenous and black and
+[00:07:37] brown life worlds was predicated on a
+[00:07:39] version of progress that was sutured to
+[00:07:43] a very particular kind of idea of
+[00:07:46] materialism that continues to rely on
+[00:07:48] the destruction of environment,
+[00:07:50] livelihoods, and communities for its
+[00:07:53] realization and valuation. So,
+[00:07:55] through spatial processes of
+[00:07:55] devaluation.
+[00:08:00] So, we might say that we're at an
+[00:08:04] inhuman impasse as Earth is understood
+[00:08:07] both through the lens of race and
+[00:08:09] through the lens of Earth as a kind of
+[00:08:12] occupied subject position.
+[00:08:15] So, the inhuman performs this doubling
+[00:08:23] So, this is the practice of a rifted
+[00:08:23] Earth
+[00:08:26] and a hidden Earth that produces its
+[00:08:29] shadow geologies.
+[00:08:32] And we can think here in the kind of
+[00:08:34] organization of subject matter as a
+[00:08:38] gentle, as organic as opposed to
+[00:08:41] subject, subjectification as inhuman, as
+[00:08:44] void matter, inorganic and dead. And the
+[00:08:46] grammar of the inhuman is that which
+[00:08:49] passes the stability of the object of
+[00:08:52] property for extraction and valuation.
+[00:08:55] And this was continuous over
+[00:09:03] So, we can think about colonial Earth as
+[00:09:07] productive of other Earths, of a shadow
+[00:09:09] geology that maintained a very
+[00:09:11] particular idea
+[00:09:13] of the Earth and of
+[00:09:13] planetarity.
+[00:09:21] So, there is an imperative to move away
+[00:09:24] from this one-world vision into a rifted
+[00:09:27] vision of the dimensionality of space
+[00:09:30] and its racial gravities, what might be
+[00:09:39] So, the second precept that I wanted to
+[00:09:42] introduce is that builders can be
+[00:09:44] architectures of the future that have a
+[00:09:46] restorative and reparative engagement
+[00:09:49] with the past. They can remediate and
+[00:09:51] refuse infrastructures of colonial
+[00:09:51] renewal.
+[00:09:54] And this really kind of positions
+[00:09:58] architecture at a kind of crossroads
+[00:10:02] in terms of its organization of
+[00:10:05] planetary states.
+[00:10:07] So, anthropocenes, as I said, are made
+[00:10:10] through urban strata. Cities have been
+[00:10:13] geologic projects all along, harnessing
+[00:10:16] particular formations of geropower that
+[00:10:19] use geologic materials to substantiate
+[00:10:22] and narrativize the urban.
+[00:10:25] So, we can think about architecture as
+[00:10:25] constitutively
+[00:10:29] geologic and involved in geologic
+[00:10:29] practices.
+[00:10:32] The core of this process is the
+[00:10:35] rendering of the inhuman as a social
+[00:10:37] geology. So, we're in a state now where
+[00:10:41] geology has been socialized
+[00:10:41] and
+[00:10:47] the human in turn has been geologized.
+[00:10:50] So, the core of this rendering is this
+[00:10:54] idea of the inhuman as now a new subject
+[00:10:56] subject position of the anthropocene
+[00:10:59] that is implicated and substantiated in
+[00:11:02] a long history of colonial materialisms.
+[00:11:04] So, this is to think about inhuman
+[00:11:07] epistemologies as crucial to shaping
+[00:11:09] infrastructural worlds.
+[00:11:12] So, in simple terms, how we narrate and
+[00:11:15] use materiality changes the earth that
+[00:11:17] is made. So, that we're we're talking
+[00:11:20] here about an iterative earth
+[00:11:22] that is being framed as the
+[00:11:22] anthropocene.
+[00:11:24] So,
+[00:11:30] my proposition then is that architecture
+[00:11:33] is at an inhuman impasse.
+[00:11:36] If we say, following black studies, in
+[00:11:38] the rifting of social worlds and
+[00:11:40] geo-social futures, and name the earth
+[00:11:44] as such, as a rifted body, this returns
+[00:11:46] a planetary imaginary of Western global
+[00:11:49] world space that is full of holes,
+[00:11:52] portals and potentials to rift through
+[00:11:54] the very geo-social formations that
+[00:11:57] colon- that colonize Earth to make new
+[00:11:59] Earths. So, this is both, I think, a
+[00:12:01] kind of potential and a and a
+[00:12:01] constraint.
+[00:12:05] So, architecture is a planetary
+[00:12:08] participant, and as such, a place to
+[00:12:11] plot other material roots into different
+[00:12:16] So, I take my understanding of broken
+[00:12:18] Earths from the ongoing work of colonial
+[00:12:21] apocalypses in relation to indigenous
+[00:12:23] and black peoples, and from the
+[00:12:25] African-American science fiction
+[00:12:28] novelist N.K. Jemisin's Broken Earth
+[00:12:28] trilogy.
+[00:12:30] And this
+[00:12:32] uh trilogy is set on the massive
+[00:12:35] continent called the Stillness, wracked
+[00:12:37] by the Seasons, which resemble a
+[00:12:40] geomorphic climate event in the future.
+[00:12:42] So, Jemisin explores the Earth through
+[00:12:44] the lens of racial and ecological
+[00:12:46] injustice, and the characters of
+[00:12:49] orogenes, who are mountain makers and
+[00:12:51] shifters, have the ability to manipulate
+[00:12:54] the geos and its thermal, kinetic, and
+[00:12:57] related forms of energy to address the
+[00:12:59] impending seismic events.
+[00:13:02] So, orogenes protect the ruling race
+[00:13:04] from the geologic risks and buffer the
+[00:13:07] effects of the Seasons. They can sense
+[00:13:10] the fault lines and magma and contours
+[00:13:12] and movements of the Earth. And yet,
+[00:13:14] they are persecuted, enslaved, and
+[00:13:17] forced into brutal residential schools
+[00:13:19] as proxies for the violence of the
+[00:13:19] Earth.
+[00:13:21] They buffer the storms of climate
+[00:13:22] change.
+[00:13:25] So, Jemisin helps us imagine how the
+[00:13:28] mechanics of settling the earth requires
+[00:13:31] a racial substratum to protect whiteness
+[00:13:34] from material returns of extraction, so
+[00:13:36] from the violence of the earth.
+[00:13:38] So, as an entry point into the current
+[00:13:41] planetary condition, Broken Earth
+[00:13:43] Trilogy provides a rising awareness
+[00:13:46] about histories of earth practices that
+[00:13:49] need to be addressed to shift the future
+[00:13:55] So, just as the mechanics of geo-social
+[00:13:57] formations are starting to come into
+[00:14:00] view in the Anthropocene and through a
+[00:14:03] kind of materially informed geopolity,
+[00:14:04] we should notice that these deeply
+[00:14:07] rifted formations, both socially and
+[00:14:09] geophysically, can be understood as
+[00:14:12] rents in the material and social fabric
+[00:14:14] of formations and improvisations within
+[00:14:17] it. So, rifting off social and material
+[00:14:19] fractures and fault lines is also a
+[00:14:19] possibility
+[00:14:23] of this kind of spatial
+[00:14:23] um
+[00:14:27] idea. To rift has a double meaning, the
+[00:14:30] conjures great subductions and new modes
+[00:14:32] of experimentation.
+[00:14:34] So, if we stay with the double trouble
+[00:14:37] of the rift, rift methodology can be
+[00:14:39] understood as a looking both ways
+[00:14:40] through the fault lines of colonial
+[00:14:44] materialism and a way to seek passage in
+[00:14:50] So, I want to think with the with race
+[00:14:52] and the vertiginous architectures of
+[00:14:55] geology. And I'm interested in the
+[00:14:57] relation of racialized undergrounds and
+[00:14:59] the material production of ongoing
+[00:15:02] architectures of modernity and how this
+[00:15:04] production of natural resources
+[00:15:07] instantiates an effective architecture
+[00:15:10] of violence and value.
+[00:15:13] So, the verticality of the city is bound
+[00:15:16] up with imaginations of urbanism, but
+[00:15:19] rarely does it stray to imagine the mine
+[00:15:21] as materialized in the city or the
+[00:15:23] fungibility of race relations that are
+[00:15:25] bound up in geology.
+[00:15:27] Geology and its kin network of
+[00:15:30] extraction, natural resources,
+[00:15:31] architectures of geomorphic
+[00:15:33] transformations, I'm thinking here of
+[00:15:36] dams, river straightening, climate
+[00:15:38] change, and the redistribution of
+[00:15:41] geologic materials, everything from
+[00:15:43] kitchen sinks to nuclear bunkers and
+[00:15:46] asphalt, and the geochemical energy that
+[00:15:49] distributes around the planet of carbon,
+[00:15:52] nitrogen, nitrogen, phosphorus. All of
+[00:15:55] these mobilize a normative mode of
+[00:16:03] So, urbanism provides the basis of
+[00:16:05] fossil fuel transformations, forms of
+[00:16:07] built environment that are reliant on
+[00:16:09] fossil economies, and the mining of
+[00:16:12] metals and minerals. For example,
+[00:16:14] diamonds from mines in South Africa are
+[00:16:18] tied to the fabrication of skyscrapers
+[00:16:19] in New York.
+[00:16:22] Now, the earth is more urban than not,
+[00:16:23] and the urban is a dominant
+[00:16:26] environmental form, and thus it sets the
+[00:16:29] paradigmatic model.
+[00:16:32] The racial conditions of extraction are
+[00:16:35] organized historically and materially
+[00:16:37] in hierarchies. So, if we understand
+[00:16:41] materiality as a colonial organization
+[00:16:44] of the empirics and practice of matter,
+[00:16:46] or what I call white geology, how might
+[00:16:49] we map the effective and material
+[00:16:51] architectures that constitute the making
+[00:16:54] of natural resources in both material,
+[00:16:57] mythic, and subjective registers. So,
+[00:16:59] after the statues fall, how do we
+[00:17:02] address the infrastructures? Or to put
+[00:17:05] it another way, how might we think about
+[00:17:07] an embodied geology and its spatial
+[00:17:10] relations as racialized and thus a site
+[00:17:13] of decolonial struggle. So, it's really
+[00:17:16] to conceptualize the earth and its built
+[00:17:19] forms as a site of struggle
+[00:17:21] in the kind of building of geologic
+[00:17:22] futures.
+[00:17:25] So, I think we've had increasing
+[00:17:28] attention towards the subsurface,
+[00:17:31] undergrounds, deep time economies,
+[00:17:33] immaterializing the city across a number
+[00:17:36] of disciplines. And after a
+[00:17:38] century of surface-led politics and
+[00:17:40] attention, there's an there's a kind of
+[00:17:44] going under, I think, across a number of
+[00:17:46] disciplines where we look at extraction
+[00:17:50] studies, black studies, human geography,
+[00:17:52] also in architecture and
+[00:17:53] Anthropocene studies. There's an
+[00:17:57] attention to the underground as kind of
+[00:17:58] as a
+[00:18:01] contested state territory, but also in
+[00:18:03] terms of the politics, and this is what
+[00:18:05] I'm very interested in of surfacing and
+[00:18:05] narrativizing.
+[00:18:08] And this comes to the fore, I think, in
+[00:18:16] So, if we think about the Anthropocene
+[00:18:18] uh structures and the structures of
+[00:18:21] materiality, this raises the question of
+[00:18:23] how to live with a historic practice of
+[00:18:26] undergrounding, of undergrounds and
+[00:18:28] ungrounded people have been displaced or
+[00:18:30] violently dissuaded from their
+[00:18:33] attachments to the ground by dominant
+[00:18:36] colonial or neoliberal forces.
+[00:18:38] So, by this I mean the Anthropocene is a
+[00:18:40] vertical and voluminous structure of
+[00:18:43] planetary exchange rather than organized
+[00:18:45] around surface relations that have
+[00:18:47] predominantly concerned social theory
+[00:18:55] At the same time, the erasure of
+[00:18:58] architectures of the underground above
+[00:19:00] and below the ground that service the
+[00:19:04] center both as labor and materiality
+[00:19:06] established a geologic architecture that
+[00:19:09] expands spatial values that are dictated
+[00:19:12] by colonial models of extraction and
+[00:19:12] expansion.
+[00:19:17] But I aesthetics hides the hurt.
+[00:19:20] The spatial differentiation established
+[00:19:22] by colonial racial apartheid, the actual
+[00:19:24] underground of material production, have
+[00:19:27] a parallel in architectural practices
+[00:19:29] that seek to erase the context of
+[00:19:31] materiality and maintain its
+[00:19:34] independence from its geography and the
+[00:19:37] geologic circumstances of the unseen
+[00:19:45] So, if the geos is the mutable ground of
+[00:19:49] transformation in that inscription and
+[00:19:51] narration takes place within rather than
+[00:19:54] backgrounded against, so not as exterior
+[00:19:59] or external to kind of built forms and
+[00:20:02] geologic life, then materiality is not
+[00:20:04] an architectural void awaiting aesthetic
+[00:20:04] narrativization.
+[00:20:09] Narration has already taken place with
+[00:20:12] minerals and rocks, first on cave walls
+[00:20:14] and then in and through rocks for
+[00:20:16] thousands of years. Materiality is a
+[00:20:19] medium of cultural and political
+[00:20:23] exchange. Narration as a built practice
+[00:20:25] is in conversation with the durational
+[00:20:27] materiality of the world and its
+[00:20:27] temporal
+[00:20:31] occasion. And this gets kind of
+[00:20:34] organized through a set of geologic
+[00:20:34] practices
+[00:20:38] in the late 1700s in the origins of
+[00:20:41] geology, in the mapping of paleontology
+[00:20:45] or paleontology of beings in time, of
+[00:20:47] stratigraphy, of the ordering the
+[00:20:49] materiality of time through sequential
+[00:20:52] strata, and comparative anatomy. So, the
+[00:20:54] ordering of bodies of species through
+[00:20:57] their differentiation and material
+[00:21:00] species in their racialization. So, at
+[00:21:03] its onset geology is always about race
+[00:21:05] and earth.
+[00:21:08] Its origin story is one of the
+[00:21:11] organization of bodies and beings and
+[00:21:11] worlds.
+[00:21:19] So, if we take seriously the lasting
+[00:21:21] effects of the simultaneity of exclusion
+[00:21:24] from time and geography established in
+[00:21:27] racialized identity as anti-blackness
+[00:21:29] and settler colonialism, then this
+[00:21:31] requires a fundamental rethinking of the
+[00:21:35] operational zones of geology as material
+[00:21:37] reality and discourses of
+[00:21:40] materiality, but also the where of those
+[00:21:44] operational zones of geology.
+[00:21:46] So, coloniality produced a particular
+[00:21:49] formation of race and geology as
+[00:21:53] productive, destiny, progress, socially
+[00:21:55] geoengineered, and a set of earth
+[00:21:57] practices that have culminated in what
+[00:22:00] we now understand as the Anthropocene.
+[00:22:03] And through a set of earth practices
+[00:22:05] that involved the violent ending of
+[00:22:07] worlds and coercion of material
+[00:22:10] practices towards colonial economic
+[00:22:12] extraction and botany, and also a
+[00:22:15] colonial earth practice that produced
+[00:22:15] other
+[00:22:18] iterations of the earth and earth
+[00:22:22] practices or kind of architectures as
+[00:22:23] marginal. So, that there's a
+[00:22:26] displacement effect there in terms of
+[00:22:33] So, we can understand architecture as a
+[00:22:37] geosocial formation that is both the
+[00:22:40] outcome and process of materiality and
+[00:22:57] Alongside this historic organization of
+[00:22:59] kind of uh
+[00:23:01] geology, we can also see whiteness as a
+[00:23:04] product of a history of extraction and
+[00:23:07] extractive modalities. So, from the
+[00:23:08] theft of indigenous land and its
+[00:23:11] exhaustion to the deep time subsidies of
+[00:23:13] fossil fuels.
+[00:23:15] And the white settler family is a
+[00:23:18] stabilization force in this extreme
+[00:23:18] materialism.
+[00:23:24] So, this kind of also organizes a manner
+[00:23:27] mode of subjectivity which we might call
+[00:23:30] inhumanism. So, to tie together the
+[00:23:34] inhuman and the inhumane as a product of
+[00:23:37] the historical forces of subjectivity
+[00:23:40] and as a proximity to in material
+[00:23:43] materials as both extraction
+[00:23:46] and geophysical shocks. If we remember
+[00:23:49] here N.K. Jemisin's work in terms of
+[00:23:51] exposure, pollution, poisoning, and so
+[00:23:54] on. So, this is about both a proximity
+[00:23:57] to a category and a proximity to a set
+[00:23:57] of
+[00:24:01] kind of environmental harms.
+[00:24:04] So, inhumanism was a political geology
+[00:24:06] argued by geologists such as Harvard
+[00:24:09] chair Louis Agassiz in the rendering of
+[00:24:12] racialized subjectivity through accounts
+[00:24:16] of deep time and geologic and geographic
+[00:24:18] regionalism. So, these are kind of
+[00:24:21] narrative accounts of inhuman modes of
+[00:24:21] subjectivity.
+[00:24:29] And if we think about how these map into
+[00:24:32] the Anthropocene, we might see the mine
+[00:24:34] as paradigmatic as a negative
+[00:24:36] architecture of colonialism and
+[00:24:38] modernity, but also a negative
+[00:24:40] architecture that is built on a racial
+[00:24:40] deficit.
+[00:24:44] If every building is a mine, it is also
+[00:24:47] a set of racialized relations, of racial
+[00:24:50] urbanism that can figure race, space,
+[00:24:51] and place.
+[00:24:53] So, then we can begin to think about a
+[00:24:56] negative urban dialectics or an axis of
+[00:25:00] racialized planetary form that organizes
+[00:25:01] the earth.
+[00:25:04] Thus, cities become a practice for
+[00:25:08] planetary changes of space of state.
+[00:25:10] And I'm going to kind of focus on in in
+[00:25:12] a second on the granular geographies of
+[00:25:12] Alabama.
+[00:25:17] But first, to really locate these
+[00:25:20] equations of the inhuman
+[00:25:23] in the tying between the inhuman and the
+[00:25:23] inhumane.
+[00:25:28] And these return
+[00:25:31] and are propagated through the geopolity
+[00:25:34] of race. So, here the Dred Scott
+[00:25:36] decision, the opinion of Chief Justice
+[00:25:40] Taney of the Supreme Court in 1856 gave
+[00:25:41] the inhuman classification of the
+[00:25:44] enslaved and formerly enslaved as a
+[00:25:46] judgment in law.
+[00:25:48] So, through the construction of racial
+[00:25:51] difference as immutable and fixed using
+[00:25:53] the language of geology and its
+[00:25:55] racialization of being, dispossession
+[00:25:58] was argued under the terms of natural
+[00:26:00] history, collating a subterranean
+[00:26:03] placement and ontology for blackness
+[00:26:05] outside of the state but within its
+[00:26:07] borders. So, actually within a
+[00:26:10] subterranean space.
+[00:26:12] So, we can see how racialized
+[00:26:14] materialisms fundamentally shape the
+[00:26:17] categorization of inhuman nature across
+[00:26:20] poetic and property borders and through
+[00:26:23] a reliance on deep time to do racial
+[00:26:26] work, which in turn promoted a normative
+[00:26:28] form of geochronicity
+[00:26:30] in narratives of racial life of being
+[00:26:33] beings in time,
+[00:26:35] which is partly stabilized in the
+[00:26:38] infrastructures of built environments.
+[00:26:40] So, georacial codes are tied to spatial
+[00:26:43] modes of dispossession and return in the
+[00:26:45] neocolonial development of natural
+[00:26:49] resources as a panacea for development
+[00:26:52] such as in terms of African futures, for
+[00:26:55] example, how natural resources are are
+[00:26:55] often
+[00:26:59] as the kind of remedy to
+[00:27:07] So, we can see extraction established a
+[00:27:09] racialized geophysics in the production
+[00:27:11] of urban space and its forms of
+[00:27:14] segregation and stratification. So,
+[00:27:17] these are both internal and external to
+[00:27:19] the city settlement, which is a way to
+[00:27:21] think about the spatialized effects of
+[00:27:24] race outside a bounded corporality or
+[00:27:26] identity politics. So, to think about
+[00:27:29] those kind of racial dynamics within
+[00:27:31] space and not necessarily organized
+[00:27:34] around a body.
+[00:27:36] So, in this context, we might think
+[00:27:39] about the mine as a paradigmatic space.
+[00:27:41] And mines are negative architectures of
+[00:27:43] matter that sustain surface
+[00:27:45] architectures. The mine can be a
+[00:27:48] detention center near the border, the
+[00:27:50] late-night cleaning crew, a fishing
+[00:27:53] boat, a palm plantation. So, extraction
+[00:27:55] is all around.
+[00:27:57] Yet, the mine is a site that organizes
+[00:28:00] surface conditions. The mine generates a
+[00:28:02] set of hierarchies between what is
+[00:28:05] undergrounded and what is accumulated as
+[00:28:07] value on the overground.
+[00:28:10] And how accumulation is managed across
+[00:28:18] So, understanding architectures of
+[00:28:20] anthropocentric processes, there's a
+[00:28:23] need to consider how these materialities
+[00:28:25] and infrastructures perpetuate colonial
+[00:28:28] afterlives as racialized and racist
+[00:28:31] given the organization of the material
+[00:28:34] race in a spatial form.
+[00:28:36] The metabolism of natural resources in
+[00:28:39] architecture can sustain an epistemic
+[00:28:41] and extractive racial logic in the
+[00:28:44] reproduction of racialized relations.
+[00:28:46] And we can think here about what Ronaldo
+[00:28:50] Walcott calls long emancipation has been
+[00:28:52] maintained and reproduced through
+[00:28:55] material architectures of geo trauma.
+[00:28:57] And thus the materialization of race can
+[00:28:59] be understood to reside in the
+[00:29:03] organization of the built environment.
+[00:29:06] Geo trauma is the ongoing legacy of
+[00:29:09] spatial and psychic acts of violence
+[00:29:11] that have geographic dimensions, so have
+[00:29:11] space.
+[00:29:14] Um such as colonial invasion,
+[00:29:17] transatlantic slavery, and forms of
+[00:29:19] displacement, forced migration,
+[00:29:21] marginalization, and environmental
+[00:29:21] racisms.
+[00:29:26] So if we think about memorialization and
+[00:29:28] narrativization of industrialization in
+[00:29:31] the context of Birmingham, Alabama,
+[00:29:34] where I've done uh my kind of empirical
+[00:29:35] uh work,
+[00:29:38] the city emphasizes the transformation
+[00:29:41] of nature into natural resources. And
+[00:29:43] the one here from the Equal Justice
+[00:29:47] Initiative as a kind of retort is to
+[00:29:50] address the erasure of racial terrorism
+[00:29:52] and the convict lease as a form of
+[00:29:58] So given the colonial relation to white
+[00:30:00] supremacy and the theft of indigenous
+[00:30:03] lands coupled with the development of
+[00:30:05] mining as a key infrastructure of
+[00:30:07] colonial wealth, alongside we can also
+[00:30:10] think of the plantation as a strip mine,
+[00:30:13] so being part of a kind of extractive
+[00:30:13] um
+[00:30:17] mechanism, the mine or the underground
+[00:30:20] needs to be thought as a spatial model
+[00:30:23] that is enabled by a racial deficit.
+[00:30:25] And by this I mean the organization of
+[00:30:28] racial types in hierarchies of relations
+[00:30:30] that rely on spatial forms of
+[00:30:34] segregation and aggregation.
+[00:30:36] This racial deficit creates a vertical
+[00:30:38] urbanism of racialized geo social
+[00:30:38] relations.
+[00:30:42] And I think the mine is paradigmatic
+[00:30:44] because of what it institutes in terms
+[00:30:47] of spatial and subtending relations and
+[00:30:49] what it methodologically
+[00:30:51] requires in terms of a geophysical
+[00:30:53] approach to race.
+[00:30:55] So, if we understand race as a geologic
+[00:30:55] proposition,
+[00:30:59] this is a way, I think, to open up the
+[00:31:02] implication of inhuman materials and
+[00:31:05] relations of extraction that go beyond
+[00:31:07] place-based configurations of
+[00:31:09] environmental racism. So, what think
+[00:31:12] what things we might think of as a sort
+[00:31:16] of EJ, environmental justice issues, to
+[00:31:18] think about the spatial organization of
+[00:31:20] exposure to environmental harm as a
+[00:31:22] historical condition and a kind of
+[00:31:25] present iteration.
+[00:31:28] So, in Alabama as the mines went down,
+[00:31:32] the buildings went up.
+[00:31:34] And the rail and power that enabled the
+[00:31:36] city to emerge unearthed and un- the
+[00:31:39] grounded deposits of fossil fuel through
+[00:31:41] convict leased labor.
+[00:31:44] And one of the few remaining traces of
+[00:31:46] this shadow geography is this photograph
+[00:31:48] of the convict cemetery of the Pratt
+[00:31:51] Coal and Coke Company that operated
+[00:31:53] Pratt mines, where the iron was mined by
+[00:31:56] young black men and boys kidnapped by
+[00:31:58] the state under the pretense of
+[00:32:01] vagabonding geographies to racially
+[00:32:04] clear social and electoral space.
+[00:32:07] So, incarcerated persons such as John
+[00:32:09] Clark might lay here.
+[00:32:12] Convicted of gaming in 1903, he was
+[00:32:15] unable to pay his fine, so ended up at
+[00:32:17] Sloss Sheffield mines. He was bought
+[00:32:20] from the state for 9 pounds a month.
+[00:32:22] Working off the fine for his crime was a
+[00:32:26] 10-day hard labor sentence.
+[00:32:28] Fees for the sheriff, deputies, and
+[00:32:30] court officials that derive their wage
+[00:32:33] from co- co- convict fees added an
+[00:32:37] additional 104 days into the mine.
+[00:32:39] A month later, according to the prison
+[00:32:42] inspector's report, John Clark was dead,
+[00:32:47] So, in the sparsity of these material
+[00:32:51] traces, the inhuman basis of minerality
+[00:32:52] obscures and overwrites more
+[00:32:53] inter-subjective
+[00:32:56] modes of material experience and
+[00:32:58] exchange. The lives caught up in the
+[00:33:01] mine and the furnace. The coal industry
+[00:33:03] rapidly developed in the 19th century,
+[00:33:05] spurred on by huge fortunes that were
+[00:33:08] made in that other Birmingham in
+[00:33:08] England.
+[00:33:11] In this mimetic correspondent of the
+[00:33:14] co-production of coal and empire, the
+[00:33:16] colonial scape of Birmingham in England
+[00:33:18] became a model whose success was
+[00:33:21] directly funded by the 20 million pounds
+[00:33:23] of compensation paid to enslavers under
+[00:33:27] the Slave Compensation Act of 1837.
+[00:33:29] So, colonial architectures have this
+[00:33:32] kind of recursive geography of
+[00:33:32] materiality.
+[00:33:36] So, if we think building on structures
+[00:33:38] of property under slavery, convict lease
+[00:33:40] labor extended the long arm of
+[00:33:43] extraction over blood black
+[00:33:45] subjectivity. It relocated power from
+[00:33:48] the plantation master to the corporation
+[00:33:51] vis-à-vis a white judicial state, while
+[00:33:54] re-reorganizing the terms of gender and
+[00:33:57] sexuality in historic new ways.
+[00:33:58] So, these mineral modes of
+[00:34:01] categorization of steel, iron, coal that
+[00:34:04] encapsulate the inhuman
+[00:34:06] are also a way of making a stable form
+[00:34:09] of property for extraction, a lexicon
+[00:34:11] for making non-historical objects rather
+[00:34:14] than subjective registers.
+[00:34:17] So, while steel and iron come shiny onto
+[00:34:19] the track, bodies of the incarcerated
+[00:34:22] routinely disappeared into the heaps of
+[00:34:25] cast-off matter at the shaft entrance.
+[00:34:27] So, seemingly non-resistant to their
+[00:34:29] passage up the shaft through prison,
+[00:34:33] minerals, metals, and fuels, Materiality
+[00:34:35] is made available to this really
+[00:34:38] selective form of narrativization and a
+[00:34:41] fantasy of elementary origin stories.
+[00:34:43] And we can think here about a kind of
+[00:34:46] caution to the redemptive narrativizing
+[00:34:47] that has been understood as the
+[00:34:50] elementary term at present and the kind
+[00:34:53] of the forms of theorizing about
+[00:34:56] elementary geographies.
+[00:34:58] So, minerality worked in the underground
+[00:35:00] is transformed into layers of social
+[00:35:03] power on the surface, continuing the
+[00:35:05] enduring structural relation of
+[00:35:08] subterranean racial ordering.
+[00:35:09] So, the prison mine performed the
+[00:35:12] material stratification of epistemic
+[00:35:14] conditions of a liminal black
+[00:35:17] understrata, a subterranean convergence
+[00:35:20] of subject and material conditions.
+[00:35:22] The wonders of Magic City were
+[00:35:23] celebrated without mention of the
+[00:35:25] persons that passed the transitional
+[00:35:28] zone, the black and strata subjects that
+[00:35:30] became the bridge to suburban and
+[00:35:33] national industrialization.
+[00:35:36] So, urbanization is a process of drawing
+[00:35:38] people and materials towards and often
+[00:35:41] elevating flow architectures that
+[00:35:44] bifurcate, dwarf, or congeal around a
+[00:35:46] geographical centering.
+[00:35:48] The below ground sites of mines,
+[00:35:50] quarries, and undergrounds that bring
+[00:35:52] the vertical city into being are
+[00:35:54] elsewhere, obscuring the didactic
+[00:35:57] relation of extraction to what is built.
+[00:36:00] As the city goes up, it also flattens
+[00:36:03] lives and institutes forms of precarity
+[00:36:05] in ways of displacement and dissolution.
+[00:36:08] The city must go up to be recognized as
+[00:36:08] such.
+[00:36:11] So, roads became recognized in the
+[00:36:14] convict lease as a mean to mobilize
+[00:36:17] natural resources. In 1898, Alabama
+[00:36:21] obtained 73% of its total state revenue
+[00:36:23] from the sale of persons coded as
+[00:36:26] convicts to the mines.
+[00:36:28] Tennessee Coal and Iron later became US
+[00:36:31] Steel, the world's first billion-dollar
+[00:36:33] company listed on the stock exchange,
+[00:36:35] and it was the largest business
+[00:36:38] enterprise ever launched in America.
+[00:36:40] It made 30% of global production of
+[00:36:43] steel and 66%
+[00:36:46] of steel produced in the US. It
+[00:36:48] solidified the claims to the biggest
+[00:36:51] industrial revolution in the world, and
+[00:36:53] convict lease labor became a way to
+[00:36:55] mobilize that extraction of natural
+[00:36:57] resources through the
+[00:37:00] creation of a concomitant category of
+[00:37:02] blackness as a parallel resource coded
+[00:37:06] as inhuman. And as many as 200,000
+[00:37:08] people were forcibly incarcerated in the
+[00:37:11] making of a mineral city.
+[00:37:12] So, the point I really want to make here
+[00:37:15] is the micro spatialities of race in
+[00:37:17] urban space were vertical. As the mines
+[00:37:19] went down, the skyscrapers of the
+[00:37:21] heaviest corner went up. And we can
+[00:37:24] think about the spatial effect of both
+[00:37:26] the narratives of material redemption
+[00:37:28] through a kind of telos of development
+[00:37:31] and modernity and the spatial spatial
+[00:37:33] architectures of the industrial city as
+[00:37:36] meeting through these narrativizations
+[00:37:38] of materiality.
+[00:37:39] So, urban planning and the maintenance
+[00:37:42] of hierarchical rationalized relations
+[00:37:44] continue to build worlds through
+[00:37:47] combined sociologies and geologies of
+[00:37:50] race as new aesthetics of steel and iron
+[00:37:52] hit the heart, telling a story of
+[00:38:00] So, material transformation became
+[00:38:03] narrativized as a achievement of
+[00:38:06] whiteness, narrating working-class
+[00:38:09] masculinities and the settler family.
+[00:38:12] US Steel builds a nation because what
+[00:38:14] would we be without it? Steel,
+[00:38:15] automobiles, skyscrapers, defense
+[00:38:17] structures, flat roads, shields,
+[00:38:20] templates, tubular steel, railroad
+[00:38:22] tracks, iron ore, the earthworks of
+[00:38:25] settler nation. What held up also pushes
+[00:38:28] down. In the materiality of settlement,
+[00:38:30] coal and steel become part of the
+[00:38:32] migratory possibility of white
+[00:38:35] supremacy, making undergrounds that can
+[00:38:37] move and grow. The projectile force of
+[00:38:40] the extractive principle and its castral
+[00:38:44] logic enacting settlerism by depletion.
+[00:38:47] And I just want to highlight here
+[00:38:49] the kind of
+[00:38:51] work that is really the kind of forging
+[00:38:53] methodological repair around these
+[00:38:55] materialisms in in the kind of
+[00:38:58] accounting of black life. And here I
+[00:39:00] draw on the work of Clyde Woods and JT
+[00:39:02] Roane. And really to think about the
+[00:39:06] consequences of these inhuman inhumane
+[00:39:06] trajectories.
+[00:39:10] Um in terms of this is the Equal Justice
+[00:39:13] Initiative in Montgomery in Alabama.
+[00:39:15] And it really kind of
+[00:39:18] passes a way to think about community
+[00:39:22] involvement in a kind of re-inhabitation
+[00:39:25] of the earth. And these are kind of jars
+[00:39:26] of earth
+[00:39:28] collected by community
+[00:39:30] under sites
+[00:39:33] where known lynchings were taking place.
+[00:39:36] But it mimics the aesthetics of the very
+[00:39:38] kind of geologic
+[00:39:41] work that surveyors did in order to
+[00:39:44] build the cities. So it gives us a kind
+[00:39:44] of
+[00:39:46] a parallel
+[00:39:46] form
+[00:39:50] of understanding these kind of earth
+[00:39:53] geographies as inhabited.
+[00:39:56] So I want to shift now to thinking about
+[00:39:59] as we kind of begin to conclude
+[00:40:01] architecture as a geologic practice in
+[00:40:04] the context of repair and reparation in
+[00:40:06] colonial earth. And I want to
+[00:40:08] move to
+[00:40:11] just kind of show you some ideas from
+[00:40:13] the work of the Nairobi architects Cave
+[00:40:13] Bureau,
+[00:40:16] who I've been in conversation with.
+[00:40:19] Whose work, I think, really addresses
+[00:40:21] the ancestral architecture of the
+[00:40:21] Anthropocene.
+[00:40:26] So, as Strata makes urban grids, Cave
+[00:40:29] Bureau consider a more earth-born
+[00:40:32] architectural practice that recovers and
+[00:40:34] repairs the impact of colonial
+[00:40:36] architectures. They narrate and
+[00:40:39] visualize and their work,
+[00:40:41] quote, addresses the anthropological and
+[00:40:43] geologic context of post-colonial
+[00:40:45] African city as a means to confront the
+[00:40:48] challenges of our contemporary rural and
+[00:40:49] urban lives.
+[00:40:52] So, one of their proposals
+[00:40:55] is the Maasai cattle corridor, and it's
+[00:40:57] an architecture that traverses the
+[00:41:00] British colonial city that was arranged
+[00:41:02] around a kind of spatial apartheid of
+[00:41:02] races.
+[00:41:05] Their work is addressing both kind of
+[00:41:07] non-human and human relations that were
+[00:41:10] displaced and spatially marginalized and
+[00:41:12] continue to be displaced by colonial
+[00:41:14] infrastructures as the Maasai were
+[00:41:16] confined to national parks and tourist
+[00:41:16] brushes.
+[00:41:20] So, the intervention they provide
+[00:41:23] provides a space for repair and gives
+[00:41:24] the Maasai cattle geographies new
+[00:41:27] futures in the city that is their
+[00:41:29] ancestral home.
+[00:41:30] So, if we think about these kind of
+[00:41:32] projects within the context of kind of
+[00:41:35] discourses of African rising, which is
+[00:41:37] imagined through this kind of
+[00:41:39] demographic model of the youngest
+[00:41:42] continent and rapid urbanization, which
+[00:41:44] is often articulated through neoliberal
+[00:41:47] urban development and neo-colonial debt
+[00:41:49] financing, we can think of this
+[00:41:49] imagination
+[00:41:55] as a kind of way of engaging the city as
+[00:41:58] a kind of constant kind of participant
+[00:41:58] and
+[00:41:59] perpetuation
+[00:42:02] of kind of unequal environmental
+[00:42:04] effects. And I think this is where their
+[00:42:07] work begins to intervene in thinking
+[00:42:09] about what you do with these pasts in
+[00:42:11] the future.
+[00:42:13] And how you actually intervene in that
+[00:42:17] process. Um So, not only does decolonial
+[00:42:19] architecture require the instantiation
+[00:42:22] of its negative spaces, which I've been
+[00:42:24] talking about the kind of paradigm of
+[00:42:26] the mine,
+[00:42:27] but it also requires this
+[00:42:30] destabilization of the object form of
+[00:42:33] architecture and its claim to bounded
+[00:42:33] space.
+[00:42:36] That is, architecture has rearranged the
+[00:42:39] over and underground of the planet
+[00:42:41] through a particular colonial axis of
+[00:42:41] extraction.
+[00:42:45] So, the story of urbanism is not just
+[00:42:47] one of spool and densities, but it's
+[00:42:50] through the verticalities and depths of
+[00:42:52] urban material mobilization that these
+[00:42:55] kind of this earth has been built.
+[00:42:57] So, some of these verticalities are
+[00:42:59] literal as the mine shaft and some of
+[00:43:02] them are about the depths of subjugation
+[00:43:04] and their oppressive spatial dynamics
+[00:43:07] from lack of basic water and sanitation
+[00:43:09] to physical and medical and mental
+[00:43:13] misery of poverty and forms of life.
+[00:43:15] So, then the practice of Cave Bureau
+[00:43:17] offers a serious and sincere
+[00:43:19] architecture for addressing this
+[00:43:22] geo-trauma and its erasure in the urban
+[00:43:25] fabric of the African city.
+[00:43:26] They suggest a parallel imagine
+[00:43:29] institution, the Belantan
+[00:43:32] Reparations Institute, that will provide
+[00:43:35] a new imagination fund for Africa, which
+[00:43:37] will attract the return of stolen wealth
+[00:43:39] to the global south for the use of arts
+[00:43:41] and funding of the Maasai cattle
+[00:43:41] corridor.
+[00:43:45] So, they say the fund will not rely on
+[00:43:47] Western guilt, but will draw back from
+[00:43:50] extracted wealth through a reverse pool
+[00:43:52] of what they call remedial acts of
+[00:43:55] reverse futurism.
+[00:43:57] So, critical to this architectural
+[00:43:59] practice is the inclusion of the
+[00:44:02] geologic as a partner in the healing.
+[00:44:04] The original inhabitants of the city are
+[00:44:07] restored along new cave routes to
+[00:44:10] traverse, visit, um um
+[00:44:12] vets and salt licks and follow their
+[00:44:16] grazing paths along water routes.
+[00:44:17] And I
+[00:44:20] also want to uh draw attention just to
+[00:44:21] uh collaborative work that I've been
+[00:44:24] doing with um colleagues Carrie Holden,
+[00:44:26] Casper Lane Everson, and Michael artist
+[00:44:29] Michael Salue around planetary portals.
+[00:44:31] And this work is really kind of trying
+[00:44:32] to think
+[00:44:34] um with the portal as a kind of
+[00:44:37] speculative architectural method for
+[00:44:39] examining geo-social inequalities that
+[00:44:41] were necessary in sustaining spatial
+[00:44:44] imaginaries and dreams of empire through
+[00:44:46] the kind of shadow architecture. tells
+[00:44:48] us to go in through these shadow
+[00:44:51] architectures um and of vertical
+[00:44:54] expansion uh and reinstate the emergence
+[00:44:56] and maintenance of extractive planetary
+[00:44:56] futures
+[00:45:00] um through these portals. So, thinking
+[00:45:02] about the portal as a kind of as a way
+[00:45:05] that colonialism maintained itself, but
+[00:45:08] also as a kind of possibility for
+[00:45:10] rethinking the diabolical
+[00:45:17] So, I want to really kind of end now
+[00:45:20] with a set of questions um and
+[00:45:20] propositions
+[00:45:24] um for this conversation between
+[00:45:26] geography and architecture. I really to
+[00:45:29] think about planetary paradigms for
+[00:45:32] racial equity in urbanism and what this
+[00:45:38] So, if we think about the language of
+[00:45:40] geology, of natural resources, and how
+[00:45:43] that stabilizes the material world and
+[00:45:45] the operative zones of extraction and
+[00:45:47] their subjective categories,
+[00:45:49] we can presume that the world in which
+[00:45:51] these geo-racial codes of values,
+[00:45:53] stability, and circulation already in
+[00:45:57] process and not as kind of um
+[00:46:02] not just a site of um kind of of of new
+[00:46:05] makings, but a site of kind of continual
+[00:46:05] renewal.
+[00:46:09] So, the take home from this is really to
+[00:46:09] think
+[00:46:12] that there's no response to the
+[00:46:14] environmental crisis and its
+[00:46:16] architectural arrangements and and
+[00:46:18] thinking here about architecture on a
+[00:46:21] planetary scale without a response to
+[00:46:24] questions of racial justice and how
+[00:46:26] white supremacy and its attendant
+[00:46:28] structures of kind of heteropatriarchy
+[00:46:31] and class produce effectual
+[00:46:34] architectures of the material world as
+[00:46:36] necro-political relations. So, through a
+[00:46:38] racialized debt relation.
+[00:46:40] So, if we're thinking about reparative
+[00:46:40] architectures,
+[00:46:43] um we need to think about them as
+[00:46:47] situated in time as well as space.
+[00:46:49] They draw on the past to map justice
+[00:46:51] into the future for more livable
+[00:46:51] futures.
+[00:46:55] So, as a geographer,
+[00:46:58] I'd like to kind of think about
+[00:47:01] um collectively um in conversation, what
+[00:47:03] kind of different kinds of world making
+[00:47:06] are possible if we start with racial
+[00:47:08] undergrounds. So, if we center racial
+[00:47:10] undergrounds or uneven environmental
+[00:47:12] histories as the foundational
+[00:47:15] architectures of attention and see what
+[00:47:18] they build rather than sort of go from
+[00:47:21] the uh the city out. So, if natural
+[00:47:22] resources are paradigmatic of a
+[00:47:25] necro-political relation, what
+[00:47:27] responsibilities emerge in the building
+[00:47:29] of worlds and the fabrication of
+[00:47:29] evernism?
+[00:47:34] What if we begin our analysis of
+[00:47:36] architecture through who and what is
+[00:47:38] disappeared in the process of
+[00:47:40] development and building? What
+[00:47:43] specialities would be needed to repair
+[00:47:46] those special executions?
+[00:47:48] So, reconsidering the practice of
+[00:47:50] architecture in the Anthropocene demands
+[00:47:53] a new geoethics, a geoethics that
+[00:47:55] acknowledges the effects of human strata
+[00:47:58] in global transformation and traverses
+[00:48:00] both effectual and planetary
+[00:48:00] architectures.
+[00:48:04] This geoethics might be understood and I
+[00:48:06] think much broadly beyond its
+[00:48:09] interpretation in the geosciences as a
+[00:48:11] justice-based approach to material
+[00:48:13] practices. So, what does a justice-based
+[00:48:15] approach to material practices look
+[00:48:18] like? An ethical approach that critiques
+[00:48:20] the very historic social relations and
+[00:48:23] geologics of a normative and dominant
+[00:48:25] form of materiality
+[00:48:27] or natural resources.
+[00:48:30] And considers geophysical architectures
+[00:48:32] such as racism, climate change,
+[00:48:35] extraction, and extinction in planetary
+[00:48:38] terms that are made and manifest in
+[00:48:43] So, if we think planetary architectures
+[00:48:47] now form the future-orientated
+[00:48:49] basis of the earth both through the role
+[00:48:51] of the built environment, but also
+[00:48:54] metabolizing the planet through energy
+[00:48:57] and materiality,
+[00:48:59] they are operative nodes in a geologic
+[00:49:02] exchange of depletion.
+[00:49:04] So, from material used commodity chains,
+[00:49:07] light, energy, water consumption.
+[00:49:08] So, in considering this
+[00:49:10] intra-architectural engagement with the
+[00:49:12] earth and its social geologies, we can
+[00:49:15] consider geosocial architectures or
+[00:49:19] already engaged in a planetary practice.
+[00:49:21] So, that's really to kind of think about
+[00:49:24] the kind of building space as already
+[00:49:28] located in a discourse with the planet
+[00:49:31] and its making.
+[00:49:33] So, this raises the question of how we
+[00:49:36] might make paths towards spatial
+[00:49:38] reparations in the architectures of
+[00:49:38] materiality.
+[00:49:42] And I think this is both an aesthetic
+[00:49:46] project, a material project, and a set
+[00:49:48] of discourses about kind of new
+[00:49:48] materialisms.
+[00:50:10] Kathleen has said she's happy to answer
+[00:50:13] questions. There are students
+[00:50:15] with microphones, so
+[00:50:17] raise your hand if you have a question
+[00:50:24] Hi.
+[00:50:28] Thank you for that lecture. Uh
+[00:50:30] I was really struck by the phrase every
+[00:50:32] building a mine. Mhm. Not not because I
+[00:50:34] disagree, but because I see that Well, I
+[00:50:37] think I understand what you mean by it.
+[00:50:38] But it uh
+[00:50:40] it worries me that uh
+[00:50:42] like it excludes the possibility of a
+[00:50:45] building that is not a mine.
+[00:50:47] Like even looking at the the cow
+[00:50:50] corridor, I'm I'm thinking
+[00:50:53] even though it it um addresses a series
+[00:50:55] of problem, even like the construction
+[00:50:56] of it would
+[00:50:59] could reproduce some of the relations
+[00:51:01] that we just talked about like
+[00:51:05] So, like I'm worried that we we cannot
+[00:51:07] escape the building as a mine.
+[00:51:09] Yeah, absolutely. Yeah, there is no
+[00:51:09] escape.
+[00:51:13] From the But in some ways that's the
+[00:51:16] point, right? So, what I'm suggesting is
+[00:51:17] that, you know, that
+[00:51:19] you can't have a building that's not a
+[00:51:21] mine. You can't, you know, that these
+[00:51:23] kind of um
+[00:51:26] But the very kind of discourse with a
+[00:51:30] set of kind of spatial uh dynamics is
+[00:51:32] what I'm suggesting that we kind of
+[00:51:34] bring to the fore. So,
+[00:51:34] um
+[00:51:39] why I find kind of Kate Bior as work so
+[00:51:39] amazing
+[00:51:43] um is really cuz it like it starts from
+[00:51:45] these conversations in caves and it uses
+[00:51:47] the architecture of the cave as a kind
+[00:51:50] of as a a pre-colonial architecture in
+[00:51:52] order to imagine what a sort of
+[00:51:54] reparative architecture might look like.
+[00:51:57] So, it sort of it sets itself in the
+[00:52:00] caves and some of these caves were used
+[00:52:02] within the kind of slave trade
+[00:52:02] um
+[00:52:06] and it sets about kind of community
+[00:52:09] discourses within these spaces. So, it
+[00:52:11] carries the kind of it carries its
+[00:52:14] history into a kind of new new sort of
+[00:52:17] idea of a planetary future for the
+[00:52:19] Anthropocene. So, what I'm suggesting is
+[00:52:22] that we think about these kinds of ways
+[00:52:25] of mobilizing those histories
+[00:52:27] uh in ways that become part of an
+[00:52:30] aesthetic and part of a kind of, you
+[00:52:30] know,
+[00:52:34] a kind of engagement with um those
+[00:52:36] histories uh of subjugation and race and
+[00:52:38] so on. So, I'm not saying that there is
+[00:52:41] there is any place outside of the mine.
+[00:52:42] There isn't.
+[00:52:42] Um
+[00:52:45] but, you know, but, you know, some
+[00:52:48] things stay buried and some things get
+[00:52:50] to surface and in those processes of
+[00:52:52] surfacing there's a politics. There
+[00:52:55] there's an aesthetic and political kind
+[00:52:58] of set of uh propositions
+[00:53:01] um being narrated.
+[00:53:12] Hi. Um thank you um for your talk. I I
+[00:53:13] was wondering
+[00:53:17] it seems um fairly clear how in in a
+[00:53:20] colonial context that's the the kind of
+[00:53:21] legacy of it
+[00:53:21] extraction
+[00:53:25] um through mines really closely bound up
+[00:53:27] to a kind of racialized theory of of
+[00:53:27] hierarchy.
+[00:53:31] Um but, I'm wondering in in a kind of
+[00:53:33] another con maybe maybe a different sort
+[00:53:35] of context like the example of
+[00:53:37] Birmingham, England, thinking about the
+[00:53:38] Midlands or the north in the kind of
+[00:53:41] earlier or earliest extraction
+[00:53:43] and the mining there, is Do you think
+[00:53:45] about it differently or or is it the
+[00:53:45] same?
+[00:53:49] Um I think about it as the same actually
+[00:53:49] because
+[00:53:53] the there is you know at that particular
+[00:53:54] time there wouldn't have been
+[00:53:54] industrialization
+[00:53:59] in the UK had there not been the kind of
+[00:54:03] payments to enslavers for the loss of
+[00:54:05] their property. And that all that money
+[00:54:09] actually goes into the infrastructure of
+[00:54:11] industrialization into railways, into
+[00:54:14] mines, into So
+[00:54:17] it's the very kind of financial wealth
+[00:54:21] from enslavement and it's abolition that
+[00:54:25] creates the context for the industrial
+[00:54:28] revolution. Um and that also sets a
+[00:54:30] whole kind of set of relationships in
+[00:54:32] place to
+[00:54:35] um other kind of plantation economies.
+[00:54:37] But is the is the hierarchy I mean is
+[00:54:39] the hierarchy racial in that particular
+[00:54:41] context in in the Midlands or in or
+[00:54:43] there in England? Like I understand the
+[00:54:46] colonial context yes, but with people
+[00:54:47] who are actually performing the work in
+[00:54:49] the mines
+[00:54:50] do you think of that as a different sort
+[00:54:52] of relationship or a different legacy?
+[00:54:55] No, cuz I mean the the sugar from
+[00:54:57] plantations were kind of feeding the
+[00:54:59] working class British you know and they
+[00:55:01] were they were
+[00:55:01] um
+[00:55:05] you know the industrialization was also
+[00:55:07] the kind of milling of cotton in
+[00:55:09] Lancaster. So all those cities were
+[00:55:12] built through those colonial relations.
+[00:55:13] So um
+[00:55:16] you know the they are kind of um and you
+[00:55:18] know they they're articulated by kind of
+[00:55:20] black Marxists in these kind of
+[00:55:22] connections, but you know but also
+[00:55:25] trying to make kind of geo solidarities
+[00:55:27] through these connections that are often
+[00:55:30] kind of redefined through race as a way
+[00:55:32] to you know and the same in um in West
+[00:55:34] Virginia in mining communities race
+[00:55:37] becomes a way to separate kind of
+[00:55:38] working class
+[00:55:41] um um communities. And so it becomes
+[00:55:44] another way to sort of uh retool a kind
+[00:55:59] Thank you, Kathryn, for that talk.
+[00:55:59] Um
+[00:56:01] I was wondering, you know, since you
+[00:56:05] focus um on the verticality
+[00:56:08] and the sort of long-term extraction of
+[00:56:12] inorganic minerals from the deep earth.
+[00:56:15] Uh how do you see this as different um
+[00:56:18] from the long-term extraction of organic
+[00:56:20] materials from the topsoil?
+[00:56:23] Either on the actual, you know,
+[00:56:26] systems of labor Mhm. or their
+[00:56:30] relationship to to land uh or long-term
+[00:56:30] repair.
+[00:56:35] It's an excellent question.
+[00:56:35] Um
+[00:56:41] I think as those
+[00:56:44] systems of extraction become
+[00:56:47] um you know, sort of more and more
+[00:56:49] established in terms of kind of racial
+[00:56:52] capitalism, they go deeper and deeper.
+[00:56:55] Um and so
+[00:56:57] these kind of stratas, you know, these
+[00:57:00] subtending stratas of race, I think
+[00:57:03] are what enables that kind of debt debt
+[00:57:06] model to keep kind of progressing to,
+[00:57:08] you know, um
+[00:57:11] to kind of further and further down into
+[00:57:14] kind of fossil fuels and so on. So I I I
+[00:57:16] don't see a kind of
+[00:57:18] you know, the distinctions between the
+[00:57:20] sort of organic and inorganic are always
+[00:57:23] a sort of artificial products of
+[00:57:26] enlightenment kind of separation. And
+[00:57:29] and race is actually what holds those
+[00:57:32] things both together and apart. So think
+[00:57:35] race becomes the spatiality between the
+[00:57:37] bios and the geos that holds it
+[00:57:40] together, that allows these kind of so
+[00:57:42] you have these discourses
+[00:57:44] of the inhuman that can kind of traverse
+[00:57:49] across subject positions and and kind of
+[00:57:52] materiality, and race holds it in place.
+[00:57:55] It's what allows the kind of you know,
+[00:57:57] something that is completely sort of
+[00:58:00] nonsensical, the division of the sort of
+[00:58:02] bios and geos is a completely
+[00:58:04] nonsensical kind of proposition in the
+[00:58:07] same way that you know, the division
+[00:58:10] between nature and culture is.
+[00:58:12] But at the same time you
+[00:58:15] things hold these kind of propositions
+[00:58:17] in place.
+[00:58:18] So but those are really excellent
+[00:58:20] question. I kind of need to think more
+[00:58:22] about that kind of
+[00:58:24] that relationship in terms of kind of
+[00:58:27] it's it's a historic relation, but
+[00:58:28] you're right that it's also kind of a
+[00:58:29] negotiation.
+[00:58:31] Um I'd love to hear if you have any
+[00:58:33] thoughts on that.
+[00:58:33] Um
+[00:58:44] Thank you for Okay. your presentation. I
+[00:58:45] noticed that you used the word
+[00:58:47] anthropocene, Mhm. and I know there's
+[00:58:49] currently a debate about whether it
+[00:58:50] should be the anthropocene or the
+[00:58:50] holocene,
+[00:58:55] Mhm. but the terminology itself seems to
+[00:58:58] overemphasize like human mastery and
+[00:59:02] seems to sometimes um forget that
+[00:59:04] technocratic governance, imperialism,
+[00:59:06] colonialism is not something that all
+[00:59:08] humans do.
+[00:59:09] Um I just was curious to know what you
+[00:59:12] thought about the term.
+[00:59:15] Uh yeah, absolutely. I mean um the
+[00:59:17] little book that I wrote was called A
+[00:59:19] Billion Black Anthropocenes or None, and
+[00:59:21] the kind of proposition there is like A
+[00:59:24] Billion or None, and you know, that it
+[00:59:25] is a kind of
+[00:59:27] I think it's a deeply problematic term,
+[00:59:29] and that's why in a sense I use
+[00:59:31] colonialism rather than the
+[00:59:34] Anthropocene, but I think it is it's you
+[00:59:36] know, it certainly is a sort of term
+[00:59:39] that's framing a set of debates. So, in
+[00:59:41] that sense, you know,
+[00:59:44] um trying to critically engage that is a
+[00:59:47] kind of a way of, you know, thinking
+[00:59:50] with a sort of a set of geophysical kind
+[00:59:53] of earth processes and you know, much
+[00:59:56] longer histories. So, yeah.
+[01:00:01] We have time for one more question if
+[01:00:10] Okay, then. Let's all join in thanking

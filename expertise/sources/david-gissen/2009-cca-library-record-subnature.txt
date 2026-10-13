@@ -1,0 +1,26 @@
+Source: Subnature: architecture's other environments (Canadian Centre for Architecture library record)
+URL: https://www.cca.qc.ca/en/search/details/library/publication/314113421
+Fetched: 2026-10-12 via cfetch.py (curl)
+
+Subnature : architecture's other environments : atmospheres, matter, life / David Gissen.
+ Main entry:
+Gissen, David.
+ Title & Author:
+Subnature : architecture's other environments : atmospheres, matter, life / David Gissen.
+ Edition:
+ 1st ed.
+ Publication:
+ New York : Princeton Architectural Press, ©2009.
+ Description:
+ 224 pages : illustrations (some color) ; 23 cm
+ Notes:
+ Includes bibliographical references and index. 
+ pt. 1. Dankness -- Smoke -- Gas -- Exhaust -- pt. 2. Dust -- Puddles -- Mud -- Debris -- pt. 3. Weeds -- Insects -- Pigeons -- Crowds. 
+ Summary:
+ This title is a narrative enquiry and an alternate view of natural processes and ecosystems and their relationship to architecture. The book explores all forms of nature and the relationships between people and the built environment from the 1st century BC through medieval times to the Industrial Revolution and beyond.
+ Resources:
+ Contributor biographical information
+ Publisher description
+ ISBN:
+ 9781568987774 (paperback)
+ 1568987773 (paperback)
