@@ -49,7 +49,7 @@ Status: `longlist` → `shortlisted` → `verified` (you checked it exists and s
 
 Suggested by the unit, shared by everyone. Cards in `unit/`; how they work and how to make one yours: `unit/README.md`. `/consult` reads them every run, labelled `(unit)`.
 
-Status: `suggested by unit` → `verified` (every quote checked against its saved source) or `unverified`. Review pass run 2026-10-12 with `/review` on all 28 cards: quotes, works, links, language, structure; 27 verified, 1 unverified.
+Status: `suggested by unit` → `verified` (every quote checked against its saved source) or `unverified`. Review pass run 2026-10-12 with `/review` on all 28 cards: quotes, works, links, language, structure; 27 verified, 1 unverified. A second-model pass (peer review) on 5 cards the same day found 1 reversed quote, 4 misattributions and several unsupported claims; all verified by hand and fixed, see each card's `_source.md`.
 
 | Name | Group | Status | File |
 |---|---|---|---|

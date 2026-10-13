@@ -21,7 +21,7 @@ A unit consultant card. One voice, in their own words. Every quote below is foun
 - "Philosophy as Interdisciplinary Intensity", interview by Antonio Gnoli, La Repubblica, 15 May 2016, trans. Ido Govrin, JCRT. https://jcrt.org/religioustheory/posts/philosophy-as-interdisciplinary-intensity-an-interview-with-giorgio-agamben-antonio-gnolioido-govrin/ Saved as `expertise/sources/giorgio-agamben/2016-interview-gnoli-la-repubblica-jcrt.txt`
 - "The Archaeology of Commandment", lecture, EGS, 2011 (auto-captions). https://www.youtube.com/watch?v=T4MjMj4S4B8 Saved as `expertise/sources/giorgio-agamben/2011-egs-archaeology-of-commandment-captions.txt`
 - "What is a Dispositive?", lecture, EGS, 2005, part 1 of 8 (auto-captions). https://www.youtube.com/watch?v=ua7ElsQFZPo Saved as `expertise/sources/giorgio-agamben/2005-egs-what-is-a-dispositive-part1-captions.txt`
-- All Italian originals: Quodlibet, "Una voce". https://www.quodlibet.it/una-voce-giorgio-agamben Not saved: Italian, link only.
+- Most Italian originals: Quodlibet, "Una voce". https://www.quodlibet.it/una-voce-giorgio-agamben Not saved: Italian, link only.
 
 ## Positions
 - "One might say that the vaccine has become a religious symbol that, as with any creed, now acts as a shibboleth [spartiacque] between friends and enemies, the saved and the damned." (Green Pass, La Stampa, 30 July 2021) — in `2021-green-pass-political-use-ill-will.txt`
@@ -31,14 +31,14 @@ A unit consultant card. One voice, in their own words. Every quote below is foun
 - "To be a student entailed first of all a form of life in which studying and listening to lectures were certainly decisive features" ("Requiem for the Students", 23 May 2020) — in `2020-requiem-for-the-students-ill-will.txt`
 
 ## How they work
-Archaeology, taken from Foucault and pushed into theology and law: pick one word (commandment, apparatus, oath, contact), trace it back through Roman jurists, Greek grammar, church fathers, then return to the present with it. Philology is part of the method: he reconstructs manuscripts, edits poets, and says "terminology is the poetical element in philosophy" (EGS, 2005, 00:01:42). Writes in Italian; short interventions go out on Quodlibet's site and are translated by others within days. Lectures in English without notes at EGS. Debts he names: Walter Benjamin, Heidegger (seminars at Le Thor, 1966 and 1968), Guy Debord, Elsa Morante, Simone Weil.
+Archaeology, taken from Foucault and pushed into theology and law: pick one word (commandment, apparatus, oath, contact), trace it back through Greek grammar (*arkhē*), the Septuagint, Aristotle and Christian theology (EGS, 2011), then return to the present with it. Philology is part of the method: he reconstructs manuscripts, edits poets, and, citing "a philosopher whom I respect very much", says "giving name is the poetical moment in philosophy" (EGS, 2005, 00:01:40–00:01:53, auto-captions). Writes in Italian; short interventions go out on Quodlibet's site and are translated by others within days or weeks. Lectures in English at EGS. Debts he names: Walter Benjamin, Heidegger (seminars at Le Thor, 1966 and 1968), Guy Debord, Elsa Morante, Simone Weil.
 
 ## Hooks to the brief
 - **Sacred / profane:** profanation is his word for the task. Zone's description of *Profanations*: profanation as "return to common usage", "to profane the unprofanable". In 2021 he reads the vaccine as "a religious symbol", a line dividing "the saved and the damned".
 - **Ritual:** a form of life is made of repeated acts: students "gathered together according to their place of origin" in nationes; online teaching ends "being a student [studentato, studenthood] as a form of life" ("Requiem for the Students", 2020). A ritual lost is a form of life lost.
 - **Time:** "the only way to access the present is through investigation of the past" (La Repubblica interview, 2016). Build the timeline backwards from the word you are using.
 - **Place:** "Students will no longer live in the cities where their universities are located." ("Requiem for the Students", 2020). Touch is place at its smallest: "We would lose, purely and simply, our flesh." ("A Philosophy of Contact", 2021)
-- **Power:** power is "its capacity to give orders"; a state "collapse when it's not more" able to command (EGS lecture, 2011, 00:12:12 to 00:12:24, auto-captions). Look for who gives the order in your conflict, and where the order stops being obeyed.
+- **Power:** power is "its capacity to give orders"; "state power can tolerate many degrees of transgression and disobedience", but "if a power is no more able to give commandment then it collapse" (EGS lecture, 2011, 00:12:17–00:12:35, auto-captions). Look for who gives the order in your conflict, and where the order stops being obeyed.
 
 ## Contact route
 - No public personal route. Publisher: Quodlibet, Macerata (contacts page: https://www.quodlibet.it/contatti), which hosts his "Una voce" column. English publishers: Stanford University Press, Zone Books, Eris. Likeliest: Quodlibet's editorial office.

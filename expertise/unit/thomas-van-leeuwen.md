@@ -2,7 +2,7 @@
 
 A unit consultant card. One voice, in their own words. Every quote below is found verbatim in `expertise/sources/thomas-van-leeuwen/`; nothing is paraphrased as a quote.
 
-- **Who:** Dutch architectural historian; for many years professor of architectural history, cultural history and art criticism at Leiden University, and a teacher at the Berlage Institute, Rotterdam. Born 1941 (Wikidata, year only; not confirmed elsewhere). No death notice found; treated as living.
+- **Who:** Dutch architectural historian; for many years professor of architectural history, cultural history and art criticism at Leiden University, and, in 2010, teaching at the Berlage Institute, Rotterdam (Cabinet contributor note). Born 1941 (Wikidata, year only; not confirmed elsewhere). No death notice found; treated as living.
 - **Group:** reading list
 - **Status:** unverified (birth year 1941 and living status rest on Wikidata alone)
 - **Sources folder:** `expertise/sources/thomas-van-leeuwen/`
@@ -24,21 +24,21 @@ MIT Press pages return HTTP 403 and Open Library refused connections on 2026-10-
 ## Positions
 Every lecture quote on this card, here and under Hooks, is from YouTube's automatic captions, given as it reads in the file; timestamps checked against the file on 2026-10-12.
 - "there are several periods of water one is to begin with the sacred period when water was sacred and nobody dared to go and sit in the water or swim in the water for pleasure" (AA lecture, 11 March 1999, 00:13:46) — in `1999-aa-lecture-springboard-in-the-pond.txt`
-- "water that had been … submitted to the actions of man lost its original innocence" (AA lecture, 1999, 00:14:20–00:14:30; a filler word omitted at the ellipsis) — in `1999-aa-lecture-springboard-in-the-pond.txt`
+- "water that had been … submitted to the actions of man lost its original innocence" (AA lecture, 1999, 00:14:20–00:14:30; a filler word omitted at the ellipsis; the captions skip 00:14:11–00:14:20 just before, so the start of the sentence is lost) — in `1999-aa-lecture-springboard-in-the-pond.txt`
 - "the third period is the period of the vulgar the moment that water Flushed Away In The Water Closet together with human excrements" (AA lecture, 1999, 00:15:31) — in `1999-aa-lecture-springboard-in-the-pond.txt`
 - "now the road is free for a new generation of social swimmers goldfish koi yes even sharks begin to populate the Family Pool the circle is complete" (AA lecture, 1999, 00:34:37) — in `1999-aa-lecture-springboard-in-the-pond.txt`
 - "An abrupt contrast between formal interior and informal exterior, between civilization and nature, was essential; the more contrast, the more fun." (Hot on the Trail, Cabinet, Spring 2010) — in `2010-cabinet-hot-on-the-trail.txt`
 
 ## How they work
-One book per classical element: air (the skyscraper), water (the private pool), fire (the kitchen and its stove), earth (paving); he lays out the series at the start of the lecture (00:09:32). A building type is followed through the whole life of its material: sacred water, athletic water, flushed water. Evidence is cultural history: brochures, patents, newspapers, cookbooks, biographies; the Cabinet essay footnotes Soyer's own books and an 1850 patent. Field visits with a companion to find pools in Bel Air (00:22:49). Lectures run on slides, anecdotes and jokes. Recent books are made with an editor (Helen I. Jessup) and designers (Joseph Plateau) for a small Dutch press (Jap Sam page).
+One book per classical element: air (the skyscraper), water (the private pool), fire (*Columns of Fire*, announced in the lecture, not found in print), earth (paving); he lays out the series at the start of the lecture (00:09:32). A building type is followed through the whole life of its material: sacred water, athletic water, flushed water. Evidence is cultural history: brochures, patents, newspapers, cookbooks, biographies; the Cabinet essay footnotes Soyer's own books and an 1850 patent. Field visits with a companion to find pools in Bel Air (00:22:49). Lectures run on slides, anecdotes and jokes. Recent books are made with an editor (Helen I. Jessup) and designers (Joseph Plateau) for a small Dutch press (Jap Sam page).
 
 ## Hooks to the brief
 - **Sacred / profane:** his three periods of water, sacred, athletic, vulgar, is a ready template for charting one material at a site from the sacred to the profane (00:13:46–00:15:45).
-- **Ritual:** the private pool as a ritual object its owners first fill, then fence, then give up: "first they banned the springboard then they banned their children" (00:34:29).
+- **Ritual:** the private pool as a ritual object its owners dig, fill, equip, then abandon: "first they banned the springboard then they banned their children" (00:34:29).
 - **Time:** a type told as a life cycle, from pond to athletic tank to fishpond: "the circle is complete" (00:34:46). A timeline can be drawn for one object, not only one site.
 - **Non-human:** the pool ends up with goldfish, koi and sharks as its "social swimmers" (00:34:40).
 - **Place:** the picnic on the pyramid: the point of the setting is the contrast between the formal interior carried there and the raw exterior (Cabinet, 2010).
-- **Power:** one kitchen technology serves the Reform Club's tables and the famine soup kitchens; "No contrast could be more heartbreaking" (Cabinet, 2010).
+- **Power:** one kitchen technology serves the Reform Club's tables on Pall Mall and the Spitalfields soup kitchen; "No contrast could be more heartbreaking" (Cabinet, 2010).
 
 ## Contact route
 - No public route found (no personal site, no current university page). Likeliest: the publisher of his two recent books, Jap Sam Books, Netherlands (news@japsambooks.nl, from the launch page), or Leiden University's art history department.
