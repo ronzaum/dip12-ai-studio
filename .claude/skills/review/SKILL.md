@@ -1,49 +1,59 @@
 ---
 name: review
-description: Review any piece of work (a plan, a page, a text, a source list, an artifact) by retracing every part of it, then judging. Use before showing work to a tutor or moving on.
+description: Comprehensive review of any non-code object — maps its layers, gateways, actors and flows, retraces every element, then judges from the retrace not the surface
 ---
-You are running Review: a thorough review of a non-code object. Be thorough but concise.
+You are running Review No Code — a comprehensive review of a non-code object (plan, document, thread, dataset, system). Be thorough but concise.
 
-Each element you visit returns one of: confirmed / changed / contradicts. Log gaps; don't force them closed.
+Each element visited returns one of: confirmed / changed / contradicts. Observer effects (what the review itself changed) are noted. Gaps are logged, not forced closed.
+
+---
 
 ## Walk (outside in)
 
-### Map: build the picture before judging
-- **Scope.** What is this object for, who is it for, what does it depend on? Check against `project/brief.md`.
-- **Layers.** Every level of the object (argument, sections, images, sources), each with its own rules.
-- **Links.** Every move from one part to the next has a reason. Nothing jumps.
-- **Authorship.** For each part: did the AI compile it or did the student decide it? Check `DECISIONS.md`.
+### Map — build the graph before judging anything
+**Environment** — Scope explicit, dependencies named, assumptions stated
+**Layers** — Every level of the object identified, each with its own rules stated
+**Gateways** — Every transition between layers has a precondition and an effect, nothing crosses silently
+**Actors** — Every role's knowledge, control, and enforcement explicit, none unaccounted for
+**Architecture** — Logical hierarchy, sensible order, nothing at the wrong level
 
-### Retrace: visit every element with what the map showed
-- **Parts.** Each part correct and complete, no contradictions, no duplication.
-- **Sources.** Every reference exists and says what is claimed. Mark anything unverifiable.
-- **Language.** One voice throughout. No generic filler, no AI phrasing ("delve", "tapestry", "seamlessly").
-- **Taste.** Visuals follow `TASTE.md`. Nothing decorative. Nothing generic.
-- **Economy.** No padding. Effort matches value.
+### Retrace — visit every element and connection with what the map revealed
+**Components** — Each part correct and complete, no contradictions, no duplication
+**Language** — One consistent idiom throughout, nothing foreign to the object's own conventions
+**Flows** — Every dependency checked in both directions, every gap logged
+**Resilience** — Limits handled, failure paths stated, recovery defined
+**Efficiency** — No redundancy or bloat, effort proportional to value
+**Hygiene** — No leftovers, nothing stale, nothing unconnected or isolated, nothing half-removed
 
-### Verdict: judge from the retrace, not the surface
-- **Integrity.** Claims backed by evidence.
-- **Self-account.** What the object says it is matches what it is.
-- **Judgement.** Where is the student's own decision visible? Where is it missing?
+### Verdict — judge from the retrace, not the surface
+**Integrity** — Everything connected and maintained, claims backed by evidence, sensitive information protected
+**Self-account** — The object's own description of itself matches what the retrace found
+**Anomalies** — Every breaker named, with whether the system accounts for it
 
-## Output
+---
+
+## Output Format
+
 ```markdown
-### ✅ Holds up
-- ...
+### ✅ Looks Good
+- [Item 1]
+- [Item 2]
 
-### ⚠️ Issues
-- **[Severity]** [Where]: [Issue]
-  - Fix: [Suggestion]
-
-### 🧭 Your call
-- Decisions only the student can make
+### ⚠️ Issues Found
+- **[Severity]** [Location] — [Issue description]
+  - Fix: [Suggested fix]
 
 ### 📊 Summary
-- Items reviewed: X · Critical: X · Warnings: X
+- Items reviewed: X
+- Critical issues: X
+- Warnings: X
 ```
 
-## Severity
-- **CRITICAL**: wrong, invented, or undermines the project
-- **HIGH**: gap that changes the outcome
-- **MEDIUM**: quality, clarity
-- **LOW**: style
+---
+
+## Severity Levels
+
+- **CRITICAL** — Wrong, harmful, or blocks the goal
+- **HIGH** — Gap or error that changes outcomes
+- **MEDIUM** — Quality, maintainability
+- **LOW** — Style, minor improvements

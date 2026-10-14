@@ -1,6 +1,6 @@
 # DECISIONS.md
 
-Your evidence of judgement. Claude adds an entry when a decision happens (the three triggers are in `CLAUDE.md`, rule 2) and asks you why. One entry per working session. You can add one any time with `/decide`.
+Your evidence of judgement. When you keep, change or reject something Claude made, Claude adds an entry and asks you why (`CLAUDE.md`, rule 2).
 
 Over the year this becomes the record of what was yours.
 

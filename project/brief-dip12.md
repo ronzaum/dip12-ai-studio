@@ -111,18 +111,8 @@ You make one book all year. It is the evidence for your project. It has four par
 
 **Format.** In Term 1 it is a file of printed evidence you bring to every tutorial. In weeks 8 and 9 it becomes an edited book. You refine it over the winter break, hand it in at Week 1 of Term 2, and keep adding to it for the rest of the year. Film and audio go in as stills and transcripts.
 
-**How this repo maps to it.**
-
-| Book section | In this repo |
-|---|---|
-| Context | `project/brief.md` (Context), `project/site/`, `project/research/` |
-| Conflict | `project/brief.md` (Conflict) |
-| Ritual | `project/brief.md` (Ritual), `project/ritual/` |
-| Expertise: design | `project/design/`, `expertise/design/` |
-| Expertise: knowledge | `expertise/texts/`, `expertise/institutions/`, `expertise/experts/` |
-| Expertise: practice | `expertise/practices/` |
-| The physical book | `project/book/` (weekly photos) |
+**Where each part lives in this repo:** the table "Where things go" in `CLAUDE.md`.
 
 ## ETS
 
-**Term 2, 5th years only.** The Design part of Expertise becomes your ETS document. Nothing to do for it yet; keep the design evidence in `project/design/` and `expertise/design/` well labelled so it can be lifted out later.
+**Term 2, 5th years only.** The Design part of Expertise becomes your ETS document. Nothing to do for it yet; keep the design evidence in `project/design/` well labelled so it can be lifted out later.

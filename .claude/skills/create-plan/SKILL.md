@@ -1,6 +1,6 @@
 ---
 name: create-plan
-description: Turn an /explore conversation into a step-by-step plan saved in plans/todo/. Makes nothing yet. Use after /explore.
+description: Turn an /explore conversation into a step-by-step plan saved in plans/. Makes nothing yet. Use after /explore.
 ---
 You are running Create Plan. Based on the conversation so far, write a markdown plan. It is still NOT time to make anything.
 
@@ -35,6 +35,6 @@ What we're making and why, in two lines.
 4. **Student decisions.** Mark which steps need the student to choose. Those are never done by you.
 
 ## Save
-- Scan `plans/todo/` and `plans/done/` for `PLAN-NNN-*.md`; use the next number, 3 digits.
-- Save as `plans/todo/PLAN-NNN-<slug>.md`.
+- Scan `plans/` for `PLAN-NNN-*.md`; use the next number, 3 digits.
+- Save as `plans/PLAN-NNN-<slug>.md`.
 - Then re-read the whole conversation once more and fix anything missed. Report "Nothing missed" or what you added.

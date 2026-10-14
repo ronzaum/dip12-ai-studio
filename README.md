@@ -63,10 +63,9 @@ Choose **3 texts, 3 institutions, 3 experts** that can guide your project. Then 
 |---|---|---|
 | 01 | `/explore` | Talk your project through. Claude only asks questions. Nothing is made yet. |
 | 02 | `/gather` | Claude tells you where to find each source and files it in `expertise/`. You check it exists. |
-| 03 | `/consult` | Ask a real project question. Claude answers through your 9 sources, quoting them. |
+| 03 | `/consult` | Ask a real project question. Claude answers through your sources and the unit's, quoting them, and saves the session. |
 | 04 | `/artifact` | Turn the result into a visual page in `outputs/`, styled by `TASTE.md`. |
-| 05 | `/decide` | Log what the AI gave you and what you chose. This is your evidence of judgement. |
-| 06 | `/commit` | Save. |
+| 05 | `/commit` | Save. |
 
 ---
 
@@ -82,7 +81,7 @@ Choose **3 texts, 3 institutions, 3 experts** that can guide your project. Then 
 
 **Many chats at once.** Open a second chat in the same folder and give it a different job: one gathers, one reviews. They share the repo, not the conversation.
 
-**Short replies.** Claude answers tersely here by default to save tokens (Caveman lite, see `SKILLS.md`). Say `normal mode` to switch it off.
+**Shorter replies.** Claude answers in normal sentences. To save tokens, type `/caveman lite` for terse replies; say `normal mode` to switch back.
 
 ---
 
@@ -98,12 +97,4 @@ Choose **3 texts, 3 institutions, 3 experts** that can guide your project. Then 
 
 ## FOLDERS
 
-| Folder | What goes in |
-|---|---|
-| `project/` | `brief-dip12.md` (the unit brief: Book of Rituals, read first), `brief.md` (your project), plus `design/`, `site/`, `research/`, `ritual/` (film stills, transcripts, time-based drawings), `book/` (weekly photos of your physical research book) |
-| `expertise/` | `INDEX.md` (your list), `texts/`, `institutions/`, `experts/` (your 3/3/3), `design/` (details, materials, craft), `practices/` (how others work), `unit/` (consultants the unit suggests, shared), `sources/` (raw material). `README.md` there says how to add one |
-| `sessions/` | Saved `/consult` sessions |
-| `outputs/` | Visual pages made with `/artifact` |
-| `plans/` | Plans made with `/create-plan` |
-| `DECISIONS.md` | AI output vs your call |
-| `TASTE.md` | How your outputs look. Change it. |
+Start with `project/brief-dip12.md` (the unit brief: Book of Rituals) and `project/brief.md` (your project). The full map of what goes where is the table "Where things go" in `CLAUDE.md`.

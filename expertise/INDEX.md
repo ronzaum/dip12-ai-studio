@@ -2,6 +2,11 @@
 
 Your expertise for the Book of Rituals (`project/brief-dip12.md`), in three parts: **knowledge** (3 texts, 3 institutions, 3 experts), **design** and **practice**. Start with a longlist, then cut. `/gather` and `/consult` read this file.
 
+**How this folder works.** Your cards sit here, one file each (`<slug>.md`), made from `_template.md`. `unit/` holds the unit consultants, shared by everyone. `sources/` holds the raw material behind every card.
+- **Add one:** `/gather <name>`. Claude makes the card, the sources folder and the row below, and marks what it could verify.
+- **Make a unit consultant yours:** `/gather promote <name>`.
+- **By hand:** copy `_template.md` to `<slug>.md`, add a row below, make `sources/<slug>/` with a `_source.md` listing what is in it and where it came from.
+
 Status: `longlist` → `shortlisted` → `verified` (you checked it exists and says what you think) → `contacted` / `ordered`
 
 ## Shortlist
@@ -10,13 +15,13 @@ Status: `longlist` → `shortlisted` → `verified` (you checked it exists and s
 
 | Type | Name | Why it matters to my project | Status | File |
 |---|---|---|---|---|
-| Text | | | | `texts/` |
+| Text | | | | `<slug>.md` |
 | Text | | | | |
 | Text | | | | |
-| Institution | | | | `institutions/` |
 | Institution | | | | |
 | Institution | | | | |
-| Expert | | | | `experts/` |
+| Institution | | | | |
+| Expert | | | | |
 | Expert | | | | |
 | Expert | | | | |
 
@@ -24,7 +29,7 @@ Status: `longlist` → `shortlisted` → `verified` (you checked it exists and s
 
 | Type | Name | What it resolves in my project | Status | File |
 |---|---|---|---|---|
-| Design | | | | `design/` |
+| Design | | | | `<slug>.md` |
 | Design | | | | |
 | Design | | | | |
 
@@ -32,7 +37,7 @@ Status: `longlist` → `shortlisted` → `verified` (you checked it exists and s
 
 | Type | Name | What I take from how they work | Status | File |
 |---|---|---|---|---|
-| Practice | | | | `practices/` |
+| Practice | | | | `<slug>.md` |
 | Practice | | | | |
 | Practice | | | | |
 
@@ -47,13 +52,12 @@ Status: `longlist` → `shortlisted` → `verified` (you checked it exists and s
 
 ## Unit consultants
 
-Suggested by the unit, shared by everyone. Cards in `unit/`; how they work and how to make one yours: `unit/README.md`. `/consult` reads them every run, labelled `(unit)`.
+Suggested by the unit, shared by everyone. Cards in `unit/`; how they work and how to make one yours: `unit/README.md`. `/consult` reads this table first and opens only the cards it picks, labelled `(unit)`.
 
 Status: `suggested by unit` → `verified` (every quote checked against its saved source) or `unverified`. Review pass run 2026-10-12 with `/review` on all 28 cards: quotes, works, links, language, structure; 27 verified, 1 unverified. A second-model pass (peer review) on 5 cards the same day found 1 reversed quote, 4 misattributions and several unsupported claims; all verified by hand and fixed, see each card's `_source.md`.
 
 | Name | Group | Status | File |
 |---|---|---|---|
-| The brief: Book of Rituals | Brief | suggested by unit | `unit/_brief.md` |
 | Federico Campagna | Reading list | verified | `unit/federico-campagna.md` |
 | Yi-Fu Tuan | Reading list | verified | `unit/yi-fu-tuan.md` |
 | Paul B. Preciado | Reading list | verified | `unit/paul-b-preciado.md` |

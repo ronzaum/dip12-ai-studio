@@ -11,22 +11,19 @@ A skill is a markdown file of instructions you run with `/name`. It makes a task
 | Skill | What it does | Origin |
 |---|---|---|
 | `/explore` | Asks questions until the task is clear. Makes nothing. | Ron's, adapted |
-| `/create-plan` | Turns the exploration into a step-by-step plan in `plans/todo/`. | Ron's, adapted |
-| `/execute` | Carries out a plan step by step and tracks progress. | Ron's, adapted |
-| `/review` | Retraces every part of a piece of work, then judges it. | Ron's (`review-no-code`), adapted |
+| `/create-plan` | Turns the exploration into a step-by-step plan in `plans/`. | Ron's, adapted |
+| `/review` | Maps every layer, gateway, actor and flow of a piece of work, retraces every element, then judges. | Ron's (`review-no-code`), in full |
 | `/explain` | Re-explains the last answer in plain English, decision first. | Ron's, adapted |
 | `/commit` | Saves everything to GitHub in one step. | Ron's, adapted |
-| `/consult` | Brainstorms a question through your own sources and the unit consultants, each voice labelled `(unit)` or `(yours)`. | Ron's, rebuilt for your library |
-| `/save` | Saves a consult session as a standalone file. | Ron's, adapted |
+| `/consult` | Brainstorms a question through your own sources and the unit consultants, each voice labelled `(unit)` or `(yours)`, and saves the session in `sessions/`. | Ron's, rebuilt for your library |
 | `/gather` | Finds, checks and files sources for your 3/3/3, design and practice. `/gather promote <name>` makes a unit consultant yours. | New for this course |
 | `/artifact` | Turns work into a one-page visual in `outputs/`, styled by `TASTE.md`. | New for this course |
-| `/decide` | Logs what AI gave vs what you chose, and why. | New for this course |
 | `/familiar` | Searches your Familiar screen history. | From Familiar (third party) |
 | `/superpower` | Three ways to make what you're building better without making it bigger. | Ron's (`superman`), adapted |
-| `/caveman` | Shorter replies, fewer tokens. On by default in lite. Say `normal mode` to switch off. | Third party (Julius Brussee, MIT) |
+| `/caveman` | Shorter replies, fewer tokens. Off by default: type `/caveman lite` to switch on, `normal mode` to switch off. | Third party (Julius Brussee, MIT) |
 
-**The loop:** `/explore` → `/gather` → `/consult` → `/artifact` → `/decide` → `/commit`
-**For bigger tasks:** `/explore` → `/create-plan` → `/execute` → `/review`
+**The loop:** `/explore` → `/gather` → `/consult` → `/artifact` → `/commit`
+**For bigger tasks:** `/explore` → `/create-plan` → work through the plan → `/review`
 
 ---
 
@@ -35,16 +32,14 @@ A skill is a markdown file of instructions you run with `/name`. It makes a task
 What a working set looks like after a year. Most are tied to Ron's company and clients, so they are not in this repo. They show the range: thinking, building, reviewing, communicating, automating.
 
 **Thinking and planning**
-- `explore`, `create-plan`, `execute`: the build loop above
+- `explore`, `create-plan`, `execute`: understand, plan, then build step by step
 - `consult`: brainstorm through 313 expert interview transcripts
 - `save`, `log-scenario`: keep sessions and past situations as reusable precedent
 - `superman`: three ideas to make something better without making it bigger
 - `explain`, `learning-opportunity`: switch the AI from doing to teaching
-- `adi`: read a conversation through one mentor's lens
 
 **Reviewing**
 - `review`, `review-no-code`, `peer-review`: judge work, then judge another model's judgement of it
-- `check-sweep`: review a full drawing set against a method, with no false positives
 
 **Meetings and records**
 - `call-analysis`: turn a call transcript, notes and screen captures into tasks and a timeline ([public](https://github.com/ronzaum/skills))
@@ -52,11 +47,11 @@ What a working set looks like after a year. Most are tied to Ron's company and c
 - `familiar`: search screen history
 
 **Making things**
-- `new-deck`, `new-report`, `new-asset`, `pre-sales-report`: start a deck, report or graphic from a house template
+- `new-deck`, `new-report`, `new-asset`: start a deck, report or graphic from a house template
 - `blog-post`: publish a post to a website
 
 **Running the work**
-- `daily-update`, `deployment-tasks`, `crm`, `client-mail`, `notify-ron`, `demo-prep`, `create-client-environment`: automations around clients and the team
+- Automations around the company and its team: daily updates, email alerts, deployment checks. Not named here.
 - `commit`, `document`, `create-issue`: keep code and records tidy
 
 **Personal**
